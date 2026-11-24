@@ -1,6 +1,6 @@
 # Daily Word
 
-A deliberately quiet vocabulary app for **macOS and iOS**, with home-screen and desktop **widgets**.
+A deliberately quiet, free-forever vocabulary app for **macOS and iOS**, with home-screen and desktop **widgets**.
 
 - **One new word or phrase every day.** It's picked from 700+ hand-curated entries for real conversation: emotions, describing people, how people come across, discussion and argument, precise everyday words, articulate phrases, and idioms with their true origin stories.
 - **A quiz on a past word, right in the widget.** Tap *Reveal*, then *Got it* or *Missed*. Spaced repetition decides when each word comes back: words you know well return rarely, and words you miss return tomorrow.
@@ -64,7 +64,7 @@ Never change an existing entry's `id`. Progress is keyed on it.
 
 ## App Store
 
-Listing text, screenshots (iPhone 6.9", iPad 13", Mac) and app previews live in [`AppStore/`](AppStore/).
+Listing text, screenshots (iPhone medium + large Dynamic Island, iPad 13", Mac) and app previews live in [`AppStore/`](AppStore/).
 They're rendered from the app's real SwiftUI views; regenerate with `scripts/render_store_assets.sh` (needs ffmpeg).
 Step-by-step publishing guide: [`AppStore/SUBMITTING.md`](AppStore/SUBMITTING.md).
 

@@ -173,6 +173,24 @@ struct Render {
             screenshot(view, size: macCanvas, scale: 2, to: "\(out)/Screenshots/mac/\(name).png")
         }
 
+        // MARK: Creative assets (product page header + search results), iOS 27+
+        // Specs: developer.apple.com/help/app-store-connect/reference/app-information/creative-assets-specifications/
+        print("Creative assets")
+        // Header: 21:9, 3840 × 1646 px; safe area 1646 × 661 at (1097, 493). Rendered at 2×.
+        let headerCanvas = CGSize(width: 1920, height: 823)
+        let headerSafe = CGRect(x: 548.5, y: 246.5, width: 823, height: 330.5)
+        // Search results: 3:2, up to 3840 × 2560 px; safe area 2168 × 1030 at (836, 765).
+        let searchCanvas = CGSize(width: 1920, height: 1280)
+        let searchSafe = CGRect(x: 418, y: 382.5, width: 1084, height: 515)
+        let debug = args.contains("--safe-area")
+        let side = w["sanguine"]!
+        let header = HeaderAsset(canvas: headerCanvas, safe: headerSafe, today: today, quiz: quiz, side: side, showSafeArea: debug)
+        let search = SearchAsset(canvas: searchCanvas, safe: searchSafe, today: today, quiz: quiz, side: side,
+                                 ghosts: [w["serendipity"]!, w["ephemeral"]!], showSafeArea: debug)
+        let suffix = debug ? "-safe-area" : ""
+        screenshot(header, size: headerCanvas, scale: 2, to: "\(out)/Creative/header-3840x1646\(suffix).png")
+        screenshot(search, size: searchCanvas, scale: 2, to: "\(out)/Creative/search-3840x2560\(suffix).png")
+
         guard !args.contains("--no-video") else { return }
 
         // MARK: App previews

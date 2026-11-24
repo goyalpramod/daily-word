@@ -13,6 +13,14 @@ swiftc -O -suppress-warnings -parse-as-library -o "$BIN" \
 
 "$BIN" Resources AppStore "$@"
 
+# Apple's REQUIRED iPhone size is the medium Dynamic Island display (1206 × 2622).
+# The 6.9" frames share its aspect ratio (within 0.07%), so resample them exactly.
+mkdir -p AppStore/Screenshots/iphone-6.3
+for f in AppStore/Screenshots/iphone-6.9/*.png; do
+  sips -s format png -z 2622 1206 "$f" --out "AppStore/Screenshots/iphone-6.3/$(basename "$f")" >/dev/null
+done
+echo "  AppStore/Screenshots/iphone-6.3/*.png  1206×2622"
+
 # App Store Connect expects an audio track in previews; add a silent one.
 if [[ " $* " != *" --no-video "* ]]; then
   for f in AppStore/Previews/*-raw.mp4; do

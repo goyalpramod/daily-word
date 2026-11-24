@@ -4,6 +4,37 @@ One App Store record covers iPhone, iPad and Mac (same bundle ID, so it's a "uni
 Everything to paste is in [`metadata.md`](metadata.md); images and videos are in `Screenshots/` and `Previews/`.
 Regenerate them any time with `scripts/render_store_assets.sh`.
 
+## Where everything goes
+
+All paths start at [appstoreconnect.apple.com](https://appstoreconnect.apple.com) → **Apps** → **Daily Word: Words & Origins** → **Distribution** tab.
+"Version page" means the left sidebar's **iOS App → 1.0 Prepare for Submission** (do it again for **macOS App → 1.0**).
+
+| What | Where in App Store Connect (click path) | Copy from |
+|---|---|---|
+| Name | Sidebar **General → App Information** → Localizable Information → *Name* | metadata.md → Name |
+| Subtitle | Sidebar **General → App Information** → Localizable Information → *Subtitle* | metadata.md → Subtitle |
+| Category | Sidebar **General → App Information** → *Category* (Primary / Secondary) | metadata.md → Category |
+| Content rights | Sidebar **General → App Information** → *Content Rights* → Edit | Step 4 below |
+| Age rating | Sidebar **General → App Information** → *Age Rating* → Edit | Answer None/No to all (4+) |
+| Header image | Version page → **Product Page Information** → **Header and Search Results** tab → **Header** → Upload | `Creative/header-3840x1646.png` |
+| Search results image | Version page → **Product Page Information** → **Header and Search Results** tab → **Search Results** → Upload | `Creative/search-3840x2560.png` |
+| Screenshots and previews | Version page → **Product Page Information** → **App Previews and Screenshots** tab → each device slot | `Screenshots/…`, `Previews/…` (table in step 4) |
+| Promotional text | Version page → scroll below the screenshots → *Promotional Text* | metadata.md → Promotional text |
+| Description | Version page → below the screenshots → *Description* | metadata.md → Description |
+| Keywords | Version page → below the screenshots → *Keywords* | metadata.md → Keywords |
+| Support URL | Version page → *Support URL* | metadata.md → Support URL |
+| Marketing URL | Version page → *Marketing URL* | metadata.md → Marketing URL |
+| Copyright | Version page → *Copyright* | `2026 Pramod Goyal` |
+| Build | Version page → **Build** section → **+** | The 1.0 (1) you uploaded |
+| App Review notes | Version page → bottom → **App Review Information** → *Notes* (untick *Sign-in required*) | metadata.md → Notes for App Review |
+| Privacy policy URL + data answer | Sidebar **App Store → Trust & Safety → App Privacy** | URL in metadata.md; answer "No, we do not collect data" |
+| Price and countries | Sidebar → **Pricing and Availability** (scroll down the sidebar) | Free; untick China mainland |
+| EU trader status | Top menu **Business** → Trader Status | "Not a trader" |
+| iCloud schema | [icloud.developer.apple.com](https://icloud.developer.apple.com) → CloudKit Database → container → **Deploy Schema Changes** | Step 1 below |
+
+Promotional text, description, keywords, URLs and copyright are per platform: paste them on **both** the iOS and macOS version pages.
+Name, subtitle, category, age rating, privacy and price are app-wide: set them once.
+
 ## 0. Before you start (once)
 
 - [ ] The repo is public and GitHub Pages is on (Settings → Pages → Branch `main`, folder `/docs`), so these URLs work:
@@ -42,25 +73,40 @@ Builds show up in App Store Connect under **TestFlight** after 10–30 minutes. 
 
 ## 4. Fill in the listing
 
-In the app's **iOS App → 1.0 Prepare for Submission** page:
+In the app's **iOS App → 1.0 Prepare for Submission** page, under **Product Page Information**:
 
-- **Previews and Screenshots**
-  - iPhone 6.9" Display: drag in `Screenshots/iphone-6.9/*.png` (01 → 05) and `Previews/iphone-6.9.mp4`.
-  - iPad 13" Display: `Screenshots/ipad-13/*.png` and `Previews/ipad-13.mp4`.
-- Promotional text, Description, Keywords, Support URL, Marketing URL, Copyright: from metadata.md.
+- **Header and Search Results** tab (optional, shown on iOS/iPadOS 27+):
+  - **Header** → **Upload** → `Creative/header-3840x1646.png` (21:9, 3840 × 1646).
+  - **Search Results** → **Upload** → `Creative/search-3840x2560.png` (3:2, 3840 × 2560).
+  - Click **Preview** to check light/dark mode and the crops on each device. The headline and the main widgets sit
+    inside Apple's safe areas, so they stay visible at every crop. Don't drop screenshots here; they're the wrong size.
+- **App Previews and Screenshots** tab (checked against Apple's spec, Nov 2026):
+
+  | Slot in App Store Connect | Required? | Files | Size |
+  |---|---|---|---|
+  | iPhone with Dynamic Island (medium display) | **Required** | `Screenshots/iphone-6.3/*.png` | 1206 × 2622 |
+  | iPhone with Dynamic Island (large display) | Optional | `Screenshots/iphone-6.9/*.png` | 1320 × 2868 |
+  | iPad 13" | **Required** (app runs on iPad) | `Screenshots/ipad-13/*.png` | 2064 × 2752 |
+  | iPhone app preview (video) | Optional | `Previews/iphone-6.9.mp4` | 886 × 1920, 25 s |
+  | iPad app preview (video) | Optional | `Previews/ipad-13.mp4` | 1200 × 1600, 25 s |
+  | iPhone Duo | Not required yet (from April 2027, iOS 27.1 SDK) | — | — |
+
+- Promotional text (170), Description (4000), Keywords (100 bytes, comma-separated), Support URL (required),
+  Marketing URL (optional), Copyright (required, e.g. `2026 Pramod Goyal`; Apple adds the ©): from metadata.md.
 - **Build**: click **+** and choose the build you uploaded.
-- **App Review Information**: untick "Sign-in required". Paste the review notes from metadata.md.
+- **App Review Information**: untick "Sign-in required". Contact phone must start with `+` and the country code.
+  Paste the review notes from metadata.md.
 - Version release: Automatically.
 
 Then **macOS App → 1.0 Prepare for Submission**:
-- Screenshots: `Screenshots/mac/*.png`. App preview: `Previews/mac.mp4`.
+- Screenshots (required, 16:10): `Screenshots/mac/*.png` at 2880 × 1800. App preview (optional): `Previews/mac.mp4` at 1920 × 1080.
 - Same text fields; pick the Mac build.
 
 App-level pages (left sidebar):
 - **App Information**: Category Education / Reference. Age rating → Edit → answer None everywhere (4+).
   Content rights: choose **Yes, it contains third-party content** and confirm you have the rights. The lookups and bonus word use Wiktionary and dictionaryapi.dev content under CC BY-SA, with attribution in the app.
 - **App Privacy**: Privacy Policy URL → `https://goyalpramod.github.io/daily-word/privacy`. Data collection → **No, we do not collect data from this app**. Publish.
-- **Pricing and Availability**: Price **Free (0)**, all countries.
+- **Pricing and Availability**: Price **Free (0)**. Availability: all countries except **China mainland** (it now needs an AI-content declaration and a security assessment).
 
 EU only: **Business → Trader status**: declare yourself a **non-trader** (you're not selling anything), otherwise the app won't be offered in the EU.
 

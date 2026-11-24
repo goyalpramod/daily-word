@@ -4,7 +4,7 @@ title: Daily Word
 
 # Daily Word
 
-One new word or phrase every day, with the story of where it came from. Review past words right from your home screen. Free, open source, and private.
+One new word or phrase every day, with the story of where it came from. Review past words right from your home screen. Free forever, open source, and private.
 
 ## Help
 
