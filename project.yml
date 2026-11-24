@@ -39,7 +39,8 @@ targets:
         CODE_SIGN_ENTITLEMENTS[sdk=macosx*]: Config/DailyWord-macOS.entitlements
         ENABLE_HARDENED_RUNTIME[sdk=macosx*]: YES
         TARGETED_DEVICE_FAMILY: "1,2"
-        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.education
+        SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO
+        SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
     info:
       path: App/Info.plist
       properties:
@@ -49,7 +50,15 @@ targets:
         DWAppGroup: group.$(DW_BUNDLE_PREFIX).dailyword
         DWCloudContainer: iCloud.$(DW_BUNDLE_PREFIX).dailyword
         ITSAppUsesNonExemptEncryption: false
+        LSApplicationCategoryType: public.app-category.education
         UILaunchScreen: {}
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
         UIBackgroundModes: [remote-notification]
         CFBundleURLTypes:
           - CFBundleURLName: $(PRODUCT_BUNDLE_IDENTIFIER)
