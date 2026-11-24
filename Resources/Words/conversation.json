@@ -1,0 +1,3733 @@
+[
+  {
+    "id": "nuance",
+    "term": "nuance",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "NOO-ahns",
+    "definition": "A subtle difference in meaning, tone, or feeling that is easy to miss.",
+    "example": "I agree in principle, but there’s a nuance here we shouldn’t lose: the policy hurts small teams more.",
+    "etymology": "From French nuance, ‘shade of colour’, from nuer ‘to shade’, from nue ‘cloud’ (ultimately Latin nubes, ‘cloud’). The image is of the subtle shifts of colour in clouds; English borrowed it in the 18th century for fine shades of meaning.",
+    "root": {
+      "form": "nubes",
+      "language": "Latin",
+      "meaning": "cloud"
+    },
+    "relatedWords": [
+      {
+        "term": "nuanced",
+        "meaning": "showing awareness of subtle differences"
+      },
+      {
+        "term": "nubilous",
+        "meaning": "cloudy; vague or obscure"
+      }
+    ],
+    "synonyms": [
+      "subtlety",
+      "shade",
+      "distinction",
+      "refinement"
+    ],
+    "note": "‘Nuanced’ is praise for thinking that avoids black-and-white conclusions; don’t use it just to mean ‘complicated’.",
+    "category": "conversation"
+  },
+  {
+    "id": "caveat",
+    "term": "caveat",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KAV-ee-at",
+    "definition": "A warning or condition attached to a statement, limiting how far it should be taken.",
+    "example": "Happy to share the numbers, with the caveat that they’re from a pretty small sample.",
+    "etymology": "Latin caveat means ‘let him beware’, a form of cavere ‘to be on guard’. It entered English through legal phrases like caveat emptor, ‘let the buyer beware’, and broadened to any cautionary qualification.",
+    "root": {
+      "form": "cavere",
+      "language": "Latin",
+      "meaning": "to be on guard, beware"
+    },
+    "relatedWords": [
+      {
+        "term": "caution",
+        "meaning": "care to avoid danger or mistakes"
+      },
+      {
+        "term": "precaution",
+        "meaning": "a measure taken in advance to prevent harm"
+      },
+      {
+        "term": "caveat emptor",
+        "meaning": "the principle that the buyer is responsible for checking quality"
+      }
+    ],
+    "synonyms": [
+      "qualification",
+      "proviso",
+      "warning",
+      "reservation"
+    ],
+    "note": "A caveat narrows a claim rather than contradicting it. Stacking too many caveats can make you sound unsure of your own point.",
+    "category": "conversation"
+  },
+  {
+    "id": "conflate",
+    "term": "conflate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "kun-FLAYT",
+    "definition": "To treat two distinct ideas or things as if they were the same.",
+    "example": "I think we’re conflating two problems: the app is slow, and the app is confusing. Those need different fixes.",
+    "etymology": "From Latin conflare, ‘to blow together, kindle, fuse’, from com- (together) + flare (to blow). It first described fusing metals or blending two texts into one; the sense of mistakenly merging ideas is more recent.",
+    "root": {
+      "form": "flare",
+      "language": "Latin",
+      "meaning": "to blow"
+    },
+    "relatedWords": [
+      {
+        "term": "inflate",
+        "meaning": "to fill with air; to exaggerate"
+      },
+      {
+        "term": "deflate",
+        "meaning": "to let the air out of"
+      },
+      {
+        "term": "flatulent",
+        "meaning": "suffering from gas; pompous"
+      },
+      {
+        "term": "conflation",
+        "meaning": "the merging of two distinct things into one"
+      }
+    ],
+    "synonyms": [
+      "confuse",
+      "lump together",
+      "merge",
+      "mix up"
+    ],
+    "note": "Stronger and more precise than ‘confuse’: it says specifically that two separate things have been merged into one.",
+    "category": "conversation"
+  },
+  {
+    "id": "juxtapose",
+    "term": "juxtapose",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "JUK-stuh-pohz",
+    "definition": "To place two things side by side, especially to highlight a contrast.",
+    "example": "If you juxtapose last year’s launch with this one, the difference in planning is obvious.",
+    "etymology": "A 19th-century back-formation from juxtaposition, which came from French, built on Latin juxta ‘beside, near’ + French poser ‘to place’. Literally ‘to place next to’.",
+    "root": {
+      "form": "juxta",
+      "language": "Latin",
+      "meaning": "beside, near"
+    },
+    "relatedWords": [
+      {
+        "term": "juxtaposition",
+        "meaning": "the act of placing things side by side"
+      },
+      {
+        "term": "pose",
+        "meaning": "to place or present"
+      },
+      {
+        "term": "expose",
+        "meaning": "to put out in the open"
+      }
+    ],
+    "synonyms": [
+      "contrast",
+      "compare",
+      "set side by side"
+    ],
+    "note": "Implies the contrast is meaningful or revealing, not just that two things happen to be near each other.",
+    "category": "conversation"
+  },
+  {
+    "id": "gist",
+    "term": "gist",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "JIST",
+    "definition": "The essential point or main idea of something said or written.",
+    "example": "I missed the first half of the call. Can you give me the gist?",
+    "etymology": "From Anglo-French legal language: cest action gist meant ‘this action lies’, i.e. the grounds on which a lawsuit rests. Gist is from Old French gesir ‘to lie’, from Latin jacere ‘to lie (down)’. The ‘ground’ of a case became the core of any matter.",
+    "root": {
+      "form": "jacere",
+      "language": "Latin",
+      "meaning": "to lie, rest"
+    },
+    "relatedWords": [
+      {
+        "term": "adjacent",
+        "meaning": "lying next to"
+      },
+      {
+        "term": "joist",
+        "meaning": "a supporting beam (from Old French giste, same source)"
+      }
+    ],
+    "synonyms": [
+      "essence",
+      "main point",
+      "crux",
+      "thrust"
+    ],
+    "note": "Pronounced with a soft ‘j’ sound, not a hard ‘g’.",
+    "category": "conversation"
+  },
+  {
+    "id": "tangential",
+    "term": "tangential",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "tan-JEN-shul",
+    "definition": "Only slightly connected to the main topic; going off on a side track.",
+    "example": "This is a bit tangential, but has anyone else noticed the login page got slower?",
+    "etymology": "From tangent, from Latin tangens ‘touching’, a form of tangere ‘to touch’. In geometry a tangent touches a curve at a single point and then heads off in its own direction, which is exactly the picture of a remark that only touches the topic.",
+    "root": {
+      "form": "tangere",
+      "language": "Latin",
+      "meaning": "to touch"
+    },
+    "relatedWords": [
+      {
+        "term": "tangent",
+        "meaning": "a line touching a curve at one point; a digression"
+      },
+      {
+        "term": "tangible",
+        "meaning": "able to be touched; real"
+      },
+      {
+        "term": "contact",
+        "meaning": "the state of touching"
+      },
+      {
+        "term": "intact",
+        "meaning": "untouched, whole"
+      }
+    ],
+    "synonyms": [
+      "peripheral",
+      "incidental",
+      "digressive",
+      "marginal"
+    ],
+    "note": "Flagging your own point as tangential is a polite way to raise it without derailing a discussion.",
+    "category": "conversation"
+  },
+  {
+    "id": "cogent",
+    "term": "cogent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KOH-junt",
+    "definition": "Clear, logical, and convincing.",
+    "example": "She made a really cogent case for delaying the launch; I came in disagreeing and left convinced.",
+    "etymology": "From Latin cogent-, a form of cogere ‘to drive together, compel’, from co- (together) + agere (to drive). A cogent argument is one that compels agreement.",
+    "root": {
+      "form": "agere",
+      "language": "Latin",
+      "meaning": "to drive, do"
+    },
+    "relatedWords": [
+      {
+        "term": "cogency",
+        "meaning": "the quality of being convincing"
+      },
+      {
+        "term": "coagulate",
+        "meaning": "to drive together into a clot"
+      },
+      {
+        "term": "agent",
+        "meaning": "one who acts"
+      }
+    ],
+    "synonyms": [
+      "convincing",
+      "compelling",
+      "persuasive",
+      "lucid"
+    ],
+    "note": "Describes arguments, reasoning and explanations, not people. You make a cogent point; you aren’t a cogent person.",
+    "category": "conversation"
+  },
+  {
+    "id": "specious",
+    "term": "specious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SPEE-shus",
+    "definition": "Seeming reasonable or true on the surface but actually wrong or misleading.",
+    "example": "That’s a specious comparison: one product is free, the other costs fifty bucks a month.",
+    "etymology": "From Latin speciosus ‘good-looking, showy’, from species ‘appearance’, from specere ‘to look’. In Middle English it meant ‘beautiful’; by the 17th century the stress had shifted to looks that deceive.",
+    "root": {
+      "form": "specere",
+      "language": "Latin",
+      "meaning": "to look at"
+    },
+    "relatedWords": [
+      {
+        "term": "species",
+        "meaning": "originally ‘appearance, kind’"
+      },
+      {
+        "term": "spectacle",
+        "meaning": "something striking to look at"
+      },
+      {
+        "term": "inspect",
+        "meaning": "to look at closely"
+      },
+      {
+        "term": "specimen",
+        "meaning": "an example to look at"
+      }
+    ],
+    "synonyms": [
+      "misleading",
+      "fallacious",
+      "plausible but wrong",
+      "hollow"
+    ],
+    "note": "Not just ‘wrong’: specious implies the argument looks convincing, which is what makes it dangerous. Don’t confuse with ‘spacious’.",
+    "category": "conversation"
+  },
+  {
+    "id": "concede",
+    "term": "concede",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "kun-SEED",
+    "definition": "To admit, often reluctantly, that something is true or that the other side has a point.",
+    "example": "I’ll concede that the new design looks better, but I still think it’s harder to use.",
+    "etymology": "From Latin concedere ‘to go away, yield, grant’, from con- (completely) + cedere (to go, yield). To concede is literally to step back and give ground.",
+    "root": {
+      "form": "cedere",
+      "language": "Latin",
+      "meaning": "to go, yield"
+    },
+    "relatedWords": [
+      {
+        "term": "concession",
+        "meaning": "something granted or yielded"
+      },
+      {
+        "term": "cede",
+        "meaning": "to give up territory or power"
+      },
+      {
+        "term": "recede",
+        "meaning": "to move back"
+      },
+      {
+        "term": "precede",
+        "meaning": "to go before"
+      }
+    ],
+    "synonyms": [
+      "admit",
+      "acknowledge",
+      "grant",
+      "yield"
+    ],
+    "note": "Conceding a point openly usually makes your remaining arguments more credible, not less.",
+    "category": "conversation"
+  },
+  {
+    "id": "corroborate",
+    "term": "corroborate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-ROB-uh-rayt",
+    "definition": "To confirm or support a claim with additional evidence.",
+    "example": "The support tickets corroborate what the survey told us: people can’t find the export button.",
+    "etymology": "From Latin corroborare ‘to strengthen’, from com- (intensive) + roborare ‘to make strong’, from robur ‘oak; strength’. Evidence that corroborates makes a claim ‘oak-strong’.",
+    "root": {
+      "form": "robur",
+      "language": "Latin",
+      "meaning": "oak, strength"
+    },
+    "relatedWords": [
+      {
+        "term": "robust",
+        "meaning": "strong and healthy; sturdy"
+      },
+      {
+        "term": "corroboration",
+        "meaning": "confirming evidence"
+      }
+    ],
+    "synonyms": [
+      "confirm",
+      "support",
+      "back up",
+      "verify"
+    ],
+    "note": "Corroborating evidence comes from an independent source; repeating the same claim louder doesn’t corroborate it.",
+    "category": "conversation"
+  },
+  {
+    "id": "extrapolate",
+    "term": "extrapolate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ik-STRAP-uh-layt",
+    "definition": "To estimate or conclude something beyond known facts by extending a trend or pattern.",
+    "example": "I wouldn’t extrapolate too much from one good week; it was a holiday.",
+    "etymology": "Coined in the 19th century, mainly in mathematics, from extra- ‘outside’ on the model of interpolate (Latin interpolare ‘to refurbish, alter’). To interpolate is to estimate between known points; to extrapolate is to estimate beyond them.",
+    "root": {
+      "form": "extra",
+      "language": "Latin",
+      "meaning": "outside, beyond"
+    },
+    "relatedWords": [
+      {
+        "term": "interpolate",
+        "meaning": "to estimate values between known points; to insert"
+      },
+      {
+        "term": "extrapolation",
+        "meaning": "an estimate made by extending a trend"
+      }
+    ],
+    "synonyms": [
+      "project",
+      "infer",
+      "extend",
+      "generalize"
+    ],
+    "note": "Often used as a warning: extrapolating from small or unusual data is a classic reasoning error.",
+    "category": "conversation"
+  },
+  {
+    "id": "mitigate",
+    "term": "mitigate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "MIT-ih-gayt",
+    "definition": "To make something bad less severe, serious, or painful.",
+    "example": "We can’t stop the outage entirely, but caching should mitigate the worst of it.",
+    "etymology": "From Latin mitigare ‘to soften, make mild’, from mitis ‘soft, gentle’ + agere ‘to do, make’.",
+    "root": {
+      "form": "mitis",
+      "language": "Latin",
+      "meaning": "soft, mild"
+    },
+    "relatedWords": [
+      {
+        "term": "mitigation",
+        "meaning": "the act of reducing severity"
+      },
+      {
+        "term": "unmitigated",
+        "meaning": "absolute, total (of something bad): ‘an unmitigated disaster’"
+      }
+    ],
+    "synonyms": [
+      "lessen",
+      "reduce",
+      "alleviate",
+      "soften"
+    ],
+    "note": "Don’t confuse with ‘militate’ (to have force against): ‘the evidence militates against that theory’, not ‘mitigates against’.",
+    "category": "conversation"
+  },
+  {
+    "id": "ameliorate",
+    "term": "ameliorate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-MEEL-yuh-rayt",
+    "definition": "To make something bad or unsatisfactory better.",
+    "example": "A quick apology did a lot to ameliorate the tension in the room.",
+    "etymology": "From Latin ad- (towards) + melior (better), via French améliorer. The English verb appeared in the 18th century, replacing the older ‘meliorate’.",
+    "root": {
+      "form": "melior",
+      "language": "Latin",
+      "meaning": "better"
+    },
+    "relatedWords": [
+      {
+        "term": "meliorism",
+        "meaning": "the belief that the world can be made better by human effort"
+      },
+      {
+        "term": "meliorate",
+        "meaning": "an older synonym of ameliorate"
+      }
+    ],
+    "synonyms": [
+      "improve",
+      "ease",
+      "alleviate"
+    ],
+    "note": "Used for situations and conditions, not people: you ameliorate a problem, not a person.",
+    "category": "conversation"
+  },
+  {
+    "id": "exacerbate",
+    "term": "exacerbate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ig-ZAS-er-bayt",
+    "definition": "To make a problem, bad situation, or negative feeling worse.",
+    "example": "Adding more people to a late project usually exacerbates the delay.",
+    "etymology": "From Latin exacerbare ‘to irritate, provoke’, from ex- (thoroughly) + acerbus ‘harsh, bitter’, related to acer ‘sharp’. Literally ‘to make even more bitter’.",
+    "root": {
+      "form": "acerbus",
+      "language": "Latin",
+      "meaning": "harsh, bitter"
+    },
+    "relatedWords": [
+      {
+        "term": "acerbic",
+        "meaning": "sharp and biting in tone"
+      },
+      {
+        "term": "acrimony",
+        "meaning": "bitterness of feeling"
+      },
+      {
+        "term": "acrid",
+        "meaning": "sharp or bitter in smell or taste"
+      }
+    ],
+    "synonyms": [
+      "worsen",
+      "aggravate",
+      "intensify",
+      "compound"
+    ],
+    "note": "Something that is already bad gets exacerbated; don’t use it for making a good thing bigger. Don’t confuse with ‘exasperate’ (to annoy someone).",
+    "category": "conversation"
+  },
+  {
+    "id": "salient",
+    "term": "salient",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SAY-lee-unt",
+    "definition": "Most noticeable or important; standing out from the rest.",
+    "example": "I’ll skip the history and just cover the salient points: cost, timeline, and risk.",
+    "etymology": "From Latin salient-, a form of salire ‘to leap’. In English it first meant ‘leaping’, then (in heraldry and fortification) ‘jutting out’, as in a salient angle. Something that juts out catches the eye, hence ‘prominent’.",
+    "root": {
+      "form": "salire",
+      "language": "Latin",
+      "meaning": "to leap"
+    },
+    "relatedWords": [
+      {
+        "term": "resilient",
+        "meaning": "springing back"
+      },
+      {
+        "term": "assail",
+        "meaning": "to leap upon, attack"
+      },
+      {
+        "term": "sally",
+        "meaning": "a sudden rush forward; a witty remark"
+      },
+      {
+        "term": "desultory",
+        "meaning": "jumping from one thing to another; aimless"
+      }
+    ],
+    "synonyms": [
+      "key",
+      "prominent",
+      "notable",
+      "striking"
+    ],
+    "note": "Most often paired with ‘points’, ‘facts’ or ‘features’. It means important because it stands out, not merely relevant.",
+    "category": "conversation"
+  },
+  {
+    "id": "pertinent",
+    "term": "pertinent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PUR-tn-unt",
+    "definition": "Directly relevant to the matter being discussed.",
+    "example": "That’s a pertinent question, actually; we haven’t checked whether the contract allows it.",
+    "etymology": "From Latin pertinere ‘to extend, relate to’, from per- (through) + tenere (to hold). What is pertinent ‘holds through’ to the subject.",
+    "root": {
+      "form": "tenere",
+      "language": "Latin",
+      "meaning": "to hold"
+    },
+    "relatedWords": [
+      {
+        "term": "pertain",
+        "meaning": "to relate or belong to"
+      },
+      {
+        "term": "impertinent",
+        "meaning": "originally ‘irrelevant’; now ‘rude, presumptuous’"
+      },
+      {
+        "term": "tenacious",
+        "meaning": "holding firmly"
+      },
+      {
+        "term": "retain",
+        "meaning": "to hold back, keep"
+      }
+    ],
+    "synonyms": [
+      "relevant",
+      "germane",
+      "applicable",
+      "apposite"
+    ],
+    "note": "Its opposite, ‘impertinent’, has drifted from ‘not relevant’ to ‘cheeky’, so use ‘irrelevant’ if that’s what you mean.",
+    "category": "conversation"
+  },
+  {
+    "id": "moot",
+    "term": "moot",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MOOT",
+    "definition": "Open to debate; or (especially in US usage) no longer relevant because the situation has changed.",
+    "example": "Whether we should’ve hired a contractor is moot now; the work’s already done.",
+    "etymology": "From Old English mot or gemot, ‘meeting, assembly’, where disputes were argued. A ‘moot point’ was originally one worth debating at such a meeting; law students still argue hypothetical cases in ‘moot court’. Because those cases are hypothetical, ‘moot’ drifted to mean ‘of no practical significance’.",
+    "root": {
+      "form": "mot",
+      "language": "Old English",
+      "meaning": "meeting, assembly"
+    },
+    "relatedWords": [
+      {
+        "term": "meet",
+        "meaning": "to come together (from the same Old English root)"
+      },
+      {
+        "term": "moot court",
+        "meaning": "a mock court where law students argue hypothetical cases"
+      }
+    ],
+    "synonyms": [
+      "debatable",
+      "academic",
+      "irrelevant",
+      "open"
+    ],
+    "note": "It’s ‘moot point’, not ‘mute point’. Note the two senses: in British English ‘moot’ often still means ‘debatable’; in American English it usually means ‘irrelevant’.",
+    "category": "conversation"
+  },
+  {
+    "id": "ostensibly",
+    "term": "ostensibly",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "ah-STEN-suh-blee",
+    "definition": "Apparently or supposedly, though perhaps not actually.",
+    "example": "The meeting was ostensibly about budgets, but really it was about who’s leading the project.",
+    "etymology": "From ostensible, via French from Medieval Latin ostensibilis, from Latin ostendere ‘to show, display’ (obs- ‘in front of’ + tendere ‘to stretch’). What is ostensible is what is shown, as opposed to what is real.",
+    "root": {
+      "form": "ostendere",
+      "language": "Latin",
+      "meaning": "to show"
+    },
+    "relatedWords": [
+      {
+        "term": "ostensible",
+        "meaning": "stated or appearing to be true, but not necessarily so"
+      },
+      {
+        "term": "ostentatious",
+        "meaning": "showy, designed to impress"
+      }
+    ],
+    "synonyms": [
+      "apparently",
+      "supposedly",
+      "seemingly",
+      "nominally"
+    ],
+    "note": "Signals a gap between the stated reason and the real one. Saying ‘ostensibly’ hints you suspect a different motive.",
+    "category": "conversation"
+  },
+  {
+    "id": "inherently",
+    "term": "inherently",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "in-HEER-unt-lee",
+    "definition": "As a permanent, essential part of something’s nature.",
+    "example": "Remote work isn’t inherently less productive; it depends a lot on how the team runs it.",
+    "etymology": "From inherent, from Latin inhaerere ‘to stick in, cling to’, from in- (in) + haerere (to stick). An inherent quality is stuck fast inside a thing.",
+    "root": {
+      "form": "haerere",
+      "language": "Latin",
+      "meaning": "to stick, cling"
+    },
+    "relatedWords": [
+      {
+        "term": "adhere",
+        "meaning": "to stick to"
+      },
+      {
+        "term": "cohere",
+        "meaning": "to stick together; to be logically consistent"
+      },
+      {
+        "term": "hesitate",
+        "meaning": "originally ‘to stick fast’, hence ‘to hold back’"
+      }
+    ],
+    "synonyms": [
+      "intrinsically",
+      "fundamentally",
+      "by nature",
+      "innately"
+    ],
+    "note": "Useful for separating a thing from how it’s used: ‘the tool isn’t inherently bad’. Overused as filler, it loses force.",
+    "category": "conversation"
+  },
+  {
+    "id": "arguably",
+    "term": "arguably",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "AR-gyoo-uh-blee",
+    "definition": "As can be reasonably argued; used to put forward a claim while admitting it could be disputed.",
+    "example": "She’s arguably the best engineer we’ve ever hired, and I’d say that to anyone.",
+    "etymology": "From argue, via Old French arguer from Latin arguere ‘to make clear, prove, accuse’. Arguable meant ‘able to be argued’ and arguably, recorded from the late 19th century, means ‘as could be argued’.",
+    "root": {
+      "form": "arguere",
+      "language": "Latin",
+      "meaning": "to make clear, prove"
+    },
+    "relatedWords": [
+      {
+        "term": "argument",
+        "meaning": "a reason or set of reasons offered for a view"
+      },
+      {
+        "term": "argumentative",
+        "meaning": "inclined to argue"
+      }
+    ],
+    "synonyms": [
+      "possibly",
+      "conceivably",
+      "plausibly"
+    ],
+    "note": "It leans towards agreeing with the claim: ‘arguably the best’ means you think a good case can be made that it is the best, not that it’s doubtful.",
+    "category": "conversation"
+  },
+  {
+    "id": "paradigm",
+    "term": "paradigm",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "PAIR-uh-dime",
+    "definition": "A model or framework of assumptions that shapes how people think about something.",
+    "example": "Streaming didn’t just compete with DVDs; it changed the whole paradigm of how we watch TV.",
+    "etymology": "From Greek paradeigma ‘pattern, example’, from para- (beside) + deiknynai (to show): something shown alongside as a model. Long used in grammar for a model table of word forms, it gained its modern sense from Thomas Kuhn’s 1962 book on ‘paradigm shifts’ in science.",
+    "root": {
+      "form": "deiknynai",
+      "language": "Greek",
+      "meaning": "to show"
+    },
+    "relatedWords": [
+      {
+        "term": "paradigmatic",
+        "meaning": "serving as a typical example or model"
+      },
+      {
+        "term": "paradigm shift",
+        "meaning": "a fundamental change in underlying assumptions"
+      }
+    ],
+    "synonyms": [
+      "model",
+      "framework",
+      "worldview",
+      "pattern"
+    ],
+    "note": "Corporate overuse (‘a new paradigm!’) has made it a cliché. Save it for genuine shifts in underlying assumptions. The ‘g’ is silent.",
+    "category": "conversation"
+  },
+  {
+    "id": "premise",
+    "term": "premise",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "PREM-is",
+    "definition": "A statement or assumption that an argument or conclusion is based on.",
+    "example": "Your conclusion makes sense, but I’m not sure I buy the premise that users actually want more features.",
+    "etymology": "From Medieval Latin praemissa (propositio), ‘(proposition) put before’, from praemittere ‘to send ahead’, from prae- (before) + mittere (to send). In logic the premises come before the conclusion. The plural ‘premises’ meaning a building comes from legal deeds, where the property was ‘the aforementioned’ item.",
+    "root": {
+      "form": "mittere",
+      "language": "Latin",
+      "meaning": "to send, put"
+    },
+    "relatedWords": [
+      {
+        "term": "premises",
+        "meaning": "a building and its land"
+      },
+      {
+        "term": "mission",
+        "meaning": "a sending; a task"
+      },
+      {
+        "term": "transmit",
+        "meaning": "to send across"
+      },
+      {
+        "term": "emit",
+        "meaning": "to send out"
+      }
+    ],
+    "synonyms": [
+      "assumption",
+      "basis",
+      "presupposition",
+      "starting point"
+    ],
+    "note": "Challenging the premise is often more effective than arguing against the conclusion: if the foundation is wrong, everything built on it falls.",
+    "category": "conversation"
+  },
+  {
+    "id": "rebut",
+    "term": "rebut",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-BUT",
+    "definition": "To argue against a claim or criticism by offering counter-evidence or reasoning.",
+    "example": "You’ll get two minutes to rebut whatever they say, so take notes.",
+    "etymology": "From Old French reboter ‘to push back’, from re- (back) + boter ‘to push, butt’. To rebut is literally to shove an argument back at its source.",
+    "root": {
+      "form": "boter",
+      "language": "Old French",
+      "meaning": "to push, strike"
+    },
+    "relatedWords": [
+      {
+        "term": "rebuttal",
+        "meaning": "a counter-argument"
+      },
+      {
+        "term": "butt",
+        "meaning": "to push with the head"
+      },
+      {
+        "term": "buttress",
+        "meaning": "a structure that pushes against a wall to support it"
+      }
+    ],
+    "synonyms": [
+      "counter",
+      "contest",
+      "answer",
+      "challenge"
+    ],
+    "note": "Rebut means to argue against; refute means to prove wrong. You can rebut a claim without successfully refuting it.",
+    "category": "conversation"
+  },
+  {
+    "id": "refute",
+    "term": "refute",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-FYOOT",
+    "definition": "To prove that a statement, claim, or theory is wrong.",
+    "example": "The logs completely refute the idea that the server was down all night; it was up the whole time.",
+    "etymology": "From Latin refutare ‘to drive back, check, disprove’. The second element (-futare, also in confute) is of uncertain origin.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "refutation",
+        "meaning": "proof that something is false"
+      },
+      {
+        "term": "confute",
+        "meaning": "to prove a person or argument wrong"
+      },
+      {
+        "term": "irrefutable",
+        "meaning": "impossible to disprove"
+      }
+    ],
+    "synonyms": [
+      "disprove",
+      "debunk",
+      "discredit",
+      "invalidate"
+    ],
+    "note": "Commonly misused to mean merely ‘deny’. ‘He refuted the allegations’ claims he proved them false; if he only said they were untrue, use ‘denied’ or ‘rejected’.",
+    "category": "conversation"
+  },
+  {
+    "id": "reiterate",
+    "term": "reiterate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ree-IT-uh-rayt",
+    "definition": "To say something again, usually for emphasis or clarity.",
+    "example": "Just to reiterate: nobody’s getting in trouble for this; we just want to know what happened.",
+    "etymology": "From Latin reiterare ‘to repeat’, from re- (again) + iterare ‘to do again’, from iterum ‘again’. Strictly a doubling of ‘again’, which is why it carries emphasis.",
+    "root": {
+      "form": "iterum",
+      "language": "Latin",
+      "meaning": "again"
+    },
+    "relatedWords": [
+      {
+        "term": "iterate",
+        "meaning": "to repeat a process"
+      },
+      {
+        "term": "iteration",
+        "meaning": "a version or repetition"
+      },
+      {
+        "term": "iterative",
+        "meaning": "proceeding by repeated cycles"
+      }
+    ],
+    "synonyms": [
+      "repeat",
+      "restate",
+      "emphasize",
+      "stress"
+    ],
+    "note": "‘Reiterate again’ is redundant. Use reiterate when restating for emphasis, not for every repetition.",
+    "category": "conversation"
+  },
+  {
+    "id": "elucidate",
+    "term": "elucidate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-LOO-sih-dayt",
+    "definition": "To make something clear by explaining it in more detail.",
+    "example": "Could you elucidate what you mean by ‘restructuring’? People are going to be worried.",
+    "etymology": "From Late Latin elucidare ‘to make light’, from e- (out, thoroughly) + lucidus ‘bright, clear’, from lux ‘light’. To elucidate is to shine light on something.",
+    "root": {
+      "form": "lux",
+      "language": "Latin",
+      "meaning": "light"
+    },
+    "relatedWords": [
+      {
+        "term": "lucid",
+        "meaning": "clear and easy to understand"
+      },
+      {
+        "term": "translucent",
+        "meaning": "letting light through"
+      },
+      {
+        "term": "lucidity",
+        "meaning": "clarity of thought or expression"
+      }
+    ],
+    "synonyms": [
+      "clarify",
+      "explain",
+      "illuminate",
+      "spell out"
+    ],
+    "note": "A touch formal; in casual conversation ‘clarify’ or ‘unpack’ may sound less stiff.",
+    "category": "conversation"
+  },
+  {
+    "id": "articulate",
+    "term": "articulate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ar-TIK-yuh-layt",
+    "definition": "To express an idea or feeling clearly and precisely in words.",
+    "example": "I felt something was off with the plan, but it took me a day to articulate what it was.",
+    "etymology": "From Latin articulare ‘to divide into joints; to utter distinctly’, from articulus ‘small joint’, a diminutive of artus ‘joint’. Clear speech was pictured as words separated cleanly at their joints.",
+    "root": {
+      "form": "artus",
+      "language": "Latin",
+      "meaning": "joint"
+    },
+    "relatedWords": [
+      {
+        "term": "article",
+        "meaning": "originally a separate part or clause"
+      },
+      {
+        "term": "articulation",
+        "meaning": "clear expression; also a joint between bones"
+      },
+      {
+        "term": "inarticulate",
+        "meaning": "unable to express ideas clearly"
+      }
+    ],
+    "synonyms": [
+      "express",
+      "voice",
+      "put into words",
+      "formulate"
+    ],
+    "note": "As an adjective (pronounced ar-TIK-yuh-lit) it means ‘able to speak clearly’. Be careful praising someone as ‘so articulate’: it can sound patronizing, as if you didn’t expect it.",
+    "category": "conversation"
+  },
+  {
+    "id": "substantiate",
+    "term": "substantiate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "sub-STAN-shee-ayt",
+    "definition": "To provide evidence that proves or supports a claim.",
+    "example": "That’s a serious accusation. Can you substantiate it, or is it just a feeling?",
+    "etymology": "From Medieval Latin substantiare ‘to give substance to’, from Latin substantia ‘substance, essence’, from substare ‘to stand under’ (sub- + stare). To substantiate a claim is to put something solid underneath it.",
+    "root": {
+      "form": "stare",
+      "language": "Latin",
+      "meaning": "to stand"
+    },
+    "relatedWords": [
+      {
+        "term": "substance",
+        "meaning": "the real, physical matter of something"
+      },
+      {
+        "term": "substantive",
+        "meaning": "having real importance or basis"
+      },
+      {
+        "term": "unsubstantiated",
+        "meaning": "not supported by evidence"
+      },
+      {
+        "term": "circumstance",
+        "meaning": "a condition ‘standing around’ an event"
+      }
+    ],
+    "synonyms": [
+      "prove",
+      "support",
+      "back up",
+      "verify"
+    ],
+    "note": "‘Unsubstantiated’ is the handy opposite for claims made without evidence.",
+    "category": "conversation"
+  },
+  {
+    "id": "tenuous",
+    "term": "tenuous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TEN-yoo-us",
+    "definition": "Very weak, slight, or thin; barely holding together.",
+    "example": "The link between the ad campaign and the sales bump feels pretty tenuous to me.",
+    "etymology": "From Latin tenuis ‘thin, slender, fine’. Originally used of physically thin things, it was extended to weak arguments, connections and hopes.",
+    "root": {
+      "form": "tenuis",
+      "language": "Latin",
+      "meaning": "thin"
+    },
+    "relatedWords": [
+      {
+        "term": "attenuate",
+        "meaning": "to make thin or weaker"
+      },
+      {
+        "term": "extenuate",
+        "meaning": "to lessen the seriousness of, as in ‘extenuating circumstances’"
+      }
+    ],
+    "synonyms": [
+      "weak",
+      "flimsy",
+      "shaky",
+      "slight"
+    ],
+    "note": "Most often used of connections, arguments, or a ‘tenuous grip’ on something.",
+    "category": "conversation"
+  },
+  {
+    "id": "compelling",
+    "term": "compelling",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kum-PEL-ing",
+    "definition": "So convincing or interesting that it demands attention or agreement.",
+    "example": "Honestly, the data makes a compelling case for dropping the free tier.",
+    "etymology": "From compel, from Latin compellere ‘to drive together, force’, from com- (together) + pellere (to drive, push). A compelling argument forces you towards a conclusion.",
+    "root": {
+      "form": "pellere",
+      "language": "Latin",
+      "meaning": "to drive, push"
+    },
+    "relatedWords": [
+      {
+        "term": "propel",
+        "meaning": "to drive forward"
+      },
+      {
+        "term": "expel",
+        "meaning": "to drive out"
+      },
+      {
+        "term": "repel",
+        "meaning": "to drive back"
+      },
+      {
+        "term": "impulse",
+        "meaning": "a sudden driving force"
+      }
+    ],
+    "synonyms": [
+      "convincing",
+      "persuasive",
+      "cogent",
+      "powerful"
+    ],
+    "note": "‘Compelling evidence’ is strong; ‘compelling story’ means gripping. Context decides which sense you mean.",
+    "category": "conversation"
+  },
+  {
+    "id": "plausible",
+    "term": "plausible",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PLAW-zuh-bul",
+    "definition": "Seeming reasonable or probably true, though not proven.",
+    "example": "It’s a plausible explanation, but let’s check the logs before we call it solved.",
+    "etymology": "From Latin plausibilis ‘deserving applause’, from plaudere ‘to clap’. It first meant ‘praiseworthy’, then ‘pleasing, acceptable’, and finally ‘seemingly reasonable’.",
+    "root": {
+      "form": "plaudere",
+      "language": "Latin",
+      "meaning": "to clap"
+    },
+    "relatedWords": [
+      {
+        "term": "applaud",
+        "meaning": "to clap in approval"
+      },
+      {
+        "term": "plaudit",
+        "meaning": "an expression of praise"
+      },
+      {
+        "term": "explode",
+        "meaning": "originally ‘to drive off the stage by clapping’"
+      }
+    ],
+    "synonyms": [
+      "credible",
+      "believable",
+      "reasonable",
+      "likely"
+    ],
+    "note": "Plausible means it could be true, not that it is. Sometimes hints at suspicion: ‘a plausible liar’.",
+    "category": "conversation"
+  },
+  {
+    "id": "fallacy",
+    "term": "fallacy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "FAL-uh-see",
+    "definition": "A mistaken belief, or a flaw in reasoning that makes an argument invalid.",
+    "example": "Saying it’s safe because nothing’s gone wrong yet is a bit of a fallacy.",
+    "etymology": "From Latin fallacia ‘deceit, trick’, from fallax ‘deceptive’, from fallere ‘to deceive’. Originally ‘deception’; in logic it came to mean an argument that deceives by looking valid.",
+    "root": {
+      "form": "fallere",
+      "language": "Latin",
+      "meaning": "to deceive"
+    },
+    "relatedWords": [
+      {
+        "term": "fallible",
+        "meaning": "capable of making mistakes"
+      },
+      {
+        "term": "false",
+        "meaning": "not true"
+      },
+      {
+        "term": "fallacious",
+        "meaning": "based on a mistaken belief or bad reasoning"
+      }
+    ],
+    "synonyms": [
+      "misconception",
+      "error",
+      "flaw",
+      "myth"
+    ],
+    "note": "Strictly, a fallacy is an error in reasoning, not just a wrong fact. A conclusion can be true even if the argument for it is fallacious.",
+    "category": "conversation"
+  },
+  {
+    "id": "hyperbole",
+    "term": "hyperbole",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "hy-PUR-buh-lee",
+    "definition": "Deliberate exaggeration used for emphasis or effect, not meant to be taken literally.",
+    "example": "Calling it the worst release in history is hyperbole, but yeah, it wasn’t great.",
+    "etymology": "From Greek hyperbolē ‘excess, a throwing beyond’, from hyper- (beyond) + ballein (to throw). A hyperbole overshoots the truth on purpose.",
+    "root": {
+      "form": "ballein",
+      "language": "Greek",
+      "meaning": "to throw"
+    },
+    "relatedWords": [
+      {
+        "term": "hyperbola",
+        "meaning": "a curve in geometry (same Greek source)"
+      },
+      {
+        "term": "symbol",
+        "meaning": "from ‘thrown together’"
+      },
+      {
+        "term": "problem",
+        "meaning": "from ‘thrown forward’"
+      },
+      {
+        "term": "parable",
+        "meaning": "from ‘thrown beside’, a comparison"
+      }
+    ],
+    "synonyms": [
+      "exaggeration",
+      "overstatement",
+      "embellishment"
+    ],
+    "note": "Pronounced with four syllables: hy-PUR-buh-lee, not ‘HY-per-bowl’.",
+    "category": "conversation"
+  },
+  {
+    "id": "rhetoric",
+    "term": "rhetoric",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "RET-er-ik",
+    "definition": "The art of persuasive speaking or writing; also language that sounds impressive but lacks substance.",
+    "example": "Strip away the rhetoric and the proposal is basically just a price increase.",
+    "etymology": "From Greek rhētorikē (technē), ‘the art of the orator’, from rhētōr ‘public speaker’. In ancient Greece and Rome rhetoric was a core discipline of education; the dismissive sense of ‘empty talk’ developed later.",
+    "root": {
+      "form": "rhētōr",
+      "language": "Greek",
+      "meaning": "public speaker"
+    },
+    "relatedWords": [
+      {
+        "term": "rhetorical",
+        "meaning": "relating to rhetoric; asked for effect, not an answer"
+      },
+      {
+        "term": "rhetorician",
+        "meaning": "an expert in persuasive speaking"
+      }
+    ],
+    "synonyms": [
+      "oratory",
+      "persuasion",
+      "grandiloquence",
+      "spin"
+    ],
+    "note": "Can be neutral (the study of persuasion) or negative (‘just rhetoric’). A rhetorical question expects no answer.",
+    "category": "conversation"
+  },
+  {
+    "id": "semantics",
+    "term": "semantics",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "sih-MAN-tiks",
+    "definition": "The meaning of words and phrases; or a dispute over wording rather than substance.",
+    "example": "Whether we call it a ‘delay’ or a ‘reschedule’ is just semantics; the customer still waits two weeks.",
+    "etymology": "From French sémantique, coined by linguist Michel Bréal in the 1880s, from Greek sēmantikos ‘significant’, from sēmainein ‘to signify’, from sēma ‘sign’.",
+    "root": {
+      "form": "sēma",
+      "language": "Greek",
+      "meaning": "sign"
+    },
+    "relatedWords": [
+      {
+        "term": "semaphore",
+        "meaning": "a signalling system (literally ‘sign-bearer’)"
+      },
+      {
+        "term": "semiotics",
+        "meaning": "the study of signs and symbols"
+      },
+      {
+        "term": "polysemy",
+        "meaning": "having many meanings"
+      }
+    ],
+    "synonyms": [
+      "meaning",
+      "wording",
+      "terminology"
+    ],
+    "note": "‘It’s just semantics’ dismisses a debate as being about words, but sometimes the wording really matters, as in contracts.",
+    "category": "conversation"
+  },
+  {
+    "id": "anecdotal",
+    "term": "anecdotal",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "an-ik-DOH-tl",
+    "definition": "Based on personal stories or individual cases rather than systematic data.",
+    "example": "It’s anecdotal, but three customers told me this week the new checkout is confusing.",
+    "etymology": "From anecdote, from Greek anekdota ‘things unpublished’, from an- (not) + ekdotos ‘given out, published’ (ek- + didonai ‘to give’). The word was famously applied to Procopius’s ‘Secret History’ of the Byzantine court, which led to the sense of short, private, often gossipy stories.",
+    "root": {
+      "form": "didonai",
+      "language": "Greek",
+      "meaning": "to give"
+    },
+    "relatedWords": [
+      {
+        "term": "anecdote",
+        "meaning": "a short personal story"
+      },
+      {
+        "term": "antidote",
+        "meaning": "a remedy ‘given against’ poison"
+      },
+      {
+        "term": "dose",
+        "meaning": "an amount given"
+      }
+    ],
+    "synonyms": [
+      "unscientific",
+      "informal",
+      "based on hearsay"
+    ],
+    "note": "Not the same as false: anecdotes can point to real problems. They just aren’t proof of how common something is.",
+    "category": "conversation"
+  },
+  {
+    "id": "empirical",
+    "term": "empirical",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "em-PEER-ih-kul",
+    "definition": "Based on observation, measurement, or experience rather than theory or pure logic.",
+    "example": "We keep debating this in theory. Is there any empirical evidence the redesign helped?",
+    "etymology": "From Greek empeirikos ‘experienced’, from empeiria ‘experience’, from en- (in) + peira ‘trial, attempt’. The Empirics were an ancient school of physicians who relied on practical experience over theory.",
+    "root": {
+      "form": "peira",
+      "language": "Greek",
+      "meaning": "trial, attempt"
+    },
+    "relatedWords": [
+      {
+        "term": "empiricism",
+        "meaning": "the view that knowledge comes from experience"
+      },
+      {
+        "term": "pirate",
+        "meaning": "from Greek peiratēs, ‘one who attempts (an attack)’"
+      }
+    ],
+    "synonyms": [
+      "observed",
+      "experimental",
+      "evidence-based",
+      "factual"
+    ],
+    "note": "Empirical evidence is something observed or measured; it’s not the same as ‘proven’.",
+    "category": "conversation"
+  },
+  {
+    "id": "heuristic",
+    "term": "heuristic",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "hyoo-RIS-tik",
+    "definition": "A rule of thumb or mental shortcut that helps with decisions, though it isn’t always right.",
+    "example": "My heuristic is simple: if I can’t explain the feature in one sentence, we’re not ready to build it.",
+    "etymology": "From Greek heuriskein ‘to find, discover’, the same verb behind Archimedes’ cry ‘eureka!’ (‘I have found it’). Heuristic methods help you find answers through trial and practical rules rather than exhaustive proof.",
+    "root": {
+      "form": "heuriskein",
+      "language": "Greek",
+      "meaning": "to find"
+    },
+    "relatedWords": [
+      {
+        "term": "eureka",
+        "meaning": "‘I have found it’, a cry of discovery"
+      }
+    ],
+    "synonyms": [
+      "rule of thumb",
+      "shortcut",
+      "guideline"
+    ],
+    "note": "Also an adjective (‘a heuristic approach’). In psychology, heuristics are often discussed as sources of predictable bias.",
+    "category": "conversation"
+  },
+  {
+    "id": "trade-off",
+    "term": "trade-off",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "TRAYD-awf",
+    "definition": "A balance between two desirable things you can’t fully have at once; giving up one to gain another.",
+    "example": "There’s a trade-off here: we can ship Friday, or we can ship with proper tests, not both.",
+    "etymology": "From the verb phrase ‘trade off’, ‘to exchange’, recorded as a noun from the mid-20th century. Trade itself comes from Middle Low German trade ‘track, course’, related to tread; it shifted from ‘path’ to ‘way of life’, then ‘occupation’ and ‘commerce’.",
+    "root": {
+      "form": "trade",
+      "language": "Middle Low German",
+      "meaning": "track, course"
+    },
+    "relatedWords": [
+      {
+        "term": "tread",
+        "meaning": "to walk or step (a Germanic relative)"
+      },
+      {
+        "term": "trade wind",
+        "meaning": "originally a wind that blows on a steady ‘track’"
+      }
+    ],
+    "synonyms": [
+      "compromise",
+      "balance",
+      "exchange"
+    ],
+    "note": "Naming a trade-off out loud often defuses arguments: it shows both sides want something legitimate.",
+    "category": "conversation"
+  },
+  {
+    "id": "ironically",
+    "term": "ironically",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "eye-RON-ik-lee",
+    "definition": "In a way that is the opposite of what was expected or intended, often with a pointed twist.",
+    "example": "Ironically, the meeting about cutting meetings ran forty minutes over.",
+    "etymology": "From irony, via Latin ironia from Greek eirōneia ‘dissimulation, feigned ignorance’, from eirōn ‘one who says less than he thinks’. It recalls Socrates’ habit of pretending ignorance to expose others’ errors; the sense broadened to any pointed gap between appearance and reality.",
+    "root": {
+      "form": "eirōn",
+      "language": "Greek",
+      "meaning": "dissembler"
+    },
+    "relatedWords": [
+      {
+        "term": "irony",
+        "meaning": "a gap between what is said or expected and what is meant or happens"
+      },
+      {
+        "term": "ironic",
+        "meaning": "showing irony"
+      }
+    ],
+    "synonyms": [
+      "paradoxically",
+      "contrary to expectation"
+    ],
+    "note": "Not a synonym for ‘coincidentally’ or ‘unfortunately’. Rain on your wedding day is bad luck; a fire station burning down is ironic, because the outcome undercuts the purpose.",
+    "category": "conversation"
+  },
+  {
+    "id": "notwithstanding",
+    "term": "notwithstanding",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "not-with-STAN-ding",
+    "definition": "In spite of; despite (something just mentioned).",
+    "example": "The budget concerns notwithstanding, I think this is the right hire.",
+    "etymology": "Middle English, from not + withstanding, the present participle of withstand ‘to stand against, resist’. It is modelled on Latin non obstante, ‘(it) not standing in the way’.",
+    "root": {
+      "form": "withstand",
+      "language": "Old English",
+      "meaning": "to stand against"
+    },
+    "relatedWords": [
+      {
+        "term": "withstand",
+        "meaning": "to resist or endure"
+      }
+    ],
+    "synonyms": [
+      "despite",
+      "in spite of",
+      "nevertheless",
+      "regardless"
+    ],
+    "note": "Works as a preposition before or after its noun (‘notwithstanding the cost’ or ‘the cost notwithstanding’) and as an adverb meaning ‘nevertheless’.",
+    "category": "conversation"
+  },
+  {
+    "id": "inadvertently",
+    "term": "inadvertently",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "in-ud-VUR-tnt-lee",
+    "definition": "Without meaning to; by accident or oversight.",
+    "example": "I think I inadvertently deleted the shared folder. Does anyone have a backup?",
+    "etymology": "From inadvertent, from in- (not) + Latin advertent-, a form of advertere ‘to turn toward’ (ad- + vertere ‘to turn’). Something done inadvertently is done without turning your attention to it.",
+    "root": {
+      "form": "vertere",
+      "language": "Latin",
+      "meaning": "to turn"
+    },
+    "relatedWords": [
+      {
+        "term": "advertise",
+        "meaning": "originally ‘to turn attention to’"
+      },
+      {
+        "term": "inadvertence",
+        "meaning": "lack of attention; an oversight"
+      },
+      {
+        "term": "divert",
+        "meaning": "to turn aside"
+      },
+      {
+        "term": "convert",
+        "meaning": "to turn into something else"
+      }
+    ],
+    "synonyms": [
+      "accidentally",
+      "unintentionally",
+      "unwittingly"
+    ],
+    "note": "Stresses lack of attention rather than bad luck, which makes it a graceful word for owning a mistake.",
+    "category": "conversation"
+  },
+  {
+    "id": "implicit",
+    "term": "implicit",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PLIS-it",
+    "definition": "Suggested or understood without being directly stated.",
+    "example": "There’s an implicit assumption in this plan that the vendor delivers on time.",
+    "etymology": "From Latin implicitus, a form of implicare ‘to fold in, entangle’, from in- + plicare ‘to fold’. What is implicit is folded inside the words rather than laid out.",
+    "root": {
+      "form": "plicare",
+      "language": "Latin",
+      "meaning": "to fold"
+    },
+    "relatedWords": [
+      {
+        "term": "implicate",
+        "meaning": "to involve (literally ‘fold in’)"
+      },
+      {
+        "term": "explicit",
+        "meaning": "stated plainly, ‘unfolded’"
+      },
+      {
+        "term": "complicate",
+        "meaning": "to fold together, make complex"
+      },
+      {
+        "term": "pliable",
+        "meaning": "easily bent or folded"
+      }
+    ],
+    "synonyms": [
+      "implied",
+      "unspoken",
+      "tacit",
+      "understood"
+    ],
+    "note": "‘Implicit trust’ or ‘implicit faith’ means absolute and unquestioning, a separate sense from ‘implied’.",
+    "category": "conversation"
+  },
+  {
+    "id": "explicit",
+    "term": "explicit",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ik-SPLIS-it",
+    "definition": "Stated clearly and directly, leaving no room for confusion.",
+    "example": "Let’s be explicit about who owns this, so it doesn’t fall through the cracks again.",
+    "etymology": "From Latin explicitus ‘unfolded’, a form of explicare (ex- ‘out’ + plicare ‘to fold’). Medieval scribes wrote ‘explicit’ at the end of a manuscript, short for a phrase meaning the scroll was fully unrolled.",
+    "root": {
+      "form": "plicare",
+      "language": "Latin",
+      "meaning": "to fold"
+    },
+    "relatedWords": [
+      {
+        "term": "explicate",
+        "meaning": "to explain in detail"
+      },
+      {
+        "term": "implicit",
+        "meaning": "suggested but not stated"
+      },
+      {
+        "term": "pliant",
+        "meaning": "flexible"
+      }
+    ],
+    "synonyms": [
+      "clear",
+      "direct",
+      "unambiguous",
+      "express"
+    ],
+    "note": "Also used for graphic content (‘explicit lyrics’), so context matters.",
+    "category": "conversation"
+  },
+  {
+    "id": "infer",
+    "term": "infer",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "in-FUR",
+    "definition": "To reach a conclusion from evidence or reasoning rather than from explicit statements.",
+    "example": "From the silence in the room, I inferred nobody had actually read the doc.",
+    "etymology": "From Latin inferre ‘to bring in, carry in’, from in- + ferre ‘to carry’. To infer is to carry a conclusion in from the evidence.",
+    "root": {
+      "form": "ferre",
+      "language": "Latin",
+      "meaning": "to carry"
+    },
+    "relatedWords": [
+      {
+        "term": "inference",
+        "meaning": "a conclusion reached by reasoning"
+      },
+      {
+        "term": "transfer",
+        "meaning": "to carry across"
+      },
+      {
+        "term": "refer",
+        "meaning": "to carry back"
+      },
+      {
+        "term": "defer",
+        "meaning": "to put off; to yield"
+      }
+    ],
+    "synonyms": [
+      "deduce",
+      "conclude",
+      "gather",
+      "surmise"
+    ],
+    "note": "The speaker implies; the listener infers. ‘Are you inferring I’m lazy?’ should be ‘implying’.",
+    "category": "conversation"
+  },
+  {
+    "id": "imply",
+    "term": "imply",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "im-PLY",
+    "definition": "To suggest something without saying it directly.",
+    "example": "I’m not implying it’s your fault; I just want to understand what happened.",
+    "etymology": "From Old French emplier ‘to enfold, involve’, from Latin implicare ‘to fold in’. It is a doublet of implicate: both come from the same Latin verb by different routes.",
+    "root": {
+      "form": "plicare",
+      "language": "Latin",
+      "meaning": "to fold"
+    },
+    "relatedWords": [
+      {
+        "term": "implication",
+        "meaning": "something suggested; a likely consequence"
+      },
+      {
+        "term": "implicate",
+        "meaning": "to show someone is involved"
+      },
+      {
+        "term": "implicit",
+        "meaning": "implied rather than stated"
+      }
+    ],
+    "synonyms": [
+      "suggest",
+      "hint",
+      "insinuate",
+      "indicate"
+    ],
+    "note": "Imply is what the speaker does; infer is what the listener does.",
+    "category": "conversation"
+  },
+  {
+    "id": "allude",
+    "term": "allude",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-LOOD",
+    "definition": "To refer to something indirectly, without naming it outright.",
+    "example": "She alluded to ‘last year’s situation’, and everyone knew exactly what she meant.",
+    "etymology": "From Latin alludere ‘to play with, jest’, from ad- (towards) + ludere (to play). An allusion plays with a reference rather than stating it.",
+    "root": {
+      "form": "ludere",
+      "language": "Latin",
+      "meaning": "to play"
+    },
+    "relatedWords": [
+      {
+        "term": "allusion",
+        "meaning": "an indirect reference"
+      },
+      {
+        "term": "ludicrous",
+        "meaning": "laughably absurd"
+      },
+      {
+        "term": "delude",
+        "meaning": "to play false, deceive"
+      },
+      {
+        "term": "prelude",
+        "meaning": "a piece played before"
+      }
+    ],
+    "synonyms": [
+      "hint at",
+      "refer to indirectly",
+      "suggest",
+      "touch on"
+    ],
+    "note": "Allude means indirect reference; if you name it explicitly, you ‘refer’ to it. Don’t confuse ‘allusion’ with ‘illusion’ or ‘elude’ (to escape).",
+    "category": "conversation"
+  },
+  {
+    "id": "digress",
+    "term": "digress",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "dy-GRES",
+    "definition": "To move away from the main subject temporarily in speech or writing.",
+    "example": "Sorry, I’m digressing. Back to the timeline.",
+    "etymology": "From Latin digressus, a form of digredi ‘to step aside’, from dis- (apart) + gradi (to step, walk).",
+    "root": {
+      "form": "gradi",
+      "language": "Latin",
+      "meaning": "to step, walk"
+    },
+    "relatedWords": [
+      {
+        "term": "digression",
+        "meaning": "a temporary departure from the main subject"
+      },
+      {
+        "term": "progress",
+        "meaning": "stepping forward"
+      },
+      {
+        "term": "transgress",
+        "meaning": "to step across a limit"
+      },
+      {
+        "term": "gradual",
+        "meaning": "step by step"
+      }
+    ],
+    "synonyms": [
+      "wander",
+      "go off on a tangent",
+      "stray",
+      "deviate"
+    ],
+    "note": "‘But I digress’ is a classic, slightly self-aware way to get back on track.",
+    "category": "conversation"
+  },
+  {
+    "id": "preclude",
+    "term": "preclude",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "prih-KLOOD",
+    "definition": "To prevent something from happening or make it impossible in advance.",
+    "example": "Taking the contract now doesn’t preclude us from revisiting pricing next year.",
+    "etymology": "From Latin praecludere ‘to shut off, close in advance’, from prae- (before) + claudere (to shut).",
+    "root": {
+      "form": "claudere",
+      "language": "Latin",
+      "meaning": "to shut"
+    },
+    "relatedWords": [
+      {
+        "term": "include",
+        "meaning": "to shut in"
+      },
+      {
+        "term": "exclude",
+        "meaning": "to shut out"
+      },
+      {
+        "term": "seclude",
+        "meaning": "to shut away"
+      },
+      {
+        "term": "conclude",
+        "meaning": "to shut up, bring to an end"
+      }
+    ],
+    "synonyms": [
+      "rule out",
+      "prevent",
+      "exclude",
+      "prohibit"
+    ],
+    "note": "Often used in the negative to keep options open: ‘that doesn’t preclude...’",
+    "category": "conversation"
+  },
+  {
+    "id": "presuppose",
+    "term": "presuppose",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "pree-suh-POHZ",
+    "definition": "To assume something beforehand, or to require it as a precondition.",
+    "example": "This whole roadmap presupposes we get the funding, and we don’t have it yet.",
+    "etymology": "From Old French presupposer, from Medieval Latin praesupponere, from prae- (before) + supponere ‘to place under, suppose’. To presuppose is to place an assumption underneath beforehand.",
+    "root": {
+      "form": "supponere",
+      "language": "Latin",
+      "meaning": "to place under"
+    },
+    "relatedWords": [
+      {
+        "term": "suppose",
+        "meaning": "to assume"
+      },
+      {
+        "term": "presupposition",
+        "meaning": "an underlying assumption"
+      },
+      {
+        "term": "supposition",
+        "meaning": "an assumption or hypothesis"
+      }
+    ],
+    "synonyms": [
+      "assume",
+      "take for granted",
+      "require",
+      "imply"
+    ],
+    "note": "Pointing out what an argument presupposes is a polite way to challenge its foundations.",
+    "category": "conversation"
+  },
+  {
+    "id": "contend",
+    "term": "contend",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "kun-TEND",
+    "definition": "To argue or claim firmly that something is true; or to struggle against a difficulty.",
+    "example": "I’d contend that the real issue isn’t price; it’s that nobody knows the product exists.",
+    "etymology": "From Latin contendere ‘to stretch, strive, compete’, from com- (intensive) + tendere (to stretch). Arguing is pictured as straining against an opponent.",
+    "root": {
+      "form": "tendere",
+      "language": "Latin",
+      "meaning": "to stretch"
+    },
+    "relatedWords": [
+      {
+        "term": "contention",
+        "meaning": "an assertion; heated disagreement"
+      },
+      {
+        "term": "contentious",
+        "meaning": "likely to cause disagreement"
+      },
+      {
+        "term": "extend",
+        "meaning": "to stretch out"
+      },
+      {
+        "term": "tension",
+        "meaning": "the state of being stretched"
+      }
+    ],
+    "synonyms": [
+      "argue",
+      "maintain",
+      "assert",
+      "claim"
+    ],
+    "note": "‘Contend with’ means to deal with a difficulty (‘we have to contend with legacy code’), a different sense from claiming.",
+    "category": "conversation"
+  },
+  {
+    "id": "assert",
+    "term": "assert",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "uh-SURT",
+    "definition": "To state something confidently and forcefully as true.",
+    "example": "He asserted the bug was fixed, but nobody had actually tested it.",
+    "etymology": "From Latin asserere ‘to claim, lay hold of’, from ad- (to) + serere (to join, attach). In Roman law it meant to claim someone formally, for instance as free; it broadened to claiming that something is true.",
+    "root": {
+      "form": "serere",
+      "language": "Latin",
+      "meaning": "to join, link"
+    },
+    "relatedWords": [
+      {
+        "term": "assertion",
+        "meaning": "a confident statement of belief"
+      },
+      {
+        "term": "insert",
+        "meaning": "to put in, join into"
+      },
+      {
+        "term": "series",
+        "meaning": "a row of joined things"
+      },
+      {
+        "term": "exert",
+        "meaning": "to put forth (effort)"
+      }
+    ],
+    "synonyms": [
+      "claim",
+      "maintain",
+      "declare",
+      "insist"
+    ],
+    "note": "An assertion is not evidence. In debate, ‘that’s an assertion, not an argument’ is a fair challenge.",
+    "category": "conversation"
+  },
+  {
+    "id": "posit",
+    "term": "posit",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "POZ-it",
+    "definition": "To put forward an idea as a basis for argument or discussion.",
+    "example": "Let me posit something: what if churn has nothing to do with price?",
+    "etymology": "From Latin positus ‘placed’, a form of ponere ‘to put, place’. To posit is to place an idea on the table for consideration.",
+    "root": {
+      "form": "ponere",
+      "language": "Latin",
+      "meaning": "to put, place"
+    },
+    "relatedWords": [
+      {
+        "term": "position",
+        "meaning": "a place; a stance"
+      },
+      {
+        "term": "proposition",
+        "meaning": "something put forward"
+      },
+      {
+        "term": "deposit",
+        "meaning": "to put down"
+      },
+      {
+        "term": "posture",
+        "meaning": "the way the body is placed"
+      }
+    ],
+    "synonyms": [
+      "propose",
+      "suggest",
+      "hypothesize",
+      "put forward"
+    ],
+    "note": "Suggests a tentative proposal, not a firm claim. Pronounced POZ-it, not ‘POH-zit’.",
+    "category": "conversation"
+  },
+  {
+    "id": "discern",
+    "term": "discern",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-SURN",
+    "definition": "To perceive, recognize, or distinguish something that is not obvious.",
+    "example": "From what I can discern, the two teams want the same thing; they just describe it differently.",
+    "etymology": "From Latin discernere ‘to separate, distinguish’, from dis- (apart) + cernere ‘to sift, separate’. Discernment is mental sifting.",
+    "root": {
+      "form": "cernere",
+      "language": "Latin",
+      "meaning": "to sift, separate"
+    },
+    "relatedWords": [
+      {
+        "term": "discernment",
+        "meaning": "good judgment"
+      },
+      {
+        "term": "discriminate",
+        "meaning": "to distinguish (and, often, to treat unfairly)"
+      },
+      {
+        "term": "certain",
+        "meaning": "from certus, ‘sifted, decided’"
+      },
+      {
+        "term": "secret",
+        "meaning": "from secernere, ‘separated apart’"
+      }
+    ],
+    "synonyms": [
+      "perceive",
+      "detect",
+      "make out",
+      "distinguish"
+    ],
+    "note": "Implies effort or insight: you discern a pattern, a motive, or a faint shape.",
+    "category": "conversation"
+  },
+  {
+    "id": "delineate",
+    "term": "delineate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "dih-LIN-ee-ayt",
+    "definition": "To describe or mark out something precisely, including where its boundaries lie.",
+    "example": "Before we start, can we delineate what’s in scope and what’s not?",
+    "etymology": "From Latin delineare ‘to sketch out’, from de- (out, completely) + linea ‘line’. To delineate is to draw the lines around something.",
+    "root": {
+      "form": "linea",
+      "language": "Latin",
+      "meaning": "line"
+    },
+    "relatedWords": [
+      {
+        "term": "line",
+        "meaning": "a long, narrow mark"
+      },
+      {
+        "term": "linear",
+        "meaning": "arranged in a line"
+      },
+      {
+        "term": "lineage",
+        "meaning": "a line of descent"
+      }
+    ],
+    "synonyms": [
+      "outline",
+      "define",
+      "describe",
+      "specify"
+    ],
+    "note": "Particularly apt for responsibilities, scope, and boundaries.",
+    "category": "conversation"
+  },
+  {
+    "id": "reconcile",
+    "term": "reconcile",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "REK-un-syle",
+    "definition": "To make two apparently conflicting ideas or facts compatible; or to restore friendly relations.",
+    "example": "How do we reconcile ‘move fast’ with ‘zero downtime’? Those pull in opposite directions.",
+    "etymology": "From Latin reconciliare ‘to bring together again’, from re- (again) + conciliare ‘to bring together, make friendly’, from concilium ‘assembly, council’.",
+    "root": {
+      "form": "concilium",
+      "language": "Latin",
+      "meaning": "assembly, gathering"
+    },
+    "relatedWords": [
+      {
+        "term": "conciliate",
+        "meaning": "to win over, pacify"
+      },
+      {
+        "term": "conciliatory",
+        "meaning": "intended to make peace"
+      },
+      {
+        "term": "council",
+        "meaning": "an assembly for discussion"
+      },
+      {
+        "term": "reconciliation",
+        "meaning": "the restoring of friendly relations"
+      }
+    ],
+    "synonyms": [
+      "harmonize",
+      "square",
+      "resolve",
+      "make compatible"
+    ],
+    "note": "‘Reconciled to’ something means you’ve accepted it reluctantly, a different sense from reconciling two ideas.",
+    "category": "conversation"
+  },
+  {
+    "id": "tacit",
+    "term": "tacit",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAS-it",
+    "definition": "Understood or agreed without being spoken.",
+    "example": "There’s a tacit agreement nobody schedules meetings on Friday afternoons.",
+    "etymology": "From Latin tacitus ‘silent’, a form of tacere ‘to be silent’.",
+    "root": {
+      "form": "tacere",
+      "language": "Latin",
+      "meaning": "to be silent"
+    },
+    "relatedWords": [
+      {
+        "term": "taciturn",
+        "meaning": "habitually quiet, saying little"
+      },
+      {
+        "term": "reticent",
+        "meaning": "reluctant to speak openly"
+      }
+    ],
+    "synonyms": [
+      "unspoken",
+      "implicit",
+      "implied",
+      "understood"
+    ],
+    "note": "Tacit is narrower than ‘implicit’: it stresses silence. Tacit approval is approval shown by not objecting.",
+    "category": "conversation"
+  },
+  {
+    "id": "cursory",
+    "term": "cursory",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KUR-suh-ree",
+    "definition": "Hasty and not thorough; done with little attention to detail.",
+    "example": "I only gave it a cursory read, so take my comments with a grain of salt.",
+    "etymology": "From Late Latin cursorius ‘of a runner, running’, from cursor ‘runner’, from currere ‘to run’. A cursory look is one done on the run.",
+    "root": {
+      "form": "currere",
+      "language": "Latin",
+      "meaning": "to run"
+    },
+    "relatedWords": [
+      {
+        "term": "cursor",
+        "meaning": "originally ‘a runner’; the moving marker on a screen"
+      },
+      {
+        "term": "course",
+        "meaning": "a route or way of running"
+      },
+      {
+        "term": "current",
+        "meaning": "running, flowing"
+      },
+      {
+        "term": "precursor",
+        "meaning": "a forerunner"
+      }
+    ],
+    "synonyms": [
+      "hasty",
+      "quick",
+      "superficial",
+      "perfunctory"
+    ],
+    "note": "Neutral to mildly critical. ‘Perfunctory’ adds the sense of doing something only out of duty.",
+    "category": "conversation"
+  },
+  {
+    "id": "succinct",
+    "term": "succinct",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "suk-SINGKT",
+    "definition": "Expressed clearly in few words, without waste.",
+    "example": "Great summary, really succinct. That’s exactly what leadership needs to see.",
+    "etymology": "From Latin succinctus ‘girded up’, a form of succingere, from sub- (up from below) + cingere (to gird). Romans hitched up long robes with a belt to move freely; a succinct speech is similarly tucked up and trim.",
+    "root": {
+      "form": "cingere",
+      "language": "Latin",
+      "meaning": "to gird, encircle"
+    },
+    "relatedWords": [
+      {
+        "term": "cinch",
+        "meaning": "a saddle girth; something easy"
+      },
+      {
+        "term": "precinct",
+        "meaning": "an enclosed area (literally ‘girded around’)"
+      },
+      {
+        "term": "cincture",
+        "meaning": "a belt or girdle"
+      }
+    ],
+    "synonyms": [
+      "concise",
+      "brief",
+      "pithy",
+      "to the point"
+    ],
+    "note": "Both c’s are pronounced: suk-SINGKT, not ‘suh-SINKT’.",
+    "category": "conversation"
+  },
+  {
+    "id": "equivocate",
+    "term": "equivocate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-KWIV-uh-kayt",
+    "definition": "To use vague or ambiguous language deliberately to avoid committing or telling the truth.",
+    "example": "Stop equivocating. Do we hit the deadline or not?",
+    "etymology": "From Late Latin aequivocare, from aequivocus ‘having the same sound, ambiguous’, from aequus (equal) + vox, vocis (voice). An equivocal word ‘voices’ two meanings equally, so equivocating means hiding behind double meanings.",
+    "root": {
+      "form": "vox",
+      "language": "Latin",
+      "meaning": "voice"
+    },
+    "relatedWords": [
+      {
+        "term": "equivocal",
+        "meaning": "open to more than one interpretation"
+      },
+      {
+        "term": "unequivocal",
+        "meaning": "leaving no doubt"
+      },
+      {
+        "term": "vocal",
+        "meaning": "relating to the voice"
+      },
+      {
+        "term": "vocation",
+        "meaning": "a ‘calling’"
+      }
+    ],
+    "synonyms": [
+      "hedge",
+      "prevaricate",
+      "waffle",
+      "dodge"
+    ],
+    "note": "Equivocate stresses ambiguity; prevaricate stresses evasion or lying. ‘Unequivocally’ is the strong opposite: ‘I unequivocally support this.’",
+    "category": "conversation"
+  },
+  {
+    "id": "ambiguous",
+    "term": "ambiguous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "am-BIG-yoo-us",
+    "definition": "Open to more than one interpretation; not clear in meaning.",
+    "example": "The spec says ‘fast’, which is pretty ambiguous. Fast compared to what?",
+    "etymology": "From Latin ambiguus ‘doubtful, shifting’, from ambigere ‘to wander about; to dispute’, from ambi- (around, both ways) + agere (to drive). Something ambiguous is driven two ways at once.",
+    "root": {
+      "form": "agere",
+      "language": "Latin",
+      "meaning": "to drive, lead"
+    },
+    "relatedWords": [
+      {
+        "term": "ambiguity",
+        "meaning": "the quality of having more than one meaning"
+      },
+      {
+        "term": "ambivalent",
+        "meaning": "having mixed feelings (from ambi- + valere)"
+      },
+      {
+        "term": "ambidextrous",
+        "meaning": "able to use both hands"
+      }
+    ],
+    "synonyms": [
+      "unclear",
+      "vague",
+      "equivocal",
+      "open to interpretation"
+    ],
+    "note": "Ambiguous describes meaning; ambivalent describes feelings. A message is ambiguous; you feel ambivalent about it.",
+    "category": "conversation"
+  },
+  {
+    "id": "qualify",
+    "term": "qualify",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "KWOL-uh-fy",
+    "definition": "To add conditions or limits to a statement to make it less absolute.",
+    "example": "Let me qualify that: it’s the best option we have right now, not the best possible option.",
+    "etymology": "From Medieval Latin qualificare ‘to attribute a quality to’, from Latin qualis ‘of what kind’ + facere ‘to make’. Qualifying a statement specifies what kind of claim it is, and so narrows it.",
+    "root": {
+      "form": "qualis",
+      "language": "Latin",
+      "meaning": "of what kind"
+    },
+    "relatedWords": [
+      {
+        "term": "quality",
+        "meaning": "the nature or standard of something"
+      },
+      {
+        "term": "qualification",
+        "meaning": "a limiting condition; a credential"
+      },
+      {
+        "term": "unqualified",
+        "meaning": "without reservation: ‘an unqualified success’"
+      }
+    ],
+    "synonyms": [
+      "modify",
+      "limit",
+      "temper",
+      "restrict"
+    ],
+    "note": "‘An unqualified success’ means a complete success with no reservations, not a success by someone unqualified.",
+    "category": "conversation"
+  },
+  {
+    "id": "stipulate",
+    "term": "stipulate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "STIP-yuh-layt",
+    "definition": "To specify a requirement or condition, especially as part of an agreement.",
+    "example": "The client stipulated that all data stays in the EU, so that rules out half our vendors.",
+    "etymology": "From Latin stipulari ‘to bargain, demand a formal promise’. A traditional story links it to stipula ‘straw’, from a supposed custom of breaking a straw to seal a deal, but the origin is uncertain.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "stipulation",
+        "meaning": "a condition or requirement in an agreement"
+      }
+    ],
+    "synonyms": [
+      "specify",
+      "require",
+      "set out",
+      "insist on"
+    ],
+    "note": "In debate and law, ‘I’ll stipulate that...’ means ‘I’ll grant that for the sake of argument’.",
+    "category": "conversation"
+  },
+  {
+    "id": "concur",
+    "term": "concur",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "kun-KUR",
+    "definition": "To agree with someone’s opinion or decision.",
+    "example": "I concur with Priya; let’s pause the rollout until we understand the crash.",
+    "etymology": "From Latin concurrere ‘to run together’, from con- (together) + currere (to run). Opinions that concur run along the same course; the ‘happen at the same time’ sense survives in ‘concurrent’.",
+    "root": {
+      "form": "currere",
+      "language": "Latin",
+      "meaning": "to run"
+    },
+    "relatedWords": [
+      {
+        "term": "concurrent",
+        "meaning": "happening at the same time"
+      },
+      {
+        "term": "occur",
+        "meaning": "to happen (literally ‘run towards’)"
+      },
+      {
+        "term": "recur",
+        "meaning": "to happen again"
+      }
+    ],
+    "synonyms": [
+      "agree",
+      "assent",
+      "go along with",
+      "be of the same mind"
+    ],
+    "note": "Formal; in casual talk it can sound stiff. Judges ‘concur’ when they agree with a ruling.",
+    "category": "conversation"
+  },
+  {
+    "id": "dissent",
+    "term": "dissent",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-SENT",
+    "definition": "Disagreement with a prevailing opinion, decision, or official view.",
+    "example": "I want to register my dissent, but I’ll support whatever the team decides.",
+    "etymology": "From Latin dissentire ‘to differ in feeling or opinion’, from dis- (apart) + sentire (to feel, think).",
+    "root": {
+      "form": "sentire",
+      "language": "Latin",
+      "meaning": "to feel, think"
+    },
+    "relatedWords": [
+      {
+        "term": "consent",
+        "meaning": "agreement, permission"
+      },
+      {
+        "term": "assent",
+        "meaning": "expression of approval"
+      },
+      {
+        "term": "sentiment",
+        "meaning": "a feeling or opinion"
+      },
+      {
+        "term": "resent",
+        "meaning": "to feel bitterness about"
+      }
+    ],
+    "synonyms": [
+      "disagreement",
+      "objection",
+      "opposition",
+      "protest"
+    ],
+    "note": "Also a verb (‘two members dissented’). Don’t confuse with ‘descent’ (going down).",
+    "category": "conversation"
+  },
+  {
+    "id": "consensus",
+    "term": "consensus",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kun-SEN-sus",
+    "definition": "General agreement among a group.",
+    "example": "I don’t think we have consensus yet; half the room still looks unconvinced.",
+    "etymology": "From Latin consensus ‘agreement’, a form of consentire ‘to feel together’, from con- (together) + sentire (to feel, think).",
+    "root": {
+      "form": "sentire",
+      "language": "Latin",
+      "meaning": "to feel, think"
+    },
+    "relatedWords": [
+      {
+        "term": "consent",
+        "meaning": "agreement or permission"
+      },
+      {
+        "term": "consensual",
+        "meaning": "agreed to by all parties"
+      },
+      {
+        "term": "sense",
+        "meaning": "a faculty of perception"
+      }
+    ],
+    "synonyms": [
+      "agreement",
+      "accord",
+      "unanimity",
+      "common ground"
+    ],
+    "note": "Spelled with an s, not ‘concensus’ (it has nothing to do with ‘census’). ‘Consensus of opinion’ and ‘general consensus’ are redundant.",
+    "category": "conversation"
+  },
+  {
+    "id": "underscore",
+    "term": "underscore",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "UN-der-skor",
+    "definition": "To emphasize or highlight the importance of something.",
+    "example": "Last week’s outage really underscores why we need better monitoring.",
+    "etymology": "A literal compound: to draw a score (line) under written text to emphasize it, recorded from the 18th century. Score comes from Old Norse skor ‘notch, tally mark’. The figurative sense followed naturally.",
+    "root": {
+      "form": "skor",
+      "language": "Old Norse",
+      "meaning": "notch, mark"
+    },
+    "relatedWords": [
+      {
+        "term": "score",
+        "meaning": "a notch or mark; a tally"
+      },
+      {
+        "term": "underline",
+        "meaning": "to draw a line under; to emphasize"
+      }
+    ],
+    "synonyms": [
+      "emphasize",
+      "highlight",
+      "stress",
+      "underline"
+    ],
+    "note": "Often used for events that prove a point: ‘this underscores the need for...’",
+    "category": "conversation"
+  },
+  {
+    "id": "conversely",
+    "term": "conversely",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "kun-VURS-lee",
+    "definition": "Introducing an idea that reverses or contrasts with the one just stated.",
+    "example": "Cheap plans bring in users but little revenue; conversely, premium plans bring revenue but few users.",
+    "etymology": "From converse (adjective), from Latin conversus ‘turned around’, a form of convertere, from con- (completely) + vertere (to turn).",
+    "root": {
+      "form": "vertere",
+      "language": "Latin",
+      "meaning": "to turn"
+    },
+    "relatedWords": [
+      {
+        "term": "converse",
+        "meaning": "the opposite or reverse of a statement"
+      },
+      {
+        "term": "reverse",
+        "meaning": "turned back"
+      },
+      {
+        "term": "versatile",
+        "meaning": "turning easily from one thing to another"
+      }
+    ],
+    "synonyms": [
+      "on the other hand",
+      "by contrast",
+      "inversely"
+    ],
+    "note": "Best for a genuine reversal of the previous point, not just any additional point.",
+    "category": "conversation"
+  },
+  {
+    "id": "albeit",
+    "term": "albeit",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "awl-BEE-it",
+    "definition": "Although; even though (usually introducing a brief qualifying phrase).",
+    "example": "It worked, albeit slowly.",
+    "etymology": "Middle English, a fusion of the phrase ‘al be it’, meaning ‘although it be (that)’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "although",
+        "meaning": "in spite of the fact that"
+      }
+    ],
+    "synonyms": [
+      "although",
+      "though",
+      "even if"
+    ],
+    "note": "Use it before a short phrase (‘a good plan, albeit an expensive one’), not a full clause; for clauses, ‘although’ reads better. Technically a conjunction.",
+    "category": "conversation"
+  },
+  {
+    "id": "germane",
+    "term": "germane",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "jer-MAYN",
+    "definition": "Relevant and appropriate to the subject under consideration.",
+    "example": "Is the history of the old system germane here, or can we focus on what to build next?",
+    "etymology": "A variant of german ‘closely related, having the same parents’ (as in cousin-german), from Latin germanus, related to germen ‘sprout, offshoot’. Shakespeare’s Hamlet says a phrase ‘would be more german to the matter’, and from that use it came to mean ‘closely relevant’.",
+    "root": {
+      "form": "germen",
+      "language": "Latin",
+      "meaning": "sprout, offshoot"
+    },
+    "relatedWords": [
+      {
+        "term": "germ",
+        "meaning": "a seed or sprout; a microbe"
+      },
+      {
+        "term": "germinate",
+        "meaning": "to begin to grow"
+      },
+      {
+        "term": "cousin-german",
+        "meaning": "a first cousin"
+      }
+    ],
+    "synonyms": [
+      "relevant",
+      "pertinent",
+      "apposite",
+      "applicable"
+    ],
+    "note": "Not connected to Germany. Often used in the negative: ‘that’s not germane to the discussion’.",
+    "category": "conversation"
+  },
+  {
+    "id": "tantamount",
+    "term": "tantamount",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAN-tuh-mount",
+    "definition": "Equivalent in seriousness or effect to (usually something bad).",
+    "example": "Not replying to the client for a week is tantamount to telling them we don’t care.",
+    "etymology": "From Anglo-French tant amunter ‘to amount to as much’, from tant (so much, Latin tantum) + amunter (to amount). Originally a verb, it became an adjective in the 17th century.",
+    "root": {
+      "form": "tantum",
+      "language": "Latin",
+      "meaning": "so much"
+    },
+    "relatedWords": [
+      {
+        "term": "amount",
+        "meaning": "a quantity; to add up to"
+      },
+      {
+        "term": "paramount",
+        "meaning": "supreme (from Anglo-French par amont, ‘above’)"
+      }
+    ],
+    "synonyms": [
+      "equivalent",
+      "the same as",
+      "as good as",
+      "virtually"
+    ],
+    "note": "Always followed by ‘to’. Usually used for something negative: ‘tantamount to an admission of guilt’.",
+    "category": "conversation"
+  },
+  {
+    "id": "analogy",
+    "term": "analogy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-NAL-uh-jee",
+    "definition": "A comparison between two things, showing how they are alike in order to explain or clarify.",
+    "example": "Here’s an analogy: technical debt is like a credit card. Easy now, expensive later.",
+    "etymology": "From Greek analogia ‘proportion’, from ana- (according to) + logos (ratio, reason, word). It began in mathematics for equal ratios and widened to any likeness between relationships.",
+    "root": {
+      "form": "logos",
+      "language": "Greek",
+      "meaning": "word, reason, ratio"
+    },
+    "relatedWords": [
+      {
+        "term": "analogous",
+        "meaning": "comparable in some respects"
+      },
+      {
+        "term": "logic",
+        "meaning": "the science of reasoning"
+      },
+      {
+        "term": "dialogue",
+        "meaning": "a conversation"
+      }
+    ],
+    "synonyms": [
+      "comparison",
+      "parallel",
+      "likeness",
+      "metaphor"
+    ],
+    "note": "Analogies illustrate, they don’t prove. ‘The analogy breaks down’ is a fair objection when the two cases differ in the way that matters.",
+    "category": "conversation"
+  },
+  {
+    "id": "corollary",
+    "term": "corollary",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KOR-uh-lair-ee",
+    "definition": "A natural consequence or result that follows directly from something already established.",
+    "example": "If we’re going global, the corollary is that someone has to handle support at 3 a.m.",
+    "etymology": "From Latin corollarium ‘money paid for a garland; a gratuity’, from corolla ‘little garland’, diminutive of corona ‘crown’. Boethius used it for a mathematical result that comes as a ‘bonus’ on top of a proof, and the sense of ‘natural consequence’ followed.",
+    "root": {
+      "form": "corona",
+      "language": "Latin",
+      "meaning": "crown, garland"
+    },
+    "relatedWords": [
+      {
+        "term": "corolla",
+        "meaning": "the petals of a flower"
+      },
+      {
+        "term": "crown",
+        "meaning": "a circular headdress (from corona)"
+      },
+      {
+        "term": "coronation",
+        "meaning": "the crowning of a monarch"
+      }
+    ],
+    "synonyms": [
+      "consequence",
+      "result",
+      "upshot",
+      "implication"
+    ],
+    "note": "American English stresses the first syllable (KOR-uh-lair-ee); British English often says kuh-ROL-uh-ree.",
+    "category": "conversation"
+  },
+  {
+    "id": "misconstrue",
+    "term": "misconstrue",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "mis-kun-STROO",
+    "definition": "To interpret someone’s words or actions wrongly.",
+    "example": "Don’t misconstrue my silence as agreement; I’m still thinking it through.",
+    "etymology": "From mis- (wrongly) + construe, from Latin construere ‘to heap together, build’, from con- + struere ‘to pile up’. To construe originally meant to analyse the grammatical structure of a sentence, so to misconstrue is to build the wrong meaning from the parts.",
+    "root": {
+      "form": "struere",
+      "language": "Latin",
+      "meaning": "to pile up, build"
+    },
+    "relatedWords": [
+      {
+        "term": "construe",
+        "meaning": "to interpret"
+      },
+      {
+        "term": "construct",
+        "meaning": "to build"
+      },
+      {
+        "term": "structure",
+        "meaning": "the way parts are arranged"
+      },
+      {
+        "term": "destroy",
+        "meaning": "to unbuild"
+      }
+    ],
+    "synonyms": [
+      "misinterpret",
+      "misread",
+      "misunderstand",
+      "get wrong"
+    ],
+    "note": "Useful for heading off misunderstandings: ‘I don’t want this to be misconstrued as criticism.’",
+    "category": "conversation"
+  },
+  {
+    "id": "paraphrase",
+    "term": "paraphrase",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "PAIR-uh-frayz",
+    "definition": "To express someone’s meaning in different words, often to clarify or shorten it.",
+    "example": "To paraphrase what Sam said: we can do it, but not this quarter.",
+    "etymology": "From Greek paraphrasis, from paraphrazein ‘to tell in other words’, from para- (beside, alongside) + phrazein (to tell, express).",
+    "root": {
+      "form": "phrazein",
+      "language": "Greek",
+      "meaning": "to tell, express"
+    },
+    "relatedWords": [
+      {
+        "term": "phrase",
+        "meaning": "a group of words"
+      },
+      {
+        "term": "phraseology",
+        "meaning": "a particular style of wording"
+      },
+      {
+        "term": "periphrasis",
+        "meaning": "a roundabout way of saying something"
+      }
+    ],
+    "synonyms": [
+      "rephrase",
+      "restate",
+      "reword",
+      "sum up"
+    ],
+    "note": "Paraphrasing someone back to themselves (‘so what you’re saying is...’) is a powerful way to show you’re listening.",
+    "category": "conversation"
+  },
+  {
+    "id": "synthesize",
+    "term": "synthesize",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "SIN-thuh-syze",
+    "definition": "To combine different ideas or pieces of information into a coherent whole.",
+    "example": "Can someone synthesize all this feedback into three or four themes we can act on?",
+    "etymology": "From synthesis, via Latin from Greek synthesis ‘a putting together’, from syn- (together) + tithenai (to put, place).",
+    "root": {
+      "form": "tithenai",
+      "language": "Greek",
+      "meaning": "to put, place"
+    },
+    "relatedWords": [
+      {
+        "term": "thesis",
+        "meaning": "a proposition put forward"
+      },
+      {
+        "term": "hypothesis",
+        "meaning": "a supposition, literally ‘a placing under’"
+      },
+      {
+        "term": "antithesis",
+        "meaning": "a direct opposite"
+      },
+      {
+        "term": "parenthesis",
+        "meaning": "something put in beside"
+      }
+    ],
+    "synonyms": [
+      "combine",
+      "integrate",
+      "distil",
+      "pull together"
+    ],
+    "note": "Synthesizing is more than summarizing: it finds the connections and the overall picture.",
+    "category": "conversation"
+  },
+  {
+    "id": "scrutinize",
+    "term": "scrutinize",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "SKROO-tn-yze",
+    "definition": "To examine something closely and critically.",
+    "example": "Legal’s going to scrutinize every line of this, so let’s get the wording right.",
+    "etymology": "From scrutiny, from Latin scrutinium ‘a search, examination’, from scrutari ‘to search, examine’. It is often connected to scruta ‘rubbish, trash’, as if picking through junk, though that link is debated.",
+    "root": {
+      "form": "scrutari",
+      "language": "Latin",
+      "meaning": "to search, examine"
+    },
+    "relatedWords": [
+      {
+        "term": "scrutiny",
+        "meaning": "close, critical examination"
+      },
+      {
+        "term": "inscrutable",
+        "meaning": "impossible to understand or read"
+      }
+    ],
+    "synonyms": [
+      "examine",
+      "inspect",
+      "analyse",
+      "pore over"
+    ],
+    "note": "Implies critical, detailed attention, more intense than ‘review’ or ‘look at’.",
+    "category": "conversation"
+  },
+  {
+    "id": "vindicate",
+    "term": "vindicate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "VIN-dih-kayt",
+    "definition": "To show that someone or something was right, or to clear them of blame or suspicion.",
+    "example": "The test results totally vindicated her; the bug was in the vendor’s code all along.",
+    "etymology": "From Latin vindicare ‘to claim, set free, avenge’, from vindex ‘claimant, protector, avenger’, a word of uncertain origin. The ‘set free, defend’ sense became ‘clear of blame’ and ‘prove right’.",
+    "root": {
+      "form": "vindicare",
+      "language": "Latin",
+      "meaning": "to claim, avenge, set free"
+    },
+    "relatedWords": [
+      {
+        "term": "vindication",
+        "meaning": "proof that one was right"
+      },
+      {
+        "term": "vindictive",
+        "meaning": "wanting revenge"
+      },
+      {
+        "term": "avenge",
+        "meaning": "to take revenge for (via Old French from vindicare)"
+      },
+      {
+        "term": "vengeance",
+        "meaning": "punishment in return for a wrong"
+      }
+    ],
+    "synonyms": [
+      "justify",
+      "exonerate",
+      "clear",
+      "prove right"
+    ],
+    "note": "Don’t confuse with ‘vindictive’ (spiteful): being vindicated is a good thing.",
+    "category": "conversation"
+  },
+  {
+    "id": "bolster",
+    "term": "bolster",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "BOHL-ster",
+    "definition": "To support, strengthen, or reinforce something.",
+    "example": "A couple of customer quotes would really bolster the pitch.",
+    "etymology": "From Old English bolster ‘a long, firm pillow or cushion’, a Germanic word. The verb, from the 16th century, first meant to prop up with a pillow and then to support or reinforce in general.",
+    "root": {
+      "form": "bolster",
+      "language": "Old English",
+      "meaning": "long pillow, cushion"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "strengthen",
+      "reinforce",
+      "boost",
+      "shore up"
+    ],
+    "note": "Common with arguments, cases, confidence, and morale.",
+    "category": "conversation"
+  },
+  {
+    "id": "undermine",
+    "term": "undermine",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "un-der-MYNE",
+    "definition": "To weaken something gradually or secretly, often by attacking its foundations.",
+    "example": "Changing the plan without telling the team really undermines their trust in us.",
+    "etymology": "Middle English, from under + mine. Besieging armies dug tunnels (mines) beneath castle walls so they would collapse; the figurative sense of weakening something from below followed.",
+    "root": {
+      "form": "mine",
+      "language": "Middle English",
+      "meaning": "tunnel, excavation"
+    },
+    "relatedWords": [
+      {
+        "term": "mine",
+        "meaning": "an excavation for minerals; a tunnel"
+      },
+      {
+        "term": "mineral",
+        "meaning": "a substance obtained by mining"
+      }
+    ],
+    "synonyms": [
+      "weaken",
+      "erode",
+      "sabotage",
+      "subvert"
+    ],
+    "note": "Suggests gradual or hidden damage, not an open attack.",
+    "category": "conversation"
+  },
+  {
+    "id": "negate",
+    "term": "negate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "nih-GAYT",
+    "definition": "To cancel out the effect of something, or to deny that something is true.",
+    "example": "If we add three more approval steps, we negate the whole point of the faster process.",
+    "etymology": "From Latin negare ‘to say no, deny’, from a root ne- ‘not’.",
+    "root": {
+      "form": "negare",
+      "language": "Latin",
+      "meaning": "to deny, say no"
+    },
+    "relatedWords": [
+      {
+        "term": "negative",
+        "meaning": "expressing denial or absence"
+      },
+      {
+        "term": "deny",
+        "meaning": "to state that something is untrue (via Old French from denegare)"
+      },
+      {
+        "term": "renege",
+        "meaning": "to go back on a promise"
+      },
+      {
+        "term": "abnegate",
+        "meaning": "to renounce or give up"
+      }
+    ],
+    "synonyms": [
+      "nullify",
+      "cancel out",
+      "invalidate",
+      "offset"
+    ],
+    "note": "Most often used for one thing wiping out the benefit of another.",
+    "category": "conversation"
+  },
+  {
+    "id": "obfuscate",
+    "term": "obfuscate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "OB-fuh-skayt",
+    "definition": "To make something deliberately unclear, confusing, or hard to understand.",
+    "example": "The report seems designed to obfuscate the fact that we missed every target.",
+    "etymology": "From Late Latin obfuscare ‘to darken’, from ob- (over) + fuscare ‘to make dark’, from fuscus ‘dark, dusky’.",
+    "root": {
+      "form": "fuscus",
+      "language": "Latin",
+      "meaning": "dark"
+    },
+    "relatedWords": [
+      {
+        "term": "obfuscation",
+        "meaning": "deliberate confusion or obscurity"
+      },
+      {
+        "term": "fuscous",
+        "meaning": "dark or dusky in colour"
+      }
+    ],
+    "synonyms": [
+      "obscure",
+      "muddy",
+      "cloud",
+      "confuse"
+    ],
+    "note": "Usually implies intent. If something is just accidentally confusing, ‘unclear’ is fairer.",
+    "category": "conversation"
+  },
+  {
+    "id": "expound",
+    "term": "expound",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ik-SPOUND",
+    "definition": "To explain or present an idea in detail.",
+    "example": "Can you expound on that a little? I’m not sure how it affects our team.",
+    "etymology": "From Old French espondre, from Latin exponere ‘to put forth, explain’, from ex- (out) + ponere (to put). The final -d was added in English, as in ‘compound’.",
+    "root": {
+      "form": "ponere",
+      "language": "Latin",
+      "meaning": "to put, place"
+    },
+    "relatedWords": [
+      {
+        "term": "exposition",
+        "meaning": "a detailed explanation"
+      },
+      {
+        "term": "exponent",
+        "meaning": "a person who promotes an idea"
+      },
+      {
+        "term": "propound",
+        "meaning": "to put forward for consideration"
+      },
+      {
+        "term": "compound",
+        "meaning": "to put together"
+      }
+    ],
+    "synonyms": [
+      "explain",
+      "elaborate",
+      "detail",
+      "set out"
+    ],
+    "note": "Often followed by ‘on’ or ‘upon’. Can hint at long-windedness: ‘he expounded on his theory for an hour’.",
+    "category": "conversation"
+  },
+  {
+    "id": "prevaricate",
+    "term": "prevaricate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "prih-VAIR-ih-kayt",
+    "definition": "To speak or act evasively to avoid telling the whole truth.",
+    "example": "Every time I ask about the budget, he prevaricates. I think the news is bad.",
+    "etymology": "From Latin praevaricari ‘to walk crookedly; to collude’, from prae- (before) + varicare (to straddle), from varus ‘bent, knock-kneed’. In Roman law it described an advocate who secretly colluded with the other side; it came to mean deviating from the truth.",
+    "root": {
+      "form": "varus",
+      "language": "Latin",
+      "meaning": "bent, crooked"
+    },
+    "relatedWords": [
+      {
+        "term": "prevarication",
+        "meaning": "evasive or misleading speech"
+      }
+    ],
+    "synonyms": [
+      "equivocate",
+      "hedge",
+      "dodge",
+      "evade"
+    ],
+    "note": "Often confused with ‘procrastinate’. To prevaricate is to dodge the truth, not to put things off (though in British usage it can mean ‘to hesitate’).",
+    "category": "conversation"
+  },
+  {
+    "id": "quibble",
+    "term": "quibble",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KWIB-ul",
+    "definition": "A minor objection or criticism, especially one about a trivial detail.",
+    "example": "My only quibble is the font; otherwise the deck is great.",
+    "etymology": "Probably a diminutive of the obsolete ‘quib’, a pun or evasion, which may come from Latin quibus (‘to/for whom, which’), a word so common in legal documents that it became associated with hair-splitting. The exact origin is uncertain.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "niggle",
+      "nitpick",
+      "objection",
+      "complaint"
+    ],
+    "note": "Calling your own objection a quibble signals it’s minor; calling someone else’s a quibble dismisses it, so use with care.",
+    "category": "conversation"
+  },
+  {
+    "id": "feasible",
+    "term": "feasible",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FEE-zuh-bul",
+    "definition": "Possible to do easily or conveniently; practically achievable.",
+    "example": "Is it even feasible to migrate everything before the end of the month?",
+    "etymology": "From Old French faisible, from fais-, a stem of faire ‘to do’, from Latin facere ‘to do, make’.",
+    "root": {
+      "form": "facere",
+      "language": "Latin",
+      "meaning": "to do, make"
+    },
+    "relatedWords": [
+      {
+        "term": "feat",
+        "meaning": "an achievement"
+      },
+      {
+        "term": "feasibility",
+        "meaning": "the degree to which something can be done"
+      },
+      {
+        "term": "fact",
+        "meaning": "originally ‘a thing done’"
+      },
+      {
+        "term": "feature",
+        "meaning": "originally ‘a making, form’"
+      }
+    ],
+    "synonyms": [
+      "doable",
+      "achievable",
+      "practicable",
+      "workable"
+    ],
+    "note": "Feasible asks ‘can it be done?’; viable asks ‘will it survive or succeed once done?’. Avoid using it to mean ‘probable’.",
+    "category": "conversation"
+  },
+  {
+    "id": "purportedly",
+    "term": "purportedly",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "per-POR-tid-lee",
+    "definition": "As claimed or stated, though not necessarily true.",
+    "example": "The new tool purportedly cuts build times in half. I’ll believe it when I see it.",
+    "etymology": "From purport, from Anglo-French purporter ‘to contain, convey’, from pur- (forth, Latin pro) + porter (to carry). What a document purports is what it carries as its meaning or claim.",
+    "root": {
+      "form": "portare",
+      "language": "Latin",
+      "meaning": "to carry"
+    },
+    "relatedWords": [
+      {
+        "term": "purport",
+        "meaning": "to claim to be or do"
+      },
+      {
+        "term": "import",
+        "meaning": "to carry in; significance"
+      },
+      {
+        "term": "report",
+        "meaning": "to carry back (news)"
+      },
+      {
+        "term": "portable",
+        "meaning": "able to be carried"
+      }
+    ],
+    "synonyms": [
+      "allegedly",
+      "supposedly",
+      "reportedly",
+      "ostensibly"
+    ],
+    "note": "Distances you from a claim you haven’t verified. Close to ‘allegedly’, which is more common for accusations.",
+    "category": "conversation"
+  },
+  {
+    "id": "categorically",
+    "term": "categorically",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "kat-uh-GOR-ik-lee",
+    "definition": "In an absolute, unconditional way, with no exceptions or doubt.",
+    "example": "I can categorically say nobody on this team leaked the numbers.",
+    "etymology": "From categorical, from Greek katēgoria ‘accusation, assertion’, from katēgorein ‘to accuse, assert’, from kata- (against) + agoreuein ‘to speak in the assembly’ (agora). Aristotle used katēgoriai for the basic kinds of assertion, and a categorical statement is one asserted without conditions.",
+    "root": {
+      "form": "agoreuein",
+      "language": "Greek",
+      "meaning": "to speak in public"
+    },
+    "relatedWords": [
+      {
+        "term": "category",
+        "meaning": "a class or division"
+      },
+      {
+        "term": "agora",
+        "meaning": "a public assembly place in ancient Greece"
+      },
+      {
+        "term": "allegory",
+        "meaning": "a story that ‘speaks otherwise’, with a hidden meaning"
+      }
+    ],
+    "synonyms": [
+      "absolutely",
+      "unequivocally",
+      "flatly",
+      "unconditionally"
+    ],
+    "note": "Usually paired with ‘deny’, ‘reject’ or ‘state’. It’s a strong word; only use it if you’re sure.",
+    "category": "conversation"
+  },
+  {
+    "id": "reductive",
+    "term": "reductive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "rih-DUK-tiv",
+    "definition": "Oversimplifying a complex issue in a way that distorts it.",
+    "example": "Saying people left just because of pay feels reductive; the management problems were real too.",
+    "etymology": "From Latin reductus, a form of reducere ‘to lead back, bring back’, from re- (back) + ducere (to lead). A reductive account brings a complex thing back down to one simple factor.",
+    "root": {
+      "form": "ducere",
+      "language": "Latin",
+      "meaning": "to lead"
+    },
+    "relatedWords": [
+      {
+        "term": "reduce",
+        "meaning": "to make smaller or simpler"
+      },
+      {
+        "term": "reductionism",
+        "meaning": "explaining complex things by their simplest parts"
+      },
+      {
+        "term": "deduce",
+        "meaning": "to lead to a conclusion"
+      },
+      {
+        "term": "conduct",
+        "meaning": "to lead or guide"
+      }
+    ],
+    "synonyms": [
+      "simplistic",
+      "oversimplified",
+      "one-dimensional"
+    ],
+    "note": "A criticism: simplifying is fine, but reductive means the simplification loses something important.",
+    "category": "conversation"
+  },
+  {
+    "id": "counterintuitive",
+    "term": "counterintuitive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kown-ter-in-TOO-ih-tiv",
+    "definition": "Contrary to what common sense or instinct would suggest, yet true.",
+    "example": "It’s counterintuitive, but raising the price actually increased sign-ups.",
+    "etymology": "A mid-20th-century formation from counter- (against) + intuitive. Intuition comes from Late Latin intuitio, from intueri ‘to look at, consider’, from in- (on) + tueri (to look, watch over).",
+    "root": {
+      "form": "tueri",
+      "language": "Latin",
+      "meaning": "to look at, watch over"
+    },
+    "relatedWords": [
+      {
+        "term": "intuition",
+        "meaning": "understanding without conscious reasoning"
+      },
+      {
+        "term": "tutor",
+        "meaning": "a guardian or teacher (one who watches over)"
+      },
+      {
+        "term": "tuition",
+        "meaning": "originally ‘guardianship’; teaching"
+      }
+    ],
+    "synonyms": [
+      "surprising",
+      "paradoxical",
+      "unexpected"
+    ],
+    "note": "Implies the claim is true despite seeming wrong, so it’s a good setup for surprising data.",
+    "category": "conversation"
+  },
+  {
+    "id": "incontrovertible",
+    "term": "incontrovertible",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-kon-truh-VUR-tuh-bul",
+    "definition": "Impossible to deny or dispute; beyond argument.",
+    "example": "We don’t have incontrovertible proof yet, but the evidence is pointing one way.",
+    "etymology": "From in- (not) + controvertible, from controvert ‘to dispute’, from Latin controversus ‘turned against, disputed’, from contra (against) + vertere (to turn).",
+    "root": {
+      "form": "vertere",
+      "language": "Latin",
+      "meaning": "to turn"
+    },
+    "relatedWords": [
+      {
+        "term": "controversy",
+        "meaning": "prolonged public disagreement"
+      },
+      {
+        "term": "controvert",
+        "meaning": "to argue against, dispute"
+      },
+      {
+        "term": "versus",
+        "meaning": "against"
+      }
+    ],
+    "synonyms": [
+      "indisputable",
+      "undeniable",
+      "irrefutable",
+      "conclusive"
+    ],
+    "note": "A very high bar. In most real debates, ‘strong’ or ‘compelling’ evidence is the more honest description.",
+    "category": "conversation"
+  },
+  {
+    "id": "rationale",
+    "term": "rationale",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "rash-uh-NAL",
+    "definition": "The set of reasons or logic behind a decision or belief.",
+    "example": "I’m fine with the decision; I’d just like to understand the rationale.",
+    "etymology": "From Late Latin rationalis ‘reasonable’, from ratio ‘reckoning, reason’, from reri ‘to think, reckon’. English borrowed the neuter form rationale in the 17th century for ‘a reasoned explanation’.",
+    "root": {
+      "form": "ratio",
+      "language": "Latin",
+      "meaning": "reckoning, reason"
+    },
+    "relatedWords": [
+      {
+        "term": "rational",
+        "meaning": "based on reason"
+      },
+      {
+        "term": "ratio",
+        "meaning": "a proportional relationship"
+      },
+      {
+        "term": "reason",
+        "meaning": "a cause or justification (via French from ratio)"
+      },
+      {
+        "term": "ration",
+        "meaning": "a fixed, reckoned allowance"
+      }
+    ],
+    "synonyms": [
+      "reasoning",
+      "justification",
+      "basis",
+      "logic"
+    ],
+    "note": "Don’t confuse with ‘rationalize’ (to invent justifications after the fact). Stress falls on the last syllable: rash-uh-NAL.",
+    "category": "conversation"
+  },
+  {
+    "id": "criterion",
+    "term": "criterion",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kry-TEER-ee-un",
+    "definition": "A standard or principle by which something is judged or decided.",
+    "example": "Before we pick a vendor, let’s agree on the criteria. Price can’t be the only criterion.",
+    "etymology": "From Greek kritērion ‘a means of judging, a test’, from kritēs ‘judge’, from krinein ‘to separate, decide, judge’.",
+    "root": {
+      "form": "krinein",
+      "language": "Greek",
+      "meaning": "to separate, judge"
+    },
+    "relatedWords": [
+      {
+        "term": "critic",
+        "meaning": "one who judges"
+      },
+      {
+        "term": "crisis",
+        "meaning": "a decisive turning point"
+      },
+      {
+        "term": "critique",
+        "meaning": "a detailed assessment"
+      },
+      {
+        "term": "hypocrite",
+        "meaning": "from Greek hypokritēs, ‘stage actor’"
+      }
+    ],
+    "synonyms": [
+      "standard",
+      "benchmark",
+      "yardstick",
+      "measure"
+    ],
+    "note": "Criterion is singular, criteria plural. ‘One criteria’ is a common mistake.",
+    "category": "conversation"
+  },
+  {
+    "id": "verbatim",
+    "term": "verbatim",
+    "kind": "word",
+    "partOfSpeech": "adverb",
+    "pronunciation": "ver-BAY-tim",
+    "definition": "In exactly the same words as were originally used.",
+    "example": "I’m quoting her verbatim here: ‘This is the top priority for the quarter.’",
+    "etymology": "From Medieval Latin verbatim ‘word for word’, from Latin verbum ‘word’.",
+    "root": {
+      "form": "verbum",
+      "language": "Latin",
+      "meaning": "word"
+    },
+    "relatedWords": [
+      {
+        "term": "verbal",
+        "meaning": "relating to words; spoken"
+      },
+      {
+        "term": "verbose",
+        "meaning": "using more words than needed"
+      },
+      {
+        "term": "proverb",
+        "meaning": "a short, well-known saying"
+      },
+      {
+        "term": "verb",
+        "meaning": "an action word"
+      }
+    ],
+    "synonyms": [
+      "word for word",
+      "exactly",
+      "literally",
+      "to the letter"
+    ],
+    "note": "Use it only when the quote is exact; otherwise say you’re paraphrasing.",
+    "category": "conversation"
+  },
+  {
+    "id": "segue",
+    "term": "segue",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SEG-way",
+    "definition": "A smooth transition from one topic or part to the next.",
+    "example": "That’s a perfect segue into the next item: hiring.",
+    "etymology": "From Italian segue ‘(it) follows’, a form of seguire ‘to follow’, from Latin sequi. It was a musical direction telling performers to continue straight into the next section; broadcasting borrowed it for smooth transitions.",
+    "root": {
+      "form": "sequi",
+      "language": "Latin",
+      "meaning": "to follow"
+    },
+    "relatedWords": [
+      {
+        "term": "sequel",
+        "meaning": "a work that follows another"
+      },
+      {
+        "term": "sequence",
+        "meaning": "an order in which things follow"
+      },
+      {
+        "term": "consequence",
+        "meaning": "a result that follows"
+      },
+      {
+        "term": "persecute",
+        "meaning": "to pursue with hostility"
+      }
+    ],
+    "synonyms": [
+      "transition",
+      "lead-in",
+      "bridge"
+    ],
+    "note": "Spelled ‘segue’, not ‘segway’ (that’s the scooter brand). Also a verb: ‘let me segue to the budget’.",
+    "category": "conversation"
+  },
+  {
+    "id": "discrepancy",
+    "term": "discrepancy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-SKREP-un-see",
+    "definition": "A lack of agreement between facts, figures, or accounts that should match.",
+    "example": "There’s a discrepancy between the sales numbers and what finance reported. Which one’s right?",
+    "etymology": "From Latin discrepantia, from discrepare ‘to sound differently, be out of tune’, from dis- (apart) + crepare (to rattle, creak). Two accounts that don’t match are pictured as two instruments out of tune.",
+    "root": {
+      "form": "crepare",
+      "language": "Latin",
+      "meaning": "to rattle, creak"
+    },
+    "relatedWords": [
+      {
+        "term": "discrepant",
+        "meaning": "not in agreement"
+      },
+      {
+        "term": "decrepit",
+        "meaning": "worn out with age"
+      }
+    ],
+    "synonyms": [
+      "inconsistency",
+      "mismatch",
+      "difference",
+      "disparity"
+    ],
+    "note": "Neutral in tone, so it raises a mismatch without accusing anyone. Spelled with -ancy, not -ency.",
+    "category": "conversation"
+  },
+  {
+    "id": "sophistry",
+    "term": "sophistry",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SOF-ih-stree",
+    "definition": "Clever-sounding but deliberately misleading or false reasoning.",
+    "example": "That’s sophistry. You can’t call it a cost saving if we just moved the cost to next year.",
+    "etymology": "From sophist, via Latin from Greek sophistēs ‘expert, wise man’, from sophos ‘wise’. The Sophists were paid teachers of rhetoric in ancient Greece; critics like Plato portrayed them as caring more about winning arguments than truth, which gave the word its negative sense.",
+    "root": {
+      "form": "sophos",
+      "language": "Greek",
+      "meaning": "wise"
+    },
+    "relatedWords": [
+      {
+        "term": "sophisticated",
+        "meaning": "originally ‘adulterated, made artificial’; now ‘refined’"
+      },
+      {
+        "term": "philosophy",
+        "meaning": "love of wisdom"
+      },
+      {
+        "term": "sophomore",
+        "meaning": "a second-year student, ‘wise fool’"
+      }
+    ],
+    "synonyms": [
+      "casuistry",
+      "specious reasoning",
+      "spin",
+      "fallacy"
+    ],
+    "note": "Stronger than ‘fallacy’: it implies the speaker knows the argument is misleading.",
+    "category": "conversation"
+  },
+  {
+    "id": "tautology",
+    "term": "tautology",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "taw-TOL-uh-jee",
+    "definition": "Saying the same thing twice in different words; or a statement that is true by definition and says nothing.",
+    "example": "‘Our users are the people who use the product’ is a tautology. What do we actually know about them?",
+    "etymology": "From Late Latin tautologia, from Greek tautologia, from tauto ‘the same’ + -logia ‘saying’.",
+    "root": {
+      "form": "tauto",
+      "language": "Greek",
+      "meaning": "the same"
+    },
+    "relatedWords": [
+      {
+        "term": "tautological",
+        "meaning": "repeating the same idea needlessly"
+      },
+      {
+        "term": "tautomer",
+        "meaning": "a chemical compound existing in interchangeable forms"
+      }
+    ],
+    "synonyms": [
+      "redundancy",
+      "repetition",
+      "circular statement"
+    ],
+    "note": "Examples like ‘free gift’ or ‘past history’ are tautologies. In logic a tautology is a statement true in every case.",
+    "category": "conversation"
+  },
+  {
+    "id": "belabor",
+    "term": "belabor",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "bih-LAY-ber",
+    "definition": "To argue or explain something at excessive length.",
+    "example": "I don’t want to belabor the point, but we’ve had this exact outage three times now.",
+    "etymology": "From be- (thoroughly) + labor. In Middle English it meant ‘to work hard at’; by the 16th century it meant ‘to beat thoroughly’, and from that came ‘to go over a point again and again’.",
+    "root": {
+      "form": "labor",
+      "language": "Latin",
+      "meaning": "toil, work"
+    },
+    "relatedWords": [
+      {
+        "term": "laborious",
+        "meaning": "requiring a lot of effort"
+      },
+      {
+        "term": "elaborate",
+        "meaning": "worked out in detail"
+      },
+      {
+        "term": "collaborate",
+        "meaning": "to work together"
+      }
+    ],
+    "synonyms": [
+      "overdo",
+      "dwell on",
+      "harp on",
+      "overemphasize"
+    ],
+    "note": "Spelled ‘belabour’ in British English. Almost always used in ‘belabor the point’.",
+    "category": "conversation"
+  },
+  {
+    "id": "debunk",
+    "term": "debunk",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "dee-BUNK",
+    "definition": "To expose a claim, myth, or idea as false or exaggerated.",
+    "example": "Let’s debunk the myth that nobody reads release notes. Our analytics say otherwise.",
+    "etymology": "Coined in 1923 by American novelist William Woodward from de- + bunk ‘nonsense’. Bunk is short for bunkum, from Buncombe County, North Carolina, whose congressman around 1820 gave a long, irrelevant speech he said was ‘for Buncombe’, meaning for his constituents.",
+    "root": {
+      "form": "bunkum",
+      "language": "American English",
+      "meaning": "empty talk, nonsense"
+    },
+    "relatedWords": [
+      {
+        "term": "bunk",
+        "meaning": "nonsense"
+      },
+      {
+        "term": "bunkum",
+        "meaning": "insincere or foolish talk"
+      }
+    ],
+    "synonyms": [
+      "disprove",
+      "refute",
+      "discredit",
+      "expose"
+    ],
+    "note": "Implies the claim was popular or inflated. Use ‘refute’ for a formal argument, ‘debunk’ for myths and hype.",
+    "category": "conversation"
+  },
+  {
+    "id": "espouse",
+    "term": "espouse",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "ih-SPOWZ",
+    "definition": "To adopt or support a cause, belief, or way of life.",
+    "example": "It’s easy to espouse transparency until it’s your project on the line.",
+    "etymology": "From Old French espouser ‘to marry’, from Latin sponsare ‘to betroth’, from spondere ‘to pledge, promise’. To espouse a cause is figuratively to wed yourself to it.",
+    "root": {
+      "form": "spondere",
+      "language": "Latin",
+      "meaning": "to pledge, promise"
+    },
+    "relatedWords": [
+      {
+        "term": "spouse",
+        "meaning": "a husband or wife"
+      },
+      {
+        "term": "sponsor",
+        "meaning": "one who pledges support"
+      },
+      {
+        "term": "respond",
+        "meaning": "originally ‘to promise in return’"
+      },
+      {
+        "term": "correspond",
+        "meaning": "to answer to; to exchange letters"
+      }
+    ],
+    "synonyms": [
+      "advocate",
+      "champion",
+      "embrace",
+      "support"
+    ],
+    "note": "Often hints at a gap between professed and actual belief: ‘the values they espouse’.",
+    "category": "conversation"
+  },
+  {
+    "id": "conjecture",
+    "term": "conjecture",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kun-JEK-cher",
+    "definition": "An opinion or conclusion formed from incomplete information; an educated guess.",
+    "example": "This is pure conjecture, but I think they’re about to announce a competing product.",
+    "etymology": "From Latin conjectura ‘inference, guess’, from conicere ‘to throw together; to infer’, from con- (together) + jacere (to throw). A conjecture throws the available clues together into a guess.",
+    "root": {
+      "form": "jacere",
+      "language": "Latin",
+      "meaning": "to throw"
+    },
+    "relatedWords": [
+      {
+        "term": "project",
+        "meaning": "to throw forward"
+      },
+      {
+        "term": "reject",
+        "meaning": "to throw back"
+      },
+      {
+        "term": "interject",
+        "meaning": "to throw in a remark"
+      },
+      {
+        "term": "eject",
+        "meaning": "to throw out"
+      }
+    ],
+    "synonyms": [
+      "speculation",
+      "guess",
+      "surmise",
+      "hypothesis"
+    ],
+    "note": "Flagging something as conjecture is honest framing; presenting conjecture as fact is how rumours start.",
+    "category": "conversation"
+  }
+]

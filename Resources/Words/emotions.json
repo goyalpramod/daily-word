@@ -1,0 +1,3615 @@
+[
+  {
+    "id": "wistful",
+    "term": "wistful",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "WIST-ful",
+    "definition": "Feeling a gentle, sad longing for something past or out of reach.",
+    "example": "She got a little wistful looking at our old college photos.",
+    "etymology": "Origin uncertain. It appeared in the early 17th century, probably from the obsolete ‘wistly’ (intently, closely), and was likely influenced by ‘wishful’. The sense moved from ‘attentive’ to ‘yearning’.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "yearning",
+      "nostalgic",
+      "pensive",
+      "melancholy"
+    ],
+    "note": "Softer than sad: wistful has an element of fondness in it.",
+    "category": "emotions"
+  },
+  {
+    "id": "chagrin",
+    "term": "chagrin",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "shuh-GRIN",
+    "definition": "Annoyance mixed with embarrassment at having failed or been made to look foolish.",
+    "example": "To my chagrin, I’d been calling him by the wrong name all night.",
+    "etymology": "From French chagrin (sorrow, vexation), whose own origin is uncertain. A link to chagrin or shagreen, a rough leather, has been suggested but is disputed. In English it shifted from ‘melancholy’ toward ‘embarrassed annoyance’.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "mortification",
+      "embarrassment",
+      "vexation"
+    ],
+    "note": "Most often used in the set phrase ‘to my (his, her) chagrin’.",
+    "category": "emotions"
+  },
+  {
+    "id": "ennui",
+    "term": "ennui",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "on-WEE",
+    "definition": "A listless, weary dissatisfaction that comes from having nothing interesting to do.",
+    "example": "Three weeks into the holiday, a kind of ennui set in and I actually missed work.",
+    "etymology": "From French ennui (boredom), from Old French enui (annoyance), from the Latin phrase in odio esse, ‘to be hateful’. The same source gave English ‘annoy’; French ennui softened from irritation into weary boredom.",
+    "root": {
+      "form": "odium",
+      "language": "Latin",
+      "meaning": "hatred"
+    },
+    "relatedWords": [
+      {
+        "term": "annoy",
+        "meaning": "to irritate; from the same Latin phrase"
+      },
+      {
+        "term": "odious",
+        "meaning": "extremely unpleasant"
+      },
+      {
+        "term": "odium",
+        "meaning": "general hatred or disgrace"
+      }
+    ],
+    "synonyms": [
+      "boredom",
+      "tedium",
+      "listlessness",
+      "weariness"
+    ],
+    "note": "Deeper and more existential than plain boredom.",
+    "category": "emotions"
+  },
+  {
+    "id": "forlorn",
+    "term": "forlorn",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "fer-LORN",
+    "definition": "Pitifully sad and lonely, as if abandoned.",
+    "example": "The dog sat by the door looking completely forlorn after we left.",
+    "etymology": "From Old English forloren, past participle of forleosan, ‘to lose completely’ (for- intensive + leosan, to lose). It first meant ‘lost’ or ‘morally ruined’, then ‘abandoned’, and finally ‘wretched and lonely’.",
+    "root": {
+      "form": "leosan",
+      "language": "Old English",
+      "meaning": "to lose"
+    },
+    "relatedWords": [
+      {
+        "term": "lose",
+        "meaning": "to be deprived of something"
+      },
+      {
+        "term": "loss",
+        "meaning": "the fact of losing something"
+      },
+      {
+        "term": "lorn",
+        "meaning": "a poetic word for lonely or abandoned"
+      }
+    ],
+    "synonyms": [
+      "desolate",
+      "lonely",
+      "abandoned",
+      "woebegone"
+    ],
+    "note": "‘Forlorn hope’ means a plan with little chance of success.",
+    "category": "emotions"
+  },
+  {
+    "id": "elated",
+    "term": "elated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-LAY-tid",
+    "definition": "Extremely happy and excited, usually because of a success or good news.",
+    "example": "I was elated when they called to say I got the job.",
+    "etymology": "From Latin elatus, ‘lifted up’, past participle of efferre (ex-, out + ferre, to carry). It first meant ‘raised’ or ‘proud’ in English, then ‘in high spirits’.",
+    "root": {
+      "form": "latus",
+      "language": "Latin",
+      "meaning": "carried (past participle of ferre)"
+    },
+    "relatedWords": [
+      {
+        "term": "relate",
+        "meaning": "to carry back, tell"
+      },
+      {
+        "term": "translate",
+        "meaning": "to carry across into another language"
+      },
+      {
+        "term": "collate",
+        "meaning": "to bring together and compare"
+      }
+    ],
+    "synonyms": [
+      "overjoyed",
+      "thrilled",
+      "jubilant",
+      "ecstatic"
+    ],
+    "note": "Usually tied to a specific event; you’re elated about something.",
+    "category": "emotions"
+  },
+  {
+    "id": "sanguine",
+    "term": "sanguine",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SANG-gwin",
+    "definition": "Cheerfully optimistic, especially in a difficult situation.",
+    "example": "The deadline’s tight, but I’m fairly sanguine we’ll make it.",
+    "etymology": "From Latin sanguineus, ‘of blood’, from sanguis (blood). In medieval medicine, a person with an excess of blood among the four humors was thought to be ruddy, confident and hopeful.",
+    "root": {
+      "form": "sanguis",
+      "language": "Latin",
+      "meaning": "blood"
+    },
+    "relatedWords": [
+      {
+        "term": "sangria",
+        "meaning": "a red wine punch, named for its blood colour"
+      },
+      {
+        "term": "consanguinity",
+        "meaning": "relationship by blood"
+      },
+      {
+        "term": "sanguinary",
+        "meaning": "involving much bloodshed"
+      }
+    ],
+    "synonyms": [
+      "optimistic",
+      "hopeful",
+      "confident",
+      "upbeat"
+    ],
+    "note": "Often used in the negative: ‘I’m not sanguine about our chances.’",
+    "category": "emotions"
+  },
+  {
+    "id": "rueful",
+    "term": "rueful",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ROO-ful",
+    "definition": "Expressing regret, often in a wry, slightly humorous way.",
+    "example": "He gave a rueful laugh and admitted he should’ve read the instructions.",
+    "etymology": "From rue (to regret) + -ful. Rue comes from Old English hreowan, ‘to distress, grieve’. Its old noun ‘ruth’ (pity) survives in ‘ruthless’.",
+    "root": {
+      "form": "hreowan",
+      "language": "Old English",
+      "meaning": "to grieve, cause sorrow"
+    },
+    "relatedWords": [
+      {
+        "term": "rue",
+        "meaning": "to bitterly regret"
+      },
+      {
+        "term": "ruthless",
+        "meaning": "without pity"
+      },
+      {
+        "term": "ruth",
+        "meaning": "an old word for pity or compassion"
+      }
+    ],
+    "synonyms": [
+      "regretful",
+      "sheepish",
+      "apologetic",
+      "wry"
+    ],
+    "note": "Often describes a smile or laugh: a rueful grin.",
+    "category": "emotions"
+  },
+  {
+    "id": "petulant",
+    "term": "petulant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PECH-uh-lunt",
+    "definition": "Childishly sulky and bad-tempered because you aren’t getting your way.",
+    "example": "Don’t be petulant just because we picked a different restaurant.",
+    "etymology": "From Latin petulans, ‘forward, insolent’, from petere, ‘to seek, attack’. In English it first meant ‘immodest’ or ‘saucy’; the sense of ‘peevish, sulky’ developed in the 18th century.",
+    "root": {
+      "form": "petere",
+      "language": "Latin",
+      "meaning": "to seek, aim at"
+    },
+    "relatedWords": [
+      {
+        "term": "petition",
+        "meaning": "a formal request"
+      },
+      {
+        "term": "compete",
+        "meaning": "to strive together for something"
+      },
+      {
+        "term": "appetite",
+        "meaning": "a desire, especially for food"
+      },
+      {
+        "term": "impetus",
+        "meaning": "a driving force"
+      }
+    ],
+    "synonyms": [
+      "sulky",
+      "peevish",
+      "huffy",
+      "pouty"
+    ],
+    "note": "Implies childishness; stronger than grumpy.",
+    "category": "emotions"
+  },
+  {
+    "id": "despondent",
+    "term": "despondent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dih-SPON-dent",
+    "definition": "In low spirits from a loss of hope or courage.",
+    "example": "After the third rejection, he was pretty despondent about the whole thing.",
+    "etymology": "From Latin despondere, ‘to give up, lose heart’, from de- (away) + spondere (to promise). The idea is of formally promising something away, then of giving up hope.",
+    "root": {
+      "form": "spondere",
+      "language": "Latin",
+      "meaning": "to promise, pledge"
+    },
+    "relatedWords": [
+      {
+        "term": "respond",
+        "meaning": "to answer (literally, to promise back)"
+      },
+      {
+        "term": "sponsor",
+        "meaning": "someone who pledges support"
+      },
+      {
+        "term": "spouse",
+        "meaning": "a husband or wife (one promised)"
+      }
+    ],
+    "synonyms": [
+      "dejected",
+      "disheartened",
+      "hopeless",
+      "downcast"
+    ],
+    "note": "Emphasises lost hope, not just sadness.",
+    "category": "emotions"
+  },
+  {
+    "id": "nostalgia",
+    "term": "nostalgia",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "no-STAL-juh",
+    "definition": "A sentimental longing for a period in the past.",
+    "example": "Hearing that song gives me serious nostalgia for high school summers.",
+    "etymology": "Coined in 1688 by the Swiss physician Johannes Hofer from Greek nostos (homecoming) + algos (pain). It named a medical condition of severe homesickness before softening into fond longing for the past.",
+    "root": {
+      "form": "algos",
+      "language": "Greek",
+      "meaning": "pain"
+    },
+    "relatedWords": [
+      {
+        "term": "neuralgia",
+        "meaning": "pain along a nerve"
+      },
+      {
+        "term": "analgesic",
+        "meaning": "a painkiller"
+      },
+      {
+        "term": "nostalgic",
+        "meaning": "feeling or evoking nostalgia"
+      }
+    ],
+    "synonyms": [
+      "longing",
+      "wistfulness",
+      "reminiscence",
+      "sentimentality"
+    ],
+    "note": "Now mostly about time rather than place; for place, ‘homesickness’ is more common.",
+    "category": "emotions"
+  },
+  {
+    "id": "melancholy",
+    "term": "melancholy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "MEL-un-kol-ee",
+    "definition": "A deep, lingering, often reflective sadness without an obvious cause.",
+    "example": "There’s a kind of melancholy that comes over me every November.",
+    "etymology": "From Greek melankholia, from melas (black) + khole (bile). Ancient medicine blamed excess black bile, one of the four humors, for gloom and brooding.",
+    "root": {
+      "form": "melas",
+      "language": "Greek",
+      "meaning": "black"
+    },
+    "relatedWords": [
+      {
+        "term": "melanin",
+        "meaning": "the pigment that darkens skin and hair"
+      },
+      {
+        "term": "choleric",
+        "meaning": "bad-tempered (from yellow bile)"
+      },
+      {
+        "term": "melanoma",
+        "meaning": "a dark skin tumour"
+      }
+    ],
+    "synonyms": [
+      "sadness",
+      "gloom",
+      "sorrow",
+      "wistfulness"
+    ],
+    "note": "Can also be an adjective: a melancholy mood. It often has a thoughtful, even beautiful quality.",
+    "category": "emotions"
+  },
+  {
+    "id": "euphoric",
+    "term": "euphoric",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "yoo-FOR-ik",
+    "definition": "Feeling intense excitement and happiness, often overwhelmingly so.",
+    "example": "The whole stadium was euphoric when that last-minute goal went in.",
+    "etymology": "From Greek euphoria, ‘the power of bearing easily’, from eu (well) + pherein (to bear). It was a medical term for a feeling of well-being before it came to mean intense elation.",
+    "root": {
+      "form": "pherein",
+      "language": "Greek",
+      "meaning": "to bear, carry"
+    },
+    "relatedWords": [
+      {
+        "term": "euphoria",
+        "meaning": "a state of intense happiness"
+      },
+      {
+        "term": "metaphor",
+        "meaning": "a figure of speech (literally, a carrying over)"
+      },
+      {
+        "term": "periphery",
+        "meaning": "the outer edge (literally, carried around)"
+      }
+    ],
+    "synonyms": [
+      "elated",
+      "ecstatic",
+      "jubilant",
+      "overjoyed"
+    ],
+    "note": "Can suggest a high that’s a bit unreal or short-lived.",
+    "category": "emotions"
+  },
+  {
+    "id": "apprehensive",
+    "term": "apprehensive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ap-rih-HEN-siv",
+    "definition": "Anxious or fearful that something bad will happen.",
+    "example": "I’m a bit apprehensive about meeting her parents this weekend.",
+    "etymology": "From Latin apprehendere, ‘to seize, grasp’ (ad- + prehendere). The sense went from physically grasping, to grasping with the mind, to anticipating something, especially with dread.",
+    "root": {
+      "form": "prehendere",
+      "language": "Latin",
+      "meaning": "to grasp, seize"
+    },
+    "relatedWords": [
+      {
+        "term": "comprehend",
+        "meaning": "to grasp mentally, understand"
+      },
+      {
+        "term": "prehensile",
+        "meaning": "able to grasp, like a monkey’s tail"
+      },
+      {
+        "term": "apprehend",
+        "meaning": "to arrest; also to understand"
+      }
+    ],
+    "synonyms": [
+      "uneasy",
+      "nervous",
+      "worried",
+      "anxious"
+    ],
+    "note": "Milder than dread; it’s forward-looking unease.",
+    "category": "emotions"
+  },
+  {
+    "id": "contrite",
+    "term": "contrite",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kun-TRYT",
+    "definition": "Feeling or showing sincere remorse for having done wrong.",
+    "example": "He was genuinely contrite after he snapped at you, you know.",
+    "etymology": "From Latin contritus, ‘ground to pieces, crushed’, past participle of conterere (con- + terere, to rub). Church Latin used it for a heart ‘crushed’ by guilt.",
+    "root": {
+      "form": "terere",
+      "language": "Latin",
+      "meaning": "to rub, wear away"
+    },
+    "relatedWords": [
+      {
+        "term": "contrition",
+        "meaning": "sincere remorse"
+      },
+      {
+        "term": "attrition",
+        "meaning": "gradual wearing down"
+      },
+      {
+        "term": "trite",
+        "meaning": "worn out by overuse"
+      },
+      {
+        "term": "detriment",
+        "meaning": "harm or damage"
+      }
+    ],
+    "synonyms": [
+      "remorseful",
+      "repentant",
+      "apologetic",
+      "penitent"
+    ],
+    "note": "Stronger and more sincere than just ‘sorry’.",
+    "category": "emotions"
+  },
+  {
+    "id": "indignant",
+    "term": "indignant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-DIG-nunt",
+    "definition": "Angry at something you see as unfair or insulting.",
+    "example": "She was indignant when they accused her of cheating.",
+    "etymology": "From Latin indignari, ‘to regard as unworthy’, from in- (not) + dignus (worthy). The anger is at something unworthy or undeserved.",
+    "root": {
+      "form": "dignus",
+      "language": "Latin",
+      "meaning": "worthy"
+    },
+    "relatedWords": [
+      {
+        "term": "dignity",
+        "meaning": "the state of being worthy of respect"
+      },
+      {
+        "term": "deign",
+        "meaning": "to do something you think beneath you"
+      },
+      {
+        "term": "disdain",
+        "meaning": "the feeling that something is unworthy"
+      },
+      {
+        "term": "indignity",
+        "meaning": "treatment that causes shame"
+      }
+    ],
+    "synonyms": [
+      "outraged",
+      "affronted",
+      "aggrieved",
+      "resentful"
+    ],
+    "note": "Implies moral anger: you feel wronged, not just annoyed.",
+    "category": "emotions"
+  },
+  {
+    "id": "ambivalent",
+    "term": "ambivalent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "am-BIV-uh-lunt",
+    "definition": "Having mixed or contradictory feelings about something.",
+    "example": "I’m kind of ambivalent about moving: great job, but I’d miss everyone.",
+    "etymology": "From German Ambivalenz, coined around 1910 by the psychiatrist Eugen Bleuler, from Latin ambi- (both) + valentia (strength), from valere (to be strong). It meant pulled in two directions at once.",
+    "root": {
+      "form": "valere",
+      "language": "Latin",
+      "meaning": "to be strong, be worth"
+    },
+    "relatedWords": [
+      {
+        "term": "equivalent",
+        "meaning": "equal in value"
+      },
+      {
+        "term": "valid",
+        "meaning": "well-grounded, having force"
+      },
+      {
+        "term": "ambidextrous",
+        "meaning": "able to use both hands equally"
+      }
+    ],
+    "synonyms": [
+      "torn",
+      "conflicted",
+      "uncertain",
+      "in two minds"
+    ],
+    "note": "Doesn’t mean indifferent: ambivalent means you feel both ways, not neither.",
+    "category": "emotions"
+  },
+  {
+    "id": "exasperated",
+    "term": "exasperated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ig-ZAS-puh-ray-tid",
+    "definition": "Intensely irritated and frustrated, especially after repeated annoyance.",
+    "example": "I asked him five times to call back, and I’m honestly exasperated.",
+    "etymology": "From Latin exasperare, ‘to make rough, irritate’, from ex- (thoroughly) + asper (rough). Feelings are imagined as being roughened up.",
+    "root": {
+      "form": "asper",
+      "language": "Latin",
+      "meaning": "rough, harsh"
+    },
+    "relatedWords": [
+      {
+        "term": "asperity",
+        "meaning": "harshness of tone or manner"
+      },
+      {
+        "term": "exasperation",
+        "meaning": "intense irritation"
+      }
+    ],
+    "synonyms": [
+      "fed up",
+      "frustrated",
+      "irritated",
+      "at the end of your rope"
+    ],
+    "note": "Suggests patience worn thin by repetition.",
+    "category": "emotions"
+  },
+  {
+    "id": "smitten",
+    "term": "smitten",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SMIT-n",
+    "definition": "Suddenly and strongly attracted to someone, or very taken with something.",
+    "example": "He’s completely smitten with the new puppy.",
+    "etymology": "Past participle of smite, from Old English smitan, which first meant ‘to smear, daub’ and later ‘to strike’. Being smitten is being ‘struck’, as if by love’s blow.",
+    "root": {
+      "form": "smitan",
+      "language": "Old English",
+      "meaning": "to smear; later, to strike"
+    },
+    "relatedWords": [
+      {
+        "term": "smite",
+        "meaning": "to strike hard"
+      }
+    ],
+    "synonyms": [
+      "infatuated",
+      "besotted",
+      "enamored",
+      "taken with"
+    ],
+    "note": "Light and affectionate in tone; usually followed by ‘with’.",
+    "category": "emotions"
+  },
+  {
+    "id": "listless",
+    "term": "listless",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LIST-lis",
+    "definition": "Lacking energy or enthusiasm; unable to care about doing anything.",
+    "example": "I’ve felt listless all week; I think I need a proper break.",
+    "etymology": "From an old noun ‘list’ (desire, inclination), from Old English lystan, ‘to please, desire’, + -less. So listless is literally ‘without desire’.",
+    "root": {
+      "form": "lystan",
+      "language": "Old English",
+      "meaning": "to desire, please"
+    },
+    "relatedWords": [
+      {
+        "term": "lust",
+        "meaning": "strong desire"
+      },
+      {
+        "term": "lusty",
+        "meaning": "healthy and vigorous"
+      },
+      {
+        "term": "wanderlust",
+        "meaning": "a strong desire to travel"
+      }
+    ],
+    "synonyms": [
+      "lethargic",
+      "sluggish",
+      "unenthusiastic",
+      "languid"
+    ],
+    "note": "Points to lack of desire, not just tiredness.",
+    "category": "emotions"
+  },
+  {
+    "id": "jubilant",
+    "term": "jubilant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JOO-buh-lunt",
+    "definition": "Feeling or expressing great joy, especially at a triumph.",
+    "example": "The team was jubilant after finally winning the championship.",
+    "etymology": "From Latin jubilare, ‘to shout with joy’, originally a shepherd’s call or cry. ‘Jubilee’ comes from a Hebrew word but was shaped by this Latin verb.",
+    "root": {
+      "form": "jubilare",
+      "language": "Latin",
+      "meaning": "to shout for joy"
+    },
+    "relatedWords": [
+      {
+        "term": "jubilation",
+        "meaning": "great happiness and celebration"
+      },
+      {
+        "term": "jubilee",
+        "meaning": "a special anniversary (influenced by jubilare)"
+      }
+    ],
+    "synonyms": [
+      "triumphant",
+      "exultant",
+      "elated",
+      "overjoyed"
+    ],
+    "note": "Loud, outward joy, usually shared with others.",
+    "category": "emotions"
+  },
+  {
+    "id": "sheepish",
+    "term": "sheepish",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SHEE-pish",
+    "definition": "Embarrassed because you know you’ve done something silly or wrong.",
+    "example": "He came back with a sheepish grin and said he’d locked the keys in the car.",
+    "etymology": "From sheep + -ish. It first meant ‘meek or timid like a sheep’; the sense of ‘awkwardly embarrassed’ became common in the late 17th century.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "embarrassed",
+      "abashed",
+      "shamefaced",
+      "rueful"
+    ],
+    "note": "Lighter than ashamed; usually about minor mistakes.",
+    "category": "emotions"
+  },
+  {
+    "id": "resentful",
+    "term": "resentful",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "rih-ZENT-ful",
+    "definition": "Bitter about having been treated unfairly.",
+    "example": "She’s still a bit resentful that she wasn’t asked to the wedding.",
+    "etymology": "From French ressentir, ‘to feel strongly’, from re- (intensive) + sentir (to feel), from Latin sentire. It first meant to feel any emotion deeply; the bitter sense took over in the 17th century.",
+    "root": {
+      "form": "sentire",
+      "language": "Latin",
+      "meaning": "to feel"
+    },
+    "relatedWords": [
+      {
+        "term": "sentiment",
+        "meaning": "a feeling or opinion"
+      },
+      {
+        "term": "sense",
+        "meaning": "a faculty of perception"
+      },
+      {
+        "term": "consent",
+        "meaning": "agreement (feeling together)"
+      }
+    ],
+    "synonyms": [
+      "bitter",
+      "aggrieved",
+      "begrudging",
+      "indignant"
+    ],
+    "note": "Resentment lingers; it’s anger that has settled in.",
+    "category": "emotions"
+  },
+  {
+    "id": "schadenfreude",
+    "term": "schadenfreude",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SHAH-dn-froy-duh",
+    "definition": "Pleasure taken in someone else’s misfortune.",
+    "example": "I’ll admit, watching the guy who cut the line get turned away gave me some schadenfreude.",
+    "etymology": "Borrowed from German, from Schaden (harm, damage) + Freude (joy). It has been used in English since the late 19th century. Schaden is related to English ‘scathe’.",
+    "root": {
+      "form": "Schaden",
+      "language": "German",
+      "meaning": "harm, damage"
+    },
+    "relatedWords": [
+      {
+        "term": "scathing",
+        "meaning": "harshly critical (from a related Germanic root)"
+      },
+      {
+        "term": "unscathed",
+        "meaning": "without harm"
+      }
+    ],
+    "synonyms": [
+      "gloating",
+      "malicious joy"
+    ],
+    "note": "Usually admitted with a little guilt.",
+    "category": "emotions"
+  },
+  {
+    "id": "angst",
+    "term": "angst",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "AHNGST",
+    "definition": "A deep, often vague feeling of anxiety or dread, especially about life or the world.",
+    "example": "My teenage journals are just pages and pages of angst.",
+    "etymology": "From German Angst (fear, anxiety). It entered English partly through translations of the Danish philosopher Kierkegaard (angest). It shares a distant Indo-European root meaning ‘tight, narrow’ with anxiety and anguish.",
+    "root": {
+      "form": "Angst",
+      "language": "German",
+      "meaning": "fear, anxiety"
+    },
+    "relatedWords": [
+      {
+        "term": "anxiety",
+        "meaning": "worry and unease (distantly related)"
+      },
+      {
+        "term": "anguish",
+        "meaning": "severe distress (distantly related)"
+      }
+    ],
+    "synonyms": [
+      "anxiety",
+      "dread",
+      "unease",
+      "anguish"
+    ],
+    "note": "Often used half-jokingly for teenage or existential worry.",
+    "category": "emotions"
+  },
+  {
+    "id": "wanderlust",
+    "term": "wanderlust",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "WON-der-lust",
+    "definition": "A strong, restless desire to travel and explore the world.",
+    "example": "Every time I see photos of Portugal, my wanderlust kicks in.",
+    "etymology": "Borrowed from German in the early 20th century, from wandern (to hike, roam) + Lust (desire). Both parts are related to English ‘wander’ and ‘lust’.",
+    "root": {
+      "form": "Lust",
+      "language": "German",
+      "meaning": "desire, pleasure"
+    },
+    "relatedWords": [
+      {
+        "term": "wander",
+        "meaning": "to roam without fixed course"
+      },
+      {
+        "term": "lust",
+        "meaning": "strong desire"
+      },
+      {
+        "term": "listless",
+        "meaning": "without desire"
+      }
+    ],
+    "synonyms": [
+      "itchy feet",
+      "restlessness",
+      "urge to travel"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "malaise",
+    "term": "malaise",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "muh-LAYZ",
+    "definition": "A general feeling of unease, discomfort or low spirits that’s hard to pin down.",
+    "example": "There’s been a real malaise around the office since the layoffs.",
+    "etymology": "From French malaise, from mal (bad, ill) + aise (ease). Literally ‘ill-ease’. It’s used for vague physical illness and for a gloomy mood, in people or whole societies.",
+    "root": {
+      "form": "aise",
+      "language": "French",
+      "meaning": "ease"
+    },
+    "relatedWords": [
+      {
+        "term": "ease",
+        "meaning": "freedom from difficulty or discomfort"
+      },
+      {
+        "term": "disease",
+        "meaning": "illness (literally, lack of ease)"
+      }
+    ],
+    "synonyms": [
+      "unease",
+      "listlessness",
+      "ennui",
+      "discontent"
+    ],
+    "note": "Often used about groups: economic malaise, a malaise in the team.",
+    "category": "emotions"
+  },
+  {
+    "id": "frisson",
+    "term": "frisson",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "free-SOHN",
+    "definition": "A sudden brief thrill of excitement or fear.",
+    "example": "There was a little frisson in the room when he walked in with his ex.",
+    "etymology": "From French frisson (a shiver, thrill). It’s usually traced to Late Latin frictio (a rubbing), probably influenced by Latin frigere (to be cold).",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "thrill",
+      "shiver",
+      "tingle",
+      "rush"
+    ],
+    "note": "Brief and physical: a ripple of feeling, not a mood.",
+    "category": "emotions"
+  },
+  {
+    "id": "morose",
+    "term": "morose",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "muh-ROHS",
+    "definition": "Sullen, gloomy and unwilling to talk.",
+    "example": "He’s been morose ever since they lost the match; just leave him be.",
+    "etymology": "From Latin morosus, ‘peevish, fastidious, self-willed’, from mos (custom, manner, will). It shifted from ‘fussy and difficult’ to ‘gloomy and sullen’.",
+    "root": {
+      "form": "mos",
+      "language": "Latin",
+      "meaning": "custom, manner"
+    },
+    "relatedWords": [
+      {
+        "term": "mores",
+        "meaning": "the customs of a community"
+      },
+      {
+        "term": "moral",
+        "meaning": "concerning right conduct"
+      }
+    ],
+    "synonyms": [
+      "sullen",
+      "glum",
+      "gloomy",
+      "sour"
+    ],
+    "note": "Combines sadness with withdrawn bad temper.",
+    "category": "emotions"
+  },
+  {
+    "id": "disgruntled",
+    "term": "disgruntled",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-GRUN-tld",
+    "definition": "Angry or dissatisfied, often in a grumbling way.",
+    "example": "A few disgruntled customers left long reviews about the wait.",
+    "etymology": "From dis- (here intensive) + gruntle, ‘to grumble’, a frequentative of grunt. It dates from the 17th century. ‘Gruntled’ (content) is a later joking back-formation.",
+    "root": {
+      "form": "grunt",
+      "language": "English",
+      "meaning": "to make a low guttural sound"
+    },
+    "relatedWords": [
+      {
+        "term": "grunt",
+        "meaning": "a low, rough sound"
+      },
+      {
+        "term": "gruntled",
+        "meaning": "a humorous word for pleased"
+      }
+    ],
+    "synonyms": [
+      "discontented",
+      "dissatisfied",
+      "fed up",
+      "peeved"
+    ],
+    "note": "Often used of employees or customers.",
+    "category": "emotions"
+  },
+  {
+    "id": "crestfallen",
+    "term": "crestfallen",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KREST-faw-lun",
+    "definition": "Sad and disappointed, especially after a hope is dashed.",
+    "example": "She looked so crestfallen when they said the tickets had sold out.",
+    "etymology": "From crest + fallen. The image is of a fighting cock whose crest, or comb, droops after defeat. It has been used figuratively since the late 16th century.",
+    "root": {
+      "form": "crista",
+      "language": "Latin",
+      "meaning": "tuft, plume, comb"
+    },
+    "relatedWords": [
+      {
+        "term": "crest",
+        "meaning": "a tuft on a bird’s head; the top of something"
+      }
+    ],
+    "synonyms": [
+      "dejected",
+      "downcast",
+      "deflated",
+      "disappointed"
+    ],
+    "note": "Implies a sudden drop from hopefulness.",
+    "category": "emotions"
+  },
+  {
+    "id": "dejected",
+    "term": "dejected",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dih-JEK-tid",
+    "definition": "Sad and dispirited, especially after a setback.",
+    "example": "He walked off the court looking dejected after missing that last shot.",
+    "etymology": "From Latin deicere, ‘to throw down’, from de- (down) + jacere (to throw). Someone dejected is ‘thrown down’ in spirits.",
+    "root": {
+      "form": "jacere",
+      "language": "Latin",
+      "meaning": "to throw"
+    },
+    "relatedWords": [
+      {
+        "term": "reject",
+        "meaning": "to throw back, refuse"
+      },
+      {
+        "term": "eject",
+        "meaning": "to throw out"
+      },
+      {
+        "term": "project",
+        "meaning": "to throw forward"
+      },
+      {
+        "term": "abject",
+        "meaning": "cast down, wretched"
+      }
+    ],
+    "synonyms": [
+      "downcast",
+      "crestfallen",
+      "despondent",
+      "disheartened"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "sullen",
+    "term": "sullen",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SUL-un",
+    "definition": "Silently bad-tempered and resentful.",
+    "example": "The kids sat in sullen silence after we took their phones away.",
+    "etymology": "From Anglo-French solain (solitary), from sol (alone), from Latin solus. It first meant ‘solitary’ or ‘averse to company’, then gloomily withdrawn and resentful.",
+    "root": {
+      "form": "solus",
+      "language": "Latin",
+      "meaning": "alone"
+    },
+    "relatedWords": [
+      {
+        "term": "solitary",
+        "meaning": "alone"
+      },
+      {
+        "term": "sole",
+        "meaning": "one and only"
+      },
+      {
+        "term": "desolate",
+        "meaning": "empty and lonely"
+      }
+    ],
+    "synonyms": [
+      "sulky",
+      "morose",
+      "surly",
+      "glum"
+    ],
+    "note": "Implies a silent, simmering mood rather than an outburst.",
+    "category": "emotions"
+  },
+  {
+    "id": "aggrieved",
+    "term": "aggrieved",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-GREEVD",
+    "definition": "Feeling resentment at having been treated unfairly.",
+    "example": "He sounded pretty aggrieved that nobody told him about the meeting.",
+    "etymology": "From Old French agrever, ‘to make heavier, oppress’, from Latin aggravare (ad- + gravis, heavy). Grief and grievance are a burden weighing on you.",
+    "root": {
+      "form": "gravis",
+      "language": "Latin",
+      "meaning": "heavy"
+    },
+    "relatedWords": [
+      {
+        "term": "grief",
+        "meaning": "deep sorrow"
+      },
+      {
+        "term": "grievance",
+        "meaning": "a complaint about unfair treatment"
+      },
+      {
+        "term": "aggravate",
+        "meaning": "to make worse"
+      },
+      {
+        "term": "gravity",
+        "meaning": "weight, seriousness"
+      }
+    ],
+    "synonyms": [
+      "wronged",
+      "resentful",
+      "indignant",
+      "hard done by"
+    ],
+    "note": "Also a legal term: the aggrieved party.",
+    "category": "emotions"
+  },
+  {
+    "id": "vexed",
+    "term": "vexed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VEKST",
+    "definition": "Annoyed, frustrated or worried, especially over something tricky.",
+    "example": "I was a bit vexed that they changed the plan without asking.",
+    "etymology": "From Latin vexare, ‘to shake, agitate, harass’. The idea of being shaken up became the sense of irritation or troubling.",
+    "root": {
+      "form": "vexare",
+      "language": "Latin",
+      "meaning": "to shake, harass"
+    },
+    "relatedWords": [
+      {
+        "term": "vexation",
+        "meaning": "annoyance or worry"
+      },
+      {
+        "term": "vexatious",
+        "meaning": "causing annoyance"
+      }
+    ],
+    "synonyms": [
+      "annoyed",
+      "irritated",
+      "irked",
+      "bothered"
+    ],
+    "note": "A ‘vexed question’ is one that’s much debated and hard to settle.",
+    "category": "emotions"
+  },
+  {
+    "id": "irked",
+    "term": "irked",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "URKT",
+    "definition": "Mildly annoyed or irritated.",
+    "example": "It irked me that he didn’t even say thank you.",
+    "etymology": "From Middle English irken, ‘to grow weary’ or ‘to be annoyed’. Its origin is uncertain; a link to Old Norse yrkja (to work) has been suggested.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "irksome",
+        "meaning": "annoying, tiresome"
+      }
+    ],
+    "synonyms": [
+      "annoyed",
+      "irritated",
+      "peeved",
+      "vexed"
+    ],
+    "note": "Lighter than angry; something small that gets under your skin.",
+    "category": "emotions"
+  },
+  {
+    "id": "piqued",
+    "term": "piqued",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PEEKT",
+    "definition": "Feeling irritated or resentful because your pride has been hurt.",
+    "example": "She was a little piqued that he forgot she’d planned the whole trip.",
+    "etymology": "From French piquer, ‘to prick, sting’. Pride that’s been ‘pricked’ leaves you piqued; the same verb gives ‘pique someone’s interest’, meaning to arouse it.",
+    "root": {
+      "form": "piquer",
+      "language": "French",
+      "meaning": "to prick, sting"
+    },
+    "relatedWords": [
+      {
+        "term": "pique",
+        "meaning": "a fit of wounded pride"
+      },
+      {
+        "term": "piquant",
+        "meaning": "pleasantly sharp or spicy"
+      }
+    ],
+    "synonyms": [
+      "offended",
+      "miffed",
+      "put out",
+      "resentful"
+    ],
+    "note": "Don’t confuse with peaked (pale, unwell) or ‘peek’. Interest is piqued, not peaked.",
+    "category": "emotions"
+  },
+  {
+    "id": "wary",
+    "term": "wary",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "WAIR-ee",
+    "definition": "Cautious and on guard about possible danger or problems.",
+    "example": "I’m a bit wary of deals that sound this good.",
+    "etymology": "From Old English wær, ‘watchful, cautious’, + -y. The same root gives ‘aware’ and ‘beware’.",
+    "root": {
+      "form": "wær",
+      "language": "Old English",
+      "meaning": "watchful, careful"
+    },
+    "relatedWords": [
+      {
+        "term": "aware",
+        "meaning": "having knowledge or perception"
+      },
+      {
+        "term": "beware",
+        "meaning": "be cautious of"
+      }
+    ],
+    "synonyms": [
+      "cautious",
+      "guarded",
+      "leery",
+      "suspicious"
+    ],
+    "note": "Don’t confuse with weary (tired).",
+    "category": "emotions"
+  },
+  {
+    "id": "trepidation",
+    "term": "trepidation",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "trep-ih-DAY-shun",
+    "definition": "A feeling of fear or nervousness about something that’s about to happen.",
+    "example": "I opened the email from my landlord with some trepidation.",
+    "etymology": "From Latin trepidatio, from trepidare, ‘to tremble, hurry anxiously’, from trepidus (alarmed). In English it first meant literal trembling.",
+    "root": {
+      "form": "trepidus",
+      "language": "Latin",
+      "meaning": "alarmed, trembling"
+    },
+    "relatedWords": [
+      {
+        "term": "intrepid",
+        "meaning": "fearless (literally, not trembling)"
+      }
+    ],
+    "synonyms": [
+      "apprehension",
+      "nervousness",
+      "dread",
+      "unease"
+    ],
+    "note": "Often appears as ‘with some trepidation’.",
+    "category": "emotions"
+  },
+  {
+    "id": "dread",
+    "term": "dread",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "DRED",
+    "definition": "Great fear or apprehension about something that’s going to happen.",
+    "example": "I’ve had this sense of dread about the presentation all week.",
+    "etymology": "From Old English ondrædan or adrædan, ‘to fear’. The origin of the core element is uncertain, and it has no clear relatives outside West Germanic.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "dreadful",
+        "meaning": "extremely bad; originally, causing fear"
+      }
+    ],
+    "synonyms": [
+      "fear",
+      "apprehension",
+      "foreboding",
+      "trepidation"
+    ],
+    "note": "A slow, anticipatory fear: you dread Monday, you don’t fear it.",
+    "category": "emotions"
+  },
+  {
+    "id": "qualms",
+    "term": "qualms",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KWAHMZ",
+    "definition": "Uneasy feelings of doubt or guilt about whether you’re doing the right thing.",
+    "example": "I had a few qualms about lying to her, even if it was for a surprise party.",
+    "etymology": "Origin uncertain. ‘Qualm’ appeared in the 1520s meaning a sudden fit of sickness or faintness; a link to Old English cwealm (death, plague) is possible but unproven. The moral sense of misgiving developed in the 17th century.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "misgivings",
+      "scruples",
+      "doubts",
+      "reservations"
+    ],
+    "note": "Usually plural and often negative: ‘I have no qualms about it.’",
+    "category": "emotions"
+  },
+  {
+    "id": "remorse",
+    "term": "remorse",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "rih-MORS",
+    "definition": "Deep regret and guilt for a wrong you have done.",
+    "example": "You could see the remorse on his face when he realised what he’d said.",
+    "etymology": "From Medieval Latin remorsus, from remordere, ‘to bite again’, from re- + mordere (to bite). Conscience was pictured as gnawing at the guilty.",
+    "root": {
+      "form": "mordere",
+      "language": "Latin",
+      "meaning": "to bite"
+    },
+    "relatedWords": [
+      {
+        "term": "morsel",
+        "meaning": "a small bite of food"
+      },
+      {
+        "term": "mordant",
+        "meaning": "biting, sharply sarcastic"
+      }
+    ],
+    "synonyms": [
+      "guilt",
+      "contrition",
+      "regret",
+      "compunction"
+    ],
+    "note": "Stronger than regret; you feel remorse for wrongs, regret for anything.",
+    "category": "emotions"
+  },
+  {
+    "id": "compunction",
+    "term": "compunction",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kum-PUNK-shun",
+    "definition": "A feeling of guilt or moral hesitation that stops or follows doing something wrong.",
+    "example": "He had no compunction about eating the last slice.",
+    "etymology": "From Late Latin compunctio, from compungere, ‘to prick severely’, from com- + pungere (to prick). Church writers used it for the prick of conscience.",
+    "root": {
+      "form": "pungere",
+      "language": "Latin",
+      "meaning": "to prick"
+    },
+    "relatedWords": [
+      {
+        "term": "puncture",
+        "meaning": "a small hole made by piercing"
+      },
+      {
+        "term": "pungent",
+        "meaning": "sharply strong in smell or taste"
+      },
+      {
+        "term": "punctual",
+        "meaning": "on time (exact to the point)"
+      }
+    ],
+    "synonyms": [
+      "scruples",
+      "qualms",
+      "guilt",
+      "misgiving"
+    ],
+    "note": "Almost always negative: ‘no compunction about...’.",
+    "category": "emotions"
+  },
+  {
+    "id": "mortified",
+    "term": "mortified",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MOR-tuh-fyd",
+    "definition": "Extremely embarrassed or ashamed.",
+    "example": "I was mortified when my mic was on during that call.",
+    "etymology": "From Latin mortificare, ‘to kill’, from mors (death) + facere (to make). Religious use meant subduing the body by self-denial; by the late 17th century it meant to humiliate.",
+    "root": {
+      "form": "mors",
+      "language": "Latin",
+      "meaning": "death"
+    },
+    "relatedWords": [
+      {
+        "term": "mortal",
+        "meaning": "subject to death"
+      },
+      {
+        "term": "mortuary",
+        "meaning": "a place for dead bodies"
+      },
+      {
+        "term": "immortal",
+        "meaning": "never dying"
+      }
+    ],
+    "synonyms": [
+      "humiliated",
+      "ashamed",
+      "embarrassed",
+      "abashed"
+    ],
+    "note": "Fittingly hyperbolic: feeling so embarrassed you could die.",
+    "category": "emotions"
+  },
+  {
+    "id": "abashed",
+    "term": "abashed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-BASHT",
+    "definition": "Embarrassed, disconcerted or ashamed.",
+    "example": "He looked abashed when she pointed out he’d mixed up the dates.",
+    "etymology": "From Old French esbahir, ‘to astound’, from es- (out) + bahir, an exclamation of astonishment (probably imitative, like ‘bah’). It shifted from ‘astonished’ to ‘embarrassed’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "bashful",
+        "meaning": "shy (from a shortened form of abash)"
+      },
+      {
+        "term": "unabashed",
+        "meaning": "not embarrassed at all"
+      }
+    ],
+    "synonyms": [
+      "embarrassed",
+      "sheepish",
+      "ashamed",
+      "shamefaced"
+    ],
+    "note": "‘Unabashed’ is more common: unabashed enthusiasm.",
+    "category": "emotions"
+  },
+  {
+    "id": "flustered",
+    "term": "flustered",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FLUS-terd",
+    "definition": "Agitated and confused, especially when rushed or put on the spot.",
+    "example": "I got so flustered when he asked me a question I wasn’t ready for.",
+    "etymology": "Origin uncertain, possibly Scandinavian (compare Icelandic flaustra, ‘to bustle’). In the 1600s ‘fluster’ meant to make slightly drunk; the sense of nervous confusion came later.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "fluster",
+        "meaning": "to make someone nervous and confused"
+      }
+    ],
+    "synonyms": [
+      "rattled",
+      "flummoxed",
+      "agitated",
+      "frazzled"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "discombobulated",
+    "term": "discombobulated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-kum-BOB-yuh-lay-tid",
+    "definition": "Confused and disoriented.",
+    "example": "I’m still a bit discombobulated from the red-eye flight.",
+    "etymology": "A playful American coinage from the 1830s, built to sound mock-Latin. It may be loosely based on ‘discompose’ or ‘discomfit’, but there’s no real root.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "confused",
+      "disoriented",
+      "flustered",
+      "befuddled"
+    ],
+    "note": "Informal and humorous in tone.",
+    "category": "emotions"
+  },
+  {
+    "id": "bewildered",
+    "term": "bewildered",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "bih-WIL-derd",
+    "definition": "Completely puzzled and confused.",
+    "example": "Tourists stood bewildered in front of the ticket machine.",
+    "etymology": "From be- (thoroughly) + the old verb wilder, ‘to lead astray, lose one’s way’, which may come from ‘wilderness’. To be bewildered was to be lost in unfamiliar country.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "wilderness",
+        "meaning": "an uncultivated, uninhabited region"
+      }
+    ],
+    "synonyms": [
+      "baffled",
+      "perplexed",
+      "confused",
+      "mystified"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "nonplussed",
+    "term": "nonplussed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "non-PLUST",
+    "definition": "So surprised and confused that you don’t know how to react.",
+    "example": "I was nonplussed when she just laughed and walked away.",
+    "etymology": "From the noun nonplus, from Latin non plus, ‘no more, no further’: a state where nothing more can be said or done.",
+    "root": {
+      "form": "plus",
+      "language": "Latin",
+      "meaning": "more"
+    },
+    "relatedWords": [
+      {
+        "term": "plus",
+        "meaning": "with the addition of"
+      },
+      {
+        "term": "surplus",
+        "meaning": "an amount left over"
+      },
+      {
+        "term": "plural",
+        "meaning": "more than one"
+      }
+    ],
+    "synonyms": [
+      "baffled",
+      "perplexed",
+      "taken aback",
+      "bewildered"
+    ],
+    "note": "In informal American use it’s often used to mean ‘unfazed’, the opposite. The traditional sense is ‘puzzled’.",
+    "category": "emotions"
+  },
+  {
+    "id": "perplexed",
+    "term": "perplexed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "per-PLEKST",
+    "definition": "Completely baffled by something difficult to understand.",
+    "example": "I’m perplexed about why the code works on my laptop but not on yours.",
+    "etymology": "From Latin perplexus, ‘entangled, confused’, from per- (thoroughly) + plexus (woven), from plectere (to plait). A perplexed mind is one tangled up.",
+    "root": {
+      "form": "plectere",
+      "language": "Latin",
+      "meaning": "to weave, plait"
+    },
+    "relatedWords": [
+      {
+        "term": "complex",
+        "meaning": "made of interwoven parts"
+      },
+      {
+        "term": "plexus",
+        "meaning": "a network of nerves or vessels"
+      }
+    ],
+    "synonyms": [
+      "puzzled",
+      "baffled",
+      "mystified",
+      "bewildered"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "incredulous",
+    "term": "incredulous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-KREJ-uh-lus",
+    "definition": "Unwilling or unable to believe something.",
+    "example": "She gave me an incredulous look when I said I’d run a marathon.",
+    "etymology": "From Latin incredulus, from in- (not) + credulus (believing easily), from credere (to believe).",
+    "root": {
+      "form": "credere",
+      "language": "Latin",
+      "meaning": "to believe, trust"
+    },
+    "relatedWords": [
+      {
+        "term": "credible",
+        "meaning": "able to be believed"
+      },
+      {
+        "term": "credit",
+        "meaning": "trust; belief in someone’s ability to pay"
+      },
+      {
+        "term": "creed",
+        "meaning": "a set of beliefs"
+      },
+      {
+        "term": "credulous",
+        "meaning": "too ready to believe things"
+      }
+    ],
+    "synonyms": [
+      "disbelieving",
+      "skeptical",
+      "doubtful",
+      "dubious"
+    ],
+    "note": "People are incredulous; stories are incredible.",
+    "category": "emotions"
+  },
+  {
+    "id": "awestruck",
+    "term": "awestruck",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "AW-struk",
+    "definition": "Filled with wonder and amazement, sometimes tinged with fear.",
+    "example": "We stood there awestruck the first time we saw the Grand Canyon.",
+    "etymology": "From awe + struck. Awe comes from Old Norse agi (fright, terror). It first meant dread, and gradually came to mean reverent wonder.",
+    "root": {
+      "form": "agi",
+      "language": "Old Norse",
+      "meaning": "fright, terror"
+    },
+    "relatedWords": [
+      {
+        "term": "awe",
+        "meaning": "reverent wonder"
+      },
+      {
+        "term": "awful",
+        "meaning": "very bad; originally, inspiring awe"
+      },
+      {
+        "term": "awesome",
+        "meaning": "inspiring awe; informally, great"
+      }
+    ],
+    "synonyms": [
+      "amazed",
+      "in awe",
+      "wonderstruck",
+      "dumbfounded"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "rapture",
+    "term": "rapture",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "RAP-cher",
+    "definition": "A feeling of intense pleasure or joy that carries you away.",
+    "example": "The kids listened in rapture as she told the story.",
+    "etymology": "From Medieval Latin raptura, ‘a seizing, carrying off’, from rapere (to seize). To be in rapture is to be ‘carried away’ by emotion.",
+    "root": {
+      "form": "rapere",
+      "language": "Latin",
+      "meaning": "to seize, carry off"
+    },
+    "relatedWords": [
+      {
+        "term": "rapt",
+        "meaning": "completely absorbed"
+      },
+      {
+        "term": "rapacious",
+        "meaning": "aggressively greedy"
+      },
+      {
+        "term": "ravish",
+        "meaning": "to fill with delight; to seize"
+      }
+    ],
+    "synonyms": [
+      "ecstasy",
+      "bliss",
+      "euphoria",
+      "delight"
+    ],
+    "note": "‘Rhapsody’ is unrelated despite the similar sound.",
+    "category": "emotions"
+  },
+  {
+    "id": "bliss",
+    "term": "bliss",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "BLIS",
+    "definition": "Perfect, serene happiness.",
+    "example": "A hot bath after a long hike is pure bliss.",
+    "etymology": "From Old English bliss, earlier bliths, from blithe (happy, gentle). Its meaning was influenced by the unrelated word ‘bless’, which gave it a spiritual overtone.",
+    "root": {
+      "form": "bliþe",
+      "language": "Old English",
+      "meaning": "joyous, kind"
+    },
+    "relatedWords": [
+      {
+        "term": "blithe",
+        "meaning": "happy and carefree"
+      },
+      {
+        "term": "blissful",
+        "meaning": "extremely happy"
+      }
+    ],
+    "synonyms": [
+      "joy",
+      "contentment",
+      "rapture",
+      "heaven"
+    ],
+    "note": "Calmer than euphoria; bliss is a peaceful happiness.",
+    "category": "emotions"
+  },
+  {
+    "id": "serene",
+    "term": "serene",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "suh-REEN",
+    "definition": "Calm, peaceful and untroubled.",
+    "example": "She seemed totally serene, even with the chaos going on around her.",
+    "etymology": "From Latin serenus, ‘clear, unclouded’, used of the sky and weather. The sense moved from a clear sky to a calm mind.",
+    "root": {
+      "form": "serenus",
+      "language": "Latin",
+      "meaning": "clear, unclouded"
+    },
+    "relatedWords": [
+      {
+        "term": "serenity",
+        "meaning": "the state of being calm"
+      },
+      {
+        "term": "serenade",
+        "meaning": "evening music, via Italian sereno (open air)"
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "tranquil",
+      "peaceful",
+      "composed"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "content",
+    "term": "content",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kun-TENT",
+    "definition": "Quietly satisfied and at peace with what you have.",
+    "example": "Honestly, I’m content with a quiet weekend at home.",
+    "etymology": "From Latin contentus, ‘contained, satisfied’, past participle of continere (to hold together). Being content is being held within limits, with no wish for more.",
+    "root": {
+      "form": "continere",
+      "language": "Latin",
+      "meaning": "to hold together, contain"
+    },
+    "relatedWords": [
+      {
+        "term": "contain",
+        "meaning": "to hold within"
+      },
+      {
+        "term": "continent",
+        "meaning": "a large connected landmass"
+      },
+      {
+        "term": "contentment",
+        "meaning": "a state of satisfaction"
+      }
+    ],
+    "synonyms": [
+      "satisfied",
+      "at peace",
+      "fulfilled",
+      "comfortable"
+    ],
+    "note": "Stress the second syllable (kun-TENT); CON-tent is the noun meaning substance.",
+    "category": "emotions"
+  },
+  {
+    "id": "gratified",
+    "term": "gratified",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GRAT-ih-fyd",
+    "definition": "Pleased and satisfied, especially at being proved right or appreciated.",
+    "example": "I was gratified to see so many people show up to the talk.",
+    "etymology": "From Latin gratificari, ‘to do a favour, oblige’, from gratus (pleasing, thankful) + facere (to make).",
+    "root": {
+      "form": "gratus",
+      "language": "Latin",
+      "meaning": "pleasing, thankful"
+    },
+    "relatedWords": [
+      {
+        "term": "grateful",
+        "meaning": "thankful"
+      },
+      {
+        "term": "gratitude",
+        "meaning": "thankfulness"
+      },
+      {
+        "term": "gratuitous",
+        "meaning": "done freely; unwarranted"
+      },
+      {
+        "term": "gratis",
+        "meaning": "free of charge"
+      }
+    ],
+    "synonyms": [
+      "pleased",
+      "satisfied",
+      "heartened",
+      "delighted"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "exultant",
+    "term": "exultant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ig-ZUL-tunt",
+    "definition": "Triumphantly happy, especially after a success.",
+    "example": "He was exultant after finally beating his brother at chess.",
+    "etymology": "From Latin exsultare, ‘to leap up, rejoice’, from ex- (out) + saltare (to leap), a form of salire. Exultation was pictured as jumping for joy.",
+    "root": {
+      "form": "salire",
+      "language": "Latin",
+      "meaning": "to leap"
+    },
+    "relatedWords": [
+      {
+        "term": "salient",
+        "meaning": "most noticeable (literally, leaping out)"
+      },
+      {
+        "term": "resilient",
+        "meaning": "springing back"
+      },
+      {
+        "term": "somersault",
+        "meaning": "a leap with the body turning over"
+      }
+    ],
+    "synonyms": [
+      "triumphant",
+      "jubilant",
+      "elated",
+      "gleeful"
+    ],
+    "note": "Don’t confuse with exalted (raised high in rank).",
+    "category": "emotions"
+  },
+  {
+    "id": "buoyant",
+    "term": "buoyant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BOY-unt",
+    "definition": "Cheerful and optimistic, as if lifted up.",
+    "example": "Everyone’s mood was buoyant after the good news on Friday.",
+    "etymology": "From Spanish boyante, ‘floating’, from boyar (to float), from boya (buoy). The figurative sense of light-hearted cheer came in the 18th century.",
+    "root": {
+      "form": "boya",
+      "language": "Spanish",
+      "meaning": "buoy"
+    },
+    "relatedWords": [
+      {
+        "term": "buoy",
+        "meaning": "a floating marker"
+      },
+      {
+        "term": "buoyancy",
+        "meaning": "the ability to float; resilience"
+      }
+    ],
+    "synonyms": [
+      "cheerful",
+      "upbeat",
+      "light-hearted",
+      "sanguine"
+    ],
+    "note": "Also used of markets and economies.",
+    "category": "emotions"
+  },
+  {
+    "id": "giddy",
+    "term": "giddy",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GID-ee",
+    "definition": "Lightheaded and excitable with happiness, almost dizzy.",
+    "example": "I was giddy with excitement the night before the trip.",
+    "etymology": "From Old English gidig, ‘insane’, probably from a root meaning ‘possessed by a god’. It softened to ‘foolish’, then ‘dizzy’, then ‘excitably happy’.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "lightheaded",
+      "excited",
+      "euphoric",
+      "dizzy"
+    ],
+    "note": "Can mean literally dizzy as well as excited.",
+    "category": "emotions"
+  },
+  {
+    "id": "ebullient",
+    "term": "ebullient",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-BUL-yunt",
+    "definition": "Bubbling over with cheerful energy and enthusiasm.",
+    "example": "She was in an ebullient mood after her promotion.",
+    "etymology": "From Latin ebullire, ‘to boil over’, from ex- (out) + bullire (to boil, bubble). The image is of high spirits bubbling up and spilling over.",
+    "root": {
+      "form": "bullire",
+      "language": "Latin",
+      "meaning": "to boil, bubble"
+    },
+    "relatedWords": [
+      {
+        "term": "boil",
+        "meaning": "to heat to bubbling"
+      },
+      {
+        "term": "bouillon",
+        "meaning": "a clear broth"
+      },
+      {
+        "term": "ebullition",
+        "meaning": "boiling; a sudden outburst"
+      }
+    ],
+    "synonyms": [
+      "exuberant",
+      "buoyant",
+      "effervescent",
+      "bubbly"
+    ],
+    "note": "Can describe a temperament as well as a mood.",
+    "category": "emotions"
+  },
+  {
+    "id": "exhilarated",
+    "term": "exhilarated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ig-ZIL-uh-ray-tid",
+    "definition": "Very happy, excited and energised, often after something thrilling.",
+    "example": "I felt exhilarated after my first time skydiving.",
+    "etymology": "From Latin exhilarare, ‘to gladden’, from ex- (thoroughly) + hilarare (to cheer), from hilaris (cheerful), from Greek hilaros.",
+    "root": {
+      "form": "hilaris",
+      "language": "Latin",
+      "meaning": "cheerful"
+    },
+    "relatedWords": [
+      {
+        "term": "hilarious",
+        "meaning": "extremely funny"
+      },
+      {
+        "term": "hilarity",
+        "meaning": "great amusement"
+      }
+    ],
+    "synonyms": [
+      "thrilled",
+      "elated",
+      "energised",
+      "exuberant"
+    ],
+    "note": "Note the spelling: the h is easy to forget.",
+    "category": "emotions"
+  },
+  {
+    "id": "enamored",
+    "term": "enamored",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-NAM-erd",
+    "definition": "Filled with love or strong liking for someone or something.",
+    "example": "I’m not exactly enamored with the new office layout.",
+    "etymology": "From Old French enamourer, ‘to inflame with love’, from en- (in) + amour (love), from Latin amor.",
+    "root": {
+      "form": "amor",
+      "language": "Latin",
+      "meaning": "love"
+    },
+    "relatedWords": [
+      {
+        "term": "amorous",
+        "meaning": "showing romantic desire"
+      },
+      {
+        "term": "amateur",
+        "meaning": "someone who does something for love, not money"
+      },
+      {
+        "term": "paramour",
+        "meaning": "a lover"
+      }
+    ],
+    "synonyms": [
+      "smitten",
+      "infatuated",
+      "taken with",
+      "fond of"
+    ],
+    "note": "British spelling is ‘enamoured’. Often used in the negative for dislike.",
+    "category": "emotions"
+  },
+  {
+    "id": "infatuated",
+    "term": "infatuated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-FACH-oo-ay-tid",
+    "definition": "Swept up in an intense but often short-lived passion for someone.",
+    "example": "He’s infatuated with her; give it a month and we’ll see.",
+    "etymology": "From Latin infatuare, ‘to make a fool of’, from in- + fatuus (foolish). Infatuation was originally a kind of folly.",
+    "root": {
+      "form": "fatuus",
+      "language": "Latin",
+      "meaning": "foolish"
+    },
+    "relatedWords": [
+      {
+        "term": "fatuous",
+        "meaning": "silly and pointless"
+      },
+      {
+        "term": "infatuation",
+        "meaning": "an intense, unreasoning passion"
+      }
+    ],
+    "synonyms": [
+      "besotted",
+      "smitten",
+      "enamored",
+      "obsessed"
+    ],
+    "note": "Implies the feeling may be irrational or temporary.",
+    "category": "emotions"
+  },
+  {
+    "id": "besotted",
+    "term": "besotted",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "bih-SOT-id",
+    "definition": "So strongly infatuated that you seem a bit foolish.",
+    "example": "They’re completely besotted with their new baby.",
+    "etymology": "From be- + sot, ‘a fool’ (later ‘a drunkard’), from Old English sott, of uncertain origin. It first meant ‘made foolish’, often by drink, then by love.",
+    "root": {
+      "form": "sott",
+      "language": "Old English",
+      "meaning": "fool"
+    },
+    "relatedWords": [
+      {
+        "term": "sot",
+        "meaning": "a habitual drunkard"
+      },
+      {
+        "term": "sottish",
+        "meaning": "foolish or drunken"
+      }
+    ],
+    "synonyms": [
+      "smitten",
+      "infatuated",
+      "doting",
+      "head over heels"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "yearning",
+    "term": "yearning",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "YUR-ning",
+    "definition": "An intense, aching longing for something.",
+    "example": "I have this yearning to just pack up and live by the sea.",
+    "etymology": "From Old English giernan, ‘to strive, desire’, from a Germanic root also found in German gern (gladly, willingly).",
+    "root": {
+      "form": "giernan",
+      "language": "Old English",
+      "meaning": "to desire, strive"
+    },
+    "relatedWords": [
+      {
+        "term": "yearn",
+        "meaning": "to long for intensely"
+      }
+    ],
+    "synonyms": [
+      "longing",
+      "craving",
+      "pining",
+      "hankering"
+    ],
+    "note": "Suggests something deep and persistent, not a passing want.",
+    "category": "emotions"
+  },
+  {
+    "id": "pining",
+    "term": "pining",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "PY-ning",
+    "definition": "Longing painfully for someone or something absent, often to the point of wasting away.",
+    "example": "He’s been pining for her ever since she moved to Berlin.",
+    "etymology": "From Old English pinian, ‘to torment’, from pin (pain), borrowed from Latin poena (penalty, punishment). It shifted from causing suffering to suffering with longing.",
+    "root": {
+      "form": "poena",
+      "language": "Latin",
+      "meaning": "penalty, punishment"
+    },
+    "relatedWords": [
+      {
+        "term": "pain",
+        "meaning": "physical or mental suffering"
+      },
+      {
+        "term": "penal",
+        "meaning": "relating to punishment"
+      },
+      {
+        "term": "penalty",
+        "meaning": "a punishment"
+      }
+    ],
+    "synonyms": [
+      "yearning",
+      "longing",
+      "languishing",
+      "missing"
+    ],
+    "note": "Usually ‘pining for’ someone or something.",
+    "category": "emotions"
+  },
+  {
+    "id": "homesick",
+    "term": "homesick",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HOHM-sik",
+    "definition": "Sad and longing for home while you’re away from it.",
+    "example": "I got really homesick my first month at uni.",
+    "etymology": "From home + sick, first recorded in the mid-18th century as a translation of German Heimweh (home-pain), the same idea Hofer had named nostalgia.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "nostalgia",
+        "meaning": "originally a medical term for homesickness"
+      }
+    ],
+    "synonyms": [
+      "nostalgic",
+      "pining",
+      "lonely"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "desolate",
+    "term": "desolate",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "DES-uh-lit",
+    "definition": "Utterly alone and miserable.",
+    "example": "She felt desolate after the breakup, like nothing would ever be okay.",
+    "etymology": "From Latin desolatus, ‘abandoned’, from desolare (to leave alone), from de- + solus (alone). It applies both to empty places and to lonely, wretched people.",
+    "root": {
+      "form": "solus",
+      "language": "Latin",
+      "meaning": "alone"
+    },
+    "relatedWords": [
+      {
+        "term": "solitude",
+        "meaning": "the state of being alone"
+      },
+      {
+        "term": "solo",
+        "meaning": "done alone"
+      },
+      {
+        "term": "sullen",
+        "meaning": "silently resentful (originally, solitary)"
+      }
+    ],
+    "synonyms": [
+      "forlorn",
+      "bereft",
+      "wretched",
+      "disconsolate"
+    ],
+    "note": "As a verb (DES-uh-layt), it means to make someone feel this way.",
+    "category": "emotions"
+  },
+  {
+    "id": "bereft",
+    "term": "bereft",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "bih-REFT",
+    "definition": "Sad and lost because someone or something has been taken away.",
+    "example": "When our old dog died, the kids were bereft for weeks.",
+    "etymology": "Past participle of bereave, from Old English bereafian, ‘to deprive, rob’, from be- + reafian (to rob, plunder). The same Germanic root eventually gave ‘rob’ through French.",
+    "root": {
+      "form": "reafian",
+      "language": "Old English",
+      "meaning": "to rob, plunder"
+    },
+    "relatedWords": [
+      {
+        "term": "bereave",
+        "meaning": "to deprive of a loved one through death"
+      },
+      {
+        "term": "bereavement",
+        "meaning": "the loss of a loved one"
+      }
+    ],
+    "synonyms": [
+      "grief-stricken",
+      "desolate",
+      "forlorn",
+      "heartbroken"
+    ],
+    "note": "‘Bereft of’ also means simply lacking: bereft of ideas.",
+    "category": "emotions"
+  },
+  {
+    "id": "disconsolate",
+    "term": "disconsolate",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-KON-suh-lit",
+    "definition": "So unhappy that nothing can comfort you.",
+    "example": "He was disconsolate after the team got knocked out of the cup.",
+    "etymology": "From Medieval Latin disconsolatus, from dis- (not) + consolatus (comforted), from consolari, built on solari (to comfort). It means literally ‘unable to be consoled’.",
+    "root": {
+      "form": "solari",
+      "language": "Latin",
+      "meaning": "to comfort"
+    },
+    "relatedWords": [
+      {
+        "term": "console",
+        "meaning": "to comfort"
+      },
+      {
+        "term": "consolation",
+        "meaning": "comfort after a loss"
+      },
+      {
+        "term": "solace",
+        "meaning": "comfort in distress"
+      }
+    ],
+    "synonyms": [
+      "inconsolable",
+      "heartbroken",
+      "desolate",
+      "despondent"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "woebegone",
+    "term": "woebegone",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "WOH-bih-gon",
+    "definition": "Looking sad and miserable.",
+    "example": "The cat sat in the rain with a woebegone expression.",
+    "etymology": "From woe + begone, the past participle of the old verb bego, ‘to surround, beset’. So woebegone means ‘beset by woe’.",
+    "root": {
+      "form": "wa",
+      "language": "Old English",
+      "meaning": "woe, misery"
+    },
+    "relatedWords": [
+      {
+        "term": "woe",
+        "meaning": "great sorrow"
+      },
+      {
+        "term": "woeful",
+        "meaning": "very sad; deplorably bad"
+      }
+    ],
+    "synonyms": [
+      "forlorn",
+      "miserable",
+      "downcast",
+      "crestfallen"
+    ],
+    "note": "Often describes appearance: a woebegone face.",
+    "category": "emotions"
+  },
+  {
+    "id": "dismayed",
+    "term": "dismayed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-MAYD",
+    "definition": "Upset and discouraged by something unexpected and unwelcome.",
+    "example": "I was dismayed to find the whole report had to be redone.",
+    "etymology": "From Anglo-French dismaier, probably from dis- + a Germanic root meaning ‘to have power’ (related to English ‘may’ and ‘might’). The idea is of being robbed of strength or courage.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "disheartened",
+      "alarmed",
+      "appalled",
+      "taken aback"
+    ],
+    "note": "Combines disappointment with alarm.",
+    "category": "emotions"
+  },
+  {
+    "id": "disillusioned",
+    "term": "disillusioned",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-ih-LOO-zhund",
+    "definition": "Disappointed after discovering something is not as good as you believed.",
+    "example": "A lot of people get disillusioned with politics after a few years.",
+    "etymology": "From dis- + illusion, from Latin illusio (mockery, deceit), from illudere, ‘to mock’, from in- + ludere (to play). To be disillusioned is to have the trick exposed.",
+    "root": {
+      "form": "ludere",
+      "language": "Latin",
+      "meaning": "to play"
+    },
+    "relatedWords": [
+      {
+        "term": "delude",
+        "meaning": "to deceive"
+      },
+      {
+        "term": "ludicrous",
+        "meaning": "absurd, laughable"
+      },
+      {
+        "term": "prelude",
+        "meaning": "an introductory piece"
+      },
+      {
+        "term": "collusion",
+        "meaning": "secret cooperation to deceive"
+      }
+    ],
+    "synonyms": [
+      "disenchanted",
+      "let down",
+      "jaded",
+      "cynical"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "jaded",
+    "term": "jaded",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JAY-did",
+    "definition": "Tired, bored or cynical from having too much of something.",
+    "example": "After ten years in the industry, I’m a bit jaded about product launches.",
+    "etymology": "From jade, an old word for a worn-out horse, of uncertain origin (perhaps related to Old Norse jalda, mare). It’s unrelated to the green stone.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "world-weary",
+      "cynical",
+      "disillusioned",
+      "blasé"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "apathetic",
+    "term": "apathetic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ap-uh-THET-ik",
+    "definition": "Showing no interest, enthusiasm or concern.",
+    "example": "I’ve been so apathetic about the gym lately.",
+    "etymology": "From Greek apatheia, ‘freedom from suffering or emotion’, from a- (without) + pathos (feeling, suffering). To the Stoics it was a virtue; in English it came to mean indifference.",
+    "root": {
+      "form": "pathos",
+      "language": "Greek",
+      "meaning": "feeling, suffering"
+    },
+    "relatedWords": [
+      {
+        "term": "sympathy",
+        "meaning": "feeling with someone"
+      },
+      {
+        "term": "empathy",
+        "meaning": "the ability to share another’s feelings"
+      },
+      {
+        "term": "pathetic",
+        "meaning": "pitiful; originally, arousing emotion"
+      }
+    ],
+    "synonyms": [
+      "indifferent",
+      "uninterested",
+      "listless",
+      "unmoved"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "lethargic",
+    "term": "lethargic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "luh-THAR-jik",
+    "definition": "Sluggish and lacking energy, physically or mentally.",
+    "example": "I always feel lethargic after a big lunch.",
+    "etymology": "From Greek lethargos, ‘forgetful’, from lethe (forgetfulness) + argos (idle). In Greek myth, Lethe was the river of forgetfulness in the underworld.",
+    "root": {
+      "form": "lethe",
+      "language": "Greek",
+      "meaning": "forgetfulness"
+    },
+    "relatedWords": [
+      {
+        "term": "lethargy",
+        "meaning": "a lack of energy"
+      },
+      {
+        "term": "Lethe",
+        "meaning": "the mythical river of forgetfulness"
+      }
+    ],
+    "synonyms": [
+      "sluggish",
+      "listless",
+      "drowsy",
+      "torpid"
+    ],
+    "note": "Unrelated to ‘lethal’, which comes from Latin letum (death).",
+    "category": "emotions"
+  },
+  {
+    "id": "languid",
+    "term": "languid",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LANG-gwid",
+    "definition": "Pleasantly relaxed and slow-moving, or weak and lacking energy.",
+    "example": "We spent a languid afternoon by the pool doing absolutely nothing.",
+    "etymology": "From Latin languidus, ‘faint, weak’, from languere (to be weak or faint).",
+    "root": {
+      "form": "languere",
+      "language": "Latin",
+      "meaning": "to be weak, faint"
+    },
+    "relatedWords": [
+      {
+        "term": "languish",
+        "meaning": "to lose strength; to suffer neglect"
+      },
+      {
+        "term": "languor",
+        "meaning": "pleasant tiredness"
+      }
+    ],
+    "synonyms": [
+      "relaxed",
+      "unhurried",
+      "listless",
+      "lazy"
+    ],
+    "note": "Often positive (a languid summer day), unlike lethargic.",
+    "category": "emotions"
+  },
+  {
+    "id": "weary",
+    "term": "weary",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "WEER-ee",
+    "definition": "Very tired, or worn out and fed up with something.",
+    "example": "I’m weary of having the same argument every week.",
+    "etymology": "From Old English werig, ‘tired, exhausted’, of uncertain further origin.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "wearisome",
+        "meaning": "causing tiredness or boredom"
+      },
+      {
+        "term": "world-weary",
+        "meaning": "tired of life and its experiences"
+      }
+    ],
+    "synonyms": [
+      "exhausted",
+      "fatigued",
+      "fed up",
+      "jaded"
+    ],
+    "note": "Don’t confuse with wary (cautious). ‘Weary of’ means tired of.",
+    "category": "emotions"
+  },
+  {
+    "id": "jittery",
+    "term": "jittery",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JIT-uh-ree",
+    "definition": "Nervous and jumpy.",
+    "example": "Too much coffee makes me jittery before a meeting.",
+    "etymology": "From jitter, 1920s American slang (‘the jitters’), of unknown origin, possibly imitative.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "jitters",
+        "meaning": "a feeling of extreme nervousness"
+      }
+    ],
+    "synonyms": [
+      "jumpy",
+      "edgy",
+      "nervous",
+      "on edge"
+    ],
+    "note": "Informal.",
+    "category": "emotions"
+  },
+  {
+    "id": "restive",
+    "term": "restive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "RES-tiv",
+    "definition": "Restless and impatient, especially under control or delay.",
+    "example": "The audience was getting restive after an hour of speeches.",
+    "etymology": "From Old French restif, ‘stationary, balky’, from rester (to stay), from Latin restare. It described a horse refusing to move forward; by contrast, the modern sense is fidgety impatience.",
+    "root": {
+      "form": "restare",
+      "language": "Latin",
+      "meaning": "to stay back, remain"
+    },
+    "relatedWords": [
+      {
+        "term": "arrest",
+        "meaning": "to stop; to seize"
+      },
+      {
+        "term": "rest",
+        "meaning": "the remainder"
+      }
+    ],
+    "synonyms": [
+      "restless",
+      "fidgety",
+      "impatient",
+      "unsettled"
+    ],
+    "note": "Often used of groups growing impatient: a restive crowd.",
+    "category": "emotions"
+  },
+  {
+    "id": "antsy",
+    "term": "antsy",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ANT-see",
+    "definition": "Restless and impatient, unable to keep still.",
+    "example": "The kids get antsy if the drive is longer than an hour.",
+    "etymology": "An American informal word, probably from the expression ‘to have ants in one’s pants’, meaning to be fidgety.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "restless",
+      "fidgety",
+      "impatient",
+      "jittery"
+    ],
+    "note": "Casual register.",
+    "category": "emotions"
+  },
+  {
+    "id": "fretful",
+    "term": "fretful",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FRET-ful",
+    "definition": "Anxious, worried and unable to settle.",
+    "example": "She’s been fretful all day waiting for the test results.",
+    "etymology": "From fret + -ful. Fret comes from Old English fretan, ‘to devour, gnaw’, from for- + etan (to eat). Worry is imagined as gnawing at you.",
+    "root": {
+      "form": "etan",
+      "language": "Old English",
+      "meaning": "to eat"
+    },
+    "relatedWords": [
+      {
+        "term": "fret",
+        "meaning": "to worry; originally, to gnaw"
+      },
+      {
+        "term": "eat",
+        "meaning": "to consume food"
+      }
+    ],
+    "synonyms": [
+      "anxious",
+      "agitated",
+      "uneasy",
+      "worried"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "harried",
+    "term": "harried",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HAIR-eed",
+    "definition": "Stressed and harassed by constant demands.",
+    "example": "The harried waiter was covering ten tables by himself.",
+    "etymology": "From harry, from Old English hergian, ‘to ravage, make war’, related to here (army). Being harried is being constantly raided by demands.",
+    "root": {
+      "form": "here",
+      "language": "Old English",
+      "meaning": "army"
+    },
+    "relatedWords": [
+      {
+        "term": "harry",
+        "meaning": "to persistently harass"
+      },
+      {
+        "term": "herald",
+        "meaning": "a messenger (originally, army commander)"
+      },
+      {
+        "term": "harbinger",
+        "meaning": "a forerunner (originally, someone who found army lodgings)"
+      }
+    ],
+    "synonyms": [
+      "frazzled",
+      "stressed",
+      "beleaguered",
+      "hassled"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "frazzled",
+    "term": "frazzled",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FRAZ-uld",
+    "definition": "Completely exhausted and on edge from stress.",
+    "example": "By Friday afternoon I’m totally frazzled.",
+    "etymology": "From frazzle, 19th-century American, of uncertain origin; it may come from English dialect fazle, ‘to unravel, fray’. The image is of worn, frayed threads.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "exhausted",
+      "harried",
+      "worn out",
+      "stressed"
+    ],
+    "note": "Informal.",
+    "category": "emotions"
+  },
+  {
+    "id": "overwrought",
+    "term": "overwrought",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "oh-ver-RAWT",
+    "definition": "In a state of nervous excitement or anxiety, too worked-up to think straight.",
+    "example": "Don’t make decisions when you’re this overwrought; sleep on it.",
+    "etymology": "From over + wrought, an old past participle of work. It meant literally ‘overworked’, then emotionally worked up beyond control.",
+    "root": {
+      "form": "wyrcan",
+      "language": "Old English",
+      "meaning": "to work, make"
+    },
+    "relatedWords": [
+      {
+        "term": "wrought",
+        "meaning": "worked, shaped (as in wrought iron)"
+      },
+      {
+        "term": "work",
+        "meaning": "effort or activity"
+      }
+    ],
+    "synonyms": [
+      "agitated",
+      "distraught",
+      "worked up",
+      "frantic"
+    ],
+    "note": "Also used of writing that’s too elaborate: overwrought prose.",
+    "category": "emotions"
+  },
+  {
+    "id": "incensed",
+    "term": "incensed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-SENST",
+    "definition": "Extremely angry; enraged.",
+    "example": "Residents were incensed when they heard about the new parking fees.",
+    "etymology": "From Latin incensus, past participle of incendere, ‘to set on fire’. The same verb gives incense (burned for its smell), so being incensed is being inflamed with anger.",
+    "root": {
+      "form": "incendere",
+      "language": "Latin",
+      "meaning": "to set on fire"
+    },
+    "relatedWords": [
+      {
+        "term": "incense",
+        "meaning": "a substance burned for its fragrance"
+      },
+      {
+        "term": "incendiary",
+        "meaning": "designed to start fires; inflammatory"
+      }
+    ],
+    "synonyms": [
+      "furious",
+      "livid",
+      "outraged",
+      "irate"
+    ],
+    "note": "Stress on the second syllable, unlike the noun IN-cense.",
+    "category": "emotions"
+  },
+  {
+    "id": "livid",
+    "term": "livid",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LIV-id",
+    "definition": "Furiously angry.",
+    "example": "My dad was livid when he saw the dent in the car.",
+    "etymology": "From Latin lividus, ‘bluish, leaden-coloured’, from livere (to be bluish). It first described the colour of a bruise; the ‘furious’ sense, from a face discoloured by rage, became common in the 20th century.",
+    "root": {
+      "form": "livere",
+      "language": "Latin",
+      "meaning": "to be bluish"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "furious",
+      "incensed",
+      "seething",
+      "irate"
+    ],
+    "note": "Originally meant blue-grey, not red.",
+    "category": "emotions"
+  },
+  {
+    "id": "irate",
+    "term": "irate",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "eye-RAYT",
+    "definition": "Feeling or showing great anger.",
+    "example": "An irate customer was shouting at the front desk.",
+    "etymology": "From Latin iratus, ‘angry’, past participle of irasci (to grow angry), from ira (anger).",
+    "root": {
+      "form": "ira",
+      "language": "Latin",
+      "meaning": "anger"
+    },
+    "relatedWords": [
+      {
+        "term": "ire",
+        "meaning": "anger"
+      },
+      {
+        "term": "irascible",
+        "meaning": "easily angered"
+      }
+    ],
+    "synonyms": [
+      "furious",
+      "angry",
+      "incensed",
+      "livid"
+    ],
+    "note": "Often describes outward anger directed at someone.",
+    "category": "emotions"
+  },
+  {
+    "id": "seething",
+    "term": "seething",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SEE-thing",
+    "definition": "Filled with intense anger that you’re mostly keeping inside.",
+    "example": "He smiled through dinner, but he was seething.",
+    "etymology": "From Old English seothan, ‘to boil’. The old past participle survives as ‘sodden’. Anger is pictured as boiling under the surface.",
+    "root": {
+      "form": "seothan",
+      "language": "Old English",
+      "meaning": "to boil"
+    },
+    "relatedWords": [
+      {
+        "term": "seethe",
+        "meaning": "to boil; to be furious"
+      },
+      {
+        "term": "sodden",
+        "meaning": "soaked through (originally, boiled)"
+      }
+    ],
+    "synonyms": [
+      "fuming",
+      "livid",
+      "furious",
+      "simmering"
+    ],
+    "note": "Usually suppressed anger, unlike irate.",
+    "category": "emotions"
+  },
+  {
+    "id": "begrudging",
+    "term": "begrudging",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "bih-GRUJ-ing",
+    "definition": "Given or felt reluctantly or resentfully.",
+    "example": "He gave me a begrudging ‘well done’ after I beat his record.",
+    "etymology": "From be- + grudge, from Old French grouchier (to grumble, murmur), of uncertain origin. The same word gave ‘grouch’.",
+    "root": {
+      "form": "grouchier",
+      "language": "Old French",
+      "meaning": "to grumble"
+    },
+    "relatedWords": [
+      {
+        "term": "grudge",
+        "meaning": "a lasting resentment"
+      },
+      {
+        "term": "grouch",
+        "meaning": "a grumpy person"
+      }
+    ],
+    "synonyms": [
+      "grudging",
+      "reluctant",
+      "resentful",
+      "unwilling"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "envious",
+    "term": "envious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "EN-vee-us",
+    "definition": "Wanting something that someone else has.",
+    "example": "I’m so envious of your view; I look out at a car park.",
+    "etymology": "From envy, from Latin invidia, from invidere, ‘to look at with malice’, from in- (upon) + videre (to see). Envy was the evil eye.",
+    "root": {
+      "form": "videre",
+      "language": "Latin",
+      "meaning": "to see"
+    },
+    "relatedWords": [
+      {
+        "term": "invidious",
+        "meaning": "likely to cause resentment"
+      },
+      {
+        "term": "vision",
+        "meaning": "the ability to see"
+      },
+      {
+        "term": "video",
+        "meaning": "recorded moving images (literally, I see)"
+      }
+    ],
+    "synonyms": [
+      "jealous",
+      "covetous",
+      "resentful",
+      "green-eyed"
+    ],
+    "note": "Envy is wanting what others have; jealousy is fearing to lose what you have.",
+    "category": "emotions"
+  },
+  {
+    "id": "affronted",
+    "term": "affronted",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-FRUN-tid",
+    "definition": "Offended and insulted by something said or done.",
+    "example": "She looked genuinely affronted when he asked if she’d made it herself.",
+    "etymology": "From Old French afronter, ‘to strike in the face, confront’, from Latin ad frontem, ‘to the face’.",
+    "root": {
+      "form": "frons",
+      "language": "Latin",
+      "meaning": "forehead, front"
+    },
+    "relatedWords": [
+      {
+        "term": "front",
+        "meaning": "the forward part"
+      },
+      {
+        "term": "confront",
+        "meaning": "to face up to"
+      },
+      {
+        "term": "effrontery",
+        "meaning": "insolent boldness"
+      }
+    ],
+    "synonyms": [
+      "offended",
+      "insulted",
+      "indignant",
+      "piqued"
+    ],
+    "note": "An affront is an insult delivered openly, ‘to your face’.",
+    "category": "emotions"
+  },
+  {
+    "id": "humiliated",
+    "term": "humiliated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "hyoo-MIL-ee-ay-tid",
+    "definition": "Deeply ashamed after losing dignity or self-respect, often in front of others.",
+    "example": "I felt humiliated when they read my message out loud.",
+    "etymology": "From Late Latin humiliare, ‘to humble’, from humilis (low, lowly), from humus (earth, ground). To be humiliated is to be brought low.",
+    "root": {
+      "form": "humus",
+      "language": "Latin",
+      "meaning": "earth, ground"
+    },
+    "relatedWords": [
+      {
+        "term": "humble",
+        "meaning": "modest; low in rank"
+      },
+      {
+        "term": "humility",
+        "meaning": "modesty"
+      },
+      {
+        "term": "humus",
+        "meaning": "organic soil"
+      }
+    ],
+    "synonyms": [
+      "mortified",
+      "ashamed",
+      "embarrassed",
+      "crushed"
+    ],
+    "note": "Stronger than embarrassed; implies a loss of dignity.",
+    "category": "emotions"
+  },
+  {
+    "id": "vindicated",
+    "term": "vindicated",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VIN-dih-kay-tid",
+    "definition": "Relieved and satisfied at being proved right after doubt or blame.",
+    "example": "When the results came back, I felt totally vindicated.",
+    "etymology": "From Latin vindicare, ‘to claim, avenge, set free’. The sense moved from claiming or avenging to clearing someone of blame.",
+    "root": {
+      "form": "vindicare",
+      "language": "Latin",
+      "meaning": "to claim, avenge"
+    },
+    "relatedWords": [
+      {
+        "term": "vindictive",
+        "meaning": "wanting revenge"
+      },
+      {
+        "term": "avenge",
+        "meaning": "to take revenge on behalf of someone"
+      },
+      {
+        "term": "vengeance",
+        "meaning": "punishment in return for a wrong"
+      }
+    ],
+    "synonyms": [
+      "proven right",
+      "exonerated",
+      "justified",
+      "validated"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "relieved",
+    "term": "relieved",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "rih-LEEVD",
+    "definition": "No longer anxious or distressed because a worry has gone away.",
+    "example": "I was so relieved when the plane finally landed.",
+    "etymology": "From Old French relever, from Latin relevare, ‘to raise up, lighten’, from re- + levare (to lift), from levis (light). Relief is a weight lifted.",
+    "root": {
+      "form": "levis",
+      "language": "Latin",
+      "meaning": "light (in weight)"
+    },
+    "relatedWords": [
+      {
+        "term": "lever",
+        "meaning": "a bar used to lift"
+      },
+      {
+        "term": "levity",
+        "meaning": "light-heartedness"
+      },
+      {
+        "term": "elevate",
+        "meaning": "to raise"
+      },
+      {
+        "term": "alleviate",
+        "meaning": "to lighten or ease"
+      }
+    ],
+    "synonyms": [
+      "reassured",
+      "at ease",
+      "comforted",
+      "thankful"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "bittersweet",
+    "term": "bittersweet",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BIT-er-sweet",
+    "definition": "Pleasant and painful at the same time.",
+    "example": "Graduation was bittersweet: excited for what’s next, sad to leave everyone.",
+    "etymology": "A compound of bitter + sweet, both Old English words. It has been used of mixed feelings since Middle English, and also names a plant.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "poignant",
+      "mixed",
+      "wistful"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "catharsis",
+    "term": "catharsis",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kuh-THAR-sis",
+    "definition": "The release of pent-up emotions, bringing relief.",
+    "example": "Having a good cry during that movie was honestly a catharsis.",
+    "etymology": "From Greek katharsis, ‘purging, cleansing’, from kathairein (to purify), from katharos (pure). Aristotle used it for the emotional cleansing tragedy gives an audience.",
+    "root": {
+      "form": "katharos",
+      "language": "Greek",
+      "meaning": "pure, clean"
+    },
+    "relatedWords": [
+      {
+        "term": "cathartic",
+        "meaning": "providing emotional release"
+      }
+    ],
+    "synonyms": [
+      "release",
+      "purging",
+      "relief",
+      "venting"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "torpor",
+    "term": "torpor",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "TOR-per",
+    "definition": "A state of physical or mental sluggishness and inactivity.",
+    "example": "After Christmas dinner the whole family sank into a happy torpor.",
+    "etymology": "From Latin torpor, ‘numbness, sluggishness’, from torpere (to be numb). The torpedo was originally a fish, the electric ray, that numbs its prey.",
+    "root": {
+      "form": "torpere",
+      "language": "Latin",
+      "meaning": "to be numb, sluggish"
+    },
+    "relatedWords": [
+      {
+        "term": "torpid",
+        "meaning": "sluggish, inactive"
+      },
+      {
+        "term": "torpedo",
+        "meaning": "an underwater missile, named after the numbing ray fish"
+      }
+    ],
+    "synonyms": [
+      "lethargy",
+      "sluggishness",
+      "inertia",
+      "stupor"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "pensive",
+    "term": "pensive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PEN-siv",
+    "definition": "Engaged in deep, often slightly sad thought.",
+    "example": "You look pensive; what’s on your mind?",
+    "etymology": "From Old French pensif, from penser (to think), from Latin pensare, ‘to weigh, consider’, from pendere (to weigh). Thinking is pictured as weighing things up.",
+    "root": {
+      "form": "pendere",
+      "language": "Latin",
+      "meaning": "to weigh, hang"
+    },
+    "relatedWords": [
+      {
+        "term": "ponder",
+        "meaning": "to think over"
+      },
+      {
+        "term": "compensate",
+        "meaning": "to balance out"
+      },
+      {
+        "term": "pension",
+        "meaning": "a regular payment (originally, something weighed out)"
+      }
+    ],
+    "synonyms": [
+      "thoughtful",
+      "reflective",
+      "wistful",
+      "contemplative"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "sentimental",
+    "term": "sentimental",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sen-tuh-MEN-tl",
+    "definition": "Moved by tender feelings, especially affection or nostalgia.",
+    "example": "I get sentimental every time I see my grandma’s handwriting.",
+    "etymology": "From sentiment, from Medieval Latin sentimentum, from Latin sentire (to feel). The adjective became fashionable in the mid-18th century.",
+    "root": {
+      "form": "sentire",
+      "language": "Latin",
+      "meaning": "to feel"
+    },
+    "relatedWords": [
+      {
+        "term": "sentiment",
+        "meaning": "a feeling or view"
+      },
+      {
+        "term": "sentient",
+        "meaning": "able to feel"
+      },
+      {
+        "term": "resent",
+        "meaning": "to feel bitter about"
+      }
+    ],
+    "synonyms": [
+      "nostalgic",
+      "tender",
+      "soppy",
+      "emotional"
+    ],
+    "note": "Can be mildly critical: excessively emotional.",
+    "category": "emotions"
+  },
+  {
+    "id": "chuffed",
+    "term": "chuffed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "CHUFT",
+    "definition": "Very pleased and delighted (British, informal).",
+    "example": "I’m well chuffed with how the cake turned out.",
+    "etymology": "From English dialect chuff, ‘pleased, puffed up’, from an older word meaning ‘plump, chubby’. Its deeper origin is uncertain.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "delighted",
+      "pleased",
+      "thrilled",
+      "tickled"
+    ],
+    "note": "Mainly British; Americans may not know it.",
+    "category": "emotions"
+  },
+  {
+    "id": "dumbfounded",
+    "term": "dumbfounded",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dum-FOUN-did",
+    "definition": "So astonished that you can’t speak.",
+    "example": "I was dumbfounded when she said she’d quit and moved to Bali.",
+    "etymology": "A 17th-century blend of dumb (unable to speak) + confound (to confuse), from Latin confundere (to pour together, mix up).",
+    "root": {
+      "form": "confundere",
+      "language": "Latin",
+      "meaning": "to pour together, confuse"
+    },
+    "relatedWords": [
+      {
+        "term": "confound",
+        "meaning": "to astonish or confuse"
+      },
+      {
+        "term": "confuse",
+        "meaning": "to mix up"
+      }
+    ],
+    "synonyms": [
+      "astounded",
+      "speechless",
+      "flabbergasted",
+      "stunned"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "smug",
+    "term": "smug",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SMUG",
+    "definition": "Irritatingly pleased with yourself.",
+    "example": "He looked so smug when his prediction turned out right.",
+    "etymology": "Probably from Low German smuk, ‘neat, trim, elegant’. In English it first meant ‘trim, neat’, then shifted to ‘self-satisfied’ in the 18th century.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "self-satisfied",
+      "complacent",
+      "pleased with yourself",
+      "superior"
+    ],
+    "note": "Always critical; the satisfaction annoys others.",
+    "category": "emotions"
+  },
+  {
+    "id": "peeved",
+    "term": "peeved",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PEEVD",
+    "definition": "Irritated or annoyed.",
+    "example": "I was a bit peeved that nobody saved me a seat.",
+    "etymology": "An early 20th-century back-formation from peevish, which itself is of unknown origin.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "peevish",
+        "meaning": "easily irritated"
+      },
+      {
+        "term": "pet peeve",
+        "meaning": "something that particularly annoys you"
+      }
+    ],
+    "synonyms": [
+      "annoyed",
+      "irked",
+      "miffed",
+      "put out"
+    ],
+    "note": "Informal and fairly mild.",
+    "category": "emotions"
+  },
+  {
+    "id": "glum",
+    "term": "glum",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GLUM",
+    "definition": "Looking or feeling gloomy and dejected.",
+    "example": "Why so glum? It’s Friday!",
+    "etymology": "From an old verb glum, ‘to look sullen’, probably a variant of gloom. Its deeper origin is uncertain.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "gloom",
+        "meaning": "darkness; sadness"
+      }
+    ],
+    "synonyms": [
+      "gloomy",
+      "downcast",
+      "morose",
+      "dejected"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "maudlin",
+    "term": "maudlin",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MAWD-lin",
+    "definition": "Self-pityingly or tearfully sentimental, often when drunk.",
+    "example": "He gets maudlin after a few drinks and starts talking about his ex.",
+    "etymology": "From the name Maudlin, an old form of Magdalene, after Mary Magdalene, who was often painted weeping. It came to mean tearfully, excessively sentimental.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "mawkish",
+      "sentimental",
+      "weepy",
+      "teary"
+    ],
+    "note": "Critical: suggests over-the-top emotion.",
+    "category": "emotions"
+  },
+  {
+    "id": "complacent",
+    "term": "complacent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kum-PLAY-sunt",
+    "definition": "Uncritically satisfied with yourself or the situation, so you stop trying.",
+    "example": "We got complacent after a good quarter, and it showed.",
+    "etymology": "From Latin complacere, ‘to be very pleasing’, from com- (intensive) + placere (to please). It shifted from ‘pleasing’ to ‘too pleased with yourself’.",
+    "root": {
+      "form": "placere",
+      "language": "Latin",
+      "meaning": "to please"
+    },
+    "relatedWords": [
+      {
+        "term": "please",
+        "meaning": "to give satisfaction"
+      },
+      {
+        "term": "placate",
+        "meaning": "to calm someone down"
+      },
+      {
+        "term": "pleasant",
+        "meaning": "agreeable"
+      }
+    ],
+    "synonyms": [
+      "self-satisfied",
+      "smug",
+      "lax",
+      "unconcerned"
+    ],
+    "note": "Don’t confuse with complaisant (willing to please others).",
+    "category": "emotions"
+  },
+  {
+    "id": "aghast",
+    "term": "aghast",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-GAST",
+    "definition": "Filled with horror or shock.",
+    "example": "She was aghast when she saw the bill.",
+    "etymology": "From Middle English agasten, ‘to frighten’, from Old English gæstan (to torment). The ‘gh’ spelling came from association with ‘ghost’.",
+    "root": {
+      "form": "gæstan",
+      "language": "Old English",
+      "meaning": "to frighten, torment"
+    },
+    "relatedWords": [
+      {
+        "term": "ghastly",
+        "meaning": "horrifying"
+      }
+    ],
+    "synonyms": [
+      "horrified",
+      "appalled",
+      "shocked",
+      "stunned"
+    ],
+    "note": "Only used after a verb: you are aghast, not ‘an aghast person’.",
+    "category": "emotions"
+  },
+  {
+    "id": "verklempt",
+    "term": "verklempt",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "fer-KLEMPT",
+    "definition": "Overcome with emotion, almost to the point of tears.",
+    "example": "I got a little verklempt watching my sister walk down the aisle.",
+    "etymology": "From Yiddish farklemt, ‘pressed, choked up’, related to German klemmen (to pinch, squeeze). It became widely known in American English in the 1990s.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "choked up",
+      "overcome",
+      "moved",
+      "emotional"
+    ],
+    "note": "Informal and often humorous.",
+    "category": "emotions"
+  },
+  {
+    "id": "weltschmerz",
+    "term": "weltschmerz",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "VELT-shmairts",
+    "definition": "A weary sadness at the gap between how the world is and how it ought to be.",
+    "example": "Reading the news every morning gives me a serious dose of weltschmerz.",
+    "etymology": "German, literally ‘world pain’, from Welt (world) + Schmerz (pain). It was coined by the German writer Jean Paul in the early 19th century.",
+    "root": {
+      "form": "Schmerz",
+      "language": "German",
+      "meaning": "pain"
+    },
+    "relatedWords": [
+      {
+        "term": "smart",
+        "meaning": "to sting (a related Germanic word)"
+      }
+    ],
+    "synonyms": [
+      "world-weariness",
+      "melancholy",
+      "angst",
+      "malaise"
+    ],
+    "note": "Sometimes capitalised, as German nouns are.",
+    "category": "emotions"
+  },
+  {
+    "id": "rattled",
+    "term": "rattled",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "RAT-ld",
+    "definition": "Nervous and shaken, having lost your composure.",
+    "example": "That near-miss on the motorway really rattled me.",
+    "etymology": "From rattle, a Middle English verb of imitative origin (copying a quick knocking sound). The sense of ‘unnerve’ arose in 19th-century American English.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "shaken",
+      "unnerved",
+      "flustered",
+      "thrown"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "heartened",
+    "term": "heartened",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HAR-tnd",
+    "definition": "Encouraged and more hopeful.",
+    "example": "I was really heartened by how many people offered to help.",
+    "etymology": "From hearten, from heart + -en. The heart was long seen as the seat of courage, so to hearten is to give courage.",
+    "root": {
+      "form": "heorte",
+      "language": "Old English",
+      "meaning": "heart"
+    },
+    "relatedWords": [
+      {
+        "term": "dishearten",
+        "meaning": "to discourage"
+      },
+      {
+        "term": "wholehearted",
+        "meaning": "completely sincere"
+      }
+    ],
+    "synonyms": [
+      "encouraged",
+      "cheered",
+      "uplifted",
+      "buoyed"
+    ],
+    "note": null,
+    "category": "emotions"
+  },
+  {
+    "id": "disheartened",
+    "term": "disheartened",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-HAR-tnd",
+    "definition": "Having lost confidence, hope or enthusiasm.",
+    "example": "Don’t get disheartened; everyone fails their first driving test.",
+    "etymology": "From dis- + hearten. The heart was traditionally the seat of courage, so being disheartened is having the courage taken out of you.",
+    "root": {
+      "form": "heorte",
+      "language": "Old English",
+      "meaning": "heart"
+    },
+    "relatedWords": [
+      {
+        "term": "hearten",
+        "meaning": "to encourage"
+      },
+      {
+        "term": "heartfelt",
+        "meaning": "deeply sincere"
+      }
+    ],
+    "synonyms": [
+      "discouraged",
+      "dispirited",
+      "deflated",
+      "downhearted"
+    ],
+    "note": null,
+    "category": "emotions"
+  }
+]

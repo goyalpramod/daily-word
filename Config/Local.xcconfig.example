@@ -1,0 +1,3 @@
+// Copy to Config/Local.xcconfig and fill in. This file is gitignored.
+DW_BUNDLE_PREFIX = io.github.yourusername
+DEVELOPMENT_TEAM = ABCDE12345

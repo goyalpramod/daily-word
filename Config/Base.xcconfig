@@ -1,0 +1,10 @@
+// Shared build settings. Do not put personal values here.
+// Copy Local.xcconfig.example to Local.xcconfig (gitignored) and set your own values.
+
+// Reverse-DNS prefix for bundle IDs, the App Group and the iCloud container.
+DW_BUNDLE_PREFIX = io.github.example
+
+// Your Apple Developer Team ID (Xcode > Settings > Accounts, or developer.apple.com > Membership).
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

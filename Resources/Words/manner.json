@@ -1,0 +1,3133 @@
+[
+  {
+    "id": "laconic",
+    "term": "laconic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "luh-KON-ik",
+    "definition": "Using very few words; brief to the point of seeming terse or mysterious.",
+    "example": "I asked how the interview went and got a laconic ‘fine’ before he shut his door.",
+    "etymology": "From Greek Lakōnikos, ‘of Laconia’, the region ruled by Sparta. Spartans were famous for clipped replies: when Philip II of Macedon threatened ‘If I enter Laconia, I will raze Sparta,’ they reportedly answered with one word: ‘If.’",
+    "root": {
+      "form": "Lakōn",
+      "language": "Greek",
+      "meaning": "a Laconian, a Spartan"
+    },
+    "relatedWords": [
+      {
+        "term": "laconism",
+        "meaning": "a brief, pithy way of speaking, or such a remark"
+      }
+    ],
+    "synonyms": [
+      "terse",
+      "succinct",
+      "taciturn",
+      "pithy"
+    ],
+    "note": "Laconic can be admiring (economical, dry) where ‘curt’ suggests rudeness.",
+    "category": "manner"
+  },
+  {
+    "id": "voluble",
+    "term": "voluble",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VOL-yuh-bul",
+    "definition": "Talking fluently, readily and at length.",
+    "example": "She’s quiet at work, but get a glass of wine in her and she’s wonderfully voluble.",
+    "etymology": "From Latin volubilis, ‘rolling, turning, fluent’, from volvere, ‘to roll’. Words ‘rolling’ easily off the tongue gave the sense of fluent, continuous talk in the late 16th century.",
+    "root": {
+      "form": "volvere",
+      "language": "Latin",
+      "meaning": "to roll"
+    },
+    "relatedWords": [
+      {
+        "term": "revolve",
+        "meaning": "to turn around a centre"
+      },
+      {
+        "term": "evolve",
+        "meaning": "to develop gradually (literally ‘roll out’)"
+      },
+      {
+        "term": "involve",
+        "meaning": "to include (literally ‘roll into’)"
+      },
+      {
+        "term": "volume",
+        "meaning": "a book, originally a rolled scroll"
+      }
+    ],
+    "synonyms": [
+      "talkative",
+      "loquacious",
+      "chatty",
+      "garrulous"
+    ],
+    "note": "Less negative than ‘garrulous’; voluble talk can be lively and articulate.",
+    "category": "manner"
+  },
+  {
+    "id": "glib",
+    "term": "glib",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GLIB",
+    "definition": "Fluent and smooth but shallow or insincere, as if no real thought went into it.",
+    "example": "I wanted a real apology, not some glib ‘mistakes were made’ line.",
+    "etymology": "First recorded in the late 16th century meaning ‘smooth, slippery’. Its origin is uncertain, but it is probably related to Low German or Dutch glibberig, ‘slippery’. The ‘slippery’ sense moved to speech that slides out too easily.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "slick",
+      "facile",
+      "smooth-talking",
+      "pat"
+    ],
+    "note": "Glib criticizes the lack of depth or sincerity, not just the fluency.",
+    "category": "manner"
+  },
+  {
+    "id": "brusque",
+    "term": "brusque",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BRUSK",
+    "definition": "Abrupt and offhand in speech or manner, to the point of seeming rude.",
+    "example": "The receptionist was a bit brusque, but honestly she was handling ten calls at once.",
+    "etymology": "From French brusque, from Italian brusco, ‘sour, tart, harsh’. The further origin of the Italian word is uncertain. The ‘harsh taste’ sense shifted to a harsh, abrupt manner.",
+    "root": {
+      "form": "brusco",
+      "language": "Italian",
+      "meaning": "sour, harsh"
+    },
+    "relatedWords": [
+      {
+        "term": "brusquerie",
+        "meaning": "an abrupt, blunt manner"
+      }
+    ],
+    "synonyms": [
+      "curt",
+      "abrupt",
+      "short",
+      "gruff"
+    ],
+    "note": "Brusque usually implies hurry or impatience rather than deliberate cruelty.",
+    "category": "manner"
+  },
+  {
+    "id": "affable",
+    "term": "affable",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "AF-uh-bul",
+    "definition": "Friendly, good-natured and easy to talk to.",
+    "example": "The new manager seems affable enough; he remembered everyone’s name by Friday.",
+    "etymology": "From Latin affabilis, ‘easy to speak to’, from ad- (to) + fari, ‘to speak’. An affable person is literally one you can approach and address.",
+    "root": {
+      "form": "fari",
+      "language": "Latin",
+      "meaning": "to speak"
+    },
+    "relatedWords": [
+      {
+        "term": "fable",
+        "meaning": "a short story, originally something told"
+      },
+      {
+        "term": "ineffable",
+        "meaning": "too great to be expressed in words"
+      },
+      {
+        "term": "infant",
+        "meaning": "a baby, literally ‘one unable to speak’"
+      },
+      {
+        "term": "preface",
+        "meaning": "an introduction, literally ‘a speaking beforehand’"
+      }
+    ],
+    "synonyms": [
+      "genial",
+      "friendly",
+      "approachable",
+      "amiable"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "sardonic",
+    "term": "sardonic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sar-DON-ik",
+    "definition": "Grimly mocking or cynical, especially in a dry, scornful way.",
+    "example": "When the printer jammed again, he gave a sardonic little ‘Wonderful. Love technology.’",
+    "etymology": "From Greek sardonios, used of bitter, scornful laughter. Ancient writers linked it to a Sardinian plant said to make the face contort as if laughing before death, though how the word actually arose is not certain.",
+    "root": {
+      "form": "sardonios",
+      "language": "Greek",
+      "meaning": "of bitter or scornful laughter"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "mocking",
+      "sarcastic",
+      "wry",
+      "cynical"
+    ],
+    "note": "Sardonic humour has a bitter edge; ‘wry’ is gentler and more amused.",
+    "category": "manner"
+  },
+  {
+    "id": "deadpan",
+    "term": "deadpan",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "DED-pan",
+    "definition": "Deliberately expressionless, especially when saying something funny.",
+    "example": "Her deadpan delivery is the best part; you can’t tell she’s joking until everyone laughs.",
+    "etymology": "American, from the 1920s: dead (expressionless) + pan, an early 20th-century slang word for the face. It was first used of comedians who kept a straight face.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "poker face",
+        "meaning": "a face that hides all emotion"
+      }
+    ],
+    "synonyms": [
+      "straight-faced",
+      "impassive",
+      "expressionless",
+      "dry"
+    ],
+    "note": "Also a noun and verb: ‘a perfect deadpan’, ‘she deadpanned’.",
+    "category": "manner"
+  },
+  {
+    "id": "condescending",
+    "term": "condescending",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kon-dih-SEN-ding",
+    "definition": "Acting as if you are superior to others and talking down to them.",
+    "example": "Don’t explain it to me like I’m five; that’s so condescending.",
+    "etymology": "From Late Latin condescendere, ‘to stoop’, from com- (together) + descendere, ‘to come down’ (from de- + scandere, ‘to climb’). It once meant graciously lowering yourself to an inferior’s level; by the 18th century the sense had soured into showing off that superiority.",
+    "root": {
+      "form": "scandere",
+      "language": "Latin",
+      "meaning": "to climb"
+    },
+    "relatedWords": [
+      {
+        "term": "descend",
+        "meaning": "to go down"
+      },
+      {
+        "term": "ascend",
+        "meaning": "to go up"
+      },
+      {
+        "term": "transcend",
+        "meaning": "to go beyond"
+      },
+      {
+        "term": "scan",
+        "meaning": "to look over; originally to analyze the ‘steps’ of verse"
+      }
+    ],
+    "synonyms": [
+      "patronizing",
+      "superior",
+      "snooty",
+      "disdainful"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "effusive",
+    "term": "effusive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-FYOO-siv",
+    "definition": "Expressing gratitude, praise or pleasure in an unrestrained, gushing way.",
+    "example": "She was so effusive about my cooking that I started to suspect she hated it.",
+    "etymology": "From Latin effusus, past participle of effundere, ‘to pour out’, from ex- (out) + fundere, ‘to pour’. Feelings that ‘pour out’ became the sense in the 17th century.",
+    "root": {
+      "form": "fundere",
+      "language": "Latin",
+      "meaning": "to pour"
+    },
+    "relatedWords": [
+      {
+        "term": "effusion",
+        "meaning": "a pouring out, of liquid or feeling"
+      },
+      {
+        "term": "infuse",
+        "meaning": "to pour in or fill with a quality"
+      },
+      {
+        "term": "transfusion",
+        "meaning": "transfer of blood from one person to another"
+      },
+      {
+        "term": "refund",
+        "meaning": "to pay back, literally ‘pour back’"
+      }
+    ],
+    "synonyms": [
+      "gushing",
+      "fulsome",
+      "lavish",
+      "demonstrative"
+    ],
+    "note": "Can be neutral or a little critical, hinting the praise is over the top.",
+    "category": "manner"
+  },
+  {
+    "id": "curt",
+    "term": "curt",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KURT",
+    "definition": "Rudely brief; using so few words that it seems dismissive.",
+    "example": "I asked if he needed help and got a curt ‘No’ without him even looking up.",
+    "etymology": "From Latin curtus, ‘shortened, cut short’. It meant physically short in the 17th century before narrowing to describe short, clipped speech.",
+    "root": {
+      "form": "curtus",
+      "language": "Latin",
+      "meaning": "shortened"
+    },
+    "relatedWords": [
+      {
+        "term": "curtail",
+        "meaning": "to cut short (shaped by curtal, a horse with a docked tail)"
+      }
+    ],
+    "synonyms": [
+      "brusque",
+      "terse",
+      "abrupt",
+      "short"
+    ],
+    "note": "Curt always carries a hint of rudeness; ‘concise’ does not.",
+    "category": "manner"
+  },
+  {
+    "id": "aloof",
+    "term": "aloof",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-LOOF",
+    "definition": "Distant and uninvolved; not friendly or forthcoming with others.",
+    "example": "People think he’s aloof at parties, but he’s actually just shy.",
+    "etymology": "A nautical word: a- (on) + loof, ‘windward side’, from Middle Dutch loef. To ‘keep aloof’ was to steer into the wind, away from a dangerous shore. That ‘keeping your distance’ became social distance in the 16th century.",
+    "root": {
+      "form": "loef",
+      "language": "Middle Dutch",
+      "meaning": "windward side"
+    },
+    "relatedWords": [
+      {
+        "term": "luff",
+        "meaning": "to steer a sailing ship closer into the wind"
+      }
+    ],
+    "synonyms": [
+      "distant",
+      "detached",
+      "reserved",
+      "standoffish"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "cordial",
+    "term": "cordial",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KOR-jul",
+    "definition": "Warm and friendly in a polite, sometimes slightly formal way.",
+    "example": "We’re not close, but things with my ex are cordial now.",
+    "etymology": "From Medieval Latin cordialis, from Latin cor (genitive cordis), ‘heart’. It first described medicines that stimulated the heart, then feelings that came ‘from the heart’.",
+    "root": {
+      "form": "cor",
+      "language": "Latin",
+      "meaning": "heart"
+    },
+    "relatedWords": [
+      {
+        "term": "accord",
+        "meaning": "agreement, hearts brought together"
+      },
+      {
+        "term": "concord",
+        "meaning": "harmony"
+      },
+      {
+        "term": "discord",
+        "meaning": "disagreement"
+      },
+      {
+        "term": "courage",
+        "meaning": "bravery, once thought to live in the heart"
+      }
+    ],
+    "synonyms": [
+      "friendly",
+      "warm",
+      "genial",
+      "civil"
+    ],
+    "note": "Often means ‘polite and pleasant without real closeness’, as in ‘a cordial relationship’.",
+    "category": "manner"
+  },
+  {
+    "id": "flippant",
+    "term": "flippant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FLIP-unt",
+    "definition": "Not showing the seriousness or respect a situation calls for.",
+    "example": "Sorry, I didn’t mean to sound flippant; I know the layoffs are a big deal.",
+    "etymology": "Probably from the verb flip + -ant, first recorded in the early 17th century meaning ‘nimble, talkative’. The sense of glib, disrespectful lightness developed later; the exact origin is uncertain.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "glib",
+      "offhand",
+      "facetious",
+      "cavalier"
+    ],
+    "note": "Flippant is about tone being too light for the topic, not about being funny.",
+    "category": "manner"
+  },
+  {
+    "id": "wry",
+    "term": "wry",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "RYE",
+    "definition": "Dryly or mockingly humorous, often with a twisted half-smile.",
+    "example": "He gave a wry smile and said, ‘Well, at least the weather’s nice for my divorce.’",
+    "etymology": "From Old English wrigian, ‘to turn, bend’. ‘Wry’ first meant twisted or crooked (a wry neck); a wry face was a grimace, and by the 19th century wry humour was the twisted, ironic kind.",
+    "root": {
+      "form": "wrigian",
+      "language": "Old English",
+      "meaning": "to turn, bend"
+    },
+    "relatedWords": [
+      {
+        "term": "awry",
+        "meaning": "off course, askew"
+      },
+      {
+        "term": "wryneck",
+        "meaning": "a bird that twists its neck"
+      }
+    ],
+    "synonyms": [
+      "dry",
+      "ironic",
+      "sardonic",
+      "droll"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "unctuous",
+    "term": "unctuous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "UNGK-choo-us",
+    "definition": "Excessively flattering or ingratiating in a way that feels oily and insincere.",
+    "example": "The salesman’s unctuous ‘Excellent choice, sir’ made me want to leave.",
+    "etymology": "From Medieval Latin unctuosus, ‘greasy’, from Latin unctus, ‘anointing’, from ungere, ‘to anoint, smear with oil’. Literally oily, the word came to describe oily, smarmy behaviour in the 18th century.",
+    "root": {
+      "form": "ungere",
+      "language": "Latin",
+      "meaning": "to anoint, smear"
+    },
+    "relatedWords": [
+      {
+        "term": "unction",
+        "meaning": "anointing with oil; also fake earnestness"
+      },
+      {
+        "term": "unguent",
+        "meaning": "an ointment"
+      },
+      {
+        "term": "ointment",
+        "meaning": "a healing cream"
+      },
+      {
+        "term": "anoint",
+        "meaning": "to smear with oil in a ritual"
+      }
+    ],
+    "synonyms": [
+      "smarmy",
+      "oily",
+      "obsequious",
+      "greasy"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "candid",
+    "term": "candid",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAN-did",
+    "definition": "Truthful and straightforward; saying what you really think.",
+    "example": "Can I be candid? I don’t think this plan is going to work.",
+    "etymology": "From Latin candidus, ‘white, shining, pure’, from candere, ‘to shine’. ‘Pure’ and ‘unbiased’ led to the modern sense of frank and open in the 18th century.",
+    "root": {
+      "form": "candere",
+      "language": "Latin",
+      "meaning": "to shine, be white"
+    },
+    "relatedWords": [
+      {
+        "term": "candle",
+        "meaning": "a wax light"
+      },
+      {
+        "term": "candidate",
+        "meaning": "one seeking office; Roman candidates wore bright white togas"
+      },
+      {
+        "term": "incandescent",
+        "meaning": "glowing with heat"
+      },
+      {
+        "term": "candor",
+        "meaning": "openness and honesty"
+      }
+    ],
+    "synonyms": [
+      "frank",
+      "forthright",
+      "open",
+      "honest"
+    ],
+    "note": "A candid photo is one taken without posing, the same idea of being unguarded.",
+    "category": "manner"
+  },
+  {
+    "id": "blunt",
+    "term": "blunt",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BLUNT",
+    "definition": "Saying exactly what you mean without trying to soften it or be tactful.",
+    "example": "I’ll be blunt: if you’re late again, you’re off the team.",
+    "etymology": "From Middle English blunt, ‘dull, not sharp’. Its earlier origin is uncertain, possibly Scandinavian. The ‘not sharp’ sense was extended to plain, unpolished speech.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "frank",
+      "direct",
+      "outspoken",
+      "forthright"
+    ],
+    "note": "‘Blunt’ highlights the lack of cushioning; ‘candid’ highlights honesty.",
+    "category": "manner"
+  },
+  {
+    "id": "tactful",
+    "term": "tactful",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAKT-ful",
+    "definition": "Careful to say things in a way that avoids offending or upsetting people.",
+    "example": "Is there a tactful way to tell my boss her breath smells?",
+    "etymology": "From tact, via French, from Latin tactus, ‘sense of touch’, from tangere, ‘to touch’. Tact began as a ‘delicate touch’ and came to mean social sensitivity in the late 18th century.",
+    "root": {
+      "form": "tangere",
+      "language": "Latin",
+      "meaning": "to touch"
+    },
+    "relatedWords": [
+      {
+        "term": "tactile",
+        "meaning": "relating to touch"
+      },
+      {
+        "term": "contact",
+        "meaning": "touching or communication"
+      },
+      {
+        "term": "tangible",
+        "meaning": "able to be touched; real"
+      },
+      {
+        "term": "intact",
+        "meaning": "untouched, whole"
+      }
+    ],
+    "synonyms": [
+      "diplomatic",
+      "discreet",
+      "considerate",
+      "delicate"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "diplomatic",
+    "term": "diplomatic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dip-luh-MAT-ik",
+    "definition": "Handling people and touchy situations sensitively, without causing offence.",
+    "example": "That was a very diplomatic way of saying his band is terrible.",
+    "etymology": "From Greek diplōma, ‘a folded paper’, from diploun, ‘to double, fold’. Official state documents were folded; ‘diplomatic’ first meant relating to such documents, then to international relations, and finally to smooth, tactful dealing.",
+    "root": {
+      "form": "diplous",
+      "language": "Greek",
+      "meaning": "double"
+    },
+    "relatedWords": [
+      {
+        "term": "diploma",
+        "meaning": "a certificate, originally a folded document"
+      },
+      {
+        "term": "diplomacy",
+        "meaning": "managing relations between nations"
+      },
+      {
+        "term": "diplodocus",
+        "meaning": "a dinosaur, named for its ‘double beam’ bones"
+      }
+    ],
+    "synonyms": [
+      "tactful",
+      "discreet",
+      "politic",
+      "judicious"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "reticent",
+    "term": "reticent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "RET-ih-sunt",
+    "definition": "Not revealing your thoughts or feelings readily; reserved.",
+    "example": "He’s pretty reticent about his childhood, so I don’t push.",
+    "etymology": "From Latin reticere, ‘to keep silent’, from re- (intensive) + tacere, ‘to be silent’.",
+    "root": {
+      "form": "tacere",
+      "language": "Latin",
+      "meaning": "to be silent"
+    },
+    "relatedWords": [
+      {
+        "term": "tacit",
+        "meaning": "understood without being said"
+      },
+      {
+        "term": "taciturn",
+        "meaning": "habitually saying little"
+      },
+      {
+        "term": "reticence",
+        "meaning": "reluctance to speak openly"
+      }
+    ],
+    "synonyms": [
+      "reserved",
+      "tight-lipped",
+      "guarded",
+      "restrained"
+    ],
+    "note": "Strictly it means reluctant to speak, though ‘reticent to do something’ (reluctant) is now common; some editors still object.",
+    "category": "manner"
+  },
+  {
+    "id": "garrulous",
+    "term": "garrulous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GAIR-uh-lus",
+    "definition": "Excessively talkative, especially about trivial things.",
+    "example": "I got stuck next to a garrulous guy on the flight who narrated his entire divorce.",
+    "etymology": "From Latin garrulus, ‘chattering’, from garrire, ‘to chatter, prattle’.",
+    "root": {
+      "form": "garrire",
+      "language": "Latin",
+      "meaning": "to chatter"
+    },
+    "relatedWords": [
+      {
+        "term": "garrulity",
+        "meaning": "excessive talkativeness"
+      }
+    ],
+    "synonyms": [
+      "talkative",
+      "loquacious",
+      "chatty",
+      "long-winded"
+    ],
+    "note": "More negative than ‘voluble’ or ‘chatty’: it implies rambling.",
+    "category": "manner"
+  },
+  {
+    "id": "haughty",
+    "term": "haughty",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HAW-tee",
+    "definition": "Arrogantly superior and disdainful toward others.",
+    "example": "The sommelier gave me a haughty look when I asked for ice in my wine.",
+    "etymology": "From the older adjective haught, from Old French haut, ‘high’, from Latin altus. The ‘-gh-‘ was added by analogy with ‘high’. Holding yourself ‘high’ above others gave the sense.",
+    "root": {
+      "form": "altus",
+      "language": "Latin",
+      "meaning": "high"
+    },
+    "relatedWords": [
+      {
+        "term": "altitude",
+        "meaning": "height"
+      },
+      {
+        "term": "exalt",
+        "meaning": "to raise high, praise"
+      },
+      {
+        "term": "hauteur",
+        "meaning": "haughtiness"
+      },
+      {
+        "term": "alto",
+        "meaning": "a singing voice, originally ‘high’ relative to the tenor"
+      }
+    ],
+    "synonyms": [
+      "arrogant",
+      "snooty",
+      "supercilious",
+      "lofty"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "deferential",
+    "term": "deferential",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "def-uh-REN-shul",
+    "definition": "Showing polite respect and a readiness to yield to someone else’s views.",
+    "example": "Everyone gets weirdly deferential when the CEO walks into the room.",
+    "etymology": "From deference, from defer, ‘to yield’, via French from Latin deferre, ‘to carry down, refer’, from de- + ferre, ‘to carry’. This ‘defer’ (to submit to someone) is distinct from ‘defer’ meaning to delay, which comes from Latin differre.",
+    "root": {
+      "form": "ferre",
+      "language": "Latin",
+      "meaning": "to carry"
+    },
+    "relatedWords": [
+      {
+        "term": "refer",
+        "meaning": "to direct or carry back to"
+      },
+      {
+        "term": "confer",
+        "meaning": "to consult or grant"
+      },
+      {
+        "term": "transfer",
+        "meaning": "to carry across"
+      },
+      {
+        "term": "deference",
+        "meaning": "respectful submission"
+      }
+    ],
+    "synonyms": [
+      "respectful",
+      "obliging",
+      "submissive",
+      "courteous"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "nonchalant",
+    "term": "nonchalant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "non-shuh-LAHNT",
+    "definition": "Appearing calm and casually unconcerned.",
+    "example": "She was totally nonchalant about the job offer, like it happens every week.",
+    "etymology": "From French nonchalant, ‘not caring’, from non + chaloir, ‘to matter, concern’, from Latin calere, ‘to be warm’. A nonchalant person is literally not ‘heated up’ about something.",
+    "root": {
+      "form": "calere",
+      "language": "Latin",
+      "meaning": "to be warm"
+    },
+    "relatedWords": [
+      {
+        "term": "calorie",
+        "meaning": "a unit of heat or food energy"
+      },
+      {
+        "term": "cauldron",
+        "meaning": "a large pot for heating"
+      },
+      {
+        "term": "chafe",
+        "meaning": "to rub until sore, originally ‘to warm’"
+      }
+    ],
+    "synonyms": [
+      "casual",
+      "unconcerned",
+      "blasé",
+      "cool"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "demure",
+    "term": "demure",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dih-MYOOR",
+    "definition": "Reserved, modest and quiet in manner, sometimes with a hint of coyness.",
+    "example": "She looked demure in the photos, but she’s the loudest person I know.",
+    "etymology": "Middle English, probably from Anglo-French demuré, related to Old French meür, ‘ripe, mature’, from Latin maturus. It first meant calm and settled; the exact formation is uncertain.",
+    "root": {
+      "form": "maturus",
+      "language": "Latin",
+      "meaning": "ripe, mature"
+    },
+    "relatedWords": [
+      {
+        "term": "mature",
+        "meaning": "fully developed"
+      },
+      {
+        "term": "premature",
+        "meaning": "happening too early"
+      }
+    ],
+    "synonyms": [
+      "modest",
+      "reserved",
+      "coy",
+      "prim"
+    ],
+    "note": "Traditionally used of women; can sound dated or ironic, as in the 2024 ‘very demure’ meme.",
+    "category": "manner"
+  },
+  {
+    "id": "bombastic",
+    "term": "bombastic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "bom-BAS-tik",
+    "definition": "Pompous and inflated in speech, using grand words with little real substance.",
+    "example": "The keynote was forty minutes of bombastic talk about ‘disrupting the future of synergy’.",
+    "etymology": "From bombast, cotton padding used to stuff clothes, via Old French bombace from Medieval Latin bombax, ‘cotton’, ultimately from Greek bombyx, ‘silkworm, silk’. Speech ‘padded out’ with stuffing became bombast in the 16th century.",
+    "root": {
+      "form": "bombyx",
+      "language": "Greek",
+      "meaning": "silkworm, silk"
+    },
+    "relatedWords": [
+      {
+        "term": "bombast",
+        "meaning": "high-sounding, empty language"
+      },
+      {
+        "term": "bombazine",
+        "meaning": "a twilled dress fabric, originally of silk"
+      }
+    ],
+    "synonyms": [
+      "pompous",
+      "grandiloquent",
+      "pretentious",
+      "overblown"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "patronizing",
+    "term": "patronizing",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PAY-truh-nye-zing",
+    "definition": "Kind or helpful in a way that shows you think you’re superior.",
+    "example": "He said ‘Good for you, sweetie’ in the most patronizing tone imaginable.",
+    "etymology": "From patron, from Latin patronus, ‘protector, advocate’, from pater, ‘father’. To patronize was to act as a protector or sponsor; the sense of treating someone like a lesser dependent emerged in the 18th century.",
+    "root": {
+      "form": "pater",
+      "language": "Latin",
+      "meaning": "father"
+    },
+    "relatedWords": [
+      {
+        "term": "paternal",
+        "meaning": "fatherly"
+      },
+      {
+        "term": "patron",
+        "meaning": "a sponsor or regular customer"
+      },
+      {
+        "term": "patriarch",
+        "meaning": "the male head of a family"
+      },
+      {
+        "term": "patriot",
+        "meaning": "one devoted to the fatherland"
+      }
+    ],
+    "synonyms": [
+      "condescending",
+      "superior",
+      "snooty",
+      "talking down"
+    ],
+    "note": "‘Patronize’ also neutrally means to be a customer of: ‘we patronize local shops’.",
+    "category": "manner"
+  },
+  {
+    "id": "convivial",
+    "term": "convivial",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kun-VIV-ee-ul",
+    "definition": "Friendly, lively and enjoyable, especially around food and drink.",
+    "example": "It was a really convivial evening; nobody wanted to leave.",
+    "etymology": "From Latin convivialis, from convivium, ‘a feast’, from com- (together) + vivere, ‘to live’. A feast was literally a ‘living together’, and the word kept its association with festive company.",
+    "root": {
+      "form": "vivere",
+      "language": "Latin",
+      "meaning": "to live"
+    },
+    "relatedWords": [
+      {
+        "term": "vivid",
+        "meaning": "bright and full of life"
+      },
+      {
+        "term": "revive",
+        "meaning": "to bring back to life"
+      },
+      {
+        "term": "vivacious",
+        "meaning": "lively and animated"
+      },
+      {
+        "term": "survive",
+        "meaning": "to continue living"
+      }
+    ],
+    "synonyms": [
+      "sociable",
+      "genial",
+      "festive",
+      "jovial"
+    ],
+    "note": "Used for both people and atmospheres: a convivial host, a convivial pub.",
+    "category": "manner"
+  },
+  {
+    "id": "rapport",
+    "term": "rapport",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ra-POR",
+    "definition": "A close, easy relationship in which people understand each other well.",
+    "example": "She has great rapport with the kids; they actually listen to her.",
+    "etymology": "From French rapport, from rapporter, ‘to bring back’, from re- + apporter, from Latin portare, ‘to carry’. It meant a report or relation; the sense of harmonious connection between people became dominant in English in the 19th century.",
+    "root": {
+      "form": "portare",
+      "language": "Latin",
+      "meaning": "to carry"
+    },
+    "relatedWords": [
+      {
+        "term": "report",
+        "meaning": "an account brought back"
+      },
+      {
+        "term": "portable",
+        "meaning": "easy to carry"
+      },
+      {
+        "term": "transport",
+        "meaning": "to carry across"
+      },
+      {
+        "term": "import",
+        "meaning": "to bring in"
+      }
+    ],
+    "synonyms": [
+      "connection",
+      "understanding",
+      "affinity",
+      "chemistry"
+    ],
+    "note": "The final ‘t’ is silent.",
+    "category": "manner"
+  },
+  {
+    "id": "banter",
+    "term": "banter",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "BAN-ter",
+    "definition": "Playful, teasing back-and-forth conversation.",
+    "example": "The banter in our group chat is the only thing getting me through Mondays.",
+    "etymology": "First recorded in the late 17th century, origin unknown. Jonathan Swift complained about it as a vulgar new slang word, but it stuck.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "repartee",
+      "joking",
+      "teasing",
+      "badinage"
+    ],
+    "note": "Also a verb: ‘they bantered all evening’.",
+    "category": "manner"
+  },
+  {
+    "id": "repartee",
+    "term": "repartee",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "rep-ar-TEE",
+    "definition": "Quick, witty replies and conversation full of clever comebacks.",
+    "example": "Their repartee on the podcast is so sharp it feels scripted.",
+    "etymology": "From French repartie, ‘a quick reply’, from repartir, ‘to set out again, retort’, from re- + partir, ‘to part, set out’ (from Latin partire, ‘to divide’). The image is of a fencer’s swift counter-thrust.",
+    "root": {
+      "form": "partire",
+      "language": "Latin",
+      "meaning": "to divide, part"
+    },
+    "relatedWords": [
+      {
+        "term": "depart",
+        "meaning": "to leave"
+      },
+      {
+        "term": "part",
+        "meaning": "a portion"
+      },
+      {
+        "term": "partition",
+        "meaning": "a division"
+      }
+    ],
+    "synonyms": [
+      "banter",
+      "wit",
+      "badinage",
+      "comebacks"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "camaraderie",
+    "term": "camaraderie",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kahm-uh-RAH-duh-ree",
+    "definition": "Mutual trust and friendship among people who spend time or work together.",
+    "example": "Honestly, the camaraderie in the kitchen is why I stayed in restaurants so long.",
+    "etymology": "From French camaraderie, from camarade, from Spanish camarada, ‘roommate, barrack-mate’, from cámara, ‘room’, from Latin camera, ‘vaulted chamber’. Sharing a room came to mean sharing a bond.",
+    "root": {
+      "form": "camera",
+      "language": "Latin",
+      "meaning": "vaulted room, chamber"
+    },
+    "relatedWords": [
+      {
+        "term": "comrade",
+        "meaning": "a companion or fellow member"
+      },
+      {
+        "term": "chamber",
+        "meaning": "a room"
+      },
+      {
+        "term": "camera",
+        "meaning": "a device for photos, from camera obscura, ‘dark chamber’"
+      },
+      {
+        "term": "bicameral",
+        "meaning": "having two legislative chambers"
+      }
+    ],
+    "synonyms": [
+      "fellowship",
+      "companionship",
+      "esprit de corps",
+      "solidarity"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "rebuff",
+    "term": "rebuff",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "rih-BUFF",
+    "definition": "To reject someone’s offer, request or friendly approach abruptly.",
+    "example": "I tried to make peace, but she rebuffed me in front of everyone.",
+    "etymology": "From obsolete French rebuffer, from Italian ribuffare, ‘to reprimand’, from ri- (back) + buffo, ‘a puff, gust’, probably imitative of blowing. The image is a sharp puff blowing something back.",
+    "root": {
+      "form": "buffo",
+      "language": "Italian",
+      "meaning": "a puff of air"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "snub",
+      "spurn",
+      "reject",
+      "rebuke"
+    ],
+    "note": "Also a noun: ‘her offer met with a rebuff’.",
+    "category": "manner"
+  },
+  {
+    "id": "placate",
+    "term": "placate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "PLAY-kayt",
+    "definition": "To calm someone down or reduce their anger by making concessions.",
+    "example": "They gave us free dessert to placate us after the hour-long wait.",
+    "etymology": "From Latin placare, ‘to calm, appease’, related to placere, ‘to please’.",
+    "root": {
+      "form": "placare",
+      "language": "Latin",
+      "meaning": "to calm, appease"
+    },
+    "relatedWords": [
+      {
+        "term": "implacable",
+        "meaning": "unable to be appeased"
+      },
+      {
+        "term": "placid",
+        "meaning": "calm and peaceful"
+      },
+      {
+        "term": "please",
+        "meaning": "to give pleasure (from related placere)"
+      },
+      {
+        "term": "complacent",
+        "meaning": "smugly self-satisfied (from placere)"
+      }
+    ],
+    "synonyms": [
+      "appease",
+      "pacify",
+      "mollify",
+      "soothe"
+    ],
+    "note": "Often implies a temporary fix rather than solving the real problem.",
+    "category": "manner"
+  },
+  {
+    "id": "cajole",
+    "term": "cajole",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "kuh-JOHL",
+    "definition": "To persuade someone with flattery, coaxing or gentle pressure.",
+    "example": "I finally cajoled my dad into trying sushi.",
+    "etymology": "From French cajoler, ‘to coax’. Its origin is uncertain; one theory links it to a blend of words meaning ‘cage’ and ‘to chatter like a jay’, but this is not established.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "coax",
+      "wheedle",
+      "sweet-talk",
+      "persuade"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "schmooze",
+    "term": "schmooze",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "SHMOOZ",
+    "definition": "To chat in a friendly, often calculated way, especially to make useful contacts.",
+    "example": "He spent the whole conference schmoozing investors at the bar.",
+    "etymology": "From Yiddish shmuesn, ‘to chat’, from shmues, ‘talk, gossip’, from Hebrew shemuot, ‘reports, rumours’. It entered American English in the late 19th century.",
+    "root": {
+      "form": "shmues",
+      "language": "Yiddish",
+      "meaning": "talk, chat"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "network",
+      "chat up",
+      "mingle",
+      "hobnob"
+    ],
+    "note": "Informal; can be neutral (‘chat’) or suggest self-serving charm.",
+    "category": "manner"
+  },
+  {
+    "id": "gaslight",
+    "term": "gaslight",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "GAS-lyte",
+    "definition": "To manipulate someone into doubting their own memory, perceptions or sanity.",
+    "example": "I know what you said last night; stop trying to gaslight me.",
+    "etymology": "From Patrick Hamilton’s 1938 play Gas Light and the 1944 film Gaslight, in which a husband secretly dims the gas lamps and insists his wife is imagining it, to make her think she is going mad. The verb appeared in the mid-20th century and became widespread in the 2010s.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "manipulate",
+      "mislead",
+      "psych out"
+    ],
+    "note": "It means deliberate psychological manipulation, not simply disagreeing or lying once.",
+    "category": "manner"
+  },
+  {
+    "id": "taciturn",
+    "term": "taciturn",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAS-ih-turn",
+    "definition": "Habitually quiet and saying very little.",
+    "example": "My grandfather was taciturn, but when he did speak, everyone listened.",
+    "etymology": "From Latin taciturnus, from tacitus, ‘silent’, past participle of tacere, ‘to be silent’.",
+    "root": {
+      "form": "tacere",
+      "language": "Latin",
+      "meaning": "to be silent"
+    },
+    "relatedWords": [
+      {
+        "term": "tacit",
+        "meaning": "understood without words"
+      },
+      {
+        "term": "reticent",
+        "meaning": "reserved, not revealing thoughts"
+      },
+      {
+        "term": "taciturnity",
+        "meaning": "the habit of saying little"
+      }
+    ],
+    "synonyms": [
+      "quiet",
+      "reserved",
+      "uncommunicative",
+      "laconic"
+    ],
+    "note": "Taciturn describes a habit; laconic describes the brevity of what someone does say.",
+    "category": "manner"
+  },
+  {
+    "id": "loquacious",
+    "term": "loquacious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "loh-KWAY-shus",
+    "definition": "Talkative; tending to talk a great deal.",
+    "example": "Our Uber driver was loquacious, to put it kindly.",
+    "etymology": "From Latin loquax (genitive loquacis), ‘talkative’, from loqui, ‘to speak’.",
+    "root": {
+      "form": "loqui",
+      "language": "Latin",
+      "meaning": "to speak"
+    },
+    "relatedWords": [
+      {
+        "term": "eloquent",
+        "meaning": "fluent and persuasive in speech"
+      },
+      {
+        "term": "soliloquy",
+        "meaning": "a speech to oneself"
+      },
+      {
+        "term": "colloquial",
+        "meaning": "conversational, informal"
+      },
+      {
+        "term": "ventriloquist",
+        "meaning": "one who ‘speaks from the belly’"
+      }
+    ],
+    "synonyms": [
+      "talkative",
+      "garrulous",
+      "voluble",
+      "chatty"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "terse",
+    "term": "terse",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TURSS",
+    "definition": "Using few words, often in a way that sounds abrupt or unfriendly.",
+    "example": "Her reply was so terse I could tell she was furious.",
+    "etymology": "From Latin tersus, ‘wiped clean, polished’, past participle of tergere, ‘to wipe’. Terse first meant polished and refined (of style), then neatly concise, and finally curt.",
+    "root": {
+      "form": "tergere",
+      "language": "Latin",
+      "meaning": "to wipe"
+    },
+    "relatedWords": [
+      {
+        "term": "detergent",
+        "meaning": "a cleaning agent, literally ‘wiping away’"
+      }
+    ],
+    "synonyms": [
+      "curt",
+      "brusque",
+      "clipped",
+      "laconic"
+    ],
+    "note": "Can be neutral for writing (‘terse prose’) but usually implies coldness in conversation.",
+    "category": "manner"
+  },
+  {
+    "id": "suave",
+    "term": "suave",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SWAHV",
+    "definition": "Charming, confident and smoothly polite, especially in a sophisticated way.",
+    "example": "He thinks he’s so suave with the leather jacket and the eyebrow thing.",
+    "etymology": "From French suave, from Latin suavis, ‘sweet, agreeable’. It meant gracious or pleasant before narrowing in the 19th century to smoothly urbane manners.",
+    "root": {
+      "form": "suavis",
+      "language": "Latin",
+      "meaning": "sweet, pleasant"
+    },
+    "relatedWords": [
+      {
+        "term": "suavity",
+        "meaning": "smooth, polished manners"
+      },
+      {
+        "term": "sweet",
+        "meaning": "an English cognate from the same ancient root"
+      },
+      {
+        "term": "persuade",
+        "meaning": "to win over; Latin suadere is from the same ancient root"
+      }
+    ],
+    "synonyms": [
+      "smooth",
+      "urbane",
+      "debonair",
+      "polished"
+    ],
+    "note": "Can hint at superficial charm, as in ‘suave but untrustworthy’.",
+    "category": "manner"
+  },
+  {
+    "id": "brash",
+    "term": "brash",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BRASH",
+    "definition": "Self-assertive in a loud, rude or overly confident way.",
+    "example": "He’s a bit brash in meetings, but his ideas are usually good.",
+    "etymology": "First recorded in the early 19th century. Its origin is uncertain; it may be a dialect word related to ‘rash’, or partly imitative.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "cocky",
+      "bold",
+      "brazen",
+      "pushy"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "urbane",
+    "term": "urbane",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ur-BAYN",
+    "definition": "Suave, courteous and refined in manner, at ease in sophisticated company.",
+    "example": "The host was urbane and witty, the kind of guy who knows every wine on the list.",
+    "etymology": "From Latin urbanus, ‘of the city’, from urbs, ‘city’. Romans contrasted the polished city dweller with the rusticus, the country person, and the social sense came with the word into English.",
+    "root": {
+      "form": "urbs",
+      "language": "Latin",
+      "meaning": "city"
+    },
+    "relatedWords": [
+      {
+        "term": "urban",
+        "meaning": "relating to a city"
+      },
+      {
+        "term": "suburb",
+        "meaning": "an area just outside a city"
+      },
+      {
+        "term": "conurbation",
+        "meaning": "a large merged urban area"
+      }
+    ],
+    "synonyms": [
+      "suave",
+      "sophisticated",
+      "polished",
+      "cosmopolitan"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "genial",
+    "term": "genial",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "JEE-nee-ul",
+    "definition": "Friendly and cheerful in a warm, relaxed way.",
+    "example": "Our landlord is a genial old guy who always stops to chat.",
+    "etymology": "From Latin genialis, ‘of marriage or birth, festive’, from genius, the guardian spirit of a person, from gignere, ‘to beget’. Indulging your genius meant enjoying yourself, which led to the sense of cheerful and pleasant.",
+    "root": {
+      "form": "genius",
+      "language": "Latin",
+      "meaning": "guardian spirit"
+    },
+    "relatedWords": [
+      {
+        "term": "congenial",
+        "meaning": "pleasant because suited to your tastes"
+      },
+      {
+        "term": "genius",
+        "meaning": "exceptional ability, originally a guiding spirit"
+      },
+      {
+        "term": "generate",
+        "meaning": "to produce (from the related gignere)"
+      }
+    ],
+    "synonyms": [
+      "affable",
+      "cordial",
+      "amiable",
+      "friendly"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "standoffish",
+    "term": "standoffish",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "stand-OFF-ish",
+    "definition": "Distant and unfriendly; keeping others at arm’s length.",
+    "example": "I thought she was standoffish, but she’d just moved here and didn’t know anyone.",
+    "etymology": "From the phrase ‘stand off’, meaning to keep at a distance, + -ish. It was first recorded in the mid-19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "stand-off",
+        "meaning": "a deadlock or keeping apart"
+      }
+    ],
+    "synonyms": [
+      "aloof",
+      "distant",
+      "cool",
+      "reserved"
+    ],
+    "note": "Informal and more critical than ‘reserved’.",
+    "category": "manner"
+  },
+  {
+    "id": "supercilious",
+    "term": "supercilious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "soo-per-SIL-ee-us",
+    "definition": "Behaving as if you think you’re better than others; snootily disdainful.",
+    "example": "The barista gave me a supercilious look when I asked for a ‘small’ instead of a ‘tall’.",
+    "etymology": "From Latin superciliosus, ‘haughty’, from supercilium, ‘eyebrow’, from super- (above) + cilium, ‘eyelid’. The image is of a raised eyebrow expressing disdain.",
+    "root": {
+      "form": "supercilium",
+      "language": "Latin",
+      "meaning": "eyebrow"
+    },
+    "relatedWords": [
+      {
+        "term": "cilia",
+        "meaning": "tiny hair-like structures on cells"
+      },
+      {
+        "term": "ciliary",
+        "meaning": "relating to the eyelashes or cilia"
+      }
+    ],
+    "synonyms": [
+      "haughty",
+      "snooty",
+      "condescending",
+      "disdainful"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "imperious",
+    "term": "imperious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PEER-ee-us",
+    "definition": "Domineering and commanding; expecting to be obeyed.",
+    "example": "She snapped her fingers at the waiter in this imperious way that made me cringe.",
+    "etymology": "From Latin imperiosus, ‘commanding’, from imperium, ‘command, empire’, from imperare, ‘to command’.",
+    "root": {
+      "form": "imperare",
+      "language": "Latin",
+      "meaning": "to command"
+    },
+    "relatedWords": [
+      {
+        "term": "empire",
+        "meaning": "a group of states under one ruler"
+      },
+      {
+        "term": "emperor",
+        "meaning": "the ruler of an empire"
+      },
+      {
+        "term": "imperative",
+        "meaning": "essential; a command form"
+      },
+      {
+        "term": "imperial",
+        "meaning": "relating to an empire"
+      }
+    ],
+    "synonyms": [
+      "domineering",
+      "overbearing",
+      "bossy",
+      "high-handed"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "smarmy",
+    "term": "smarmy",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SMAR-mee",
+    "definition": "Ingratiating and wheedling in an insincere, oily way.",
+    "example": "Ugh, the smarmy way he says ‘with all due respect’ right before insulting you.",
+    "etymology": "From the verb smarm, ‘to smear, slick down (hair)’, from a dialect word smalm, of uncertain origin. Slicked-down, oily hair suggested an oily, ingratiating manner by the early 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "smarm",
+        "meaning": "oily flattery; to behave smarmily"
+      }
+    ],
+    "synonyms": [
+      "unctuous",
+      "oily",
+      "slimy",
+      "greasy"
+    ],
+    "note": "Informal and chiefly British in origin, now common in American English too.",
+    "category": "manner"
+  },
+  {
+    "id": "snarky",
+    "term": "snarky",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SNAR-kee",
+    "definition": "Sharply critical or sarcastic in a snide, irritable way.",
+    "example": "I didn’t need the snarky ‘per my last email’ this morning.",
+    "etymology": "From the dialect verb snark, ‘to snort, snore’, later ‘to nag, find fault’, probably imitative. ‘Snarky’ (irritable) is recorded from 1906; the sense of snidely sarcastic grew in the late 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "snark",
+        "meaning": "snide, sarcastic remarks"
+      }
+    ],
+    "synonyms": [
+      "sarcastic",
+      "snide",
+      "sardonic",
+      "catty"
+    ],
+    "note": "Informal.",
+    "category": "manner"
+  },
+  {
+    "id": "facetious",
+    "term": "facetious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "fuh-SEE-shus",
+    "definition": "Joking about serious matters in a way that seems flippant or out of place.",
+    "example": "I was being facetious when I said I’d quit; please don’t tell HR.",
+    "etymology": "From French facétieux, from facétie, ‘a jest’, from Latin facetia, ‘a witticism’, from facetus, ‘witty, elegant’. Once a compliment for wit, it now usually suggests misplaced humour.",
+    "root": {
+      "form": "facetus",
+      "language": "Latin",
+      "meaning": "witty, elegant"
+    },
+    "relatedWords": [
+      {
+        "term": "facetiae",
+        "meaning": "witty sayings or writings"
+      }
+    ],
+    "synonyms": [
+      "flippant",
+      "glib",
+      "tongue-in-cheek",
+      "joking"
+    ],
+    "note": "Famous as one of the few English words with all five vowels in order (plus y in facetiously).",
+    "category": "manner"
+  },
+  {
+    "id": "droll",
+    "term": "droll",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "DROHL",
+    "definition": "Amusing in an odd, dry or whimsical way.",
+    "example": "He has this droll way of describing disasters that makes them hilarious.",
+    "etymology": "From French drôle, ‘a funny fellow, rascal’, possibly from Middle Dutch drolle, ‘imp, goblin’. The noun came first; the adjective meaning quaintly amusing developed in the 17th century.",
+    "root": {
+      "form": "drôle",
+      "language": "French",
+      "meaning": "funny fellow"
+    },
+    "relatedWords": [
+      {
+        "term": "drollery",
+        "meaning": "quaint, dry humour"
+      }
+    ],
+    "synonyms": [
+      "dry",
+      "wry",
+      "whimsical",
+      "amusing"
+    ],
+    "note": "Often used sarcastically: ‘Oh, very droll’ means ‘not funny’.",
+    "category": "manner"
+  },
+  {
+    "id": "quip",
+    "term": "quip",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KWIP",
+    "definition": "A quick, clever and funny remark.",
+    "example": "She had a quip ready for every awkward question the reporters asked.",
+    "etymology": "Recorded from the 16th century, possibly from the earlier ‘quippy’, and perhaps from Latin quippe, ‘indeed, to be sure’, which was often used sarcastically. The origin is not certain.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "witticism",
+      "one-liner",
+      "joke",
+      "wisecrack"
+    ],
+    "note": "Also a verb: ‘Nice hat,’ she quipped.",
+    "category": "manner"
+  },
+  {
+    "id": "pithy",
+    "term": "pithy",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PITH-ee",
+    "definition": "Brief but full of meaning; concise and to the point.",
+    "example": "Her pithy summary of the meeting was better than the hour-long meeting itself.",
+    "etymology": "From pith, Old English piþa, ‘the soft core of a plant, marrow’. The pith was the essential inner part, so pithy speech gets straight to the core.",
+    "root": {
+      "form": "piþa",
+      "language": "Old English",
+      "meaning": "core, marrow"
+    },
+    "relatedWords": [
+      {
+        "term": "pith",
+        "meaning": "the spongy core of a plant; the essence"
+      }
+    ],
+    "synonyms": [
+      "succinct",
+      "concise",
+      "terse",
+      "laconic"
+    ],
+    "note": "A compliment, unlike ‘curt’ or ‘terse’.",
+    "category": "manner"
+  },
+  {
+    "id": "verbose",
+    "term": "verbose",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ver-BOHS",
+    "definition": "Using more words than needed; wordy.",
+    "example": "His emails are so verbose I just skip to the last line.",
+    "etymology": "From Latin verbosus, ‘wordy’, from verbum, ‘word’.",
+    "root": {
+      "form": "verbum",
+      "language": "Latin",
+      "meaning": "word"
+    },
+    "relatedWords": [
+      {
+        "term": "verb",
+        "meaning": "a word for an action or state"
+      },
+      {
+        "term": "verbal",
+        "meaning": "in words; spoken"
+      },
+      {
+        "term": "verbatim",
+        "meaning": "word for word"
+      },
+      {
+        "term": "proverb",
+        "meaning": "a short traditional saying"
+      }
+    ],
+    "synonyms": [
+      "wordy",
+      "long-winded",
+      "rambling",
+      "prolix"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "grandiloquent",
+    "term": "grandiloquent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "gran-DIL-uh-kwent",
+    "definition": "Pompous or extravagant in language, trying to sound impressive.",
+    "example": "He gave this grandiloquent toast about ‘the sacred bonds of fellowship’ at a pizza party.",
+    "etymology": "From Latin grandiloquus, ‘speaking loftily’, from grandis, ‘great’ + loqui, ‘to speak’. The ‘-ent’ ending was formed in English on the model of ‘eloquent’.",
+    "root": {
+      "form": "loqui",
+      "language": "Latin",
+      "meaning": "to speak"
+    },
+    "relatedWords": [
+      {
+        "term": "eloquent",
+        "meaning": "fluent and persuasive"
+      },
+      {
+        "term": "loquacious",
+        "meaning": "talkative"
+      },
+      {
+        "term": "grandiose",
+        "meaning": "impressive or trying too hard to seem so"
+      },
+      {
+        "term": "circumlocution",
+        "meaning": "talking around a point"
+      }
+    ],
+    "synonyms": [
+      "bombastic",
+      "pompous",
+      "high-flown",
+      "flowery"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "pompous",
+    "term": "pompous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "POM-pus",
+    "definition": "Self-important and solemn in a way that seems pretentious.",
+    "example": "He’s so pompous he refers to his own podcast as ‘the work’.",
+    "etymology": "From Late Latin pomposus, from pompa, ‘procession, display’, from Greek pompē, ‘a sending, an escort, a procession’. Showy ceremony turned into showy self-importance.",
+    "root": {
+      "form": "pompē",
+      "language": "Greek",
+      "meaning": "procession"
+    },
+    "relatedWords": [
+      {
+        "term": "pomp",
+        "meaning": "ceremonial splendour"
+      }
+    ],
+    "synonyms": [
+      "self-important",
+      "pretentious",
+      "arrogant",
+      "grandiose"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "strident",
+    "term": "strident",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "STRY-dent",
+    "definition": "Loud and harsh; presenting views in a forceful, grating way.",
+    "example": "I agree with her points, but the strident tone puts people off.",
+    "etymology": "From Latin stridens, present participle of stridere, ‘to make a harsh, creaking sound’. It described grating noises before being applied to aggressive opinions.",
+    "root": {
+      "form": "stridere",
+      "language": "Latin",
+      "meaning": "to creak, make a harsh sound"
+    },
+    "relatedWords": [
+      {
+        "term": "stridulate",
+        "meaning": "to make a shrill sound, as crickets do"
+      },
+      {
+        "term": "stridor",
+        "meaning": "a harsh, high-pitched breathing sound"
+      }
+    ],
+    "synonyms": [
+      "shrill",
+      "harsh",
+      "vociferous",
+      "grating"
+    ],
+    "note": "Not related to ‘stride’.",
+    "category": "manner"
+  },
+  {
+    "id": "mellifluous",
+    "term": "mellifluous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "muh-LIF-loo-us",
+    "definition": "Of a voice or speech: sweet, smooth and pleasant to hear.",
+    "example": "He could read the phone book in that mellifluous voice and I’d listen.",
+    "etymology": "From Late Latin mellifluus, ‘flowing with honey’, from mel, ‘honey’ + fluere, ‘to flow’.",
+    "root": {
+      "form": "fluere",
+      "language": "Latin",
+      "meaning": "to flow"
+    },
+    "relatedWords": [
+      {
+        "term": "fluent",
+        "meaning": "speaking smoothly, ‘flowing’"
+      },
+      {
+        "term": "fluid",
+        "meaning": "something that flows"
+      },
+      {
+        "term": "influence",
+        "meaning": "power to affect, originally a flowing in"
+      },
+      {
+        "term": "molasses",
+        "meaning": "thick dark syrup (from Latin mel, honey)"
+      }
+    ],
+    "synonyms": [
+      "dulcet",
+      "honeyed",
+      "silky",
+      "melodious"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "kind": "phrase",
+    "partOfSpeech": "adverb",
+    "pronunciation": null,
+    "definition": "In a quiet voice, so as not to be overheard.",
+    "example": "‘This is the worst wedding speech ever,’ she said sotto voce.",
+    "etymology": "Italian, literally ‘under the voice’, from sotto (from Latin subtus, ‘beneath’) + voce (from Latin vox, ‘voice’). It began as a musical direction to sing or play softly.",
+    "root": {
+      "form": "vox",
+      "language": "Latin",
+      "meaning": "voice"
+    },
+    "relatedWords": [
+      {
+        "term": "vocal",
+        "meaning": "relating to the voice"
+      },
+      {
+        "term": "vociferous",
+        "meaning": "loud and insistent"
+      },
+      {
+        "term": "voice",
+        "meaning": "the sound made in speaking"
+      }
+    ],
+    "synonyms": [
+      "under one’s breath",
+      "in a whisper",
+      "quietly"
+    ],
+    "note": "Pronounced SOT-oh VOH-chay.",
+    "category": "manner"
+  },
+  {
+    "id": "tongue-in-cheek",
+    "term": "tongue-in-cheek",
+    "kind": "phrase",
+    "partOfSpeech": "adjective",
+    "pronunciation": null,
+    "definition": "Said ironically or jokingly, not meant to be taken seriously.",
+    "example": "Relax, the ‘world’s best boss’ mug was totally tongue-in-cheek.",
+    "etymology": "From the gesture of pushing the tongue into the cheek, once a sign of contempt or suppressed laughter. The phrase is recorded from the 18th century; it settled into its modern ‘ironic’ sense in the 19th.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "with a wink",
+        "meaning": "in a knowingly playful way"
+      }
+    ],
+    "synonyms": [
+      "ironic",
+      "facetious",
+      "wry",
+      "joking"
+    ],
+    "note": "Hyphenate before a noun (‘a tongue-in-cheek review’), not after (‘it was written tongue in cheek’).",
+    "category": "manner"
+  },
+  {
+    "id": "mealy-mouthed",
+    "term": "mealy-mouthed",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MEE-lee-mowthd",
+    "definition": "Unwilling to speak plainly; avoiding direct statements out of timidity or evasiveness.",
+    "example": "I’m tired of mealy-mouthed corporate statements; just say you messed up.",
+    "etymology": "Recorded from the 16th century, from mealy, ‘soft like meal (flour)’, + mouthed. It may echo a German expression about keeping meal in one’s mouth, meaning not speaking straightforwardly, though the link is not certain.",
+    "root": {
+      "form": "melu",
+      "language": "Old English",
+      "meaning": "meal, ground grain"
+    },
+    "relatedWords": [
+      {
+        "term": "meal",
+        "meaning": "coarsely ground grain"
+      }
+    ],
+    "synonyms": [
+      "evasive",
+      "equivocal",
+      "weaselly",
+      "indirect"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "forthright",
+    "term": "forthright",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FORTH-ryte",
+    "definition": "Direct and outspoken; saying plainly what you think.",
+    "example": "I appreciate how forthright she is; you always know where you stand.",
+    "etymology": "From Old English forþriht, ‘straight forward’, from forþ (forward) + riht (straight, right). The literal ‘straight ahead’ became the figurative sense of direct speech.",
+    "root": {
+      "form": "riht",
+      "language": "Old English",
+      "meaning": "straight, right"
+    },
+    "relatedWords": [
+      {
+        "term": "upright",
+        "meaning": "honest; vertical"
+      },
+      {
+        "term": "forthcoming",
+        "meaning": "willing to share information"
+      }
+    ],
+    "synonyms": [
+      "candid",
+      "frank",
+      "direct",
+      "blunt"
+    ],
+    "note": "More positive than ‘blunt’.",
+    "category": "manner"
+  },
+  {
+    "id": "cagey",
+    "term": "cagey",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAY-jee",
+    "definition": "Reluctant to give information; secretive and cautious.",
+    "example": "He got really cagey when I asked about his new girlfriend.",
+    "etymology": "American, first recorded in the 1890s in the sense of shrewd or wary. Its origin is unknown; a link to ‘cage’ has been suggested but is not proven.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "evasive",
+      "guarded",
+      "secretive",
+      "tight-lipped"
+    ],
+    "note": "Also spelled ‘cagy’.",
+    "category": "manner"
+  },
+  {
+    "id": "evasive",
+    "term": "evasive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-VAY-siv",
+    "definition": "Avoiding direct answers or commitments.",
+    "example": "The landlord was evasive every time we asked about the deposit.",
+    "etymology": "From evade, via French from Latin evadere, ‘to escape’, from e- (out) + vadere, ‘to go’.",
+    "root": {
+      "form": "vadere",
+      "language": "Latin",
+      "meaning": "to go"
+    },
+    "relatedWords": [
+      {
+        "term": "evade",
+        "meaning": "to escape or avoid"
+      },
+      {
+        "term": "invade",
+        "meaning": "to go in by force"
+      },
+      {
+        "term": "pervasive",
+        "meaning": "spreading throughout"
+      }
+    ],
+    "synonyms": [
+      "cagey",
+      "equivocal",
+      "noncommittal",
+      "slippery"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "coy",
+    "term": "coy",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KOY",
+    "definition": "Pretending to be shy or modest, often playfully; or deliberately vague about something.",
+    "example": "Don’t be coy; we all know you’re the one who got promoted.",
+    "etymology": "From Old French coi, ‘quiet, still’, from Latin quietus, ‘at rest’. The sense moved from ‘quiet’ to ‘shy, modest’ and then to coquettishly or evasively reserved.",
+    "root": {
+      "form": "quietus",
+      "language": "Latin",
+      "meaning": "at rest, quiet"
+    },
+    "relatedWords": [
+      {
+        "term": "quiet",
+        "meaning": "making little noise"
+      },
+      {
+        "term": "acquit",
+        "meaning": "to free from a charge, literally ‘set at rest’"
+      },
+      {
+        "term": "quit",
+        "meaning": "to leave, originally ‘free, clear’"
+      }
+    ],
+    "synonyms": [
+      "cagey",
+      "evasive",
+      "demure",
+      "arch"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "aplomb",
+    "term": "aplomb",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-PLOM",
+    "definition": "Self-confidence and composure, especially in a demanding situation.",
+    "example": "She handled the heckler with total aplomb and the crowd loved her.",
+    "etymology": "From French aplomb, from à plomb, ‘according to the plumb line’, from plomb, ‘lead’, Latin plumbum. Standing perfectly upright, like a weighted plumb line, became steady self-possession.",
+    "root": {
+      "form": "plumbum",
+      "language": "Latin",
+      "meaning": "lead (the metal)"
+    },
+    "relatedWords": [
+      {
+        "term": "plumb",
+        "meaning": "exactly vertical; to measure depth"
+      },
+      {
+        "term": "plumber",
+        "meaning": "one who works with pipes, once made of lead"
+      },
+      {
+        "term": "plummet",
+        "meaning": "to fall straight down"
+      }
+    ],
+    "synonyms": [
+      "poise",
+      "composure",
+      "assurance",
+      "sangfroid"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "savoir-faire",
+    "term": "savoir-faire",
+    "kind": "phrase",
+    "partOfSpeech": "noun",
+    "pronunciation": null,
+    "definition": "The ability to act appropriately and gracefully in social situations.",
+    "example": "It takes some savoir-faire to seat two exes at the same wedding table.",
+    "etymology": "French, literally ‘to know how to do’, from savoir (from Latin sapere, ‘to be wise’) + faire (from Latin facere, ‘to do, make’).",
+    "root": {
+      "form": "sapere",
+      "language": "Latin",
+      "meaning": "to be wise, to taste"
+    },
+    "relatedWords": [
+      {
+        "term": "savvy",
+        "meaning": "shrewd know-how"
+      },
+      {
+        "term": "sapient",
+        "meaning": "wise"
+      },
+      {
+        "term": "savant",
+        "meaning": "a learned person"
+      }
+    ],
+    "synonyms": [
+      "tact",
+      "finesse",
+      "poise",
+      "social grace"
+    ],
+    "note": "Pronounced sav-wahr-FAIR.",
+    "category": "manner"
+  },
+  {
+    "id": "gauche",
+    "term": "gauche",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "GOHSH",
+    "definition": "Socially awkward or tactless; lacking grace.",
+    "example": "Is it gauche to ask how much they paid for the house?",
+    "etymology": "From French gauche, ‘left’, also ‘awkward’; the left hand was considered the clumsy one. The French word may come from gauchir, ‘to turn aside, warp’, of Germanic origin.",
+    "root": {
+      "form": "gauche",
+      "language": "French",
+      "meaning": "left"
+    },
+    "relatedWords": [
+      {
+        "term": "gaucherie",
+        "meaning": "awkward or tactless behaviour"
+      }
+    ],
+    "synonyms": [
+      "awkward",
+      "tactless",
+      "inept",
+      "clumsy"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "boorish",
+    "term": "boorish",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BOOR-ish",
+    "definition": "Rough, rude and insensitive in manners.",
+    "example": "He got boorish after a few beers and started heckling the waiters.",
+    "etymology": "From boor, from Dutch boer or Low German bur, ‘farmer, peasant’. As with ‘villain’ and ‘churl’, a word for a country labourer became an insult for crude behaviour.",
+    "root": {
+      "form": "boer",
+      "language": "Dutch",
+      "meaning": "farmer"
+    },
+    "relatedWords": [
+      {
+        "term": "neighbor",
+        "meaning": "one who lives near (from Old English gebur, dweller, a cognate)"
+      },
+      {
+        "term": "Boer",
+        "meaning": "a South African of Dutch descent"
+      }
+    ],
+    "synonyms": [
+      "rude",
+      "crass",
+      "oafish",
+      "uncouth"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "uncouth",
+    "term": "uncouth",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-KOOTH",
+    "definition": "Lacking good manners or refinement; crude.",
+    "example": "Chewing with your mouth open at a job interview is pretty uncouth.",
+    "etymology": "From Old English uncuþ, ‘unknown, unfamiliar’, from un- + cuþ, ‘known’, past participle of cunnan, ‘to know’. What is unknown seemed strange, then awkward, then crude.",
+    "root": {
+      "form": "cunnan",
+      "language": "Old English",
+      "meaning": "to know, be able"
+    },
+    "relatedWords": [
+      {
+        "term": "can",
+        "meaning": "to be able (originally ‘to know how’)"
+      },
+      {
+        "term": "cunning",
+        "meaning": "clever, originally ‘knowing’"
+      },
+      {
+        "term": "kith",
+        "meaning": "friends and neighbours, as in ‘kith and kin’"
+      },
+      {
+        "term": "couth",
+        "meaning": "refined (a humorous back-formation)"
+      }
+    ],
+    "synonyms": [
+      "crude",
+      "boorish",
+      "coarse",
+      "unrefined"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "brazen",
+    "term": "brazen",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "BRAY-zun",
+    "definition": "Openly bold and shameless, without any embarrassment.",
+    "example": "He told a brazen lie right to my face, with the receipt in my hand.",
+    "etymology": "From Old English bræsen, ‘made of brass’. Being hard and unyielding like brass (as in ‘brass-faced’) came to mean shameless by the 16th century.",
+    "root": {
+      "form": "bræs",
+      "language": "Old English",
+      "meaning": "brass"
+    },
+    "relatedWords": [
+      {
+        "term": "brass",
+        "meaning": "a yellow alloy; informally, nerve"
+      },
+      {
+        "term": "brassy",
+        "meaning": "loud and showy"
+      }
+    ],
+    "synonyms": [
+      "shameless",
+      "barefaced",
+      "audacious",
+      "bold"
+    ],
+    "note": "Also a verb: ‘brazen it out’ means to face trouble without showing shame.",
+    "category": "manner"
+  },
+  {
+    "id": "impertinent",
+    "term": "impertinent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PUR-tih-nent",
+    "definition": "Not showing proper respect; rudely intrusive or presumptuous.",
+    "example": "Sorry if this is impertinent, but are you two dating?",
+    "etymology": "From Late Latin impertinens, ‘not belonging’, from in- (not) + pertinere, ‘to extend to, concern’, from per- + tenere, ‘to hold’. It first meant irrelevant; meddling in what doesn’t concern you led to the sense of rudeness.",
+    "root": {
+      "form": "tenere",
+      "language": "Latin",
+      "meaning": "to hold"
+    },
+    "relatedWords": [
+      {
+        "term": "pertinent",
+        "meaning": "relevant"
+      },
+      {
+        "term": "pertain",
+        "meaning": "to be connected with"
+      },
+      {
+        "term": "tenant",
+        "meaning": "one who holds property"
+      },
+      {
+        "term": "tenacious",
+        "meaning": "holding firmly"
+      }
+    ],
+    "synonyms": [
+      "cheeky",
+      "insolent",
+      "impudent",
+      "presumptuous"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "cheeky",
+    "term": "cheeky",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "CHEE-kee",
+    "definition": "Disrespectful or irreverent, usually in a playful, endearing way.",
+    "example": "My niece gave me a cheeky grin and stole the last cookie.",
+    "etymology": "From cheek, Old English ceace, ‘jaw, cheek’. In the 19th century ‘cheek’ came to mean insolent talk, presumably from the mouth as the source of back-talk.",
+    "root": {
+      "form": "ceace",
+      "language": "Old English",
+      "meaning": "jaw, cheek"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "impudent",
+      "saucy",
+      "sassy",
+      "impertinent"
+    ],
+    "note": "Chiefly British; usually affectionate. In the UK ‘a cheeky pint’ means an unplanned indulgence.",
+    "category": "manner"
+  },
+  {
+    "id": "officious",
+    "term": "officious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-FISH-us",
+    "definition": "Assertive in a bossy, meddling way, especially about petty rules.",
+    "example": "An officious security guard wouldn’t let me in because my badge photo was ‘outdated’.",
+    "etymology": "From Latin officiosus, ‘obliging, dutiful’, from officium, ‘service, duty’. It originally meant eager to help; by the 17th century that eagerness was seen as unwelcome meddling.",
+    "root": {
+      "form": "officium",
+      "language": "Latin",
+      "meaning": "duty, service"
+    },
+    "relatedWords": [
+      {
+        "term": "office",
+        "meaning": "a position of duty; a workplace"
+      },
+      {
+        "term": "official",
+        "meaning": "relating to an office or authority"
+      },
+      {
+        "term": "officiate",
+        "meaning": "to perform official duties"
+      }
+    ],
+    "synonyms": [
+      "bossy",
+      "meddlesome",
+      "self-important",
+      "interfering"
+    ],
+    "note": "Not the same as ‘official’; officious is always critical.",
+    "category": "manner"
+  },
+  {
+    "id": "overbearing",
+    "term": "overbearing",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "oh-ver-BAIR-ing",
+    "definition": "Unpleasantly domineering; overpowering others with your will.",
+    "example": "Her mom is so overbearing she still picks out her outfits for interviews.",
+    "etymology": "From over + bear (Old English beran, ‘to carry’). To ‘overbear’ was literally to bear down and overwhelm by weight or force; the social sense dates from the 16th century.",
+    "root": {
+      "form": "beran",
+      "language": "Old English",
+      "meaning": "to carry"
+    },
+    "relatedWords": [
+      {
+        "term": "bear",
+        "meaning": "to carry or endure"
+      },
+      {
+        "term": "burden",
+        "meaning": "a heavy load"
+      },
+      {
+        "term": "bearing",
+        "meaning": "the way one carries oneself"
+      }
+    ],
+    "synonyms": [
+      "domineering",
+      "bossy",
+      "imperious",
+      "high-handed"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "bluster",
+    "term": "bluster",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "BLUS-ter",
+    "definition": "To talk loudly, aggressively or boastfully, often with little effect behind it.",
+    "example": "He blustered about suing them, but we all knew he wouldn’t.",
+    "etymology": "Middle English, probably from Low German blüstern, ‘to blow violently’, likely imitative. Literally the blowing of a gale, it came to mean blowhard talk.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "blustery",
+        "meaning": "windy and gusty"
+      }
+    ],
+    "synonyms": [
+      "rant",
+      "bluff",
+      "swagger",
+      "bully"
+    ],
+    "note": "Also a noun: ‘all bluster and no action’.",
+    "category": "manner"
+  },
+  {
+    "id": "hector",
+    "term": "hector",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "HEK-ter",
+    "definition": "To talk to someone in a bullying, nagging way.",
+    "example": "I don’t need you hectoring me about my screen time every night.",
+    "etymology": "From Hector, the Trojan hero of Homer’s Iliad. In 17th-century London, gangs of swaggering young bullies were called ‘Hectors’, and the name became a verb for bullying.",
+    "root": {
+      "form": "Hektōr",
+      "language": "Greek",
+      "meaning": "Hector, Trojan hero"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "badger",
+      "browbeat",
+      "nag",
+      "bully"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "browbeat",
+    "term": "browbeat",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "BROW-beet",
+    "definition": "To intimidate someone into doing something with stern looks or harsh words.",
+    "example": "Don’t let them browbeat you into working the weekend for free.",
+    "etymology": "From brow + beat, first recorded in the late 16th century. The idea is of ‘beating down’ someone with a frowning brow, overpowering them with looks rather than blows.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "bully",
+      "intimidate",
+      "hector",
+      "coerce"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "wheedle",
+    "term": "wheedle",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "WEE-dul",
+    "definition": "To use flattery or sweet talk to get something from someone.",
+    "example": "My son wheedled an extra hour of gaming out of me by doing the dishes unasked.",
+    "etymology": "First recorded in the 17th century; its origin is uncertain. It may come from German wedeln, ‘to wag the tail’ (as a fawning dog does), but this is not proven.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "cajole",
+      "coax",
+      "sweet-talk",
+      "inveigle"
+    ],
+    "note": "Wheedle stresses flattery; cajole can include gentle pressure.",
+    "category": "manner"
+  },
+  {
+    "id": "mollify",
+    "term": "mollify",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "MOL-ih-fye",
+    "definition": "To soothe someone’s anger or anxiety.",
+    "example": "A sincere apology did more to mollify her than the flowers did.",
+    "etymology": "From French mollifier, from Late Latin mollificare, ‘to soften’, from mollis, ‘soft’ + facere, ‘to make’. Softening a substance became softening a mood.",
+    "root": {
+      "form": "mollis",
+      "language": "Latin",
+      "meaning": "soft"
+    },
+    "relatedWords": [
+      {
+        "term": "emollient",
+        "meaning": "a softening skin cream; calming"
+      },
+      {
+        "term": "mollusk",
+        "meaning": "a soft-bodied animal such as a snail"
+      }
+    ],
+    "synonyms": [
+      "placate",
+      "appease",
+      "pacify",
+      "soothe"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "ingratiate",
+    "term": "ingratiate",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "in-GRAY-shee-ayt",
+    "definition": "To deliberately try to win someone’s favour, often by flattery.",
+    "example": "He spent his first week trying to ingratiate himself with the boss.",
+    "etymology": "From Italian ingraziare, from the phrase in grazia, ‘into favour’, from Latin in + gratia, ‘grace, favour’.",
+    "root": {
+      "form": "gratia",
+      "language": "Latin",
+      "meaning": "favour, grace"
+    },
+    "relatedWords": [
+      {
+        "term": "grace",
+        "meaning": "elegance; favour"
+      },
+      {
+        "term": "gratitude",
+        "meaning": "thankfulness"
+      },
+      {
+        "term": "gratis",
+        "meaning": "free of charge"
+      },
+      {
+        "term": "gratuity",
+        "meaning": "a tip"
+      }
+    ],
+    "synonyms": [
+      "curry favour",
+      "suck up",
+      "fawn",
+      "toady"
+    ],
+    "note": "Almost always used reflexively: ‘ingratiate yourself with someone’.",
+    "category": "manner"
+  },
+  {
+    "id": "kowtow",
+    "term": "kowtow",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "KOW-tow",
+    "definition": "To act in an excessively humble, submissive way toward someone.",
+    "example": "I’m not going to kowtow to a client who screams at my staff.",
+    "etymology": "From Chinese kòutóu (Mandarin) or kau tau (Cantonese), ‘knock the head’, the deep bow in which the forehead touches the ground. It entered English in the early 19th century through contact with the Qing court.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "grovel",
+      "bow and scrape",
+      "toady",
+      "defer"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "fawn",
+    "term": "fawn",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "FAWN",
+    "definition": "To flatter or try to please someone in a servile, gushing way.",
+    "example": "The whole room fawned over the celebrity chef, which was a bit embarrassing.",
+    "etymology": "From Old English fagnian, ‘to rejoice, be glad’, related to fægen, ‘glad’. It was used of dogs showing delight, then of people showing servile affection. It is unrelated to fawn, the young deer.",
+    "root": {
+      "form": "fægen",
+      "language": "Old English",
+      "meaning": "glad"
+    },
+    "relatedWords": [
+      {
+        "term": "fain",
+        "meaning": "gladly, willingly (archaic)"
+      }
+    ],
+    "synonyms": [
+      "grovel",
+      "toady",
+      "flatter",
+      "suck up"
+    ],
+    "note": "Usually followed by ‘over’ or ‘on’: ‘fawning over the boss’.",
+    "category": "manner"
+  },
+  {
+    "id": "snub",
+    "term": "snub",
+    "kind": "word",
+    "partOfSpeech": "verb",
+    "pronunciation": "SNUB",
+    "definition": "To deliberately ignore or treat someone coldly.",
+    "example": "She totally snubbed me at the reunion; walked right past.",
+    "etymology": "From Old Norse snubba, ‘to scold, rebuke’. It meant to reprove sharply in Middle English, and the modern sense of a deliberate slight developed later. A ‘snub nose’, short and turned up, comes from a related sense of checking or cutting short.",
+    "root": {
+      "form": "snubba",
+      "language": "Old Norse",
+      "meaning": "to scold"
+    },
+    "relatedWords": [
+      {
+        "term": "snub-nosed",
+        "meaning": "having a short, upturned nose"
+      }
+    ],
+    "synonyms": [
+      "cold-shoulder",
+      "rebuff",
+      "ignore",
+      "slight"
+    ],
+    "note": "Also a noun: ‘it felt like a snub’.",
+    "category": "manner"
+  },
+  {
+    "id": "give-someone-the-cold-shoulder",
+    "term": "give someone the cold shoulder",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To deliberately ignore someone or treat them in an unfriendly way.",
+    "example": "Ever since I forgot her birthday, she’s been giving me the cold shoulder.",
+    "etymology": "First recorded in Walter Scott’s 1816 novel The Antiquary (‘showing the cold shoulder’), likely evoking turning your shoulder away from someone. The popular story about serving unwelcome guests a cold shoulder of mutton is probably a later folk etymology.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "freeze out",
+        "meaning": "to exclude someone by coldness"
+      },
+      {
+        "term": "snub",
+        "meaning": "to ignore someone deliberately"
+      }
+    ],
+    "synonyms": [
+      "snub",
+      "ignore",
+      "freeze out",
+      "shun"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "tete-a-tete",
+    "term": "tête-à-tête",
+    "kind": "phrase",
+    "partOfSpeech": "noun",
+    "pronunciation": null,
+    "definition": "A private, intimate conversation between two people.",
+    "example": "I saw them having a cozy little tête-à-tête by the coffee machine.",
+    "etymology": "French, literally ‘head to head’. Tête comes from Latin testa, ‘pot, shell’, which was used as slang for the head in late Latin.",
+    "root": {
+      "form": "testa",
+      "language": "Latin",
+      "meaning": "pot, shell; (slang) head"
+    },
+    "relatedWords": [
+      {
+        "term": "testaceous",
+        "meaning": "having a shell"
+      }
+    ],
+    "synonyms": [
+      "heart-to-heart",
+      "one-on-one",
+      "private chat"
+    ],
+    "note": "Pronounced tet-uh-TET; often written without accents in English.",
+    "category": "manner"
+  },
+  {
+    "id": "bonhomie",
+    "term": "bonhomie",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "bon-uh-MEE",
+    "definition": "Cheerful, easygoing friendliness.",
+    "example": "The festival had this great bonhomie; strangers were sharing food and dancing.",
+    "etymology": "From French bonhomie, from bonhomme, ‘good-natured man’, from bon (good, Latin bonus) + homme (man, Latin homo).",
+    "root": {
+      "form": "bonus",
+      "language": "Latin",
+      "meaning": "good"
+    },
+    "relatedWords": [
+      {
+        "term": "bonus",
+        "meaning": "something good in addition"
+      },
+      {
+        "term": "bounty",
+        "meaning": "generosity; a reward"
+      },
+      {
+        "term": "bona fide",
+        "meaning": "genuine, literally ‘in good faith’"
+      }
+    ],
+    "synonyms": [
+      "geniality",
+      "affability",
+      "conviviality",
+      "good cheer"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "decorum",
+    "term": "decorum",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-KOR-um",
+    "definition": "Behaviour that is proper, polite and fitting for the occasion.",
+    "example": "Let’s maintain a bit of decorum; this is a funeral, not a tailgate.",
+    "etymology": "From Latin decorum, ‘that which is seemly’, neuter of decorus, ‘fitting, proper’, from decere, ‘to be fitting’.",
+    "root": {
+      "form": "decere",
+      "language": "Latin",
+      "meaning": "to be fitting"
+    },
+    "relatedWords": [
+      {
+        "term": "decorous",
+        "meaning": "in good taste, proper"
+      },
+      {
+        "term": "decent",
+        "meaning": "conforming to standards of propriety"
+      },
+      {
+        "term": "decorate",
+        "meaning": "to make attractive"
+      }
+    ],
+    "synonyms": [
+      "propriety",
+      "etiquette",
+      "good manners",
+      "dignity"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "acerbic",
+    "term": "acerbic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-SUR-bik",
+    "definition": "Sharp, biting and critical in speech or humour.",
+    "example": "Her acerbic restaurant reviews are brutal, but they’re the funniest thing in the paper.",
+    "etymology": "From Latin acerbus, ‘sour, harsh, bitter’, related to acer, ‘sharp’. A sour taste became a sour tongue.",
+    "root": {
+      "form": "acerbus",
+      "language": "Latin",
+      "meaning": "sour, harsh"
+    },
+    "relatedWords": [
+      {
+        "term": "acerbity",
+        "meaning": "sharpness of temper or tone"
+      },
+      {
+        "term": "exacerbate",
+        "meaning": "to make worse, literally ‘make harsh’"
+      },
+      {
+        "term": "acrid",
+        "meaning": "sharp and bitter (from acer)"
+      }
+    ],
+    "synonyms": [
+      "caustic",
+      "cutting",
+      "mordant",
+      "biting"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "caustic",
+    "term": "caustic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAW-stik",
+    "definition": "Bitterly sarcastic and cutting in a way meant to hurt.",
+    "example": "I asked for feedback, not a caustic takedown in front of the whole team.",
+    "etymology": "From Greek kaustikos, ‘capable of burning’, from kaiein, ‘to burn’. Chemicals that burn gave the figurative sense of burning remarks in the 17th century.",
+    "root": {
+      "form": "kaiein",
+      "language": "Greek",
+      "meaning": "to burn"
+    },
+    "relatedWords": [
+      {
+        "term": "cauterize",
+        "meaning": "to burn a wound to seal it"
+      },
+      {
+        "term": "holocaust",
+        "meaning": "destruction by fire, literally ‘wholly burnt’"
+      },
+      {
+        "term": "encaustic",
+        "meaning": "painting with hot wax"
+      }
+    ],
+    "synonyms": [
+      "acerbic",
+      "scathing",
+      "biting",
+      "sardonic"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "histrionic",
+    "term": "histrionic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "his-tree-ON-ik",
+    "definition": "Overly dramatic or theatrical in behaviour.",
+    "example": "There’s no need to be histrionic; I only moved your mug.",
+    "etymology": "From Late Latin histrionicus, from histrio, ‘actor’, a word possibly of Etruscan origin. Behaving like a stage actor came to mean exaggerated emotion.",
+    "root": {
+      "form": "histrio",
+      "language": "Latin",
+      "meaning": "actor"
+    },
+    "relatedWords": [
+      {
+        "term": "histrionics",
+        "meaning": "exaggerated, dramatic behaviour"
+      }
+    ],
+    "synonyms": [
+      "melodramatic",
+      "theatrical",
+      "overwrought",
+      "over the top"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "stilted",
+    "term": "stilted",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "STIL-tid",
+    "definition": "Stiff, formal and unnatural in speech or manner.",
+    "example": "Our first conversation was so stilted, but now we can’t stop talking.",
+    "etymology": "From stilt (Middle English stilte, a pole or crutch) + -ed. Something raised up on stilts seemed artificially elevated, so stilted came to mean pompous and then stiff and awkward.",
+    "root": {
+      "form": "stilte",
+      "language": "Middle English",
+      "meaning": "stilt, pole"
+    },
+    "relatedWords": [
+      {
+        "term": "stilt",
+        "meaning": "a pole for walking above the ground"
+      }
+    ],
+    "synonyms": [
+      "stiff",
+      "wooden",
+      "forced",
+      "awkward"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "insouciant",
+    "term": "insouciant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-SOO-see-unt",
+    "definition": "Casually unconcerned; showing a carefree lack of worry.",
+    "example": "He gave an insouciant shrug when I told him the rent was due tomorrow.",
+    "etymology": "From French insouciant, from in- (not) + souciant, ‘caring’, from soucier, ‘to worry’, from Latin sollicitare, ‘to disturb, agitate’.",
+    "root": {
+      "form": "sollicitare",
+      "language": "Latin",
+      "meaning": "to disturb, agitate"
+    },
+    "relatedWords": [
+      {
+        "term": "solicitous",
+        "meaning": "anxiously attentive"
+      },
+      {
+        "term": "solicit",
+        "meaning": "to ask for, seek"
+      }
+    ],
+    "synonyms": [
+      "nonchalant",
+      "carefree",
+      "blasé",
+      "breezy"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "blase",
+    "term": "blasé",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "blah-ZAY",
+    "definition": "Unimpressed or indifferent because you’ve seen it all before.",
+    "example": "New Yorkers are so blasé; a guy in a full bear costume got on the subway and nobody looked up.",
+    "etymology": "From French blasé, past participle of blaser, ‘to cloy, satiate, blunt the senses’. Its earlier origin is uncertain. Someone dulled by too much pleasure became bored and unimpressed.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "jaded",
+      "unimpressed",
+      "nonchalant",
+      "world-weary"
+    ],
+    "note": "Not the same as ‘blah’ or ‘bland’; blasé describes a person’s attitude.",
+    "category": "manner"
+  },
+  {
+    "id": "sententious",
+    "term": "sententious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sen-TEN-shus",
+    "definition": "Given to moralizing in a pompous, preachy way.",
+    "example": "I just wanted directions, not a sententious lecture about planning ahead.",
+    "etymology": "From Latin sententiosus, ‘full of meaning’, from sententia, ‘opinion, maxim’, from sentire, ‘to feel, think’. Once meaning full of wise sayings, it now usually means preachy.",
+    "root": {
+      "form": "sentire",
+      "language": "Latin",
+      "meaning": "to feel, think"
+    },
+    "relatedWords": [
+      {
+        "term": "sentence",
+        "meaning": "a group of words; a judgment"
+      },
+      {
+        "term": "sentiment",
+        "meaning": "a feeling or opinion"
+      },
+      {
+        "term": "consent",
+        "meaning": "agreement, literally ‘feeling together’"
+      },
+      {
+        "term": "sense",
+        "meaning": "a faculty of perception"
+      }
+    ],
+    "synonyms": [
+      "preachy",
+      "moralizing",
+      "pompous",
+      "self-righteous"
+    ],
+    "note": null,
+    "category": "manner"
+  },
+  {
+    "id": "not-mince-words",
+    "term": "not mince words",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To speak bluntly and directly, without softening what you say.",
+    "example": "Grandma doesn’t mince words: she told him the beard looks terrible.",
+    "etymology": "From mince, via Old French mincier, ‘to cut small’, from Latin minutia, ‘smallness’. From the 16th century, ‘mincing’ your words meant chopping them up into gentler, more palatable pieces.",
+    "root": {
+      "form": "minutia",
+      "language": "Latin",
+      "meaning": "smallness"
+    },
+    "relatedWords": [
+      {
+        "term": "minute",
+        "meaning": "tiny"
+      },
+      {
+        "term": "minutiae",
+        "meaning": "small details"
+      },
+      {
+        "term": "mince",
+        "meaning": "to chop finely"
+      }
+    ],
+    "synonyms": [
+      "speak plainly",
+      "be blunt",
+      "tell it like it is"
+    ],
+    "note": "Usually used in the negative.",
+    "category": "manner"
+  },
+  {
+    "id": "beat-around-the-bush",
+    "term": "beat around the bush",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To avoid getting to the point; to talk around a topic instead of addressing it.",
+    "example": "Stop beating around the bush and just tell me if I got the job.",
+    "etymology": "From medieval bird hunting: beaters struck the bushes to drive birds out for the hunters. Beating around a bush rather than into it was the preliminary, indirect work. The original form, still common in Britain, is ‘beat about the bush’, recorded from the 15th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "get to the point",
+        "meaning": "to address the main issue"
+      },
+      {
+        "term": "hedge",
+        "meaning": "to avoid committing yourself"
+      }
+    ],
+    "synonyms": [
+      "hedge",
+      "prevaricate",
+      "equivocate",
+      "waffle"
+    ],
+    "note": "Often used in the negative: ‘I won’t beat around the bush.’",
+    "category": "manner"
+  }
+]

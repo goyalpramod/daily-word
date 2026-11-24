@@ -1,0 +1,3449 @@
+[
+  {
+    "id": "magnanimous",
+    "term": "magnanimous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "mag-NAN-uh-mus",
+    "definition": "Generous and forgiving, especially toward a rival or someone less powerful.",
+    "example": "She was pretty magnanimous about losing; she even bought the winner a drink.",
+    "etymology": "From Latin magnanimus, from magnus (great) + animus (soul, mind), a translation of Greek megalopsychos, ‘great-souled’. Originally it meant noble or high-minded in general; the sense narrowed to generosity in victory or toward an opponent.",
+    "root": {
+      "form": "animus",
+      "language": "Latin",
+      "meaning": "soul, mind, spirit"
+    },
+    "relatedWords": [
+      {
+        "term": "pusillanimous",
+        "meaning": "cowardly; literally small-souled"
+      },
+      {
+        "term": "unanimous",
+        "meaning": "of one mind"
+      },
+      {
+        "term": "equanimity",
+        "meaning": "evenness of mind; calm"
+      },
+      {
+        "term": "animosity",
+        "meaning": "strong hostility"
+      }
+    ],
+    "synonyms": [
+      "generous",
+      "big-hearted",
+      "gracious",
+      "forgiving"
+    ],
+    "note": "Most natural when someone has the upper hand and chooses not to use it: a magnanimous winner, a magnanimous gesture.",
+    "category": "character"
+  },
+  {
+    "id": "obsequious",
+    "term": "obsequious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ub-SEE-kwee-us",
+    "definition": "Too eager to please or obey, to the point of being servile.",
+    "example": "The waiter was so obsequious it actually got a bit uncomfortable.",
+    "etymology": "From Latin obsequiosus, from obsequium (compliance), from obsequi ‘to comply’, literally ob- (toward) + sequi (to follow). In the 15th century it simply meant dutiful or compliant; by the 1600s it had taken on its modern sense of fawning.",
+    "root": {
+      "form": "sequi",
+      "language": "Latin",
+      "meaning": "to follow"
+    },
+    "relatedWords": [
+      {
+        "term": "sequel",
+        "meaning": "something that follows"
+      },
+      {
+        "term": "consequence",
+        "meaning": "a result that follows from an action"
+      },
+      {
+        "term": "subsequent",
+        "meaning": "coming after"
+      },
+      {
+        "term": "obsequies",
+        "meaning": "funeral rites (a separate, related Latin formation)"
+      }
+    ],
+    "synonyms": [
+      "servile",
+      "fawning",
+      "sycophantic",
+      "ingratiating"
+    ],
+    "note": "Always negative. It suggests a habit of deference, not just a polite moment.",
+    "category": "character"
+  },
+  {
+    "id": "gregarious",
+    "term": "gregarious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "grih-GAIR-ee-us",
+    "definition": "Fond of company; someone who enjoys being around other people.",
+    "example": "My brother’s so gregarious he’ll make three new friends waiting in line for coffee.",
+    "etymology": "From Latin gregarius ‘of a flock or herd’, from grex, gregis (flock). It was first used in English in the 17th century for animals that live in flocks, and was later applied to sociable people.",
+    "root": {
+      "form": "grex",
+      "language": "Latin",
+      "meaning": "flock, herd"
+    },
+    "relatedWords": [
+      {
+        "term": "congregate",
+        "meaning": "to gather together; literally to flock together"
+      },
+      {
+        "term": "segregate",
+        "meaning": "to set apart from the flock"
+      },
+      {
+        "term": "aggregate",
+        "meaning": "a whole formed by combining parts"
+      },
+      {
+        "term": "egregious",
+        "meaning": "outstandingly bad; literally standing out from the flock"
+      }
+    ],
+    "synonyms": [
+      "sociable",
+      "outgoing",
+      "convivial",
+      "extroverted"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "conscientious",
+    "term": "conscientious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kon-shee-EN-shus",
+    "definition": "Careful to do a job well and thoroughly, out of a sense of duty.",
+    "example": "He’s the most conscientious person on the team. He double-checks everything before he sends it.",
+    "etymology": "From French consciencieux, from Medieval Latin conscientiosus, from Latin conscientia (knowledge within oneself, conscience), from con- (with) + scire (to know). It first meant governed by conscience, then came to mean diligent and careful.",
+    "root": {
+      "form": "scire",
+      "language": "Latin",
+      "meaning": "to know"
+    },
+    "relatedWords": [
+      {
+        "term": "conscience",
+        "meaning": "your inner sense of right and wrong"
+      },
+      {
+        "term": "conscious",
+        "meaning": "aware"
+      },
+      {
+        "term": "science",
+        "meaning": "systematic knowledge"
+      },
+      {
+        "term": "omniscient",
+        "meaning": "knowing everything"
+      }
+    ],
+    "synonyms": [
+      "diligent",
+      "meticulous",
+      "dutiful",
+      "thorough"
+    ],
+    "note": "A ‘conscientious objector’ refuses military service on moral grounds, which keeps the older, conscience-based sense.",
+    "category": "character"
+  },
+  {
+    "id": "fastidious",
+    "term": "fastidious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "fa-STID-ee-us",
+    "definition": "Very attentive to detail and cleanliness; hard to please.",
+    "example": "He’s so fastidious about his kitchen that I’m scared to make toast in there.",
+    "etymology": "From Latin fastidiosus ‘squeamish, disdainful’, from fastidium (loathing, squeamishness), possibly from fastus (pride, disdain) + taedium (weariness), though that link is uncertain. In the 15th century it meant scornful or causing disgust; the modern sense of being exacting and particular developed later.",
+    "root": {
+      "form": "fastidium",
+      "language": "Latin",
+      "meaning": "loathing, squeamishness"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "meticulous",
+      "particular",
+      "fussy",
+      "exacting"
+    ],
+    "note": "Can be neutral or mildly critical: ‘fastidious’ suggests care, ‘fussy’ suggests annoyance.",
+    "category": "character"
+  },
+  {
+    "id": "pragmatic",
+    "term": "pragmatic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "prag-MAT-ik",
+    "definition": "Dealing with things sensibly and practically, based on what works rather than on theory.",
+    "example": "Look, let’s be pragmatic. We don’t need the perfect plan, just one that gets us there by Friday.",
+    "etymology": "From Greek pragmatikos ‘skilled in business or affairs’, from pragma (deed, thing done), from prassein (to do), via Latin pragmaticus. The sense of being practical and results-focused became common in the 19th century, helped along by the philosophy of pragmatism.",
+    "root": {
+      "form": "pragma",
+      "language": "Greek",
+      "meaning": "deed, thing done"
+    },
+    "relatedWords": [
+      {
+        "term": "pragmatism",
+        "meaning": "a practical approach to problems"
+      },
+      {
+        "term": "practical",
+        "meaning": "concerned with actual use or action"
+      },
+      {
+        "term": "practice",
+        "meaning": "the actual doing of something"
+      },
+      {
+        "term": "praxis",
+        "meaning": "practice, as opposed to theory"
+      }
+    ],
+    "synonyms": [
+      "practical",
+      "realistic",
+      "sensible",
+      "hard-headed"
+    ],
+    "note": "Often contrasted with ‘idealistic’.",
+    "category": "character"
+  },
+  {
+    "id": "idealistic",
+    "term": "idealistic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "eye-dee-uh-LIS-tik",
+    "definition": "Guided by high principles or a vision of how things should be, sometimes unrealistically.",
+    "example": "I was so idealistic at twenty. I genuinely thought one petition could fix everything.",
+    "etymology": "From ‘ideal’, from Late Latin idealis, from Latin idea, borrowed from Greek idea ‘form, pattern, appearance’, from idein (to see). Plato used idea for the perfect form of a thing; ‘idealistic’ came to describe people who pursue such perfect standards.",
+    "root": {
+      "form": "idea",
+      "language": "Greek",
+      "meaning": "form, pattern; literally ‘that which is seen’"
+    },
+    "relatedWords": [
+      {
+        "term": "idea",
+        "meaning": "a thought or mental picture"
+      },
+      {
+        "term": "ideal",
+        "meaning": "a standard of perfection"
+      },
+      {
+        "term": "ideology",
+        "meaning": "a system of ideas and ideals"
+      }
+    ],
+    "synonyms": [
+      "principled",
+      "utopian",
+      "visionary",
+      "starry-eyed"
+    ],
+    "note": "Can be praise (principled) or gentle criticism (naive), depending on tone.",
+    "category": "character"
+  },
+  {
+    "id": "stoic",
+    "term": "stoic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "STOH-ik",
+    "definition": "Enduring pain or hardship calmly, without showing feelings or complaining.",
+    "example": "My grandma was so stoic. She broke her wrist and just asked for a cup of tea.",
+    "etymology": "From Greek stoikos, from the Stoa Poikile (‘Painted Porch’) in Athens, where the philosopher Zeno of Citium taught around 300 BC. The Stoics taught that virtue lies in accepting what you cannot control, so ‘stoic’ came to mean bearing hardship without complaint.",
+    "root": {
+      "form": "stoa",
+      "language": "Greek",
+      "meaning": "porch, colonnade"
+    },
+    "relatedWords": [
+      {
+        "term": "stoicism",
+        "meaning": "calm endurance; also the philosophy itself"
+      }
+    ],
+    "synonyms": [
+      "uncomplaining",
+      "long-suffering",
+      "impassive",
+      "forbearing"
+    ],
+    "note": "Capitalize it (Stoic) for the philosophical school; lowercase for the everyday trait.",
+    "category": "character"
+  },
+  {
+    "id": "mercurial",
+    "term": "mercurial",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "mer-KYOOR-ee-ul",
+    "definition": "Prone to sudden, unpredictable changes of mood or mind.",
+    "example": "Our old boss was so mercurial. You never knew if you’d get a hug or a lecture.",
+    "etymology": "From Latin mercurialis ‘of Mercury’, the messenger god, whose name was also given to the planet and to the metal quicksilver. Astrologers held that people born under Mercury were quick-witted and changeable, and the way liquid mercury darts around strengthened the sense of volatility.",
+    "root": {
+      "form": "Mercurius",
+      "language": "Latin",
+      "meaning": "Mercury, messenger of the gods"
+    },
+    "relatedWords": [
+      {
+        "term": "mercury",
+        "meaning": "the liquid metal quicksilver"
+      }
+    ],
+    "synonyms": [
+      "volatile",
+      "temperamental",
+      "changeable",
+      "capricious"
+    ],
+    "note": "Can also mean lively and quick-witted, but the ‘unpredictable’ sense is far more common today.",
+    "category": "character"
+  },
+  {
+    "id": "intrepid",
+    "term": "intrepid",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-TREP-id",
+    "definition": "Fearless and adventurous, especially in the face of danger or the unknown.",
+    "example": "Our intrepid friend went off to find food in a city where none of us spoke the language.",
+    "etymology": "From Latin intrepidus, from in- (not) + trepidus (alarmed, anxious). It entered English in the 17th century.",
+    "root": {
+      "form": "trepidus",
+      "language": "Latin",
+      "meaning": "alarmed, anxious"
+    },
+    "relatedWords": [
+      {
+        "term": "trepidation",
+        "meaning": "fear or anxiety about what might happen"
+      },
+      {
+        "term": "intrepidity",
+        "meaning": "fearlessness"
+      }
+    ],
+    "synonyms": [
+      "fearless",
+      "bold",
+      "daring",
+      "adventurous"
+    ],
+    "note": "Often used with gentle humor for everyday ‘adventures’: our intrepid reporter, the intrepid toddler.",
+    "category": "character"
+  },
+  {
+    "id": "sanctimonious",
+    "term": "sanctimonious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sank-tuh-MOH-nee-us",
+    "definition": "Making a show of being morally better than other people.",
+    "example": "I don’t need a sanctimonious lecture about plastic straws from someone who flies every weekend.",
+    "etymology": "From Latin sanctimonia (holiness, sacredness), from sanctus (holy). Around 1600 it could still mean genuinely holy, but by the early 17th century it was being used for people who only pretend to piety.",
+    "root": {
+      "form": "sanctus",
+      "language": "Latin",
+      "meaning": "holy"
+    },
+    "relatedWords": [
+      {
+        "term": "sanctity",
+        "meaning": "holiness"
+      },
+      {
+        "term": "sanctuary",
+        "meaning": "a holy or safe place"
+      },
+      {
+        "term": "sanctify",
+        "meaning": "to make holy"
+      },
+      {
+        "term": "saint",
+        "meaning": "a holy person"
+      }
+    ],
+    "synonyms": [
+      "self-righteous",
+      "holier-than-thou",
+      "preachy",
+      "pious"
+    ],
+    "note": "Always negative; the key idea is that the virtue is performed, not real.",
+    "category": "character"
+  },
+  {
+    "id": "unassuming",
+    "term": "unassuming",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "un-uh-SOO-ming",
+    "definition": "Modest and not trying to draw attention to oneself or one’s abilities.",
+    "example": "You’d never guess he founded the company. He’s completely unassuming.",
+    "etymology": "From un- + ‘assuming’ in its old sense of presumptuous (taking too much upon oneself), from assume, Latin assumere ‘to take to oneself’, from ad- (to) + sumere (to take). It appeared in the 18th century.",
+    "root": {
+      "form": "sumere",
+      "language": "Latin",
+      "meaning": "to take"
+    },
+    "relatedWords": [
+      {
+        "term": "assume",
+        "meaning": "to take on, or to suppose"
+      },
+      {
+        "term": "presume",
+        "meaning": "to take for granted"
+      },
+      {
+        "term": "consume",
+        "meaning": "to use up"
+      },
+      {
+        "term": "presumptuous",
+        "meaning": "overstepping proper bounds"
+      }
+    ],
+    "synonyms": [
+      "modest",
+      "humble",
+      "self-effacing",
+      "low-key"
+    ],
+    "note": "Also used for places and things: an unassuming little restaurant.",
+    "category": "character"
+  },
+  {
+    "id": "tenacious",
+    "term": "tenacious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "tuh-NAY-shus",
+    "definition": "Holding on firmly; persistent and unwilling to give up.",
+    "example": "She’s tenacious. She called the airline every day for a month until they refunded her.",
+    "etymology": "From Latin tenax, tenacis (holding fast), from tenere (to hold). It first described physical grip or stickiness and was later applied to stubborn persistence.",
+    "root": {
+      "form": "tenere",
+      "language": "Latin",
+      "meaning": "to hold"
+    },
+    "relatedWords": [
+      {
+        "term": "tenacity",
+        "meaning": "persistence"
+      },
+      {
+        "term": "tenant",
+        "meaning": "someone who holds a property"
+      },
+      {
+        "term": "retain",
+        "meaning": "to hold back or keep"
+      },
+      {
+        "term": "tenable",
+        "meaning": "able to be held or defended"
+      }
+    ],
+    "synonyms": [
+      "persistent",
+      "determined",
+      "dogged",
+      "resolute"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "capricious",
+    "term": "capricious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kuh-PRISH-us",
+    "definition": "Given to sudden, unaccountable changes of mood or behavior.",
+    "example": "Honestly, the rules here feel capricious. It depends on who’s working that day.",
+    "etymology": "From French capricieux, from Italian capriccio (a whim, a sudden start). The Italian word is usually traced to capo (head) + riccio (hedgehog), a head with hair standing on end from fright. A popular association with capra (goat) and its unpredictable leaps probably shaped the later sense of whimsy.",
+    "root": {
+      "form": "capriccio",
+      "language": "Italian",
+      "meaning": "whim, sudden start"
+    },
+    "relatedWords": [
+      {
+        "term": "caprice",
+        "meaning": "a sudden change of mind or whim"
+      },
+      {
+        "term": "capriccio",
+        "meaning": "a lively, free-form piece of music"
+      }
+    ],
+    "synonyms": [
+      "fickle",
+      "mercurial",
+      "whimsical",
+      "erratic"
+    ],
+    "note": "Works for people and for systems: a capricious boss, capricious weather.",
+    "category": "character"
+  },
+  {
+    "id": "altruistic",
+    "term": "altruistic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "al-troo-IS-tik",
+    "definition": "Unselfishly concerned for the well-being of others.",
+    "example": "I’d love to say I volunteered for altruistic reasons, but mostly I wanted the free T-shirt.",
+    "etymology": "From French altruisme, coined by the philosopher Auguste Comte in the 1830s from autrui (other people), ultimately from Latin alter (other). Comte meant it as the opposite of egoism.",
+    "root": {
+      "form": "alter",
+      "language": "Latin",
+      "meaning": "other"
+    },
+    "relatedWords": [
+      {
+        "term": "alter ego",
+        "meaning": "a second self"
+      },
+      {
+        "term": "alternate",
+        "meaning": "to switch between one and the other"
+      },
+      {
+        "term": "alteration",
+        "meaning": "a change; making something other"
+      }
+    ],
+    "synonyms": [
+      "selfless",
+      "unselfish",
+      "generous",
+      "philanthropic"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "cantankerous",
+    "term": "cantankerous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kan-TANG-ker-us",
+    "definition": "Bad-tempered, argumentative and uncooperative.",
+    "example": "Our neighbor’s a bit cantankerous, but he did shovel our driveway last winter.",
+    "etymology": "Of uncertain origin; it first appears in the 18th century. One suggestion is that it comes from Middle English contack (contention), shaped by words like rancorous and cankerous, but this is not proven.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "grumpy",
+      "irascible",
+      "crotchety",
+      "ornery"
+    ],
+    "note": "Often affectionate, especially for older people or animals: a cantankerous old cat.",
+    "category": "character"
+  },
+  {
+    "id": "earnest",
+    "term": "earnest",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "UR-nist",
+    "definition": "Sincere and serious in intention, sometimes to the point of lacking humor.",
+    "example": "He’s very earnest. He took my joke about moving to Mars as a real plan.",
+    "etymology": "From Old English eornoste (serious, zealous), related to eornost (seriousness, intense effort) and to German ernst. The phrase ‘in earnest’ has been used since Old English times.",
+    "root": {
+      "form": "eornost",
+      "language": "Old English",
+      "meaning": "seriousness, zeal"
+    },
+    "relatedWords": [
+      {
+        "term": "in earnest",
+        "meaning": "seriously, for real"
+      },
+      {
+        "term": "earnestness",
+        "meaning": "sincerity and seriousness"
+      }
+    ],
+    "synonyms": [
+      "sincere",
+      "serious",
+      "wholehearted",
+      "solemn"
+    ],
+    "note": "‘Earnest money’ (a deposit) is a different word, from Old French erres (pledge).",
+    "category": "character"
+  },
+  {
+    "id": "diffident",
+    "term": "diffident",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "DIF-ih-dunt",
+    "definition": "Shy and lacking confidence in one’s own abilities.",
+    "example": "She’s a bit diffident in meetings, but her ideas are usually the best ones.",
+    "etymology": "From Latin diffidere ‘to distrust’, from dis- (not) + fidere (to trust). In the 15th century it meant distrustful of others; by the 17th century it had shifted to distrust of oneself, meaning lacking confidence.",
+    "root": {
+      "form": "fidere",
+      "language": "Latin",
+      "meaning": "to trust"
+    },
+    "relatedWords": [
+      {
+        "term": "confident",
+        "meaning": "trusting in oneself"
+      },
+      {
+        "term": "confide",
+        "meaning": "to trust someone with a secret"
+      },
+      {
+        "term": "fidelity",
+        "meaning": "faithfulness"
+      },
+      {
+        "term": "infidel",
+        "meaning": "literally ‘unfaithful’; a non-believer"
+      }
+    ],
+    "synonyms": [
+      "shy",
+      "timid",
+      "self-doubting",
+      "reserved"
+    ],
+    "note": "The direct opposite of ‘confident’, and the two share a root.",
+    "category": "character"
+  },
+  {
+    "id": "venal",
+    "term": "venal",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VEE-nul",
+    "definition": "Willing to be bribed; motivated by money rather than principle.",
+    "example": "The whole council was venal. Anyone with enough cash could get a permit.",
+    "etymology": "From Latin venalis ‘for sale’, from venum (sale). In English it first described goods offered for sale, then people whose loyalty or services could be bought.",
+    "root": {
+      "form": "venum",
+      "language": "Latin",
+      "meaning": "sale"
+    },
+    "relatedWords": [
+      {
+        "term": "vend",
+        "meaning": "to sell (from Latin vendere, venum + dare ‘to give for sale’)"
+      },
+      {
+        "term": "vendor",
+        "meaning": "a seller"
+      },
+      {
+        "term": "venality",
+        "meaning": "openness to bribery"
+      }
+    ],
+    "synonyms": [
+      "corrupt",
+      "bribable",
+      "mercenary",
+      "crooked"
+    ],
+    "note": "Don’t confuse it with ‘venial’ (minor, forgivable, as in a venial sin).",
+    "category": "character"
+  },
+  {
+    "id": "steadfast",
+    "term": "steadfast",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "STED-fast",
+    "definition": "Firm and unwavering in loyalty, purpose or belief.",
+    "example": "Through the whole messy breakup, my sister was steadfast. She picked up every single call.",
+    "etymology": "From Old English stedefæst, from stede (place) + fæst (firmly fixed). It literally meant standing firm in one’s place, like a soldier who holds his ground, and was soon used for loyalty and resolve.",
+    "root": {
+      "form": "stede",
+      "language": "Old English",
+      "meaning": "place, position"
+    },
+    "relatedWords": [
+      {
+        "term": "stead",
+        "meaning": "place, as in ‘in his stead’"
+      },
+      {
+        "term": "instead",
+        "meaning": "in place of"
+      },
+      {
+        "term": "homestead",
+        "meaning": "a home and its land"
+      },
+      {
+        "term": "steady",
+        "meaning": "firmly fixed, not shaking"
+      }
+    ],
+    "synonyms": [
+      "loyal",
+      "unwavering",
+      "constant",
+      "resolute"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "ingenuous",
+    "term": "ingenuous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-JEN-yoo-us",
+    "definition": "Innocent, frank and trusting, sometimes naively so.",
+    "example": "It was such an ingenuous question that nobody had the heart to laugh.",
+    "etymology": "From Latin ingenuus ‘native, freeborn’, from in- + the root of gignere (to beget). Freeborn people were thought to be noble and candid, so the word came to mean frank and open, then innocent or naive.",
+    "root": {
+      "form": "gignere",
+      "language": "Latin",
+      "meaning": "to beget, give birth to"
+    },
+    "relatedWords": [
+      {
+        "term": "disingenuous",
+        "meaning": "not candid; insincere"
+      },
+      {
+        "term": "ingenue",
+        "meaning": "an innocent young woman, especially a stage role"
+      },
+      {
+        "term": "progeny",
+        "meaning": "offspring"
+      }
+    ],
+    "synonyms": [
+      "naive",
+      "innocent",
+      "artless",
+      "guileless"
+    ],
+    "note": "Not the same as ‘ingenious’ (clever). Ingenuous people are open; ingenious people are inventive.",
+    "category": "character"
+  },
+  {
+    "id": "disingenuous",
+    "term": "disingenuous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dis-in-JEN-yoo-us",
+    "definition": "Not candid or sincere; pretending to know less, or care more, than one really does.",
+    "example": "It’s a bit disingenuous to say you ‘didn’t know’ about the party when you were in the group chat.",
+    "etymology": "Formed in the 17th century from dis- (not) + ingenuous, which comes from Latin ingenuus (freeborn, hence frank). So it literally means the opposite of frank and open.",
+    "root": {
+      "form": "ingenuus",
+      "language": "Latin",
+      "meaning": "freeborn, frank"
+    },
+    "relatedWords": [
+      {
+        "term": "ingenuous",
+        "meaning": "innocent and candid"
+      },
+      {
+        "term": "ingenue",
+        "meaning": "an innocent young woman, especially a stage role"
+      }
+    ],
+    "synonyms": [
+      "insincere",
+      "duplicitous",
+      "misleading",
+      "two-faced"
+    ],
+    "note": "A politer accusation than ‘lying’: it suggests a misleading framing rather than an outright falsehood.",
+    "category": "character"
+  },
+  {
+    "id": "narcissistic",
+    "term": "narcissistic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "nar-sih-SIS-tik",
+    "definition": "Excessively self-absorbed and in need of admiration.",
+    "example": "He turned my birthday dinner into a 40-minute talk about his podcast. Pretty narcissistic.",
+    "etymology": "From Narcissus, the youth in Greek myth who fell in love with his own reflection and wasted away. The term ‘narcissism’ entered psychology around 1900, through Havelock Ellis and later Freud. The ancient link between the name and Greek narke (numbness) is a folk etymology; the name’s real origin is uncertain.",
+    "root": {
+      "form": "Narkissos",
+      "language": "Greek",
+      "meaning": "Narcissus, a figure of myth"
+    },
+    "relatedWords": [
+      {
+        "term": "narcissism",
+        "meaning": "excessive self-love"
+      },
+      {
+        "term": "narcissus",
+        "meaning": "the daffodil family of flowers, named for the youth"
+      }
+    ],
+    "synonyms": [
+      "self-absorbed",
+      "vain",
+      "egotistical",
+      "self-obsessed"
+    ],
+    "note": "Casual use is common, but Narcissistic Personality Disorder is a clinical diagnosis, so use it with some care.",
+    "category": "character"
+  },
+  {
+    "id": "curmudgeon",
+    "term": "curmudgeon",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ker-MUJ-un",
+    "definition": "A bad-tempered, grumpy person, especially an older one who dislikes change.",
+    "example": "My dad’s a total curmudgeon about new phones, but he secretly loves his.",
+    "etymology": "Of unknown origin; it first appears in the late 16th century. Samuel Johnson’s dictionary passed on an anonymous suggestion that it came from French coeur méchant (wicked heart), and a later dictionary famously garbled this into ‘from coeur, unknown, and méchant, a correspondent’.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "grouch",
+      "crank",
+      "grump",
+      "killjoy"
+    ],
+    "note": "Often affectionate rather than harsh.",
+    "category": "character"
+  },
+  {
+    "id": "polymath",
+    "term": "polymath",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "POL-ee-math",
+    "definition": "A person with wide knowledge or skill across many different subjects.",
+    "example": "She’s a real polymath. She’s a doctor, plays cello in an orchestra and builds furniture.",
+    "etymology": "From Greek polymathēs ‘having learned much’, from polys (much, many) + the stem math- of manthanein (to learn). It entered English in the early 17th century.",
+    "root": {
+      "form": "manthanein",
+      "language": "Greek",
+      "meaning": "to learn"
+    },
+    "relatedWords": [
+      {
+        "term": "mathematics",
+        "meaning": "originally ‘things learned’"
+      },
+      {
+        "term": "polyglot",
+        "meaning": "someone who speaks many languages"
+      },
+      {
+        "term": "polygon",
+        "meaning": "a shape with many angles"
+      }
+    ],
+    "synonyms": [
+      "Renaissance man",
+      "Renaissance woman",
+      "all-rounder",
+      "savant"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "maverick",
+    "term": "maverick",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "MAV-er-ik",
+    "definition": "An independent-minded person who refuses to follow the usual rules or the group.",
+    "example": "She’s a bit of a maverick. She ignored the playbook entirely and it worked.",
+    "etymology": "From Samuel Maverick (1803-1870), a Texas lawyer and landowner who did not brand his calves. Unbranded strays came to be called mavericks, and by the 1880s the word was used for people who would not be ‘branded’ by a party or group.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "nonconformist",
+      "free spirit",
+      "individualist",
+      "rebel"
+    ],
+    "note": "Usually admiring, but it can hint that someone is hard to manage.",
+    "category": "character"
+  },
+  {
+    "id": "sycophant",
+    "term": "sycophant",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SIK-uh-fant",
+    "definition": "A person who flatters powerful people to gain favor.",
+    "example": "The boss is surrounded by sycophants, so nobody ever tells him his ideas are bad.",
+    "etymology": "From Greek sykophantēs, literally ‘fig-shower’, from sykon (fig) + phainein (to show). In Athens it meant a malicious informer or false accuser; why figs were involved is unknown, and the popular stories about fig smugglers are unproven. In English it first meant ‘informer’ (1530s) and soon shifted to ‘flatterer’.",
+    "root": {
+      "form": "phainein",
+      "language": "Greek",
+      "meaning": "to show, bring to light"
+    },
+    "relatedWords": [
+      {
+        "term": "sycophantic",
+        "meaning": "servilely flattering"
+      },
+      {
+        "term": "phenomenon",
+        "meaning": "something that appears or is observed"
+      },
+      {
+        "term": "epiphany",
+        "meaning": "a sudden revelation"
+      },
+      {
+        "term": "sycamore",
+        "meaning": "a tree name from Greek sykon (fig) + moron (mulberry)"
+      }
+    ],
+    "synonyms": [
+      "toady",
+      "flatterer",
+      "yes-man",
+      "bootlicker"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "pedant",
+    "term": "pedant",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "PED-unt",
+    "definition": "Someone overly concerned with minor details, rules or showing off their learning.",
+    "example": "Fine, I’m a pedant, but it’s ‘fewer than ten items’, not ‘less than’.",
+    "etymology": "From Italian pedante (teacher, schoolmaster), probably connected with Latin paedagogare (to teach), from Greek paidagōgos, though the exact path is uncertain. In the late 16th century it meant a schoolmaster; the sense of someone fussing over small points of learning followed soon after.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "pedantic",
+        "meaning": "excessively concerned with minor details"
+      },
+      {
+        "term": "pedantry",
+        "meaning": "the behavior of a pedant"
+      }
+    ],
+    "synonyms": [
+      "nitpicker",
+      "stickler",
+      "know-it-all",
+      "quibbler"
+    ],
+    "note": "People often use it of themselves, half-proudly.",
+    "category": "character"
+  },
+  {
+    "id": "raconteur",
+    "term": "raconteur",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "rak-on-TUR",
+    "definition": "A person who tells stories in a skillful and entertaining way.",
+    "example": "Invite Uncle Joe. He’s a born raconteur and he’ll keep the table laughing all night.",
+    "etymology": "Borrowed from French in the early 19th century, from raconter (to tell, relate), from re- + Old French aconter (to count, tell), ultimately from Latin computare (to calculate). The link between counting and telling also shows up in English ‘recount’.",
+    "root": {
+      "form": "computare",
+      "language": "Latin",
+      "meaning": "to count, reckon"
+    },
+    "relatedWords": [
+      {
+        "term": "recount",
+        "meaning": "to tell a story, or to count again"
+      },
+      {
+        "term": "account",
+        "meaning": "a report or a record of money"
+      },
+      {
+        "term": "count",
+        "meaning": "to number"
+      }
+    ],
+    "synonyms": [
+      "storyteller",
+      "anecdotalist",
+      "spinner of yarns"
+    ],
+    "note": "Implies a talent for anecdotes, usually in social settings, rather than writing fiction.",
+    "category": "character"
+  },
+  {
+    "id": "punctilious",
+    "term": "punctilious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "punk-TIL-ee-us",
+    "definition": "Showing great attention to detail and correct behavior.",
+    "example": "He’s punctilious about thank-you notes. I got one for lending him a pen.",
+    "etymology": "From punctilio (a fine point of etiquette), from Italian puntiglio and Spanish puntillo, diminutives of punto (point), from Latin punctum (point). It literally describes someone concerned with every small point.",
+    "root": {
+      "form": "punctum",
+      "language": "Latin",
+      "meaning": "point, prick"
+    },
+    "relatedWords": [
+      {
+        "term": "punctual",
+        "meaning": "on time, to the exact point"
+      },
+      {
+        "term": "punctuate",
+        "meaning": "to mark with points"
+      },
+      {
+        "term": "puncture",
+        "meaning": "a small hole made by a point"
+      },
+      {
+        "term": "punctilio",
+        "meaning": "a fine point of etiquette"
+      }
+    ],
+    "synonyms": [
+      "meticulous",
+      "scrupulous",
+      "exacting",
+      "conscientious"
+    ],
+    "note": "Often about manners and protocol, not just accuracy.",
+    "category": "character"
+  },
+  {
+    "id": "scrupulous",
+    "term": "scrupulous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SKROO-pyuh-lus",
+    "definition": "Very careful to do what is honest and right; also, extremely thorough.",
+    "example": "She’s scrupulous about expenses. She won’t even claim a coffee she forgot the receipt for.",
+    "etymology": "From Latin scrupulus, literally ‘a small sharp stone’, diminutive of scrupus (a sharp stone). Romans used it figuratively for a small worry that pricks the conscience, like a pebble in a shoe. ‘Unscrupulous’ describes someone not bothered by any such pebble.",
+    "root": {
+      "form": "scrupulus",
+      "language": "Latin",
+      "meaning": "small sharp stone"
+    },
+    "relatedWords": [
+      {
+        "term": "scruple",
+        "meaning": "a moral doubt that holds you back"
+      },
+      {
+        "term": "unscrupulous",
+        "meaning": "without moral principles"
+      }
+    ],
+    "synonyms": [
+      "honest",
+      "principled",
+      "meticulous",
+      "conscientious"
+    ],
+    "note": "‘Scrupulously clean’ uses the thorough sense; ‘a scrupulous person’ usually means an honest one.",
+    "category": "character"
+  },
+  {
+    "id": "parsimonious",
+    "term": "parsimonious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "par-sih-MOH-nee-us",
+    "definition": "Extremely unwilling to spend money or resources; stingy.",
+    "example": "He’s so parsimonious he reuses tea bags. Three times.",
+    "etymology": "From parsimony, Latin parsimonia (frugality, thrift), from parcere (to spare), whose past participle is parsus. In science, the ‘law of parsimony’ (Occam’s razor) keeps the neutral sense of economy.",
+    "root": {
+      "form": "parcere",
+      "language": "Latin",
+      "meaning": "to spare"
+    },
+    "relatedWords": [
+      {
+        "term": "parsimony",
+        "meaning": "extreme frugality; also economy of explanation"
+      }
+    ],
+    "synonyms": [
+      "stingy",
+      "miserly",
+      "tight-fisted",
+      "cheap"
+    ],
+    "note": "Stronger and more critical than ‘frugal’.",
+    "category": "character"
+  },
+  {
+    "id": "profligate",
+    "term": "profligate",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PROF-lih-git",
+    "definition": "Recklessly wasteful with money or resources; also, shamelessly self-indulgent.",
+    "example": "I was pretty profligate in my twenties. Taxis everywhere, takeout every night.",
+    "etymology": "From Latin profligatus (ruined, dissolute), past participle of profligare (to strike down, ruin), from pro- (forward) + fligere (to strike). In the 1530s it meant overthrown; it then came to mean morally ruined, and later recklessly extravagant.",
+    "root": {
+      "form": "fligere",
+      "language": "Latin",
+      "meaning": "to strike"
+    },
+    "relatedWords": [
+      {
+        "term": "conflict",
+        "meaning": "a clash; literally a striking together"
+      },
+      {
+        "term": "inflict",
+        "meaning": "to impose something unpleasant"
+      },
+      {
+        "term": "afflict",
+        "meaning": "to cause suffering"
+      }
+    ],
+    "synonyms": [
+      "wasteful",
+      "extravagant",
+      "spendthrift",
+      "dissolute"
+    ],
+    "note": "Also a noun: ‘a reformed profligate’.",
+    "category": "character"
+  },
+  {
+    "id": "frugal",
+    "term": "frugal",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FROO-gul",
+    "definition": "Careful and economical with money or food; avoiding waste.",
+    "example": "We’re being frugal this year so we can afford the trip in the summer.",
+    "etymology": "From Latin frugalis (economical, worthy), from frugi (useful, thrifty), originally a form of frux (fruit, produce, profit). So a frugal person, roughly, makes good use of their harvest.",
+    "root": {
+      "form": "frux",
+      "language": "Latin",
+      "meaning": "fruit, produce, profit"
+    },
+    "relatedWords": [
+      {
+        "term": "fruit",
+        "meaning": "from Latin fructus, from the same verb frui (to enjoy)"
+      },
+      {
+        "term": "fruition",
+        "meaning": "the realization of a plan"
+      },
+      {
+        "term": "fructose",
+        "meaning": "fruit sugar"
+      }
+    ],
+    "synonyms": [
+      "thrifty",
+      "economical",
+      "sparing",
+      "prudent"
+    ],
+    "note": "Generally positive, unlike ‘stingy’ or ‘parsimonious’.",
+    "category": "character"
+  },
+  {
+    "id": "avaricious",
+    "term": "avaricious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "av-uh-RISH-us",
+    "definition": "Having an extreme greed for wealth or material gain.",
+    "example": "The landlord’s avaricious. He raised the rent the same week he refused to fix the heating.",
+    "etymology": "From avarice, via Old French from Latin avaritia (greed), from avarus (greedy), from avere (to crave, long for).",
+    "root": {
+      "form": "avere",
+      "language": "Latin",
+      "meaning": "to crave"
+    },
+    "relatedWords": [
+      {
+        "term": "avarice",
+        "meaning": "extreme greed"
+      },
+      {
+        "term": "avid",
+        "meaning": "keenly eager"
+      }
+    ],
+    "synonyms": [
+      "greedy",
+      "grasping",
+      "acquisitive",
+      "rapacious"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "munificent",
+    "term": "munificent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "myoo-NIF-ih-sunt",
+    "definition": "Remarkably generous, especially with gifts or money.",
+    "example": "Thanks to a munificent donor, the whole school gets new laptops.",
+    "etymology": "From Latin munificus (generous), from munus (gift, duty, service) + facere (to make). It literally describes someone who ‘makes gifts’.",
+    "root": {
+      "form": "munus",
+      "language": "Latin",
+      "meaning": "gift, duty"
+    },
+    "relatedWords": [
+      {
+        "term": "munificence",
+        "meaning": "great generosity"
+      },
+      {
+        "term": "remunerate",
+        "meaning": "to pay for services"
+      },
+      {
+        "term": "municipal",
+        "meaning": "relating to a town; from munus + capere, taking on duties"
+      }
+    ],
+    "synonyms": [
+      "generous",
+      "lavish",
+      "bountiful",
+      "open-handed"
+    ],
+    "note": "Usually describes large-scale or public generosity: a munificent gift, a munificent patron.",
+    "category": "character"
+  },
+  {
+    "id": "benevolent",
+    "term": "benevolent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "buh-NEV-uh-lunt",
+    "definition": "Well-meaning and kindly; wanting good things for others.",
+    "example": "She runs the office like a benevolent dictator. Strict, but everyone feels looked after.",
+    "etymology": "From Latin benevolens, from bene (well) + volens, present participle of velle (to wish, want). It literally means ‘wishing well’. Its opposite, malevolent, is built the same way with male (badly).",
+    "root": {
+      "form": "velle",
+      "language": "Latin",
+      "meaning": "to wish, want"
+    },
+    "relatedWords": [
+      {
+        "term": "malevolent",
+        "meaning": "wishing harm to others"
+      },
+      {
+        "term": "volition",
+        "meaning": "the power of using one’s will"
+      },
+      {
+        "term": "voluntary",
+        "meaning": "done by one’s own will"
+      },
+      {
+        "term": "benefactor",
+        "meaning": "someone who does good for others"
+      }
+    ],
+    "synonyms": [
+      "kind",
+      "kindly",
+      "well-meaning",
+      "charitable"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "misanthrope",
+    "term": "misanthrope",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "MIS-un-throhp",
+    "definition": "A person who dislikes humankind and avoids other people.",
+    "example": "I’m not a misanthrope, I just need a whole day alone after a wedding.",
+    "etymology": "From Greek misanthrōpos (hating mankind), from misein (to hate) + anthrōpos (human being). Molière’s 1666 play Le Misanthrope helped make the word familiar across Europe.",
+    "root": {
+      "form": "anthrōpos",
+      "language": "Greek",
+      "meaning": "human being"
+    },
+    "relatedWords": [
+      {
+        "term": "philanthropy",
+        "meaning": "love of humanity, expressed as charity"
+      },
+      {
+        "term": "anthropology",
+        "meaning": "the study of humans"
+      },
+      {
+        "term": "misogynist",
+        "meaning": "someone who hates women"
+      },
+      {
+        "term": "misanthropic",
+        "meaning": "disliking people in general"
+      }
+    ],
+    "synonyms": [
+      "cynic",
+      "recluse",
+      "hermit",
+      "people-hater"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "introvert",
+    "term": "introvert",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "IN-truh-vurt",
+    "definition": "A person who is energized by solitude and finds lots of socializing draining.",
+    "example": "As an introvert, I love you all, but I’m going home at nine.",
+    "etymology": "From Latin intro- (inward) + vertere (to turn). ‘Introvert’ was used from the 17th century for turning inward, often in a religious sense. The psychologist Carl Jung gave it its modern meaning in the early 20th century, paired with ‘extravert’, which became ‘extrovert’ in everyday spelling.",
+    "root": {
+      "form": "vertere",
+      "language": "Latin",
+      "meaning": "to turn"
+    },
+    "relatedWords": [
+      {
+        "term": "extrovert",
+        "meaning": "someone energized by being with others"
+      },
+      {
+        "term": "ambivert",
+        "meaning": "someone in between introvert and extrovert"
+      },
+      {
+        "term": "convert",
+        "meaning": "to turn into something else"
+      },
+      {
+        "term": "divert",
+        "meaning": "to turn aside"
+      }
+    ],
+    "synonyms": [
+      "loner",
+      "homebody",
+      "private person"
+    ],
+    "note": "Introvert doesn’t mean shy: many introverts are confident; they just recharge alone.",
+    "category": "character"
+  },
+  {
+    "id": "hedonist",
+    "term": "hedonist",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "HEE-duh-nist",
+    "definition": "A person who believes pleasure is the most important thing in life and pursues it.",
+    "example": "Dessert first, then a nap? You’re a true hedonist.",
+    "etymology": "From Greek hēdonē (pleasure). The idea goes back to ancient philosophers such as Aristippus of Cyrene, who held pleasure to be the highest good. The English words hedonism and hedonist date from the 19th century.",
+    "root": {
+      "form": "hēdonē",
+      "language": "Greek",
+      "meaning": "pleasure"
+    },
+    "relatedWords": [
+      {
+        "term": "hedonism",
+        "meaning": "the pursuit of pleasure"
+      },
+      {
+        "term": "hedonistic",
+        "meaning": "pleasure-seeking"
+      }
+    ],
+    "synonyms": [
+      "pleasure-seeker",
+      "sybarite",
+      "bon vivant",
+      "epicure"
+    ],
+    "note": "Often used playfully rather than as a serious criticism.",
+    "category": "character"
+  },
+  {
+    "id": "ascetic",
+    "term": "ascetic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-SET-ik",
+    "definition": "Practicing strict self-discipline and avoiding comfort or indulgence.",
+    "example": "He’s gone full ascetic. No sugar, no phone after eight, cold showers.",
+    "etymology": "From Greek askētikos, from askētēs (one who practices, a hermit), from askein (to exercise, train). The word first referred to athletes’ training, then to the spiritual discipline of monks and hermits.",
+    "root": {
+      "form": "askein",
+      "language": "Greek",
+      "meaning": "to exercise, train"
+    },
+    "relatedWords": [
+      {
+        "term": "asceticism",
+        "meaning": "a life of strict self-denial"
+      }
+    ],
+    "synonyms": [
+      "austere",
+      "abstemious",
+      "spartan",
+      "self-denying"
+    ],
+    "note": "Don’t confuse it with ‘aesthetic’ (concerned with beauty). They sound similar but are unrelated.",
+    "category": "character"
+  },
+  {
+    "id": "pusillanimous",
+    "term": "pusillanimous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pyoo-suh-LAN-uh-mus",
+    "definition": "Lacking courage or determination; timid and cowardly.",
+    "example": "The board’s response was pusillanimous. They wouldn’t even say the word ‘mistake’.",
+    "etymology": "From Late Latin pusillanimis, from pusillus (very small, weak) + animus (soul, mind), a translation of Greek oligopsychos (small-souled). It is the mirror image of magnanimous (great-souled).",
+    "root": {
+      "form": "animus",
+      "language": "Latin",
+      "meaning": "soul, mind, spirit"
+    },
+    "relatedWords": [
+      {
+        "term": "magnanimous",
+        "meaning": "generous; literally great-souled"
+      },
+      {
+        "term": "animosity",
+        "meaning": "hostility"
+      },
+      {
+        "term": "pusillanimity",
+        "meaning": "cowardice"
+      }
+    ],
+    "synonyms": [
+      "cowardly",
+      "spineless",
+      "timid",
+      "faint-hearted"
+    ],
+    "note": "Sounds formal and slightly comic, which makes it good for scorn.",
+    "category": "character"
+  },
+  {
+    "id": "cynical",
+    "term": "cynical",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SIN-ih-kul",
+    "definition": "Believing that people are motivated mainly by self-interest; distrustful of sincerity.",
+    "example": "Call me cynical, but I think they only sponsored the charity run for the photos.",
+    "etymology": "From Greek kynikos ‘doglike’, from kyōn (dog). The Cynics, such as Diogenes, scorned social conventions and lived so shamelessly that they were likened to dogs, though the name may also come from the Cynosarges gymnasium where Antisthenes taught. The modern sense of distrusting others’ motives came later.",
+    "root": {
+      "form": "kyōn",
+      "language": "Greek",
+      "meaning": "dog"
+    },
+    "relatedWords": [
+      {
+        "term": "cynic",
+        "meaning": "a person who distrusts others’ motives"
+      },
+      {
+        "term": "cynicism",
+        "meaning": "a distrustful attitude"
+      },
+      {
+        "term": "cynosure",
+        "meaning": "a center of attention; literally ‘dog’s tail’, an old name for the Little Dipper"
+      }
+    ],
+    "synonyms": [
+      "skeptical",
+      "jaded",
+      "distrustful",
+      "world-weary"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "phlegmatic",
+    "term": "phlegmatic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "fleg-MAT-ik",
+    "definition": "Calm and unexcitable by temperament; hard to rattle.",
+    "example": "Our pilot was wonderfully phlegmatic. ‘Bit of turbulence, folks,’ as if it were nothing.",
+    "etymology": "From Greek phlegmatikos, from phlegma (inflammation, later phlegm), from phlegein (to burn). In ancient and medieval medicine, a body ruled by phlegm, one of the four humors, was thought to produce a cool, sluggish, calm temperament.",
+    "root": {
+      "form": "phlegma",
+      "language": "Greek",
+      "meaning": "phlegm; originally inflammation"
+    },
+    "relatedWords": [
+      {
+        "term": "phlegm",
+        "meaning": "mucus; one of the four bodily humors"
+      }
+    ],
+    "synonyms": [
+      "calm",
+      "unflappable",
+      "imperturbable",
+      "placid"
+    ],
+    "note": "Usually admiring today, though it once implied sluggishness.",
+    "category": "character"
+  },
+  {
+    "id": "irascible",
+    "term": "irascible",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-RAS-uh-bul",
+    "definition": "Easily made angry; quick-tempered.",
+    "example": "My irascible great-uncle yells at the TV every time the news comes on.",
+    "etymology": "From Late Latin irascibilis, from irasci (to grow angry), from ira (anger).",
+    "root": {
+      "form": "ira",
+      "language": "Latin",
+      "meaning": "anger"
+    },
+    "relatedWords": [
+      {
+        "term": "ire",
+        "meaning": "anger"
+      },
+      {
+        "term": "irate",
+        "meaning": "very angry"
+      }
+    ],
+    "synonyms": [
+      "short-tempered",
+      "cantankerous",
+      "testy",
+      "hot-headed"
+    ],
+    "note": "Describes a disposition, not a single moment: an irate customer is angry now; an irascible one is always close to it.",
+    "category": "character"
+  },
+  {
+    "id": "truculent",
+    "term": "truculent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRUK-yuh-lunt",
+    "definition": "Eager to argue or fight; aggressively defiant.",
+    "example": "He gets truculent the moment anyone questions his numbers.",
+    "etymology": "From Latin truculentus (fierce, savage), from trux (fierce, wild). In the 16th century it meant cruel or savage; it has softened to mean combative and defiant.",
+    "root": {
+      "form": "trux",
+      "language": "Latin",
+      "meaning": "fierce, wild"
+    },
+    "relatedWords": [
+      {
+        "term": "truculence",
+        "meaning": "aggressive defiance"
+      }
+    ],
+    "synonyms": [
+      "belligerent",
+      "combative",
+      "pugnacious",
+      "defiant"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "obstinate",
+    "term": "obstinate",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "OB-stuh-nit",
+    "definition": "Stubbornly refusing to change one’s opinion or course of action.",
+    "example": "My son is obstinate. If I say ‘wear a coat’, he’ll wear shorts in the snow.",
+    "etymology": "From Latin obstinatus (determined, resolved), past participle of obstinare (to persist), from ob- + a stem related to stare (to stand). The same stem appears in destinare (to make firm, determine).",
+    "root": {
+      "form": "obstinare",
+      "language": "Latin",
+      "meaning": "to persist, be determined"
+    },
+    "relatedWords": [
+      {
+        "term": "obstinacy",
+        "meaning": "stubbornness"
+      },
+      {
+        "term": "destiny",
+        "meaning": "what is determined in advance"
+      },
+      {
+        "term": "destination",
+        "meaning": "the place one is determined to reach"
+      }
+    ],
+    "synonyms": [
+      "stubborn",
+      "pig-headed",
+      "headstrong",
+      "intransigent"
+    ],
+    "note": "More negative than ‘determined’: it implies refusing to listen to reason.",
+    "category": "character"
+  },
+  {
+    "id": "intransigent",
+    "term": "intransigent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-TRAN-zuh-junt",
+    "definition": "Unwilling to change one’s views or to compromise.",
+    "example": "Both sides were completely intransigent, so the meeting went nowhere.",
+    "etymology": "From Spanish los intransigentes, the name for a group of radical republicans in 1873 who refused to compromise, from in- (not) + transigir (to compromise), from Latin transigere (to come to an agreement), from trans- (through) + agere (to drive).",
+    "root": {
+      "form": "transigere",
+      "language": "Latin",
+      "meaning": "to settle, come to an agreement"
+    },
+    "relatedWords": [
+      {
+        "term": "transaction",
+        "meaning": "a deal that is carried through"
+      },
+      {
+        "term": "intransigence",
+        "meaning": "refusal to compromise"
+      }
+    ],
+    "synonyms": [
+      "uncompromising",
+      "inflexible",
+      "obstinate",
+      "immovable"
+    ],
+    "note": "Common in politics and negotiations.",
+    "category": "character"
+  },
+  {
+    "id": "dogmatic",
+    "term": "dogmatic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "dawg-MAT-ik",
+    "definition": "Insisting one’s beliefs are true without considering evidence or other views.",
+    "example": "I like him, but he’s so dogmatic about diet. Every meal is a debate.",
+    "etymology": "From Greek dogmatikos, from dogma (opinion, decree), from dokein (to seem, think). Dogma originally meant an official decree or a philosophical tenet; ‘dogmatic’ came to describe people who hold beliefs as unquestionable.",
+    "root": {
+      "form": "dokein",
+      "language": "Greek",
+      "meaning": "to seem, think"
+    },
+    "relatedWords": [
+      {
+        "term": "dogma",
+        "meaning": "a belief held as unquestionable"
+      },
+      {
+        "term": "orthodox",
+        "meaning": "of correct opinion (from doxa, also from dokein)"
+      },
+      {
+        "term": "paradox",
+        "meaning": "something contrary to expectation"
+      }
+    ],
+    "synonyms": [
+      "opinionated",
+      "doctrinaire",
+      "rigid",
+      "closed-minded"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "meticulous",
+    "term": "meticulous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "muh-TIK-yuh-lus",
+    "definition": "Showing great attention to detail; very careful and precise.",
+    "example": "Her notes are meticulous. They’re color-coded and dated, with a summary at the top.",
+    "etymology": "From Latin meticulosus (fearful, timid), from metus (fear). In 16th-century English it meant fearful; in the 19th century, influenced by French méticuleux, it came to mean overly careful, as if afraid of making a mistake, and then simply very careful.",
+    "root": {
+      "form": "metus",
+      "language": "Latin",
+      "meaning": "fear"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "careful",
+      "precise",
+      "painstaking",
+      "scrupulous"
+    ],
+    "note": "Now almost always a compliment, despite its fearful origins.",
+    "category": "character"
+  },
+  {
+    "id": "slovenly",
+    "term": "slovenly",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SLUV-un-lee",
+    "definition": "Messy and careless, especially in appearance or work.",
+    "example": "I get a bit slovenly when I work from home. Same hoodie four days running.",
+    "etymology": "From sloven, which appeared in the late 15th century meaning a rascal or a low person, and later an untidy one. Its origin is uncertain; it may come from Flemish sloef (dirty) or Dutch slof (careless).",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "sloven",
+        "meaning": "an untidy or careless person"
+      }
+    ],
+    "synonyms": [
+      "untidy",
+      "sloppy",
+      "unkempt",
+      "careless"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "indolent",
+    "term": "indolent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "IN-duh-lunt",
+    "definition": "Lazy and avoiding effort or activity.",
+    "example": "I spent an indolent Sunday on the couch and regret absolutely nothing.",
+    "etymology": "From Late Latin indolentem (insensitive to pain), from in- (not) + dolere (to feel pain, grieve). Doctors still speak of an ‘indolent’ tumor, one that causes no pain. The sense ‘lazy’ arose in the early 18th century, perhaps from the idea of avoiding the ‘pain’ of effort.",
+    "root": {
+      "form": "dolere",
+      "language": "Latin",
+      "meaning": "to feel pain, grieve"
+    },
+    "relatedWords": [
+      {
+        "term": "condolence",
+        "meaning": "sympathy for someone’s grief"
+      },
+      {
+        "term": "doleful",
+        "meaning": "sorrowful"
+      },
+      {
+        "term": "indolence",
+        "meaning": "laziness"
+      }
+    ],
+    "synonyms": [
+      "lazy",
+      "idle",
+      "slothful",
+      "languid"
+    ],
+    "note": "Can sound gently self-mocking, as in ‘an indolent afternoon’.",
+    "category": "character"
+  },
+  {
+    "id": "industrious",
+    "term": "industrious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-DUS-tree-us",
+    "definition": "Hard-working and diligent.",
+    "example": "Look at you, being industrious. Did you really clean the whole garage?",
+    "etymology": "From Latin industria (diligence, activity), from industrius (diligent), probably from an old form of in- (in) + struere (to build). ‘Industry’ meant diligence in English long before it meant manufacturing.",
+    "root": {
+      "form": "industria",
+      "language": "Latin",
+      "meaning": "diligence"
+    },
+    "relatedWords": [
+      {
+        "term": "industry",
+        "meaning": "diligence; later, manufacturing and business"
+      }
+    ],
+    "synonyms": [
+      "hard-working",
+      "diligent",
+      "assiduous",
+      "busy"
+    ],
+    "note": "Not the same as ‘industrial’, which relates to manufacturing.",
+    "category": "character"
+  },
+  {
+    "id": "assiduous",
+    "term": "assiduous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-SIJ-oo-us",
+    "definition": "Showing steady, careful and persistent attention to a task.",
+    "example": "She’s been assiduous about her physio exercises, and it shows.",
+    "etymology": "From Latin assiduus (constantly present, busy), from assidere (to sit by, attend to), from ad- (to) + sedere (to sit). The image is of someone who sits down at a task and stays there.",
+    "root": {
+      "form": "sedere",
+      "language": "Latin",
+      "meaning": "to sit"
+    },
+    "relatedWords": [
+      {
+        "term": "sedentary",
+        "meaning": "involving a lot of sitting"
+      },
+      {
+        "term": "preside",
+        "meaning": "to sit in authority"
+      },
+      {
+        "term": "reside",
+        "meaning": "to live somewhere; literally to sit back"
+      },
+      {
+        "term": "session",
+        "meaning": "a sitting, a meeting"
+      }
+    ],
+    "synonyms": [
+      "diligent",
+      "sedulous",
+      "persevering",
+      "conscientious"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "feckless",
+    "term": "feckless",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FEK-lis",
+    "definition": "Lacking initiative or strength of character; ineffective and irresponsible.",
+    "example": "Her feckless ex never once showed up on time for the kids.",
+    "etymology": "From Scots, from feck (effect, value, efficacy), a shortened form of ‘effect’, + -less. It literally means ‘without effect’ and dates from the late 16th century.",
+    "root": {
+      "form": "effectus",
+      "language": "Latin",
+      "meaning": "accomplishment, result"
+    },
+    "relatedWords": [
+      {
+        "term": "effect",
+        "meaning": "a result"
+      },
+      {
+        "term": "effective",
+        "meaning": "producing the intended result"
+      }
+    ],
+    "synonyms": [
+      "useless",
+      "hopeless",
+      "irresponsible",
+      "good-for-nothing"
+    ],
+    "note": "‘Feckful’ exists but is rare; people use only the negative form.",
+    "category": "character"
+  },
+  {
+    "id": "callow",
+    "term": "callow",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KAL-oh",
+    "definition": "Young and inexperienced, and showing it.",
+    "example": "I was so callow at my first job. I replied-all to the entire company.",
+    "etymology": "From Old English calu (bald, bare). It was used of young birds without feathers, and from the late 16th century of young people who are ‘unfledged’, meaning inexperienced.",
+    "root": {
+      "form": "calu",
+      "language": "Old English",
+      "meaning": "bald, bare"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "inexperienced",
+      "green",
+      "naive",
+      "wet behind the ears"
+    ],
+    "note": "Most often used in the phrase ‘callow youth’.",
+    "category": "character"
+  },
+  {
+    "id": "sagacious",
+    "term": "sagacious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "suh-GAY-shus",
+    "definition": "Having keen judgment and practical wisdom.",
+    "example": "Our coach is sagacious. She knew exactly when to sub me out before I fell apart.",
+    "etymology": "From Latin sagax, sagacis (of quick perception), from sagire (to perceive keenly). Romans used sagax especially of hounds with a keen sense of smell; in English it came to mean shrewd and wise.",
+    "root": {
+      "form": "sagire",
+      "language": "Latin",
+      "meaning": "to perceive keenly"
+    },
+    "relatedWords": [
+      {
+        "term": "sagacity",
+        "meaning": "wisdom and good judgment"
+      },
+      {
+        "term": "presage",
+        "meaning": "to foretell; a warning sign"
+      }
+    ],
+    "synonyms": [
+      "wise",
+      "shrewd",
+      "astute",
+      "perceptive"
+    ],
+    "note": "Despite appearances, it isn’t related to ‘sage’ (wise person), which comes from Latin sapere.",
+    "category": "character"
+  },
+  {
+    "id": "shrewd",
+    "term": "shrewd",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "SHROOD",
+    "definition": "Sharp in practical judgment, especially about people and money.",
+    "example": "That was a shrewd move, waiting until after the holidays to negotiate.",
+    "etymology": "From Middle English schrewed (wicked, malicious), from shrew, which meant an evil person and also the small animal once wrongly thought to be venomous. The meaning softened over centuries from ‘malicious’ to ‘cunning’ to today’s admiring ‘astute’.",
+    "root": {
+      "form": "shrew",
+      "language": "Middle English",
+      "meaning": "evil person; the small mammal"
+    },
+    "relatedWords": [
+      {
+        "term": "shrew",
+        "meaning": "a small mammal; formerly a bad-tempered person"
+      }
+    ],
+    "synonyms": [
+      "astute",
+      "canny",
+      "sharp",
+      "savvy"
+    ],
+    "note": "Usually a compliment, with a hint of self-interest.",
+    "category": "character"
+  },
+  {
+    "id": "astute",
+    "term": "astute",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "uh-STOOT",
+    "definition": "Quick to see how to turn a situation to advantage; perceptive.",
+    "example": "That’s an astute point. I hadn’t thought about the shipping costs at all.",
+    "etymology": "From Latin astutus (crafty, cunning), from astus (craft, cunning). Like ‘shrewd’, it moved from suggesting slyness to suggesting perceptiveness.",
+    "root": {
+      "form": "astus",
+      "language": "Latin",
+      "meaning": "craft, cunning"
+    },
+    "relatedWords": [
+      {
+        "term": "astuteness",
+        "meaning": "perceptiveness"
+      }
+    ],
+    "synonyms": [
+      "shrewd",
+      "perceptive",
+      "sharp",
+      "canny"
+    ],
+    "note": "Often used of observations: ‘an astute remark’.",
+    "category": "character"
+  },
+  {
+    "id": "judicious",
+    "term": "judicious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "joo-DISH-us",
+    "definition": "Having or showing good judgment and sense.",
+    "example": "A judicious use of emojis in a work email? Fine. Fourteen? Less so.",
+    "etymology": "From French judicieux, from Latin iudicium (judgment), from iudex (judge), which combines ius (law, right) + dicere (to say). A judge is literally ‘one who says what is right’.",
+    "root": {
+      "form": "iudex",
+      "language": "Latin",
+      "meaning": "judge"
+    },
+    "relatedWords": [
+      {
+        "term": "judge",
+        "meaning": "one who decides"
+      },
+      {
+        "term": "prejudice",
+        "meaning": "judgment made in advance"
+      },
+      {
+        "term": "judiciary",
+        "meaning": "the system of courts"
+      },
+      {
+        "term": "jurisdiction",
+        "meaning": "the authority to say what is law"
+      }
+    ],
+    "synonyms": [
+      "wise",
+      "prudent",
+      "sensible",
+      "discerning"
+    ],
+    "note": "Not to be confused with ‘judicial’ (relating to courts).",
+    "category": "character"
+  },
+  {
+    "id": "prudent",
+    "term": "prudent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PROO-dunt",
+    "definition": "Acting with care and thought for the future.",
+    "example": "It might be prudent to book the restaurant now. It fills up fast on Fridays.",
+    "etymology": "From Latin prudens, a contracted form of providens (foreseeing), from pro- (ahead) + videre (to see). A prudent person is literally one who looks ahead.",
+    "root": {
+      "form": "videre",
+      "language": "Latin",
+      "meaning": "to see"
+    },
+    "relatedWords": [
+      {
+        "term": "provide",
+        "meaning": "originally to foresee and prepare for"
+      },
+      {
+        "term": "providence",
+        "meaning": "foresight; divine care"
+      },
+      {
+        "term": "prudence",
+        "meaning": "caution and good judgment"
+      },
+      {
+        "term": "evident",
+        "meaning": "clearly seen"
+      }
+    ],
+    "synonyms": [
+      "sensible",
+      "wise",
+      "cautious",
+      "far-sighted"
+    ],
+    "note": "Can be teasing when someone is being overly careful: ‘very prudent of you’.",
+    "category": "character"
+  },
+  {
+    "id": "impetuous",
+    "term": "impetuous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-PECH-oo-us",
+    "definition": "Acting quickly and without thinking about the consequences.",
+    "example": "Buying a puppy on the way home from work was a little impetuous, I’ll admit.",
+    "etymology": "From Late Latin impetuosus, from impetus (attack, force), from impetere (to attack), from in- (toward) + petere (to go toward, seek). It began as ‘violent, forceful’ and came to mean rash.",
+    "root": {
+      "form": "petere",
+      "language": "Latin",
+      "meaning": "to go toward, seek"
+    },
+    "relatedWords": [
+      {
+        "term": "impetus",
+        "meaning": "driving force"
+      },
+      {
+        "term": "compete",
+        "meaning": "to strive together"
+      },
+      {
+        "term": "petition",
+        "meaning": "a formal request"
+      },
+      {
+        "term": "appetite",
+        "meaning": "a desire, a seeking"
+      }
+    ],
+    "synonyms": [
+      "impulsive",
+      "rash",
+      "hasty",
+      "reckless"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "audacious",
+    "term": "audacious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "aw-DAY-shus",
+    "definition": "Willing to take bold risks; also, shockingly bold or cheeky.",
+    "example": "Asking for a raise in your first week is audacious. I kind of respect it.",
+    "etymology": "From Latin audax, audacis (bold), from audere (to dare). In English it has long had two edges: admirable daring and impudent nerve.",
+    "root": {
+      "form": "audere",
+      "language": "Latin",
+      "meaning": "to dare"
+    },
+    "relatedWords": [
+      {
+        "term": "audacity",
+        "meaning": "boldness; nerve"
+      }
+    ],
+    "synonyms": [
+      "bold",
+      "daring",
+      "fearless",
+      "brazen"
+    ],
+    "note": "‘The audacity!’ is the cheeky-nerve sense; ‘an audacious plan’ is usually admiring.",
+    "category": "character"
+  },
+  {
+    "id": "resilient",
+    "term": "resilient",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "rih-ZIL-yunt",
+    "definition": "Able to recover quickly from difficulties or setbacks.",
+    "example": "Kids are so resilient. He cried for five minutes and then forgot all about it.",
+    "etymology": "From Latin resilire (to leap back, rebound), from re- (back) + salire (to jump). It first described materials that spring back into shape, and later people who bounce back.",
+    "root": {
+      "form": "salire",
+      "language": "Latin",
+      "meaning": "to leap, jump"
+    },
+    "relatedWords": [
+      {
+        "term": "salient",
+        "meaning": "prominent; literally leaping out"
+      },
+      {
+        "term": "assault",
+        "meaning": "a violent attack; a leap at"
+      },
+      {
+        "term": "sally",
+        "meaning": "a sudden charge out"
+      },
+      {
+        "term": "resilience",
+        "meaning": "the ability to bounce back"
+      }
+    ],
+    "synonyms": [
+      "tough",
+      "hardy",
+      "adaptable",
+      "buoyant"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "imperturbable",
+    "term": "imperturbable",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "im-per-TUR-buh-bul",
+    "definition": "Unable to be upset or excited; always calm.",
+    "example": "The nurse was imperturbable. Total chaos in the ER and she didn’t blink.",
+    "etymology": "From Late Latin imperturbabilis, from in- (not) + perturbare (to throw into confusion), from per- (thoroughly) + turbare (to disturb), from turba (turmoil, crowd).",
+    "root": {
+      "form": "turba",
+      "language": "Latin",
+      "meaning": "turmoil, crowd"
+    },
+    "relatedWords": [
+      {
+        "term": "perturb",
+        "meaning": "to make anxious"
+      },
+      {
+        "term": "disturb",
+        "meaning": "to interrupt or unsettle"
+      },
+      {
+        "term": "turbulent",
+        "meaning": "full of turmoil"
+      },
+      {
+        "term": "turbid",
+        "meaning": "cloudy, stirred up"
+      }
+    ],
+    "synonyms": [
+      "unflappable",
+      "composed",
+      "serene",
+      "phlegmatic"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "hubris",
+    "term": "hubris",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "HYOO-bris",
+    "definition": "Excessive pride or self-confidence, especially the kind that leads to a downfall.",
+    "example": "Saying ‘this’ll take five minutes’ before assembling IKEA furniture? Pure hubris.",
+    "etymology": "From Greek hybris (wanton violence, insolence, outrage). In Greek tragedy it was the arrogance that provokes the gods and brings ruin. It entered English as an academic term in the late 19th century.",
+    "root": {
+      "form": "hybris",
+      "language": "Greek",
+      "meaning": "insolence, outrage"
+    },
+    "relatedWords": [
+      {
+        "term": "hubristic",
+        "meaning": "showing excessive pride"
+      }
+    ],
+    "synonyms": [
+      "arrogance",
+      "overconfidence",
+      "conceit",
+      "pride"
+    ],
+    "note": "Implies pride heading for a fall, which is why it suits ironic stories.",
+    "category": "character"
+  },
+  {
+    "id": "self-effacing",
+    "term": "self-effacing",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "self-ih-FAY-sing",
+    "definition": "Not claiming attention or credit for oneself; modest.",
+    "example": "He’s so self-effacing. He gave the whole team credit for what was basically his idea.",
+    "etymology": "From self- + efface, French effacer, from es- (out) + face (face). To efface something is to rub it out; a self-effacing person ‘rubs out’ their own presence. The compound dates from the 19th century.",
+    "root": {
+      "form": "facies",
+      "language": "Latin",
+      "meaning": "face, appearance"
+    },
+    "relatedWords": [
+      {
+        "term": "efface",
+        "meaning": "to erase"
+      },
+      {
+        "term": "deface",
+        "meaning": "to spoil the surface of"
+      },
+      {
+        "term": "facade",
+        "meaning": "the front face of a building"
+      }
+    ],
+    "synonyms": [
+      "modest",
+      "humble",
+      "unassuming",
+      "retiring"
+    ],
+    "note": "‘Self-effacing humor’ means jokes at one’s own expense.",
+    "category": "character"
+  },
+  {
+    "id": "duplicitous",
+    "term": "duplicitous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "doo-PLIS-ih-tus",
+    "definition": "Deceitful; saying one thing while doing another.",
+    "example": "Turns out he was duplicitous the whole time, telling each of us a different story.",
+    "etymology": "From duplicity, Late Latin duplicitas (doubleness), from duplex (twofold), from duo (two) + plicare (to fold). A duplicitous person is ‘folded double’, showing one face and hiding another.",
+    "root": {
+      "form": "plicare",
+      "language": "Latin",
+      "meaning": "to fold"
+    },
+    "relatedWords": [
+      {
+        "term": "duplicate",
+        "meaning": "an exact copy"
+      },
+      {
+        "term": "duplex",
+        "meaning": "a two-unit house"
+      },
+      {
+        "term": "complicate",
+        "meaning": "to fold together; make complex"
+      },
+      {
+        "term": "explicit",
+        "meaning": "unfolded; clearly stated"
+      }
+    ],
+    "synonyms": [
+      "deceitful",
+      "two-faced",
+      "double-dealing",
+      "treacherous"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "mendacious",
+    "term": "mendacious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "men-DAY-shus",
+    "definition": "Habitually untruthful; lying.",
+    "example": "The whole ad campaign was mendacious. None of those ‘reviews’ were real.",
+    "etymology": "From Latin mendax, mendacis (lying, false). It is possibly connected with mendum (fault, defect), the source of ‘emend’, but that link is not certain.",
+    "root": {
+      "form": "mendax",
+      "language": "Latin",
+      "meaning": "lying"
+    },
+    "relatedWords": [
+      {
+        "term": "mendacity",
+        "meaning": "untruthfulness"
+      }
+    ],
+    "synonyms": [
+      "lying",
+      "dishonest",
+      "deceitful",
+      "untruthful"
+    ],
+    "note": "Formal; suits reports and arguments more than casual accusations.",
+    "category": "character"
+  },
+  {
+    "id": "mercenary",
+    "term": "mercenary",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MUR-suh-nair-ee",
+    "definition": "Primarily concerned with making money, at the expense of ethics or loyalty.",
+    "example": "I know it sounds mercenary, but I’m taking the job that pays more.",
+    "etymology": "From Latin mercenarius (hired for pay), from merces (wages, reward), related to merx (goods, merchandise). First used of hired soldiers, and later of anyone motivated mainly by money.",
+    "root": {
+      "form": "merx",
+      "language": "Latin",
+      "meaning": "goods, merchandise"
+    },
+    "relatedWords": [
+      {
+        "term": "merchant",
+        "meaning": "a trader"
+      },
+      {
+        "term": "commerce",
+        "meaning": "trade"
+      },
+      {
+        "term": "market",
+        "meaning": "a place for buying and selling"
+      },
+      {
+        "term": "mercy",
+        "meaning": "from merces, which in Church Latin came to mean heavenly reward"
+      }
+    ],
+    "synonyms": [
+      "money-grubbing",
+      "venal",
+      "grasping",
+      "materialistic"
+    ],
+    "note": "As a noun, a mercenary is a hired soldier.",
+    "category": "character"
+  },
+  {
+    "id": "machiavellian",
+    "term": "Machiavellian",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "mak-ee-uh-VEL-ee-un",
+    "definition": "Cunning and scheming; willing to manipulate others to get or keep power.",
+    "example": "The way she got him moved to another department was honestly Machiavellian.",
+    "etymology": "From Niccolò Machiavelli (1469-1527), the Florentine diplomat whose book The Prince argued that rulers may need to be ruthless and deceptive to keep power. His name became a byword for political cunning within decades of his death.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Machiavellianism",
+        "meaning": "the use of cunning and manipulation"
+      }
+    ],
+    "synonyms": [
+      "scheming",
+      "calculating",
+      "manipulative",
+      "devious"
+    ],
+    "note": "Usually capitalized.",
+    "category": "character"
+  },
+  {
+    "id": "conniving",
+    "term": "conniving",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kuh-NY-ving",
+    "definition": "Secretly scheming to do something wrong or harmful.",
+    "example": "That conniving little cat waited until I left the room to steal my sandwich.",
+    "etymology": "From connive, Latin conivere (to close the eyes, wink), from con- + a verb related to nictare (to wink). To connive originally meant to turn a blind eye to wrongdoing; the sense shifted to actively plotting.",
+    "root": {
+      "form": "conivere",
+      "language": "Latin",
+      "meaning": "to close the eyes, wink"
+    },
+    "relatedWords": [
+      {
+        "term": "connive",
+        "meaning": "to secretly allow or plot wrongdoing"
+      },
+      {
+        "term": "connivance",
+        "meaning": "secret cooperation in wrongdoing"
+      }
+    ],
+    "synonyms": [
+      "scheming",
+      "devious",
+      "sly",
+      "crafty"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "credulous",
+    "term": "credulous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "KREJ-uh-lus",
+    "definition": "Too ready to believe things, especially on little evidence.",
+    "example": "My credulous aunt forwards every ‘miracle cure’ video she sees.",
+    "etymology": "From Latin credulus (easily believing), from credere (to believe, trust).",
+    "root": {
+      "form": "credere",
+      "language": "Latin",
+      "meaning": "to believe"
+    },
+    "relatedWords": [
+      {
+        "term": "credit",
+        "meaning": "trust, belief"
+      },
+      {
+        "term": "incredible",
+        "meaning": "unbelievable"
+      },
+      {
+        "term": "credentials",
+        "meaning": "documents that make people believe you"
+      },
+      {
+        "term": "credo",
+        "meaning": "a statement of belief"
+      }
+    ],
+    "synonyms": [
+      "gullible",
+      "naive",
+      "trusting",
+      "unsuspecting"
+    ],
+    "note": "‘Credulous’ is about believing too readily; ‘credible’ means believable.",
+    "category": "character"
+  },
+  {
+    "id": "contrarian",
+    "term": "contrarian",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kun-TRAIR-ee-un",
+    "definition": "A person who habitually takes the opposite view to most people.",
+    "example": "Don’t ask Dave which restaurant. He’s a contrarian, he’ll pick whatever nobody else wants.",
+    "etymology": "From contrary, via Old French from Latin contrarius (opposite), from contra (against). The modern sense, especially of investors who bet against the crowd, became common in the 20th century.",
+    "root": {
+      "form": "contra",
+      "language": "Latin",
+      "meaning": "against"
+    },
+    "relatedWords": [
+      {
+        "term": "contrary",
+        "meaning": "opposite"
+      },
+      {
+        "term": "contradict",
+        "meaning": "to speak against"
+      },
+      {
+        "term": "contrast",
+        "meaning": "a striking difference"
+      },
+      {
+        "term": "counter",
+        "meaning": "to oppose"
+      }
+    ],
+    "synonyms": [
+      "dissenter",
+      "maverick",
+      "devil’s advocate",
+      "nonconformist"
+    ],
+    "note": "Can be admiring (independent thinker) or exasperated (argues for sport).",
+    "category": "character"
+  },
+  {
+    "id": "iconoclast",
+    "term": "iconoclast",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "eye-KON-uh-klast",
+    "definition": "A person who attacks cherished beliefs, traditions or institutions.",
+    "example": "She was an iconoclast in the food world, serving fancy dishes on paper plates.",
+    "etymology": "From Medieval Latin iconoclastes, from Byzantine Greek eikonoklastēs (image-breaker), from eikōn (image) + klan (to break). It first referred to those who destroyed religious images during the Byzantine controversies of the 8th and 9th centuries, and later to anyone who smashes established ideas.",
+    "root": {
+      "form": "eikōn",
+      "language": "Greek",
+      "meaning": "image, likeness"
+    },
+    "relatedWords": [
+      {
+        "term": "icon",
+        "meaning": "an image; a symbol"
+      },
+      {
+        "term": "iconic",
+        "meaning": "widely recognized as a symbol"
+      },
+      {
+        "term": "iconography",
+        "meaning": "the visual symbols of a subject"
+      }
+    ],
+    "synonyms": [
+      "rebel",
+      "radical",
+      "heretic",
+      "maverick"
+    ],
+    "note": "Usually admiring today.",
+    "category": "character"
+  },
+  {
+    "id": "eccentric",
+    "term": "eccentric",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ek-SEN-trik",
+    "definition": "Unconventional and slightly strange in behavior or habits.",
+    "example": "Our neighbor’s lovely but eccentric. She walks her cat on a leash every evening.",
+    "etymology": "From Medieval Latin eccentricus, from Greek ekkentros (out of the center), from ek (out of) + kentron (center). It was first an astronomical term for orbits whose center was off from the Earth, and by the late 17th century described people who deviate from the norm.",
+    "root": {
+      "form": "kentron",
+      "language": "Greek",
+      "meaning": "center; originally a sharp point"
+    },
+    "relatedWords": [
+      {
+        "term": "center",
+        "meaning": "the middle point"
+      },
+      {
+        "term": "concentric",
+        "meaning": "sharing the same center"
+      },
+      {
+        "term": "egocentric",
+        "meaning": "self-centered"
+      }
+    ],
+    "synonyms": [
+      "unconventional",
+      "quirky",
+      "idiosyncratic",
+      "offbeat"
+    ],
+    "note": "Generally affectionate; harmless oddity rather than anything threatening.",
+    "category": "character"
+  },
+  {
+    "id": "quixotic",
+    "term": "quixotic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kwik-SOT-ik",
+    "definition": "Idealistic in an impractical, romantic way.",
+    "example": "Trying to get the whole office to give up coffee was a quixotic mission.",
+    "etymology": "From Don Quixote, hero of Miguel de Cervantes’ novel (1605 and 1615), an aging gentleman who reads so many tales of chivalry that he sets out as a knight and famously attacks windmills he believes are giants. English speakers anglicized the pronunciation.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "idealistic",
+      "impractical",
+      "romantic",
+      "starry-eyed"
+    ],
+    "note": "The phrase ‘tilting at windmills’ comes from the same novel.",
+    "category": "character"
+  },
+  {
+    "id": "pollyanna",
+    "term": "Pollyanna",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "pol-ee-AN-uh",
+    "definition": "A person who is relentlessly, sometimes unrealistically, optimistic.",
+    "example": "I don’t want to be a Pollyanna, but maybe the delay is actually a good thing?",
+    "etymology": "From Pollyanna, the heroine of Eleanor H. Porter’s 1913 novel, an orphan who plays the ‘glad game’ of finding something to be glad about in every situation. The name became a byword for excessive optimism within a few years.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Pollyannaish",
+        "meaning": "unrealistically optimistic"
+      }
+    ],
+    "synonyms": [
+      "optimist",
+      "idealist",
+      "dreamer"
+    ],
+    "note": "Usually mildly critical, though it can be self-deprecating.",
+    "category": "character"
+  },
+  {
+    "id": "martinet",
+    "term": "martinet",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "mar-tuh-NET",
+    "definition": "A strict disciplinarian who insists on rigid adherence to rules.",
+    "example": "My piano teacher was a martinet. If my posture slipped, she’d tap my back with a pencil.",
+    "etymology": "From Jean Martinet, a 17th-century French army officer under Louis XIV who was famous for his harsh drill methods. In English his name came to mean any strict disciplinarian.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "disciplinarian",
+      "stickler",
+      "drill sergeant",
+      "taskmaster"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "stickler",
+    "term": "stickler",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "STIK-ler",
+    "definition": "A person who insists on a certain quality or type of behavior.",
+    "example": "Our editor’s a stickler for deadlines. Five minutes late and you’ll hear about it.",
+    "etymology": "From the obsolete verb stickle (to act as umpire), from Middle English stightlen (to arrange, control), from Old English stihtan (to arrange, regulate). A stickler was first an umpire at a fight or match who enforced the rules; by the 17th century it meant anyone who insists on something.",
+    "root": {
+      "form": "stihtan",
+      "language": "Old English",
+      "meaning": "to arrange, regulate"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "perfectionist",
+      "pedant",
+      "purist",
+      "martinet"
+    ],
+    "note": "Almost always followed by ‘for’: a stickler for grammar, for punctuality.",
+    "category": "character"
+  },
+  {
+    "id": "dilettante",
+    "term": "dilettante",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dil-uh-TAHNT",
+    "definition": "A person who dabbles in a subject without real commitment or depth.",
+    "example": "I’m a total dilettante. I’ve started guitar, pottery and Japanese, and finished none of them.",
+    "etymology": "From Italian dilettante (one who delights), from dilettare (to delight), from Latin delectare. In 18th-century English it was a compliment, meaning a lover of the arts; by the 19th century it suggested superficial dabbling.",
+    "root": {
+      "form": "delectare",
+      "language": "Latin",
+      "meaning": "to delight, charm"
+    },
+    "relatedWords": [
+      {
+        "term": "delight",
+        "meaning": "great pleasure"
+      },
+      {
+        "term": "delectable",
+        "meaning": "delicious, delightful"
+      }
+    ],
+    "synonyms": [
+      "dabbler",
+      "amateur",
+      "hobbyist",
+      "trifler"
+    ],
+    "note": "Unlike ‘amateur’, it implies shallowness rather than just being unpaid.",
+    "category": "character"
+  },
+  {
+    "id": "autodidact",
+    "term": "autodidact",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "AW-toh-dy-dakt",
+    "definition": "A self-taught person.",
+    "example": "He’s a total autodidact. He learned to code from YouTube and now he runs the engineering team.",
+    "etymology": "From Greek autodidaktos (self-taught), from autos (self) + didaskein (to teach).",
+    "root": {
+      "form": "didaskein",
+      "language": "Greek",
+      "meaning": "to teach"
+    },
+    "relatedWords": [
+      {
+        "term": "didactic",
+        "meaning": "intended to teach"
+      },
+      {
+        "term": "autodidactic",
+        "meaning": "self-taught"
+      }
+    ],
+    "synonyms": [
+      "self-taught person",
+      "self-learner"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "philistine",
+    "term": "philistine",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "FIL-uh-steen",
+    "definition": "A person who is hostile or indifferent to art and culture.",
+    "example": "Call me a philistine, but I fell asleep during the opera.",
+    "etymology": "From the Philistines, an ancient people who were enemies of the Israelites in the Bible. German university students used Philister for townspeople, a usage traditionally traced to a 1693 sermon in Jena. Matthew Arnold popularized the cultural sense in English in the 1860s.",
+    "root": {
+      "form": "Philistinus",
+      "language": "Latin",
+      "meaning": "Philistine"
+    },
+    "relatedWords": [
+      {
+        "term": "Palestine",
+        "meaning": "a name derived from the same ancient people"
+      }
+    ],
+    "synonyms": [
+      "lowbrow",
+      "boor",
+      "barbarian",
+      "yahoo"
+    ],
+    "note": "Often used self-mockingly: ‘I’m a total philistine about modern art.’",
+    "category": "character"
+  },
+  {
+    "id": "sybarite",
+    "term": "sybarite",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SIB-uh-ryt",
+    "definition": "A person devoted to luxury and pleasure.",
+    "example": "Silk pajamas and breakfast in bed every Sunday? You absolute sybarite.",
+    "etymology": "From Sybaris, an ancient Greek colony in southern Italy whose citizens were famous throughout the Greek world for their luxury. The city was destroyed in 510 BC, but its reputation survived in the word.",
+    "root": {
+      "form": "Sybaris",
+      "language": "Greek",
+      "meaning": "a Greek city in southern Italy"
+    },
+    "relatedWords": [
+      {
+        "term": "sybaritic",
+        "meaning": "luxurious, self-indulgent"
+      }
+    ],
+    "synonyms": [
+      "hedonist",
+      "bon vivant",
+      "pleasure-seeker",
+      "voluptuary"
+    ],
+    "note": "Often playful.",
+    "category": "character"
+  },
+  {
+    "id": "epicure",
+    "term": "epicure",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "EP-ih-kyoor",
+    "definition": "A person who takes particular pleasure in fine food and drink.",
+    "example": "Ask Priya where to eat. She’s a real epicure and knows every good spot in town.",
+    "etymology": "From Epicurus (341-270 BC), the Greek philosopher who taught that pleasure, meaning above all freedom from pain and anxiety, is the goal of life. He actually advocated simple living, but his name came to be linked with refined indulgence.",
+    "root": {
+      "form": "Epikouros",
+      "language": "Greek",
+      "meaning": "Epicurus, the philosopher"
+    },
+    "relatedWords": [
+      {
+        "term": "epicurean",
+        "meaning": "devoted to refined pleasure, especially food"
+      }
+    ],
+    "synonyms": [
+      "gourmet",
+      "gastronome",
+      "connoisseur",
+      "foodie"
+    ],
+    "note": "Implies discernment more than appetite; compare ‘glutton’.",
+    "category": "character"
+  },
+  {
+    "id": "bon-vivant",
+    "term": "bon vivant",
+    "kind": "phrase",
+    "partOfSpeech": "noun",
+    "pronunciation": null,
+    "definition": "A sociable person who enjoys good food, drink and living well.",
+    "example": "My grandfather was a bon vivant: good wine, long dinners, and a story for every occasion.",
+    "etymology": "Borrowed from French in the late 17th century, literally ‘good liver’, meaning one who lives well, from bon (good) + vivant (living), from Latin vivere (to live).",
+    "root": {
+      "form": "vivere",
+      "language": "Latin",
+      "meaning": "to live"
+    },
+    "relatedWords": [
+      {
+        "term": "joie de vivre",
+        "meaning": "exuberant enjoyment of life"
+      },
+      {
+        "term": "vivacious",
+        "meaning": "lively"
+      },
+      {
+        "term": "revive",
+        "meaning": "to bring back to life"
+      }
+    ],
+    "synonyms": [
+      "epicure",
+      "sybarite",
+      "hedonist",
+      "man about town"
+    ],
+    "note": "Pronounced roughly ‘bon vee-VAHNT’. Warmer than ‘hedonist’.",
+    "category": "character"
+  },
+  {
+    "id": "gadfly",
+    "term": "gadfly",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "GAD-fly",
+    "definition": "A person who provokes others into action or thought by persistent criticism.",
+    "example": "Every board needs a gadfly, someone who keeps asking the awkward questions.",
+    "etymology": "From gad (a spike or goad, from Old Norse gaddr) + fly: a fly that bites and stings livestock. In Plato’s Apology, Socrates compares himself to a gadfly sent to sting the sluggish horse of Athens into life, which gave the figurative sense its prestige.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "provocateur",
+      "critic",
+      "agitator",
+      "troublemaker"
+    ],
+    "note": "Can be admiring (a necessary irritant) or dismissive (a nuisance).",
+    "category": "character"
+  },
+  {
+    "id": "recluse",
+    "term": "recluse",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "REK-loos",
+    "definition": "A person who lives alone and avoids other people.",
+    "example": "I’ve been a bit of a recluse since the baby arrived. Sorry I keep missing drinks.",
+    "etymology": "From Old French reclus, from Late Latin reclusus (shut up), past participle of recludere, from re- + claudere (to shut). Curiously, in classical Latin recludere meant ‘to open’; the Late Latin sense of shutting away gave English its word, first used of religious hermits.",
+    "root": {
+      "form": "claudere",
+      "language": "Latin",
+      "meaning": "to shut, close"
+    },
+    "relatedWords": [
+      {
+        "term": "seclude",
+        "meaning": "to keep apart from others"
+      },
+      {
+        "term": "exclude",
+        "meaning": "to shut out"
+      },
+      {
+        "term": "include",
+        "meaning": "to shut in"
+      },
+      {
+        "term": "reclusive",
+        "meaning": "avoiding company"
+      }
+    ],
+    "synonyms": [
+      "hermit",
+      "loner",
+      "introvert",
+      "shut-in"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "megalomaniac",
+    "term": "megalomaniac",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "meg-uh-loh-MAY-nee-ak",
+    "definition": "A person obsessed with their own power and importance.",
+    "example": "Only a megalomaniac would put a giant portrait of himself in the office lobby.",
+    "etymology": "From French mégalomanie, a 19th-century psychiatric term, from Greek megas, megal- (great) + mania (madness). It originally described delusions of grandeur as a symptom, and was soon used of power-hungry people generally.",
+    "root": {
+      "form": "megas",
+      "language": "Greek",
+      "meaning": "great, large"
+    },
+    "relatedWords": [
+      {
+        "term": "megaphone",
+        "meaning": "a device that makes the voice loud"
+      },
+      {
+        "term": "megalith",
+        "meaning": "a large stone monument"
+      },
+      {
+        "term": "mania",
+        "meaning": "a frenzy or obsession"
+      }
+    ],
+    "synonyms": [
+      "egomaniac",
+      "narcissist",
+      "power-seeker",
+      "tyrant"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "solipsistic",
+    "term": "solipsistic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sol-ip-SIS-tik",
+    "definition": "Very self-absorbed; acting as if only one’s own experience matters.",
+    "example": "It’s a bit solipsistic to complain about your commute to someone who just lost their job.",
+    "etymology": "From solipsism, from Latin solus (alone) + ipse (self). In philosophy, solipsism is the view that only one’s own mind can be known to exist; in everyday use it describes self-centeredness.",
+    "root": {
+      "form": "solus",
+      "language": "Latin",
+      "meaning": "alone"
+    },
+    "relatedWords": [
+      {
+        "term": "solitary",
+        "meaning": "alone"
+      },
+      {
+        "term": "solo",
+        "meaning": "done alone"
+      },
+      {
+        "term": "sole",
+        "meaning": "one and only"
+      },
+      {
+        "term": "desolate",
+        "meaning": "empty, abandoned"
+      }
+    ],
+    "synonyms": [
+      "self-absorbed",
+      "self-centered",
+      "egocentric",
+      "narcissistic"
+    ],
+    "note": "Subtler than ‘selfish’: it is about not noticing that others have inner lives, not about greed.",
+    "category": "character"
+  },
+  {
+    "id": "empathetic",
+    "term": "empathetic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "em-puh-THET-ik",
+    "definition": "Able to understand and share the feelings of others.",
+    "example": "He’s so empathetic. He always knows when I need to talk and when I just need pizza.",
+    "etymology": "From empathy, coined in 1908 by psychologists (notably Edward Titchener) to translate German Einfühlung (feeling into), modeled on Greek empatheia, from en (in) + pathos (feeling, suffering).",
+    "root": {
+      "form": "pathos",
+      "language": "Greek",
+      "meaning": "feeling, suffering"
+    },
+    "relatedWords": [
+      {
+        "term": "sympathy",
+        "meaning": "feeling with someone"
+      },
+      {
+        "term": "apathy",
+        "meaning": "lack of feeling or interest"
+      },
+      {
+        "term": "pathos",
+        "meaning": "a quality that evokes pity"
+      },
+      {
+        "term": "pathetic",
+        "meaning": "arousing pity"
+      }
+    ],
+    "synonyms": [
+      "compassionate",
+      "understanding",
+      "sensitive",
+      "caring"
+    ],
+    "note": "Empathy is feeling with someone; sympathy is feeling for them.",
+    "category": "character"
+  },
+  {
+    "id": "vindictive",
+    "term": "vindictive",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "vin-DIK-tiv",
+    "definition": "Having a strong desire for revenge; unwilling to let go of a grudge.",
+    "example": "Unfollowing her was fine. Posting about it for a week was a bit vindictive.",
+    "etymology": "From Latin vindicta (vengeance), related to vindicare (to lay claim to, avenge, set free). It entered English in the early 17th century.",
+    "root": {
+      "form": "vindicare",
+      "language": "Latin",
+      "meaning": "to claim, avenge"
+    },
+    "relatedWords": [
+      {
+        "term": "vindicate",
+        "meaning": "to clear of blame"
+      },
+      {
+        "term": "vengeance",
+        "meaning": "punishment in return for a wrong"
+      },
+      {
+        "term": "avenge",
+        "meaning": "to take revenge for"
+      },
+      {
+        "term": "revenge",
+        "meaning": "retaliation"
+      }
+    ],
+    "synonyms": [
+      "vengeful",
+      "spiteful",
+      "unforgiving",
+      "rancorous"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "fickle",
+    "term": "fickle",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "FIK-ul",
+    "definition": "Changing loyalties, interests or affection often and suddenly.",
+    "example": "My cat’s so fickle. She loves me at dinnertime and ignores me the rest of the day.",
+    "etymology": "From Old English ficol (deceitful, crafty), related to befician (to deceive). By around 1300 it had come to mean changeable or inconstant.",
+    "root": {
+      "form": "ficol",
+      "language": "Old English",
+      "meaning": "deceitful, crafty"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "capricious",
+      "changeable",
+      "inconstant",
+      "flighty"
+    ],
+    "note": "Also used of things: ‘the fickle finger of fate’, ‘fickle weather’.",
+    "category": "character"
+  },
+  {
+    "id": "resolute",
+    "term": "resolute",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "REZ-uh-loot",
+    "definition": "Admirably determined and unwavering.",
+    "example": "She was resolute: she was finishing the marathon even if she had to walk the last ten miles.",
+    "etymology": "From Latin resolutus, past participle of resolvere (to loosen, untie), from re- + solvere (to loosen). The link to determination comes through ‘resolve’ in the sense of settling a doubt, and so making up one’s mind.",
+    "root": {
+      "form": "solvere",
+      "language": "Latin",
+      "meaning": "to loosen, release"
+    },
+    "relatedWords": [
+      {
+        "term": "resolve",
+        "meaning": "firm determination; to decide"
+      },
+      {
+        "term": "solve",
+        "meaning": "to find an answer"
+      },
+      {
+        "term": "dissolve",
+        "meaning": "to loosen into liquid"
+      },
+      {
+        "term": "absolve",
+        "meaning": "to set free from blame"
+      }
+    ],
+    "synonyms": [
+      "determined",
+      "steadfast",
+      "unwavering",
+      "firm"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "mettle",
+    "term": "mettle",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "MET-ul",
+    "definition": "A person’s ability to cope well with difficulties; spirit and resilience.",
+    "example": "The first week of the new job really tested my mettle.",
+    "etymology": "Originally just a variant spelling of ‘metal’. The figurative sense of a person’s ‘stuff’ or quality, as with testing the quality of metal, gradually attached to the ‘mettle’ spelling, and by the early 18th century the two were treated as separate words.",
+    "root": {
+      "form": "metallum",
+      "language": "Latin",
+      "meaning": "metal, mine"
+    },
+    "relatedWords": [
+      {
+        "term": "metal",
+        "meaning": "the original word and spelling"
+      },
+      {
+        "term": "mettlesome",
+        "meaning": "spirited, courageous"
+      }
+    ],
+    "synonyms": [
+      "spirit",
+      "grit",
+      "resilience",
+      "backbone"
+    ],
+    "note": "Usually in fixed phrases: test your mettle, prove your mettle, show your mettle.",
+    "category": "character"
+  },
+  {
+    "id": "gumption",
+    "term": "gumption",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "GUMP-shun",
+    "definition": "Shrewd, resourceful initiative; the nerve to get things done.",
+    "example": "I admire her gumption. She just walked in and asked for a job on the spot.",
+    "etymology": "From Scots, first recorded in the early 18th century meaning common sense or shrewdness; its origin is unknown. In American English it came to mean initiative and courage as well.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "initiative",
+      "resourcefulness",
+      "nerve",
+      "get-up-and-go"
+    ],
+    "note": "Folksy and warm in tone.",
+    "category": "character"
+  },
+  {
+    "id": "diamond-in-the-rough",
+    "term": "diamond in the rough",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Someone with great qualities hidden beneath an unpolished exterior.",
+    "example": "He’s a diamond in the rough. Bit gruff, but he’d do anything for you.",
+    "etymology": "From the image of an uncut diamond, which looks dull until it is cut and polished. The British form ‘rough diamond’ is recorded for a person from the early 17th century; ‘diamond in the rough’ is the more common American form.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "rough diamond",
+        "meaning": "the British version of the phrase"
+      }
+    ],
+    "synonyms": [
+      "hidden gem",
+      "unpolished talent"
+    ],
+    "note": "Also used for places or things with untapped potential.",
+    "category": "character"
+  },
+  {
+    "id": "goody-two-shoes",
+    "term": "goody two-shoes",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A person who is smugly or ostentatiously virtuous and well-behaved.",
+    "example": "Stop being such a goody two-shoes and come out for one drink.",
+    "etymology": "From The History of Little Goody Two-Shoes (1765), a children’s book published by John Newbery, sometimes attributed to Oliver Goldsmith. Its poor, virtuous heroine is so delighted to receive a pair of shoes that she shows everyone her ‘two shoes’. ‘Goody’ was a polite title for a woman of humble rank, short for ‘goodwife’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "teacher’s pet",
+        "meaning": "a pupil favored by the teacher"
+      },
+      {
+        "term": "Pollyanna",
+        "meaning": "a relentless optimist"
+      }
+    ],
+    "synonyms": [
+      "prig",
+      "do-gooder",
+      "Miss Perfect",
+      "teacher’s pet"
+    ],
+    "note": "Teasing and mildly insulting, not formal.",
+    "category": "character"
+  },
+  {
+    "id": "loose-cannon",
+    "term": "loose cannon",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An unpredictable person whose actions could cause damage to their own side.",
+    "example": "Don’t put him in front of the client. He’s a loose cannon and might say anything.",
+    "etymology": "From the days of wooden warships, when a heavy cannon that broke free of its lashings could roll across the deck in rough seas, crushing sailors and smashing the hull. The figurative sense became common in the 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "wild card",
+        "meaning": "an unpredictable person or factor"
+      },
+      {
+        "term": "bull in a china shop",
+        "meaning": "someone clumsy and destructive"
+      }
+    ],
+    "synonyms": [
+      "wild card",
+      "maverick",
+      "liability",
+      "hothead"
+    ],
+    "note": "The key idea is risk to one’s own team, not just unpredictability.",
+    "category": "character"
+  },
+  {
+    "id": "zealot",
+    "term": "zealot",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ZEL-ut",
+    "definition": "A person who is fanatical and uncompromising in pursuit of their ideals.",
+    "example": "He’s become a bit of a fitness zealot. Every conversation turns to protein.",
+    "etymology": "From Greek zēlōtēs (an emulator, an enthusiast), from zēlos (zeal, eager rivalry). The Zealots were a 1st-century Jewish faction who fiercely resisted Roman rule, and the name came to mean any fanatic.",
+    "root": {
+      "form": "zēlos",
+      "language": "Greek",
+      "meaning": "zeal, ardor"
+    },
+    "relatedWords": [
+      {
+        "term": "zeal",
+        "meaning": "great energy or enthusiasm"
+      },
+      {
+        "term": "zealous",
+        "meaning": "fervent"
+      },
+      {
+        "term": "jealous",
+        "meaning": "from Late Latin zelosus, from the same Greek root"
+      }
+    ],
+    "synonyms": [
+      "fanatic",
+      "extremist",
+      "true believer",
+      "diehard"
+    ],
+    "note": "‘Zealous’ can be praise; ‘zealot’ almost always isn’t.",
+    "category": "character"
+  },
+  {
+    "id": "hypocrite",
+    "term": "hypocrite",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "HIP-uh-krit",
+    "definition": "A person who claims beliefs or virtues they don’t actually live by.",
+    "example": "I know I’m a hypocrite. I tell the kids no screens at dinner and then check my email.",
+    "etymology": "From Greek hypokritēs (a stage actor), from hypokrinesthai (to play a part, also to answer), from hypo (under) + krinein (to decide, judge). An actor plays a role he isn’t, so in Church usage the word came to mean someone who pretends to virtue.",
+    "root": {
+      "form": "krinein",
+      "language": "Greek",
+      "meaning": "to decide, judge"
+    },
+    "relatedWords": [
+      {
+        "term": "hypocrisy",
+        "meaning": "pretending to have virtues one lacks"
+      },
+      {
+        "term": "critic",
+        "meaning": "one who judges"
+      },
+      {
+        "term": "criterion",
+        "meaning": "a standard for judging"
+      },
+      {
+        "term": "crisis",
+        "meaning": "a decisive moment"
+      }
+    ],
+    "synonyms": [
+      "phony",
+      "fraud",
+      "pretender",
+      "sanctimonious person"
+    ],
+    "note": null,
+    "category": "character"
+  },
+  {
+    "id": "indefatigable",
+    "term": "indefatigable",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-dih-FAT-ih-guh-bul",
+    "definition": "Persisting tirelessly; never seeming to get tired.",
+    "example": "Our indefatigable organizer has somehow planned the reunion, the after-party and the brunch.",
+    "etymology": "From Latin indefatigabilis, from in- (not) + defatigare (to tire out), from de- (completely) + fatigare (to weary).",
+    "root": {
+      "form": "fatigare",
+      "language": "Latin",
+      "meaning": "to tire, weary"
+    },
+    "relatedWords": [
+      {
+        "term": "fatigue",
+        "meaning": "extreme tiredness"
+      },
+      {
+        "term": "indefatigably",
+        "meaning": "tirelessly"
+      }
+    ],
+    "synonyms": [
+      "tireless",
+      "untiring",
+      "relentless",
+      "energetic"
+    ],
+    "note": "Almost always admiring.",
+    "category": "character"
+  }
+]

@@ -1,0 +1,2638 @@
+[
+  {
+    "id": "achilles-heel",
+    "term": "Achilles’ heel",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A small but fatal weakness in someone or something that is otherwise strong.",
+    "example": "He’s a brilliant manager, but his Achilles’ heel is that he can’t delegate anything.",
+    "etymology": "From the Greek hero Achilles, whose mother Thetis dipped him in the River Styx to make him invulnerable, holding him by the heel, which stayed unprotected; he was later killed by an arrow there. Homer never mentions the heel: the dipping story is first fully told by the Roman poet Statius in the 1st century AD. The figurative English phrase took hold in the early 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Achilles tendon",
+        "meaning": "the tendon at the back of the heel, named after the hero in 1693"
+      },
+      {
+        "term": "chink in one’s armour",
+        "meaning": "a weak point in an otherwise strong defence"
+      }
+    ],
+    "synonyms": [
+      "weak spot",
+      "vulnerability",
+      "soft underbelly",
+      "flaw"
+    ],
+    "note": "Use it for a single specific weakness, not general weakness.",
+    "category": "idioms"
+  },
+  {
+    "id": "pandoras-box",
+    "term": "Pandora’s box",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Something that, once opened or started, unleashes a host of unforeseen troubles.",
+    "example": "Once you let one team skip the review process, you’ve opened Pandora’s box.",
+    "etymology": "In Hesiod’s Works and Days (c. 700 BC), Pandora, the first woman, opens a jar given by the gods and releases all evils into the world; only Hope stays inside. Hesiod’s word was pithos, a large storage jar. It became a ‘box’ through the scholar Erasmus, who in the 16th century rendered it as pyxis (a small box), and the mistake stuck.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "open a can of worms",
+        "meaning": "start something that creates many new problems"
+      },
+      {
+        "term": "pithos",
+        "meaning": "the large Greek storage jar of the original myth"
+      }
+    ],
+    "synonyms": [
+      "can of worms",
+      "hornet’s nest"
+    ],
+    "note": "Usually with ‘open’: you open Pandora’s box.",
+    "category": "idioms"
+  },
+  {
+    "id": "trojan-horse",
+    "term": "Trojan horse",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Something that looks harmless but is designed to get past defences and cause harm from within.",
+    "example": "That free app is basically a Trojan horse for collecting your data.",
+    "etymology": "From the Greek legend of the Trojan War, in which the Greeks pretended to sail away and left a huge wooden horse with soldiers hidden inside; the Trojans dragged it into the city and were defeated that night. The story is mentioned in Homer’s Odyssey and told in full in Virgil’s Aeneid. Since the 1970s it has also named malicious software disguised as something useful.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "beware of Greeks bearing gifts",
+        "meaning": "from Virgil’s line ‘I fear the Greeks, even when bearing gifts’"
+      },
+      {
+        "term": "trojan",
+        "meaning": "short for a Trojan horse computer program"
+      }
+    ],
+    "synonyms": [
+      "decoy",
+      "ruse",
+      "stalking horse"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "sisyphean-task",
+    "term": "Sisyphean task",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A task that is endless and futile, because the work is always undone and must be started again.",
+    "example": "Keeping my inbox at zero is a Sisyphean task; it fills right back up overnight.",
+    "etymology": "From Sisyphus, a cunning king of Corinth in Greek myth who cheated death and was punished in the underworld by having to roll a huge boulder up a hill, only for it to roll back down every time it neared the top. The punishment is described in Homer’s Odyssey, Book 11. Albert Camus’s 1942 essay The Myth of Sisyphus made him a symbol of human struggle.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Sisyphean",
+        "meaning": "endless and futile, like Sisyphus’s labour"
+      },
+      {
+        "term": "labour of Hercules",
+        "meaning": "a hugely difficult task, but one that can be finished"
+      }
+    ],
+    "synonyms": [
+      "endless chore",
+      "futile effort",
+      "uphill battle"
+    ],
+    "note": "It stresses repetition and futility, not just difficulty; a hard task that can be completed is Herculean, not Sisyphean.",
+    "category": "idioms"
+  },
+  {
+    "id": "pyrrhic-victory",
+    "term": "Pyrrhic victory",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A win that costs the winner so much that it is barely better than losing.",
+    "example": "We won the lawsuit, but after three years of legal fees it was a Pyrrhic victory.",
+    "etymology": "From Pyrrhus, king of Epirus, who defeated the Romans at Heraclea (280 BC) and Asculum (279 BC) but lost so many of his best troops that he could not keep fighting. Plutarch reports him saying that one more such victory would utterly ruin him. The phrase ‘Pyrrhic victory’ is found in English from the late 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "hollow victory",
+        "meaning": "a win that brings no real benefit"
+      },
+      {
+        "term": "cadmean victory",
+        "meaning": "a rarer term for a victory that ruins the victor"
+      }
+    ],
+    "synonyms": [
+      "hollow victory",
+      "costly win"
+    ],
+    "note": "Not just a narrow or lucky win: the point is that the cost outweighs the gain.",
+    "category": "idioms"
+  },
+  {
+    "id": "crossing-the-rubicon",
+    "term": "crossing the Rubicon",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Taking a step that commits you to a course of action, with no way back.",
+    "example": "Once we signed the lease on the new office, we’d crossed the Rubicon.",
+    "etymology": "In January 49 BC Julius Caesar led his army across the Rubicon, a small river marking the boundary of his province; bringing troops into Italy proper was treason and made civil war inevitable. Suetonius reports him saying ‘alea iacta est’ (‘the die is cast’), while Plutarch says he quoted a Greek playwright: ‘let the die be cast.’",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "the die is cast",
+        "meaning": "a decision has been made and cannot be undone"
+      },
+      {
+        "term": "point of no return",
+        "meaning": "the moment after which turning back is impossible"
+      },
+      {
+        "term": "burn one’s bridges",
+        "meaning": "act so that retreat is impossible"
+      }
+    ],
+    "synonyms": [
+      "point of no return",
+      "burning one’s boats"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-sword-of-damocles",
+    "term": "the sword of Damocles",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A constant threat of disaster hanging over someone, especially one who seems fortunate.",
+    "example": "With layoffs rumoured every quarter, it feels like the sword of Damocles is hanging over the whole team.",
+    "etymology": "Told by Cicero in his Tusculan Disputations (45 BC): Damocles, a courtier of Dionysius, tyrant of Syracuse, envied the ruler’s luck, so Dionysius let him sit on the throne at a banquet with a sword hanging over his head by a single horsehair. The lesson was that power comes with constant danger.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "hanging by a thread",
+        "meaning": "in a precarious state"
+      },
+      {
+        "term": "Damoclean",
+        "meaning": "precarious, ever-threatening"
+      }
+    ],
+    "synonyms": [
+      "looming threat",
+      "ever-present danger"
+    ],
+    "note": "Usually ‘hanging over’ someone. It suggests a threat that could fall at any moment, often attached to privilege.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-gordian-knot",
+    "term": "a Gordian knot",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An extremely tangled problem, especially one solved by a bold, decisive stroke.",
+    "example": "The new CEO cut the Gordian knot by scrapping the whole legacy system instead of patching it.",
+    "etymology": "In Gordium, the capital of Phrygia, an elaborate knot tied a cart to a post, and an oracle foretold that whoever undid it would rule Asia. When Alexander the Great arrived in 333 BC he reportedly sliced through it with his sword. Ancient sources disagree: one account, preserved by Arrian, says he simply pulled out the pin that held the knot.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "cut the Gordian knot",
+        "meaning": "solve a complicated problem in a quick, forceful way"
+      }
+    ],
+    "synonyms": [
+      "intractable problem",
+      "tangle"
+    ],
+    "note": "Most often used in the form ‘cut the Gordian knot’.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-lions-share",
+    "term": "the lion’s share",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The largest part of something.",
+    "example": "My sister did the lion’s share of the planning, so she gets to pick the restaurant.",
+    "etymology": "From Aesop’s fable in which a lion goes hunting with other animals and then claims every portion of the kill for himself. So the original ‘lion’s share’ meant all of it; over time it softened to mean the biggest part.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "the bulk",
+        "meaning": "the greater part of something"
+      }
+    ],
+    "synonyms": [
+      "the bulk",
+      "the majority",
+      "most"
+    ],
+    "note": "Today it means ‘the largest part’, not necessarily an unfair grab, though it can still hint at greed.",
+    "category": "idioms"
+  },
+  {
+    "id": "sour-grapes",
+    "term": "sour grapes",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Pretending to dislike something only because you can’t have it.",
+    "example": "He says the promotion wasn’t worth it anyway, but that’s just sour grapes.",
+    "etymology": "From Aesop’s fable ‘The Fox and the Grapes’, in which a fox fails to reach a bunch of grapes and walks off saying they were probably sour. The fable was known in English from at least the 15th century, and ‘sour grapes’ became a set phrase by the 18th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "cognitive dissonance",
+        "meaning": "psychologists’ term for the mental strain this behaviour relieves"
+      }
+    ],
+    "synonyms": [
+      "envy",
+      "bitterness",
+      "resentment"
+    ],
+    "note": "It specifically means disparaging something you couldn’t get, not general bitterness.",
+    "category": "idioms"
+  },
+  {
+    "id": "clean-the-augean-stables",
+    "term": "clean the Augean stables",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To clear away a huge accumulation of corruption, mess or neglect.",
+    "example": "The new auditor’s first job was to clean the Augean stables of the old accounting department.",
+    "etymology": "In Greek myth, King Augeas owned thousands of cattle whose stables had not been cleaned for years. As one of his twelve labours, Hercules cleaned them in a single day by diverting the rivers Alpheus and Peneus through them.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Augean",
+        "meaning": "extremely filthy or corrupt"
+      },
+      {
+        "term": "Herculean",
+        "meaning": "requiring enormous strength or effort"
+      }
+    ],
+    "synonyms": [
+      "clean house",
+      "overhaul"
+    ],
+    "note": "Often used of institutions riddled with corruption, not just physical mess.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-midas-touch",
+    "term": "the Midas touch",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The ability to make money or succeed at everything you try.",
+    "example": "Every startup she backs takes off; she’s got the Midas touch.",
+    "etymology": "From King Midas of Phrygia, who in Greek myth (told most famously in Ovid’s Metamorphoses) was granted his wish that everything he touched would turn to gold. When his food and drink also turned to gold he begged to be released, and was told to wash in the river Pactolus.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "golden touch",
+        "meaning": "the same idea in plainer words"
+      },
+      {
+        "term": "reverse Midas touch",
+        "meaning": "a joking phrase for ruining everything you touch"
+      }
+    ],
+    "synonyms": [
+      "golden touch",
+      "knack for success"
+    ],
+    "note": "Today it is almost always praise, though the original myth was a warning about greed.",
+    "category": "idioms"
+  },
+  {
+    "id": "between-scylla-and-charybdis",
+    "term": "between Scylla and Charybdis",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Forced to choose between two equally dangerous options.",
+    "example": "Raise prices and lose customers, or keep them and lose money: we’re between Scylla and Charybdis.",
+    "etymology": "In Homer’s Odyssey, Odysseus must sail a narrow strait between Scylla, a six-headed monster on a cliff, and Charybdis, a whirlpool that swallows ships. Later tradition placed them in the Strait of Messina between Italy and Sicily.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "between a rock and a hard place",
+        "meaning": "facing two bad choices"
+      },
+      {
+        "term": "between the devil and the deep blue sea",
+        "meaning": "another way of saying you face two dangers"
+      }
+    ],
+    "synonyms": [
+      "dilemma",
+      "catch-22"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-procrustean-bed",
+    "term": "a Procrustean bed",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A rigid standard that people or facts are forced to fit, whatever the distortion.",
+    "example": "The software forces every project into the same Procrustean bed of six-week sprints.",
+    "etymology": "From Procrustes, a bandit in Greek myth who offered travellers a bed and then stretched them or cut off their limbs to make them fit it exactly. He was killed by the hero Theseus. His name means ‘the stretcher’ in Greek.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Procrustean",
+        "meaning": "enforcing conformity without regard for individual differences"
+      },
+      {
+        "term": "one-size-fits-all",
+        "meaning": "designed to suit everyone, often suiting no one well"
+      }
+    ],
+    "synonyms": [
+      "straitjacket",
+      "one-size-fits-all"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "an-albatross-around-ones-neck",
+    "term": "an albatross around one’s neck",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A burden, especially one caused by a past mistake, that you can’t get rid of.",
+    "example": "That failed acquisition has been an albatross around his neck for his whole career.",
+    "etymology": "From Samuel Taylor Coleridge’s poem The Rime of the Ancient Mariner (1798), in which a sailor shoots an albatross, a bird of good omen, and brings disaster on his ship. His shipmates hang the dead bird around his neck as a mark of his guilt.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "millstone around one’s neck",
+        "meaning": "a heavy burden that holds you back"
+      }
+    ],
+    "synonyms": [
+      "millstone",
+      "burden",
+      "curse"
+    ],
+    "note": "Best used for a burden tied to guilt or a past misstep, not just any heavy load.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-writing-on-the-wall",
+    "term": "the writing on the wall",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Clear signs that something bad, especially failure or ruin, is about to happen.",
+    "example": "When they cancelled our budget meeting twice, I could see the writing on the wall.",
+    "etymology": "From the Book of Daniel, chapter 5: during King Belshazzar’s feast, a disembodied hand writes ‘Mene, mene, tekel, upharsin’ on the palace wall. Daniel reads it as a prophecy that the king’s days are numbered and his kingdom will be divided, and Belshazzar is killed that night.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "see the writing on the wall",
+        "meaning": "recognise that failure is coming"
+      },
+      {
+        "term": "handwriting on the wall",
+        "meaning": "a mainly American variant"
+      }
+    ],
+    "synonyms": [
+      "omen",
+      "portent",
+      "warning sign"
+    ],
+    "note": "Usually something you see or read, and it almost always points to an unwelcome outcome.",
+    "category": "idioms"
+  },
+  {
+    "id": "salt-of-the-earth",
+    "term": "salt of the earth",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A good, honest, decent person, typically unpretentious.",
+    "example": "My grandad never had much money, but he was the salt of the earth.",
+    "etymology": "From the Sermon on the Mount (Matthew 5:13), where Jesus tells his followers, ‘Ye are the salt of the earth.’ Salt was precious for preserving and flavouring food, so the phrase marked them as valuable to the world.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "worth one’s salt",
+        "meaning": "good at one’s job; from salt’s value"
+      },
+      {
+        "term": "salary",
+        "meaning": "possibly linked to Latin sal, salt"
+      }
+    ],
+    "synonyms": [
+      "good egg",
+      "solid citizen",
+      "decent sort"
+    ],
+    "note": "Usually praises ordinary, hardworking people rather than the rich or famous.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-good-samaritan",
+    "term": "a good Samaritan",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A stranger who goes out of their way to help someone in need.",
+    "example": "My car died on the motorway and some good Samaritan stopped and gave me a jump start.",
+    "etymology": "From Jesus’s parable in Luke 10, in which a traveller is beaten and left by the road; a priest and a Levite walk past, but a Samaritan, a member of a group despised by the listeners, stops and cares for him. The point was that kindness should cross social boundaries.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Good Samaritan law",
+        "meaning": "a law protecting people who help in emergencies"
+      }
+    ],
+    "synonyms": [
+      "helper",
+      "benefactor",
+      "rescuer"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-fly-in-the-ointment",
+    "term": "a fly in the ointment",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A small flaw or problem that spoils something otherwise good.",
+    "example": "The flat is perfect; the only fly in the ointment is the neighbour’s dog.",
+    "etymology": "From Ecclesiastes 10:1 in the King James Bible: ‘Dead flies cause the ointment of the apothecary to send forth a stinking savour.’ The compact idiom formed in English in the 18th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "a spanner in the works",
+        "meaning": "something that disrupts a plan"
+      },
+      {
+        "term": "one bad apple",
+        "meaning": "one bad element that spoils the rest"
+      }
+    ],
+    "synonyms": [
+      "drawback",
+      "snag",
+      "catch"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "by-the-skin-of-ones-teeth",
+    "term": "by the skin of one’s teeth",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Only just; by the narrowest of margins.",
+    "example": "I made the train by the skin of my teeth; the doors closed right behind me.",
+    "etymology": "From the Book of Job (19:20), in the Geneva Bible of 1560 and later the King James Version: ‘I am escaped with the skin of my teeth.’ It’s a literal rendering of the Hebrew, whose exact meaning is debated, since teeth have no skin; the idea seems to be a margin as thin as possible.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "by a hair’s breadth",
+        "meaning": "by a tiny margin"
+      },
+      {
+        "term": "close shave",
+        "meaning": "a narrow escape"
+      }
+    ],
+    "synonyms": [
+      "narrowly",
+      "barely",
+      "only just"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "go-the-extra-mile",
+    "term": "go the extra mile",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To make more effort than is expected of you.",
+    "example": "Our caterer went the extra mile and made a separate gluten-free cake for my cousin.",
+    "etymology": "From the Sermon on the Mount (Matthew 5:41): ‘Whosoever shall compel thee to go a mile, go with him twain.’ It is usually explained by Roman law, which let soldiers force civilians to carry their gear for one mile. The modern motivational sense became common in the 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "above and beyond",
+        "meaning": "more than is required"
+      }
+    ],
+    "synonyms": [
+      "go above and beyond",
+      "bend over backwards"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-emperors-new-clothes",
+    "term": "the emperor’s new clothes",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Something everyone praises out of fear or conformity, though it is obviously empty or worthless.",
+    "example": "That ‘revolutionary’ strategy is the emperor’s new clothes; nobody wants to admit it’s the old plan rebranded.",
+    "etymology": "From Hans Christian Andersen’s 1837 tale, in which swindlers sell a vain emperor ‘clothes’ they say are invisible to fools. Nobody dares to admit seeing nothing until a child shouts that the emperor is naked. Andersen adapted a story from Don Juan Manuel’s medieval Spanish collection El Conde Lucanor (1335).",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "groupthink",
+        "meaning": "conformity that suppresses honest doubt"
+      }
+    ],
+    "synonyms": [
+      "sham",
+      "hollow pretence"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "tilting-at-windmills",
+    "term": "tilting at windmills",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Fighting imaginary enemies or wasting effort on hopeless, misguided battles.",
+    "example": "Complaining to the airline about the seat width is just tilting at windmills.",
+    "etymology": "From Cervantes’ Don Quixote (1605), in which the deluded knight charges at windmills, believing them to be giants, and is knocked off his horse. ‘Tilt’ here means to charge with a lance, as in a joust.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "quixotic",
+        "meaning": "idealistic to an impractical degree, from Don Quixote"
+      }
+    ],
+    "synonyms": [
+      "fighting a losing battle",
+      "chasing shadows"
+    ],
+    "note": "It implies the enemy is imaginary or the fight is pointless, often with a note of idealism.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-green-eyed-monster",
+    "term": "the green-eyed monster",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Jealousy.",
+    "example": "When his ex showed up with her new boyfriend, the green-eyed monster came out.",
+    "etymology": "From Shakespeare’s Othello (c. 1603), where Iago warns: ‘O, beware, my lord, of jealousy; it is the green-eyed monster which doth mock the meat it feeds on.’ Shakespeare had linked green and jealousy before, in The Merchant of Venice (‘green-eyed jealousy’).",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "green with envy",
+        "meaning": "very envious"
+      }
+    ],
+    "synonyms": [
+      "jealousy",
+      "envy"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-pound-of-flesh",
+    "term": "a pound of flesh",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Something owed that is demanded ruthlessly, even when collecting it causes harm.",
+    "example": "The landlord wants his pound of flesh: he’s keeping the whole deposit over a scuffed wall.",
+    "etymology": "From Shakespeare’s The Merchant of Venice (c. 1596), in which the moneylender Shylock lends money to Antonio on the condition that, if it isn’t repaid, he can cut a pound of flesh from Antonio’s body. Portia defeats the claim by arguing he may take flesh but not one drop of blood.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "exact one’s pound of flesh",
+        "meaning": "insist on full, harsh repayment"
+      }
+    ],
+    "synonyms": [
+      "full repayment",
+      "one’s due"
+    ],
+    "note": "Usually ‘want/demand/get one’s pound of flesh’, and it implies harshness.",
+    "category": "idioms"
+  },
+  {
+    "id": "devils-advocate",
+    "term": "devil’s advocate",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Someone who argues the opposite side, not from belief, but to test an idea.",
+    "example": "I actually agree with you, but let me play devil’s advocate for a minute.",
+    "etymology": "A translation of Latin advocatus diaboli, the popular name for the Promoter of the Faith, a Catholic Church official whose job was to argue against declaring someone a saint. The office was formalised in 1587 under Pope Sixtus V, and its role was greatly reduced by Pope John Paul II in 1983.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "play devil’s advocate",
+        "meaning": "argue the opposite side for the sake of argument"
+      },
+      {
+        "term": "steelman",
+        "meaning": "present the strongest version of the opposing view"
+      }
+    ],
+    "synonyms": [
+      "contrarian",
+      "dissenter"
+    ],
+    "note": "Usually ‘play devil’s advocate’. It implies you don’t necessarily hold the view you’re arguing.",
+    "category": "idioms"
+  },
+  {
+    "id": "catch-22",
+    "term": "Catch-22",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A no-win situation where the only escape is blocked by a rule or condition built into the problem.",
+    "example": "You need experience to get the job, but you need the job to get experience; it’s a total Catch-22.",
+    "etymology": "From Joseph Heller’s 1961 novel Catch-22, about US airmen in the Second World War. The ‘catch’ is that a pilot can be grounded for insanity, but asking to be grounded proves you’re sane, so you have to keep flying. The novel was originally titled Catch-18, changed before publication to avoid confusion with Leon Uris’s novel Mila 18.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "double bind",
+        "meaning": "a dilemma in which every option leads to a bad result"
+      },
+      {
+        "term": "vicious circle",
+        "meaning": "a situation where a problem keeps feeding itself"
+      }
+    ],
+    "synonyms": [
+      "no-win situation",
+      "double bind",
+      "vicious circle"
+    ],
+    "note": "Strictly, a Catch-22 involves circular logic, not just two bad options; for those, ‘dilemma’ fits better.",
+    "category": "idioms"
+  },
+  {
+    "id": "occams-razor",
+    "term": "Occam’s razor",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The principle that the simplest explanation that fits the facts is usually the best.",
+    "example": "Occam’s razor says he didn’t get hacked; he just forgot his password again.",
+    "etymology": "Named after William of Ockham (c. 1287-1347), an English Franciscan friar and philosopher who argued against assuming more than necessary. The famous Latin wording ‘entities should not be multiplied beyond necessity’ doesn’t actually appear in his surviving works; it was attributed to him later, and the ‘razor’ label (for shaving away needless assumptions) dates from the 17th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Hanlon’s razor",
+        "meaning": "don’t assume malice where stupidity will explain it"
+      },
+      {
+        "term": "parsimony",
+        "meaning": "in science, preferring theories with fewer assumptions"
+      }
+    ],
+    "synonyms": [
+      "principle of parsimony",
+      "law of economy"
+    ],
+    "note": "It’s a rule of thumb for choosing between explanations, not proof that the simplest one is true.",
+    "category": "idioms"
+  },
+  {
+    "id": "hobsons-choice",
+    "term": "Hobson’s choice",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A ‘choice’ in which there is really only one option: take what’s offered or nothing.",
+    "example": "The canteen only had one sandwich left, so it was Hobson’s choice.",
+    "etymology": "From Thomas Hobson (c. 1544-1631), a Cambridge carrier who hired out horses. To stop his best horses being overworked, he made every customer take the horse nearest the stable door or none at all. He was well known enough that John Milton wrote two comic epitaphs for him.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "take it or leave it",
+        "meaning": "accept the offer as it is or not at all"
+      }
+    ],
+    "synonyms": [
+      "take it or leave it",
+      "no choice at all"
+    ],
+    "note": "Not a choice between two bad options (that’s a dilemma); it means one option or nothing.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-freudian-slip",
+    "term": "a Freudian slip",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An accidental slip of the tongue that seems to reveal what someone is really thinking.",
+    "example": "I meant to say ‘I’m glad you came’, and it came out ‘I’m sad you came’; total Freudian slip.",
+    "etymology": "From Sigmund Freud, whose 1901 book The Psychopathology of Everyday Life argued that verbal mistakes reveal repressed thoughts. Freud’s German term was Fehlleistung (‘faulty action’), which his English translators rendered as ‘parapraxis’; the catchier ‘Freudian slip’ became common in the mid-20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "parapraxis",
+        "meaning": "the technical term for a revealing mistake"
+      },
+      {
+        "term": "slip of the tongue",
+        "meaning": "any accidental verbal error"
+      }
+    ],
+    "synonyms": [
+      "slip of the tongue",
+      "parapraxis"
+    ],
+    "note": "Used loosely of any embarrassing verbal mix-up, but the point is that it reveals a hidden thought.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-potemkin-village",
+    "term": "a Potemkin village",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An impressive façade built to hide an unpleasant or embarrassing reality.",
+    "example": "The showroom office is a Potemkin village; the actual staff work in a warehouse with no heating.",
+    "etymology": "Named after Grigory Potemkin, the Russian statesman who supposedly put up fake village fronts along Catherine the Great’s 1787 tour of Crimea to make the region look prosperous. Historians think the story was largely exaggerated or invented by his rivals: some sprucing up probably happened, but not whole cardboard villages.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "window dressing",
+        "meaning": "something done to create a favourable impression"
+      }
+    ],
+    "synonyms": [
+      "façade",
+      "sham",
+      "window dressing",
+      "smoke and mirrors"
+    ],
+    "note": "Usually used of governments or organisations putting on a show of success.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-streisand-effect",
+    "term": "the Streisand effect",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "When trying to hide or suppress information only draws far more attention to it.",
+    "example": "Their legal threats against the blogger backfired; classic Streisand effect.",
+    "etymology": "In 2003 Barbra Streisand sued a photographer to have an aerial photo of her Malibu house removed from a public archive of the California coastline. Before the lawsuit the image had been downloaded only six times; after news of it spread, hundreds of thousands of people looked. The tech writer Mike Masnick coined the term in 2005.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "backfire",
+        "meaning": "have the opposite of the intended effect"
+      },
+      {
+        "term": "going viral",
+        "meaning": "spreading rapidly online"
+      }
+    ],
+    "synonyms": [
+      "backfire",
+      "own goal"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "chekhovs-gun",
+    "term": "Chekhov’s gun",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The principle that every detail in a story should matter, so nothing irrelevant is included.",
+    "example": "They spent ten minutes on that weird key in episode one, so it’s Chekhov’s gun; it’ll show up again.",
+    "etymology": "From the Russian playwright Anton Chekhov, who in an 1889 letter advised that one should never put a loaded rifle on stage if no one intends to fire it. He repeated the idea in various forms, and it has become a standard rule of storytelling.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "foreshadowing",
+        "meaning": "a hint of what will happen later in a story"
+      },
+      {
+        "term": "red herring",
+        "meaning": "a misleading clue, the opposite device"
+      }
+    ],
+    "synonyms": [
+      "foreshadowing",
+      "setup and payoff"
+    ],
+    "note": "Commonly used for any early detail that clearly signals a later payoff.",
+    "category": "idioms"
+  },
+  {
+    "id": "murphys-law",
+    "term": "Murphy’s law",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The saying that anything that can go wrong will go wrong.",
+    "example": "Of course it started raining the one day I forgot my umbrella; Murphy’s law.",
+    "etymology": "Usually credited to Edward A. Murphy Jr., an engineer on US Air Force rocket-sled experiments at Edwards Air Force Base in 1949, after a technician wired a set of sensors wrong; the project’s leader, John Paul Stapp, popularised it. Accounts of what Murphy actually said differ, and similar sayings about things going wrong were around well before the 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "sod’s law",
+        "meaning": "the British equivalent, often with an extra unlucky twist"
+      },
+      {
+        "term": "Finagle’s law",
+        "meaning": "a variant popular in science fiction"
+      }
+    ],
+    "synonyms": [
+      "sod’s law"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "parkinsons-law",
+    "term": "Parkinson’s law",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The observation that work expands to fill the time available for it.",
+    "example": "Give me a week to write the report and it’ll take a week; that’s Parkinson’s law.",
+    "etymology": "From the British historian C. Northcote Parkinson, who opened a satirical 1955 essay in The Economist with ‘Work expands so as to fill the time available for its completion.’ His real target was government bureaucracies that keep growing whatever their actual workload.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "the Peter principle",
+        "meaning": "people rise to their level of incompetence"
+      },
+      {
+        "term": "bikeshedding",
+        "meaning": "Parkinson’s ‘law of triviality’: wasting time on minor issues"
+      }
+    ],
+    "synonyms": [],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-peter-principle",
+    "term": "the Peter principle",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The idea that in a hierarchy, people get promoted until they reach a job they can’t do well.",
+    "example": "He was a fantastic engineer and a terrible manager; the Peter principle in action.",
+    "etymology": "From the 1969 book The Peter Principle by the Canadian educator Laurence J. Peter, written with Raymond Hull, which stated: ‘In a hierarchy every employee tends to rise to his level of incompetence.’ It was meant as satire but is now used seriously in management.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Parkinson’s law",
+        "meaning": "work expands to fill the time available"
+      },
+      {
+        "term": "Dilbert principle",
+        "meaning": "Scott Adams’s joke that incompetent workers get promoted to limit their damage"
+      }
+    ],
+    "synonyms": [],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "godwins-law",
+    "term": "Godwin’s law",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The idea that any online argument, if it goes on long enough, will end up with a Nazi or Hitler comparison.",
+    "example": "Two hundred comments about parking rules and someone’s already brought up Hitler; Godwin’s law strikes again.",
+    "etymology": "Coined in 1990 by the American lawyer Mike Godwin, who posted it on Usenet discussion groups to make people think twice before throwing around Nazi comparisons. It’s often extended to mean that whoever brings up the Nazis has lost the argument.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "reductio ad Hitlerum",
+        "meaning": "dismissing a view by linking it to Hitler"
+      }
+    ],
+    "synonyms": [],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "hanlons-razor",
+    "term": "Hanlon’s razor",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The advice never to assume malice when stupidity or carelessness is an adequate explanation.",
+    "example": "Hanlon’s razor: he probably didn’t leave you off the email on purpose, he’s just disorganised.",
+    "etymology": "The wording ‘Never attribute to malice that which is adequately explained by stupidity’ was submitted by one Robert J. Hanlon to a 1980 collection of jokey laws, Murphy’s Law Book Two. The idea is much older: Robert Heinlein wrote something very similar in a 1941 story. ‘Razor’ borrows from Occam’s razor.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Occam’s razor",
+        "meaning": "prefer the simplest explanation"
+      },
+      {
+        "term": "benefit of the doubt",
+        "meaning": "assuming the best about someone without proof"
+      }
+    ],
+    "synonyms": [
+      "benefit of the doubt"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "sophies-choice",
+    "term": "Sophie’s choice",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An agonising decision between two options that are both unbearable.",
+    "example": "Making me pick between my two best friends’ weddings on the same day is a real Sophie’s choice.",
+    "etymology": "From William Styron’s 1979 novel Sophie’s Choice, filmed in 1982 with Meryl Streep. On arrival at Auschwitz, the heroine Sophie is forced by a Nazi doctor to choose which of her two children will live. The phrase spread in the 1980s.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "between Scylla and Charybdis",
+        "meaning": "between two equal dangers"
+      }
+    ],
+    "synonyms": [
+      "impossible choice",
+      "agonising decision"
+    ],
+    "note": "Given its origin, it can sound flippant when used for trivial choices; many people use it jokingly anyway.",
+    "category": "idioms"
+  },
+  {
+    "id": "big-brother",
+    "term": "Big Brother",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A government or organisation that keeps people under constant surveillance.",
+    "example": "My new job tracks every keystroke; it’s like working for Big Brother.",
+    "etymology": "From George Orwell’s 1949 novel Nineteen Eighty-Four, in which a dictator called Big Brother, who may not even exist, watches citizens through ‘telescreens’; posters everywhere warn ‘Big Brother is watching you.’ The 1999 reality TV show borrowed the name.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Orwellian",
+        "meaning": "resembling the oppressive state in Orwell’s fiction"
+      },
+      {
+        "term": "surveillance state",
+        "meaning": "a government that monitors its citizens closely"
+      }
+    ],
+    "synonyms": [
+      "surveillance state",
+      "nanny state"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-faustian-bargain",
+    "term": "a Faustian bargain",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A deal in which you trade something of lasting value, often your principles, for short-term gain.",
+    "example": "Taking money from that sponsor felt like a Faustian bargain: great funding, but they’d own us.",
+    "etymology": "From the German legend of Faust, a scholar who sells his soul to the devil, through the demon Mephistopheles, in exchange for knowledge and pleasure. The legend grew around a real 16th-century alchemist, Johann Georg Faust, and was dramatised by Christopher Marlowe (c. 1592) and later by Goethe.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "sell one’s soul",
+        "meaning": "abandon one’s principles for gain"
+      },
+      {
+        "term": "deal with the devil",
+        "meaning": "a bargain with terrible hidden costs"
+      }
+    ],
+    "synonyms": [
+      "deal with the devil",
+      "devil’s bargain"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "keeping-up-with-the-joneses",
+    "term": "keeping up with the Joneses",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Trying to match your neighbours’ or peers’ possessions and lifestyle.",
+    "example": "They don’t need a second car; they’re just keeping up with the Joneses.",
+    "etymology": "From the comic strip Keeping Up with the Joneses, created by the cartoonist Arthur ‘Pop’ Momand in 1913 and published in American newspapers for decades. It followed the McGinis family’s attempts to match their neighbours, the Joneses, who were talked about but never actually shown.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "status symbol",
+        "meaning": "a possession that signals wealth or rank"
+      },
+      {
+        "term": "conspicuous consumption",
+        "meaning": "spending to display wealth"
+      }
+    ],
+    "synonyms": [
+      "status-seeking",
+      "one-upmanship"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-real-mccoy",
+    "term": "the real McCoy",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The genuine article, not an imitation.",
+    "example": "This isn’t some knockoff watch; it’s the real McCoy.",
+    "etymology": "Origin uncertain. Popular stories link it to the inventor Elijah McCoy, whose lubricators were supposedly asked for by name, or to the boxer Kid McCoy, but neither has solid evidence. The earliest known form is Scottish, ‘the real MacKay’, recorded in 1856, and the McCoy version may simply be an American reshaping of it.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "the genuine article",
+        "meaning": "the real thing, not a copy"
+      }
+    ],
+    "synonyms": [
+      "the genuine article",
+      "the real deal",
+      "the real thing"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "bobs-your-uncle",
+    "term": "Bob’s your uncle",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "And there you have it; it’s as simple as that.",
+    "example": "Just add the water, stir for a minute, and Bob’s your uncle.",
+    "etymology": "A popular story says it began in 1887, when Prime Minister Robert (‘Bob’) Cecil, Lord Salisbury, made his nephew Arthur Balfour a cabinet minister, implying success comes easily if Bob’s your uncle. But the phrase doesn’t appear in print until the 1920s, so that explanation is unproven and doubtful; the true origin is unknown.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Fanny’s your aunt",
+        "meaning": "a jokey extension of the phrase"
+      },
+      {
+        "term": "Robert’s your father’s brother",
+        "meaning": "a playful elaboration"
+      }
+    ],
+    "synonyms": [
+      "there you go",
+      "job done",
+      "easy as that"
+    ],
+    "note": "Chiefly British and informal, added at the end of instructions.",
+    "category": "idioms"
+  },
+  {
+    "id": "meet-ones-waterloo",
+    "term": "meet one’s Waterloo",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To suffer a final, decisive defeat.",
+    "example": "The team was unbeaten all season, but they met their Waterloo in the final.",
+    "etymology": "From the Battle of Waterloo (18 June 1815), in present-day Belgium, where Napoleon was finally defeated by the Duke of Wellington and the Prussian army under Blücher, ending his career. The figurative phrase was in use by the mid-19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Napoleonic",
+        "meaning": "relating to Napoleon, or grandly ambitious"
+      }
+    ],
+    "synonyms": [
+      "downfall",
+      "undoing",
+      "comeuppance"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-rube-goldberg-machine",
+    "term": "a Rube Goldberg machine",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An absurdly complicated contraption or process for doing something simple.",
+    "example": "Our expense approval process is a Rube Goldberg machine: seven forms to claim a coffee.",
+    "etymology": "From the American cartoonist Rube Goldberg (1883-1970), whose drawings showed ridiculous chain-reaction devices, involving pulleys, boots, parrots and the like, built to perform trivial tasks such as wiping your mouth. His name became an adjective for any needlessly complex system. The British equivalent is ‘Heath Robinson’, after the illustrator W. Heath Robinson.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "Heath Robinson",
+        "meaning": "the British equivalent, after illustrator W. Heath Robinson"
+      },
+      {
+        "term": "overengineered",
+        "meaning": "made more complicated than necessary"
+      }
+    ],
+    "synonyms": [
+      "overcomplicated",
+      "convoluted"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "schrodingers-cat",
+    "term": "Schrödinger’s cat",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A situation that seems to be in two opposite states at once until someone checks.",
+    "example": "Until I open my exam results, I’ve both passed and failed; it’s Schrödinger’s cat.",
+    "etymology": "From a 1935 thought experiment by the Austrian physicist Erwin Schrödinger: a cat sealed in a box with a device that may or may not kill it would, according to one reading of quantum mechanics, be both alive and dead until observed. Schrödinger meant it to show how absurd that idea seemed when applied to everyday objects, not to endorse it.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "superposition",
+        "meaning": "in physics, a system existing in several states at once"
+      }
+    ],
+    "synonyms": [],
+    "note": "In everyday use it means ‘both outcomes are possible until we look’; physicists use it more precisely.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-overton-window",
+    "term": "the Overton window",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The range of ideas the public considers acceptable to discuss at a given time.",
+    "example": "Ten years ago a four-day work week was fringe; now the Overton window has shifted.",
+    "etymology": "Named after Joseph P. Overton (1960-2003) of the Mackinac Center, a US think tank, who argued in the 1990s that politicians can only back policies inside a ‘window’ of public acceptability. The name was given by his colleague Joseph Lehman after Overton’s death, and it became widespread in the 2010s.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "mainstream",
+        "meaning": "the ideas or opinions most people hold"
+      },
+      {
+        "term": "fringe",
+        "meaning": "outside the mainstream"
+      }
+    ],
+    "synonyms": [],
+    "note": "Usually talked about as ‘shifting’ or ‘moving’.",
+    "category": "idioms"
+  },
+  {
+    "id": "an-ivory-tower",
+    "term": "an ivory tower",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A state of privileged seclusion from the practical realities of everyday life.",
+    "example": "Those economists in their ivory tower have never tried to pay rent in this city.",
+    "etymology": "The image goes back to the Song of Songs (7:4), ‘Thy neck is as a tower of ivory’, and was later a symbol of purity applied to the Virgin Mary. Its modern sense of aloof detachment comes from the French critic Sainte-Beuve, who in 1837 described the poet Alfred de Vigny as retreating to his ‘tour d’ivoire’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "academia",
+        "meaning": "the world of universities and scholarship"
+      }
+    ],
+    "synonyms": [
+      "seclusion",
+      "remoteness",
+      "detachment"
+    ],
+    "note": "Usually critical, and often aimed at academics or intellectuals.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-dark-horse",
+    "term": "a dark horse",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A little-known competitor who unexpectedly does well or wins.",
+    "example": "Nobody had heard of her before the debate, but she’s turning into a real dark horse.",
+    "etymology": "From horse racing, where a ‘dark’ horse was one whose form was unknown to bettors. The earliest known use is in Benjamin Disraeli’s novel The Young Duke (1831), in which ‘a dark horse, which had never been thought of’ sweeps to victory. In US politics it was soon applied to James K. Polk, the surprise presidential nominee of 1844.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "underdog",
+        "meaning": "a competitor expected to lose"
+      },
+      {
+        "term": "outsider",
+        "meaning": "a competitor thought to have little chance"
+      }
+    ],
+    "synonyms": [
+      "underdog",
+      "outsider",
+      "long shot"
+    ],
+    "note": "It also describes someone who has hidden talents: ‘You’re a dark horse; I didn’t know you could sing.’",
+    "category": "idioms"
+  },
+  {
+    "id": "red-herring",
+    "term": "red herring",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Something that distracts attention from the real issue, often deliberately.",
+    "example": "The argument about the logo is a red herring; the real problem is that nobody’s buying the product.",
+    "etymology": "A red herring is a strongly smelling smoked fish. The popular story that it was used to throw hounds off a scent is mostly myth: 17th-century sources mention dragging a herring to lay a trail for training dogs, not to mislead them. The figurative sense comes from the journalist William Cobbett, who in 1807 told a (probably invented) story of using a red herring to decoy hounds, as an allegory for a press misled by false news.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "smokescreen",
+        "meaning": "something meant to hide one’s real intentions"
+      },
+      {
+        "term": "whataboutism",
+        "meaning": "deflecting criticism by pointing to someone else’s faults"
+      }
+    ],
+    "synonyms": [
+      "distraction",
+      "diversion",
+      "smokescreen",
+      "decoy"
+    ],
+    "note": "In mystery fiction, a red herring is a false clue planted to mislead the reader.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-elephant-in-the-room",
+    "term": "the elephant in the room",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An obvious, important problem that everyone is aware of but nobody wants to talk about.",
+    "example": "Can we address the elephant in the room? The project is six months late.",
+    "etymology": "The idea of something too big to ignore that people nonetheless ignore appears in the Russian fabulist Ivan Krylov’s 1814 fable ‘The Inquisitive Man’, about a museum visitor who notices every tiny insect but misses an elephant. The modern English phrase is found by the 1950s and became a cliché in the late 20th century; a direct link to Krylov is possible but not proven.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "sweep under the rug",
+        "meaning": "hide a problem rather than deal with it"
+      },
+      {
+        "term": "open secret",
+        "meaning": "something supposedly secret that everyone knows"
+      }
+    ],
+    "synonyms": [
+      "taboo subject",
+      "open secret"
+    ],
+    "note": "Often used with ‘address’ or ‘ignore’: ‘Let’s address the elephant in the room.’",
+    "category": "idioms"
+  },
+  {
+    "id": "moving-the-goalposts",
+    "term": "moving the goalposts",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Unfairly changing the rules or targets once a process is underway, usually to someone’s disadvantage.",
+    "example": "I hit every target they set, and now they want double; they keep moving the goalposts.",
+    "etymology": "A sporting metaphor from football (soccer) and rugby: shifting the goalposts during a game would make scoring impossible or unfair. It is chiefly British in origin and became common in the 1980s.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "shifting the goalposts",
+        "meaning": "a common variant"
+      },
+      {
+        "term": "change the rules of the game",
+        "meaning": "alter the terms partway through"
+      }
+    ],
+    "synonyms": [
+      "changing the rules",
+      "raising the bar"
+    ],
+    "note": "Implies unfairness, often by whoever controls the rules.",
+    "category": "idioms"
+  },
+  {
+    "id": "bite-the-bullet",
+    "term": "bite the bullet",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To force yourself to do something unpleasant that you’ve been putting off.",
+    "example": "I finally bit the bullet and booked the dentist appointment.",
+    "etymology": "Commonly said to come from soldiers biting a bullet to bear the pain of surgery without anaesthetic, but evidence for that practice is thin. The slang dictionary of Francis Grose (1796) mentions soldiers chewing a bullet to keep from crying out while being flogged. The figurative phrase is first clearly recorded in Rudyard Kipling’s 1891 novel The Light That Failed: ‘Bite on the bullet, old man.’",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "grasp the nettle",
+        "meaning": "deal with a problem boldly"
+      },
+      {
+        "term": "face the music",
+        "meaning": "accept the unpleasant consequences"
+      }
+    ],
+    "synonyms": [
+      "grit one’s teeth",
+      "grasp the nettle",
+      "face the music"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-whole-nine-yards",
+    "term": "the whole nine yards",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Everything; the full extent of something.",
+    "example": "They didn’t just redo the kitchen; they went the whole nine yards, new floors and all.",
+    "etymology": "Nobody knows. Popular explanations include the length of a WWII machine-gun ammunition belt, the capacity of a cement mixer, the fabric in a kilt or a ship’s sails, but none is supported by evidence. The phrase is found in American newspapers from 1907, ruling out the war stories, and a 1912 version, ‘the whole six yards’, suggests the number itself may not matter.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "the full monty",
+        "meaning": "British slang for everything"
+      },
+      {
+        "term": "the whole shebang",
+        "meaning": "the entire thing"
+      },
+      {
+        "term": "whole hog",
+        "meaning": "all the way"
+      }
+    ],
+    "synonyms": [
+      "the works",
+      "the full monty",
+      "the whole shebang"
+    ],
+    "note": "Often in ‘go the whole nine yards’.",
+    "category": "idioms"
+  },
+  {
+    "id": "steal-someones-thunder",
+    "term": "steal someone’s thunder",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To take attention or credit away from someone by doing or saying what they planned first.",
+    "example": "I was going to announce my engagement at dinner, but my brother stole my thunder with his promotion news.",
+    "etymology": "From the English playwright John Dennis, who invented a new method of making thunder sounds on stage for his play Appius and Virginia (1709). The play flopped, but the theatre then used his thunder effect in a production of Macbeth, prompting Dennis to complain that they wouldn’t let his play run but would steal his thunder.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "upstage",
+        "meaning": "draw attention away from someone else"
+      },
+      {
+        "term": "take the wind out of someone’s sails",
+        "meaning": "deflate someone’s momentum"
+      }
+    ],
+    "synonyms": [
+      "upstage",
+      "eclipse",
+      "outshine"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "turn-a-blind-eye",
+    "term": "turn a blind eye",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To deliberately ignore something you know is wrong.",
+    "example": "The manager turned a blind eye to people leaving early on Fridays.",
+    "etymology": "Usually traced to Admiral Horatio Nelson, who was blind in one eye. At the Battle of Copenhagen in 1801 he reportedly raised his telescope to his blind eye so he could truthfully say he hadn’t seen his superior’s signal to withdraw, and went on to win. The anecdote may be embellished, and the image of a ‘blind eye’ for ignoring things may be older.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "look the other way",
+        "meaning": "deliberately ignore something"
+      },
+      {
+        "term": "bury one’s head in the sand",
+        "meaning": "refuse to face a problem"
+      }
+    ],
+    "synonyms": [
+      "look the other way",
+      "ignore",
+      "overlook",
+      "wink at"
+    ],
+    "note": "It implies the person knows about the problem and chooses not to act.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-busmans-holiday",
+    "term": "a busman’s holiday",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A holiday or free time spent doing much the same thing as your everyday job.",
+    "example": "A chef cooking for twenty at Christmas? That’s a busman’s holiday.",
+    "etymology": "From late 19th-century Britain, when buses were horse-drawn; the phrase is recorded from 1893. The usual story is that a bus driver on his day off would ride as a passenger on his own bus to keep an eye on the relief driver or the horses, but this explanation is speculative.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "talking shop",
+        "meaning": "discussing work in a social setting"
+      }
+    ],
+    "synonyms": [],
+    "note": "Chiefly British.",
+    "category": "idioms"
+  },
+  {
+    "id": "beg-the-question",
+    "term": "beg the question",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "In logic, to assume the very thing you are trying to prove; loosely, to raise a question.",
+    "example": "Saying the book is great because it’s a classic just begs the question: why is it a classic?",
+    "etymology": "A translation of Latin petitio principii (‘assuming the starting point’), itself from Aristotle’s Greek term for the fallacy. ‘Beg’ here means ‘take for granted’, not ‘plead for’. The phrase entered English in the 16th century as a logic term; the looser sense ‘prompt the question’ became widespread in the 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "circular reasoning",
+        "meaning": "an argument whose conclusion is already in its premises"
+      },
+      {
+        "term": "raise the question",
+        "meaning": "the clearer way to say ‘prompt a question’"
+      }
+    ],
+    "synonyms": [
+      "circular reasoning",
+      "assume the conclusion"
+    ],
+    "note": "Many careful writers reserve it for the fallacy. If you mean ‘invites the question’, ‘raises the question’ avoids the argument.",
+    "category": "idioms"
+  },
+  {
+    "id": "cut-to-the-chase",
+    "term": "cut to the chase",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To get to the point without wasting time on preliminaries.",
+    "example": "Let’s cut to the chase: are you offering me the job or not?",
+    "etymology": "From early Hollywood, where many silent films built up to an exciting chase scene; ‘cut to chase’ was a screenplay direction for jumping straight to the action. It appears in a 1929 novel by J. P. McEvoy, and the figurative sense spread in the mid-20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "get down to brass tacks",
+        "meaning": "start discussing the essential facts"
+      },
+      {
+        "term": "bottom line",
+        "meaning": "the most important point"
+      }
+    ],
+    "synonyms": [
+      "get to the point",
+      "get down to brass tacks"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "on-tenterhooks",
+    "term": "on tenterhooks",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "In a state of anxious suspense.",
+    "example": "We were on tenterhooks all evening waiting for the election results.",
+    "etymology": "From medieval cloth-making: after woollen cloth was washed, it was stretched on a wooden frame called a tenter so it would dry evenly, held in place by hooked nails called tenterhooks. Being ‘on the tenters’ meant being stretched tight with anxiety, a figurative use found from the 17th century.",
+    "root": {
+      "form": "tendere",
+      "language": "Latin",
+      "meaning": "to stretch"
+    },
+    "relatedWords": [
+      {
+        "term": "tenter",
+        "meaning": "a frame for stretching cloth, from Latin tendere, to stretch"
+      },
+      {
+        "term": "on edge",
+        "meaning": "nervous and tense"
+      }
+    ],
+    "synonyms": [
+      "on edge",
+      "in suspense",
+      "on pins and needles"
+    ],
+    "note": "Often misspelled ‘tenderhooks’.",
+    "category": "idioms"
+  },
+  {
+    "id": "throw-down-the-gauntlet",
+    "term": "throw down the gauntlet",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To issue a challenge.",
+    "example": "My neighbour’s put up a giant inflatable reindeer; consider the gauntlet thrown down.",
+    "etymology": "From medieval chivalry, when a knight challenged another to combat by throwing his armoured glove, or gauntlet, on the ground; the opponent picked it up to accept. Gauntlet comes from French gantelet, a diminutive of gant, ‘glove’.",
+    "root": {
+      "form": "gant",
+      "language": "French",
+      "meaning": "glove"
+    },
+    "relatedWords": [
+      {
+        "term": "pick up the gauntlet",
+        "meaning": "accept a challenge"
+      },
+      {
+        "term": "run the gauntlet",
+        "meaning": "an unrelated idiom from a different word"
+      }
+    ],
+    "synonyms": [
+      "issue a challenge",
+      "lay down a challenge"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "run-the-gauntlet",
+    "term": "run the gauntlet",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To face a series of attacks, criticism or difficulties from all sides.",
+    "example": "Any celebrity leaving that restaurant has to run the gauntlet of photographers.",
+    "etymology": "Unrelated to the glove. It comes from Swedish gatlopp (‘lane run’), a military punishment in which a soldier ran between two rows of men who struck him. English borrowed it in the 17th century, during the Thirty Years’ War, as ‘gantlope’, and the word was later reshaped by association with the familiar ‘gauntlet’.",
+    "root": {
+      "form": "gatlopp",
+      "language": "Swedish",
+      "meaning": "lane run"
+    },
+    "relatedWords": [
+      {
+        "term": "throw down the gauntlet",
+        "meaning": "issue a challenge, an unrelated idiom"
+      },
+      {
+        "term": "gantlet",
+        "meaning": "an American spelling sometimes used for this sense"
+      }
+    ],
+    "synonyms": [
+      "face a barrage",
+      "endure"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "hoist-with-ones-own-petard",
+    "term": "hoist with one’s own petard",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Harmed by your own plan to harm others.",
+    "example": "He tried to get his rival fired for being late, and then got caught clocking in late himself. Hoist with his own petard.",
+    "etymology": "From Shakespeare’s Hamlet (Act 3, Scene 4): ‘’tis the sport to have the engineer hoist with his own petard.’ A petard was a small bomb used to blow open gates, from French péter, ‘to break wind’. ‘Hoist’ is the old past participle of ‘hoise’, to lift: the engineer is blown up by his own bomb.",
+    "root": {
+      "form": "péter",
+      "language": "French",
+      "meaning": "to break wind"
+    },
+    "relatedWords": [
+      {
+        "term": "backfire",
+        "meaning": "have the opposite of the intended effect"
+      },
+      {
+        "term": "poetic justice",
+        "meaning": "fitting punishment for wrongdoing"
+      }
+    ],
+    "synonyms": [
+      "backfire",
+      "boomerang"
+    ],
+    "note": "It’s ‘hoist with’ (or ‘by’), not ‘hoisted on’; a petard is a bomb, not a spear.",
+    "category": "idioms"
+  },
+  {
+    "id": "rule-of-thumb",
+    "term": "rule of thumb",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A rough practical method or guideline based on experience rather than exact calculation.",
+    "example": "As a rule of thumb, I leave twenty minutes early whenever it’s raining.",
+    "etymology": "Probably from the use of the thumb as a rough measuring tool, roughly an inch wide; the phrase is recorded from the late 17th century. The widely repeated claim that it comes from a law letting men beat their wives with a stick no thicker than a thumb is a myth: a judge, Sir Francis Buller, was mocked in 1782 for allegedly saying so, but there’s no record he did, and no such law existed.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "ballpark figure",
+        "meaning": "a rough estimate"
+      },
+      {
+        "term": "heuristic",
+        "meaning": "a mental shortcut for solving problems"
+      }
+    ],
+    "synonyms": [
+      "guideline",
+      "heuristic",
+      "general principle"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "barking-up-the-wrong-tree",
+    "term": "barking up the wrong tree",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Pursuing a mistaken idea or looking for something in the wrong place.",
+    "example": "If you think I took your charger, you’re barking up the wrong tree.",
+    "etymology": "From 19th-century American hunting, when dogs would chase raccoons or other animals up trees and bark at the base; sometimes the animal had escaped and the dogs were left barking at the wrong tree. It is recorded from the 1830s.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "on the wrong track",
+        "meaning": "following a mistaken line of thought"
+      }
+    ],
+    "synonyms": [
+      "on the wrong track",
+      "mistaken"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-wild-goose-chase",
+    "term": "a wild goose chase",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A long, hopeless search for something that can’t be found or doesn’t exist.",
+    "example": "The sat-nav sent us on a wild goose chase around the industrial estate.",
+    "etymology": "Originally a 16th-century horse race in which riders had to follow the leader’s exact course at set intervals, like wild geese flying in formation. Shakespeare uses it in Romeo and Juliet (1597) in a game of wits. Over time the meaning shifted to an erratic, pointless pursuit, perhaps because actually chasing wild geese is so futile.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "fool’s errand",
+        "meaning": "a task with no hope of success"
+      }
+    ],
+    "synonyms": [
+      "fool’s errand",
+      "futile search"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "let-the-cat-out-of-the-bag",
+    "term": "let the cat out of the bag",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To reveal a secret, usually by accident.",
+    "example": "We were planning a surprise party, but my mum let the cat out of the bag.",
+    "etymology": "Recorded from 1760. A common explanation is a market scam in which a cheaper cat was sold in a sack in place of a piglet, so letting the cat out of the bag exposed the trick; this ties in with ‘a pig in a poke’ but is unproven. The claim that it refers to the cat-o’-nine-tails whip kept in a bag on ships has no evidence.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "spill the beans",
+        "meaning": "reveal a secret"
+      },
+      {
+        "term": "a pig in a poke",
+        "meaning": "something bought without inspecting it"
+      }
+    ],
+    "synonyms": [
+      "spill the beans",
+      "give the game away",
+      "blab"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-white-elephant",
+    "term": "a white elephant",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A costly possession that is more trouble than it’s worth and hard to get rid of.",
+    "example": "The new stadium has become a white elephant; it’s empty most of the year and costs millions to maintain.",
+    "etymology": "Rare white elephants were sacred in Siam (Thailand) and Burma and could not be worked, but had to be expensively kept. The story that Siamese kings gave them to courtiers they disliked, to ruin them with upkeep costs, is popular but probably apocryphal. The phrase was used in English by the 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "white elephant sale",
+        "meaning": "a sale of unwanted items"
+      },
+      {
+        "term": "money pit",
+        "meaning": "something that keeps swallowing money"
+      }
+    ],
+    "synonyms": [
+      "money pit",
+      "burden",
+      "liability"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-proof-of-the-pudding",
+    "term": "the proof of the pudding",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "The real test of something is how it works in practice.",
+    "example": "The new app looks great, but the proof of the pudding is whether customers use it.",
+    "etymology": "Short for ‘the proof of the pudding is in the eating’, recorded in the early 1600s. ‘Proof’ here means test, as in a proving ground, and a pudding was often a sausage-like dish of meat and oats that could be unsafe to eat. The saying means you only know if food is good by eating it.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "proving ground",
+        "meaning": "a place for testing"
+      },
+      {
+        "term": "the exception that proves the rule",
+        "meaning": "another idiom where ‘prove’ means ‘test’"
+      }
+    ],
+    "synonyms": [
+      "the acid test",
+      "seeing is believing"
+    ],
+    "note": "The shortened ‘the proof is in the pudding’ is common but garbles the logic.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-bakers-dozen",
+    "term": "a baker’s dozen",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Thirteen.",
+    "example": "I asked for twelve bagels and he gave me a baker’s dozen.",
+    "etymology": "Recorded from the late 16th century. The usual explanation is that medieval English bakers, facing heavy penalties under laws like the Assize of Bread and Ale (1266) for selling short weight, added a thirteenth loaf to be safe. Another view is that the extra loaf was a reseller’s profit margin. Both are plausible, but the exact origin isn’t documented.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "devil’s dozen",
+        "meaning": "an old name for thirteen, linked to superstition"
+      }
+    ],
+    "synonyms": [
+      "thirteen"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "raining-cats-and-dogs",
+    "term": "raining cats and dogs",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Raining very heavily.",
+    "example": "Bring an umbrella; it’s raining cats and dogs out there.",
+    "etymology": "The origin is unknown. Jonathan Swift used it in 1738, and an earlier form, ‘rain dogs and polecats’, appears in 1652. The popular story that cats and dogs slept on thatched roofs and slid off in heavy rain has no basis; other theories involve dead animals washed through city streets after storms, or Norse mythology, but none is proven.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "bucketing down",
+        "meaning": "raining very heavily"
+      },
+      {
+        "term": "pouring",
+        "meaning": "raining hard"
+      }
+    ],
+    "synonyms": [
+      "pouring",
+      "bucketing down",
+      "teeming"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "spill-the-beans",
+    "term": "spill the beans",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To reveal secret information, often too early.",
+    "example": "Come on, spill the beans; who did you go on the date with?",
+    "etymology": "An American expression from the early 20th century. A widely repeated story traces it to ancient Greeks voting with beans, where knocking over the jar revealed the result, but there’s no evidence of a link. ‘Spill’ had long meant ‘divulge’, and the phrase may simply play on that.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "let the cat out of the bag",
+        "meaning": "reveal a secret by accident"
+      },
+      {
+        "term": "blow the whistle",
+        "meaning": "expose wrongdoing"
+      }
+    ],
+    "synonyms": [
+      "let the cat out of the bag",
+      "blab",
+      "tell all"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "mad-as-a-hatter",
+    "term": "mad as a hatter",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Completely crazy.",
+    "example": "Our neighbour’s mad as a hatter; he mows his lawn at midnight.",
+    "etymology": "Recorded from the 1820s, decades before Lewis Carroll’s Alice’s Adventures in Wonderland (1865), which features a Hatter but never uses the phrase. It is often linked to mercury poisoning among hat-makers, who used mercury compounds in felt-making and suffered tremors and mental symptoms. That connection is plausible but not proven.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "mad as a March hare",
+        "meaning": "a similar simile, from hares’ wild spring behaviour"
+      }
+    ],
+    "synonyms": [
+      "nuts",
+      "barmy",
+      "off one’s rocker"
+    ],
+    "note": "Informal and usually playful rather than about mental illness.",
+    "category": "idioms"
+  },
+  {
+    "id": "an-axe-to-grind",
+    "term": "an axe to grind",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A private motive or grievance behind what someone does or says.",
+    "example": "Take his review with a pinch of salt; he’s got an axe to grind with the director.",
+    "etymology": "Often credited to Benjamin Franklin, but it comes from the American writer Charles Miner, whose 1810 story ‘Who’ll Turn Grindstones?’ tells of a man who flatters a boy into turning his grindstone to sharpen his axe and then leaves without thanks. The phrase came to mean a hidden selfish motive, and later a grudge.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "ulterior motive",
+        "meaning": "a hidden reason"
+      },
+      {
+        "term": "bone to pick",
+        "meaning": "a complaint to discuss with someone"
+      }
+    ],
+    "synonyms": [
+      "ulterior motive",
+      "grudge",
+      "agenda"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-loose-cannon",
+    "term": "a loose cannon",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An unpredictable person who may cause damage or embarrassment, especially to their own side.",
+    "example": "Don’t let him talk to the press; he’s a loose cannon.",
+    "etymology": "From the days of wooden warships, when a heavy cannon that broke free of its ropes in rough seas could roll across the deck, crushing sailors and smashing the hull. Victor Hugo’s novel Ninety-Three (1874) has a famous scene of one. The figurative sense became common in American politics in the 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "wild card",
+        "meaning": "an unpredictable person or factor"
+      }
+    ],
+    "synonyms": [
+      "wild card",
+      "liability",
+      "maverick"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "three-sheets-to-the-wind",
+    "term": "three sheets to the wind",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Very drunk.",
+    "example": "By the end of the wedding, Uncle Dave was three sheets to the wind.",
+    "etymology": "Nautical. On a sailing ship, ‘sheets’ are not sails but the ropes controlling them. If three were loose and flapping in the wind, the ship would lurch about like a drunk. Recorded in the early 19th century as ‘three sheets in the wind’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "sheet",
+        "meaning": "on a ship, a rope that controls a sail"
+      }
+    ],
+    "synonyms": [
+      "plastered",
+      "hammered",
+      "legless"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "the-devil-to-pay",
+    "term": "the devil to pay",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Serious trouble to come as a consequence.",
+    "example": "If we miss this deadline, there’ll be the devil to pay.",
+    "etymology": "A popular explanation says the ‘devil’ was a hard-to-reach seam on a wooden ship and ‘pay’ meant to seal it with hot pitch, from the longer ‘the devil to pay and no hot pitch’. But ‘the devil to pay’ is recorded around 1400, centuries before evidence for that seam, and originally referred to paying the devil his due in a Faust-style bargain. The nautical version was likely a later pun.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "hell to pay",
+        "meaning": "the same meaning, more common today"
+      },
+      {
+        "term": "between the devil and the deep blue sea",
+        "meaning": "facing two dangers"
+      }
+    ],
+    "synonyms": [
+      "hell to pay",
+      "trouble"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "pass-the-buck",
+    "term": "pass the buck",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To shift responsibility or blame to someone else.",
+    "example": "Every department I called just passed the buck to another department.",
+    "etymology": "From 19th-century American poker, where a marker called a buck, possibly a knife with a buckhorn handle, was passed around to show whose turn it was to deal. Passing it on meant handing off the responsibility. President Harry Truman’s desk sign ‘The buck stops here’ reversed the idea.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "the buck stops here",
+        "meaning": "I take final responsibility"
+      }
+    ],
+    "synonyms": [
+      "shift the blame",
+      "dodge responsibility"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-flash-in-the-pan",
+    "term": "a flash in the pan",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A sudden success that doesn’t last.",
+    "example": "Their first album was huge, but they turned out to be a flash in the pan.",
+    "etymology": "From flintlock muskets of the 17th century: the spark lit a little gunpowder in a ‘pan’ that was supposed to ignite the main charge. Sometimes the powder in the pan flared up without firing the gun, a flash in the pan, all show and no result.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "one-hit wonder",
+        "meaning": "a performer known for a single success"
+      },
+      {
+        "term": "hang fire",
+        "meaning": "delay; also from a gun that is slow to fire"
+      }
+    ],
+    "synonyms": [
+      "one-hit wonder",
+      "nine days’ wonder"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "lock-stock-and-barrel",
+    "term": "lock, stock and barrel",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Completely; including every part.",
+    "example": "They sold the business lock, stock and barrel and moved to Spain.",
+    "etymology": "From the three main parts of a musket: the lock (firing mechanism), the stock (wooden handle) and the barrel. Together they made up the whole gun. The figurative phrase is recorded from the early 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "hook, line and sinker",
+        "meaning": "completely, from fishing"
+      },
+      {
+        "term": "the whole kit and caboodle",
+        "meaning": "everything"
+      }
+    ],
+    "synonyms": [
+      "entirely",
+      "wholesale",
+      "hook, line and sinker"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "break-the-ice",
+    "term": "break the ice",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To ease tension or awkwardness at the start of a meeting or conversation.",
+    "example": "He broke the ice by spilling coffee on himself and laughing about it.",
+    "etymology": "Originally meant clearing a path through frozen rivers or harbours so boats could pass, and so making a first move that opens the way for others. It is used figuratively from the late 16th century, including by Shakespeare in The Taming of the Shrew.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "icebreaker",
+        "meaning": "an activity to help people relax, or a ship that clears ice"
+      }
+    ],
+    "synonyms": [
+      "get the ball rolling",
+      "ease the tension"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "a-red-letter-day",
+    "term": "a red-letter day",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A special or memorable day.",
+    "example": "The day we paid off the mortgage was a real red-letter day.",
+    "etymology": "From medieval church calendars, in which feast days and saints’ days were marked in red ink while ordinary days were in black. Red markings in manuscripts also gave us ‘rubric’, from Latin rubrica, red ochre.",
+    "root": {
+      "form": "rubrica",
+      "language": "Latin",
+      "meaning": "red ochre"
+    },
+    "relatedWords": [
+      {
+        "term": "rubric",
+        "meaning": "originally a heading written in red"
+      },
+      {
+        "term": "banner day",
+        "meaning": "an especially successful day"
+      }
+    ],
+    "synonyms": [
+      "landmark day",
+      "banner day"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "caught-red-handed",
+    "term": "caught red-handed",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Caught in the act of doing something wrong.",
+    "example": "My dog was caught red-handed with half the birthday cake.",
+    "etymology": "From old Scottish law, where being taken ‘with red hand’ meant being caught with blood still on your hands, recorded from the 15th century. The form ‘red-handed’ was popularised by Walter Scott in the early 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "in flagrante delicto",
+        "meaning": "Latin legal phrase: in the act of the crime"
+      },
+      {
+        "term": "caught with one’s hand in the cookie jar",
+        "meaning": "caught doing something sneaky"
+      }
+    ],
+    "synonyms": [
+      "caught in the act",
+      "caught out"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "pull-out-all-the-stops",
+    "term": "pull out all the stops",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To make every possible effort.",
+    "example": "They pulled out all the stops for her fortieth: live band, fireworks, the lot.",
+    "etymology": "From the pipe organ, whose stops are knobs that control which sets of pipes sound. Pulling out every stop makes the organ play at its fullest and loudest. The figurative sense appears in the 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "go all out",
+        "meaning": "make maximum effort"
+      },
+      {
+        "term": "go the extra mile",
+        "meaning": "do more than expected"
+      }
+    ],
+    "synonyms": [
+      "go all out",
+      "spare no effort"
+    ],
+    "note": "Despite how it sounds, it means ‘use everything’, not ‘stop holding back’; nothing is being stopped.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-skeleton-in-the-closet",
+    "term": "a skeleton in the closet",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A shameful secret from someone’s past.",
+    "example": "Every family has a skeleton in the closet; ours is Great-Uncle Fred’s prison stint.",
+    "etymology": "Recorded from the early 19th century, and popularised by William Makepeace Thackeray in the 1850s. The image is of a murder victim’s remains hidden in a cupboard. The British form is ‘a skeleton in the cupboard’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "dirty laundry",
+        "meaning": "private matters one would rather keep hidden"
+      }
+    ],
+    "synonyms": [
+      "dark secret",
+      "dirty laundry"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "bury-the-hatchet",
+    "term": "bury the hatchet",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To make peace and end a quarrel.",
+    "example": "My brother and I finally buried the hatchet after years of not speaking.",
+    "etymology": "From a peace custom among Indigenous peoples of northeastern North America, including the Haudenosaunee (Iroquois), in which weapons were buried to mark the end of hostilities. English colonists recorded the practice in the late 17th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "make peace",
+        "meaning": "end a conflict"
+      },
+      {
+        "term": "let bygones be bygones",
+        "meaning": "forget past grievances"
+      }
+    ],
+    "synonyms": [
+      "make peace",
+      "make up",
+      "reconcile"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "toe-the-line",
+    "term": "toe the line",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To conform to the rules or standards set by authority.",
+    "example": "If you want to stay in the party, you have to toe the line.",
+    "etymology": "Recorded from the early 19th century. It probably comes from placing your toes on a line, either at the start of a race or as sailors lined up along deck seams for inspection; the exact source isn’t certain.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "fall into line",
+        "meaning": "start conforming"
+      },
+      {
+        "term": "party line",
+        "meaning": "the official position of a group"
+      }
+    ],
+    "synonyms": [
+      "conform",
+      "fall into line",
+      "obey"
+    ],
+    "note": "It’s ‘toe’, not ‘tow’.",
+    "category": "idioms"
+  },
+  {
+    "id": "with-bated-breath",
+    "term": "with bated breath",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "In anxious or excited suspense.",
+    "example": "We waited with bated breath while the judges read out the winner.",
+    "etymology": "From Shakespeare’s The Merchant of Venice (c. 1596): ‘With bated breath and whispering humbleness.’ ‘Bated’ is a shortened form of ‘abated’, meaning reduced or held back, so it describes holding your breath.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "abate",
+        "meaning": "to lessen or reduce"
+      },
+      {
+        "term": "on tenterhooks",
+        "meaning": "in anxious suspense"
+      }
+    ],
+    "synonyms": [
+      "in suspense",
+      "breathlessly"
+    ],
+    "note": "Often misspelled ‘baited breath’; nothing to do with fishing bait.",
+    "category": "idioms"
+  },
+  {
+    "id": "hair-of-the-dog",
+    "term": "hair of the dog",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "An alcoholic drink taken to cure a hangover.",
+    "example": "Rough night? Have a Bloody Mary, a bit of hair of the dog.",
+    "etymology": "Short for ‘a hair of the dog that bit you’, found in John Heywood’s 1546 collection of proverbs. It comes from an old folk remedy for dog bites, in which you placed a hair from the same dog on the wound.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "pick-me-up",
+        "meaning": "something that restores energy"
+      }
+    ],
+    "synonyms": [
+      "pick-me-up",
+      "eye-opener"
+    ],
+    "note": "Medically, it only delays the hangover.",
+    "category": "idioms"
+  },
+  {
+    "id": "the-acid-test",
+    "term": "the acid test",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A decisive test that proves whether something is genuine or valuable.",
+    "example": "The acid test for this new manager will be how she handles her first crisis.",
+    "etymology": "From gold testing: nitric acid dissolves base metals but not gold, so a quick acid test could reveal whether an item was real. The practice was common in the 19th century, especially during gold rushes, and the phrase was used figuratively by the early 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "litmus test",
+        "meaning": "a single factor that settles an issue"
+      },
+      {
+        "term": "touchstone",
+        "meaning": "a stone once used to test gold; now a standard"
+      }
+    ],
+    "synonyms": [
+      "litmus test",
+      "touchstone",
+      "crucial test"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "baptism-of-fire",
+    "term": "baptism of fire",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A difficult first experience of something, especially a new job.",
+    "example": "My first week as a teacher was a baptism of fire: inspection day and a fire drill.",
+    "etymology": "Originally religious: in Matthew 3:11, John the Baptist says the one coming after him will baptise ‘with the Holy Ghost, and with fire’. The military sense, a soldier’s first battle, came into English in the 19th century from French baptême du feu, and later broadened to any tough start.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "trial by fire",
+        "meaning": "a severe test"
+      },
+      {
+        "term": "thrown in at the deep end",
+        "meaning": "made to start something difficult without preparation"
+      }
+    ],
+    "synonyms": [
+      "trial by fire",
+      "rude awakening"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "let-sleeping-dogs-lie",
+    "term": "let sleeping dogs lie",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Avoid stirring up an old problem or trouble that is currently quiet.",
+    "example": "I was going to ask about the money he owes me, but I decided to let sleeping dogs lie.",
+    "etymology": "An old proverb based on the obvious risk of waking a sleeping dog. Chaucer’s Troilus and Criseyde (c. 1380) has ‘It is nought good a sleeping hound to wake’, and the modern wording settled in the 19th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "don’t rock the boat",
+        "meaning": "don’t disturb a stable situation"
+      },
+      {
+        "term": "leave well enough alone",
+        "meaning": "don’t try to improve something that’s fine"
+      }
+    ],
+    "synonyms": [
+      "don’t rock the boat",
+      "leave well alone"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "crocodile-tears",
+    "term": "crocodile tears",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "A fake or insincere display of sorrow.",
+    "example": "Don’t fall for his crocodile tears; he’s only sorry he got caught.",
+    "etymology": "From a medieval belief, spread by sources like the 14th-century Travels of Sir John Mandeville, that crocodiles weep while luring or eating their prey. Crocodiles do produce tears while eating, apparently a physical reflex, but certainly not from sorrow.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "lip service",
+        "meaning": "support in words but not action"
+      }
+    ],
+    "synonyms": [
+      "fake tears",
+      "insincerity",
+      "false sympathy"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "beyond-the-pale",
+    "term": "beyond the pale",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Outside the bounds of acceptable behaviour.",
+    "example": "Shouting at the waiter like that was completely beyond the pale.",
+    "etymology": "A ‘pale’ was a stake or fence (from Latin palus, stake), and by extension a bounded area. It is often traced to the Pale, the English-controlled area around Dublin in the late Middle Ages, but the phrase isn’t recorded until the 17th century and the link to Ireland, though plausible, is unproven.",
+    "root": {
+      "form": "palus",
+      "language": "Latin",
+      "meaning": "stake"
+    },
+    "relatedWords": [
+      {
+        "term": "palisade",
+        "meaning": "a fence of stakes"
+      },
+      {
+        "term": "impale",
+        "meaning": "to pierce with a stake"
+      }
+    ],
+    "synonyms": [
+      "unacceptable",
+      "out of line",
+      "over the line"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "sent-to-coventry",
+    "term": "sent to Coventry",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Deliberately ignored and excluded by a group.",
+    "example": "After he reported the team to the boss, they sent him to Coventry for a month.",
+    "etymology": "Origin uncertain. The usual explanation points to the English Civil War, when Royalist prisoners were sent to Coventry, a Parliamentarian stronghold whose townspeople shunned them, as described in Clarendon’s history of the period. It’s plausible but not proven.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "give someone the cold shoulder",
+        "meaning": "treat someone in an unfriendly way"
+      },
+      {
+        "term": "freeze out",
+        "meaning": "exclude someone"
+      }
+    ],
+    "synonyms": [
+      "ostracise",
+      "shun",
+      "give the silent treatment"
+    ],
+    "note": "Chiefly British.",
+    "category": "idioms"
+  },
+  {
+    "id": "a-pig-in-a-poke",
+    "term": "a pig in a poke",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Something bought or accepted without first being seen or checked.",
+    "example": "Buying a car online without a test drive is buying a pig in a poke.",
+    "etymology": "From the 16th century; a ‘poke’ is a small sack, related to ‘pocket’ and ‘pouch’. The warning was not to buy a piglet in a sack without looking, since it might turn out to be something worthless. Many languages have versions, such as French acheter chat en poche, ‘buy a cat in a pocket’.",
+    "root": {
+      "form": "poke",
+      "language": "Middle English",
+      "meaning": "bag or small sack"
+    },
+    "relatedWords": [
+      {
+        "term": "let the cat out of the bag",
+        "meaning": "reveal a secret"
+      },
+      {
+        "term": "caveat emptor",
+        "meaning": "let the buyer beware"
+      }
+    ],
+    "synonyms": [
+      "blind purchase",
+      "gamble"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "nail-ones-colours-to-the-mast",
+    "term": "nail one’s colours to the mast",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To declare your position firmly and publicly, refusing to back down.",
+    "example": "She nailed her colours to the mast and said she’d resign if the plan went ahead.",
+    "etymology": "Nautical. A ship surrendered by lowering its flag, or colours; nailing them to the mast meant they couldn’t be lowered, so there would be no surrender. A celebrated case was the Battle of Camperdown in 1797, when sailor Jack Crawford climbed the mast to nail Admiral Duncan’s colours back up after they were shot down.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "strike one’s colours",
+        "meaning": "lower one’s flag; surrender"
+      },
+      {
+        "term": "show one’s true colours",
+        "meaning": "reveal one’s real nature"
+      }
+    ],
+    "synonyms": [
+      "take a stand",
+      "stand firm"
+    ],
+    "note": null,
+    "category": "idioms"
+  },
+  {
+    "id": "kick-the-bucket",
+    "term": "kick the bucket",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "To die.",
+    "example": "When I kick the bucket, I want a party, not a funeral.",
+    "etymology": "Recorded from the 18th century, but the origin is uncertain. One theory is that ‘bucket’ meant a beam from which slaughtered animals were hung by their feet, which might kick in their death throes. The popular story about someone hanging themselves by kicking away a bucket has no evidence.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "bucket list",
+        "meaning": "things to do before dying, from this idiom"
+      },
+      {
+        "term": "pushing up daisies",
+        "meaning": "dead and buried"
+      }
+    ],
+    "synonyms": [
+      "pass away",
+      "pop one’s clogs",
+      "croak"
+    ],
+    "note": "Informal and jokey; avoid it when talking about a real recent death.",
+    "category": "idioms"
+  },
+  {
+    "id": "mind-your-ps-and-qs",
+    "term": "mind your Ps and Qs",
+    "kind": "phrase",
+    "partOfSpeech": "idiom",
+    "pronunciation": null,
+    "definition": "Be careful about your manners and behaviour.",
+    "example": "My grandmother’s very proper, so mind your Ps and Qs at dinner.",
+    "etymology": "The origin is unknown. Theories include children learning to tell the letters p and q apart, printers sorting mirror-image type, and tavern keepers keeping track of pints and quarts. None is proven; the phrase is recorded from the late 18th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "watch one’s step",
+        "meaning": "be careful"
+      }
+    ],
+    "synonyms": [
+      "behave",
+      "watch one’s manners"
+    ],
+    "note": null,
+    "category": "idioms"
+  }
+]

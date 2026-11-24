@@ -1,0 +1,3498 @@
+[
+  {
+    "id": "serendipity",
+    "term": "serendipity",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "sair-un-DIP-ih-tee",
+    "definition": "The luck of finding something good or useful while not looking for it.",
+    "example": "We only found this place because we took a wrong turn. Pure serendipity.",
+    "etymology": "Coined by the writer Horace Walpole in a 1754 letter, after a Persian fairy tale, ‘The Three Princes of Serendip’, whose heroes kept making lucky discoveries by accident and sagacity. Serendip is an old name for Sri Lanka, from Arabic Sarandīb.",
+    "root": {
+      "form": "Serendip",
+      "language": "Persian/Arabic",
+      "meaning": "old name for Sri Lanka"
+    },
+    "relatedWords": [
+      {
+        "term": "serendipitous",
+        "meaning": "happening by lucky chance"
+      }
+    ],
+    "synonyms": [
+      "happy accident",
+      "fluke",
+      "chance",
+      "fortune"
+    ],
+    "note": "It implies a pleasant discovery, not just any coincidence.",
+    "category": "ideas"
+  },
+  {
+    "id": "dichotomy",
+    "term": "dichotomy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dy-KOT-uh-mee",
+    "definition": "A sharp division or contrast between two things seen as opposites.",
+    "example": "I don’t buy the dichotomy between being creative and being organized. You can be both.",
+    "etymology": "From Greek dikhotomia, ‘a cutting in two’, from dikha (in two, apart) + temnein (to cut). It was first used in English for logical division into two classes, then for any stark split.",
+    "root": {
+      "form": "temnein",
+      "language": "Greek",
+      "meaning": "to cut"
+    },
+    "relatedWords": [
+      {
+        "term": "anatomy",
+        "meaning": "originally ‘a cutting up’, dissection"
+      },
+      {
+        "term": "atom",
+        "meaning": "literally ‘uncuttable’"
+      },
+      {
+        "term": "tome",
+        "meaning": "a large book, originally a section cut from a larger work"
+      },
+      {
+        "term": "epitome",
+        "meaning": "originally an abridgment, a ‘cutting short’"
+      }
+    ],
+    "synonyms": [
+      "split",
+      "division",
+      "contrast",
+      "polarity"
+    ],
+    "note": "Often used to point out a false dichotomy: a split that isn’t really either/or.",
+    "category": "ideas"
+  },
+  {
+    "id": "catalyst",
+    "term": "catalyst",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KAT-uh-list",
+    "definition": "Something that causes or speeds up a change or event without being the main cause of it.",
+    "example": "Losing that job was the catalyst for finally starting my own business.",
+    "etymology": "From Greek katalysis, ‘dissolution’, from kata (down) + lyein (to loosen). The Swedish chemist Jöns Jacob Berzelius used ‘catalysis’ in 1835 for reactions sped up by a substance that isn’t used up; ‘catalyst’ followed, and the figurative sense came in the 20th century.",
+    "root": {
+      "form": "lyein",
+      "language": "Greek",
+      "meaning": "to loosen"
+    },
+    "relatedWords": [
+      {
+        "term": "analysis",
+        "meaning": "literally ‘a loosening up’, breaking into parts"
+      },
+      {
+        "term": "paralysis",
+        "meaning": "literally ‘a loosening at the side’, loss of movement"
+      },
+      {
+        "term": "dialysis",
+        "meaning": "separating substances through a membrane"
+      }
+    ],
+    "synonyms": [
+      "trigger",
+      "spark",
+      "stimulus",
+      "impetus"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "impasse",
+    "term": "impasse",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "IM-pass",
+    "definition": "A situation where no progress is possible, especially because people can’t agree.",
+    "example": "We’ve been at an impasse over the holiday plans for a week now.",
+    "etymology": "From French impasse, ‘dead-end street’, from im- (not) + passer (to pass). It entered English in the mid-19th century, first literally, then for any deadlock.",
+    "root": {
+      "form": "passer",
+      "language": "French",
+      "meaning": "to pass"
+    },
+    "relatedWords": [
+      {
+        "term": "passage",
+        "meaning": "a way through"
+      },
+      {
+        "term": "passport",
+        "meaning": "a document letting you pass through ports"
+      }
+    ],
+    "synonyms": [
+      "deadlock",
+      "standstill",
+      "stalemate",
+      "dead end"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "ubiquitous",
+    "term": "ubiquitous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "yoo-BIK-wih-tus",
+    "definition": "Seeming to be everywhere at once; very common.",
+    "example": "Ten years ago nobody had heard of oat milk, and now it’s ubiquitous.",
+    "etymology": "From Latin ubique, ‘everywhere’ (ubi, where + -que, a generalizing suffix). ‘Ubiquity’ was first a theological term for the idea that God, or Christ’s body, is present everywhere; the everyday adjective spread in the 19th century.",
+    "root": {
+      "form": "ubique",
+      "language": "Latin",
+      "meaning": "everywhere"
+    },
+    "relatedWords": [
+      {
+        "term": "ubiquity",
+        "meaning": "the state of being everywhere"
+      }
+    ],
+    "synonyms": [
+      "omnipresent",
+      "pervasive",
+      "universal",
+      "everywhere"
+    ],
+    "note": "Often mildly exaggerated or a little weary in tone: something so common you can’t escape it.",
+    "category": "ideas"
+  },
+  {
+    "id": "ephemeral",
+    "term": "ephemeral",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-FEM-er-ul",
+    "definition": "Lasting for a very short time.",
+    "example": "Internet fame is so ephemeral. Next week nobody will remember that video.",
+    "etymology": "From Greek ephēmeros, ‘lasting only a day’, from epi (on) + hēmera (day). It was first used of fevers that lasted a day and of insects like mayflies that live about that long, then broadened to anything short-lived.",
+    "root": {
+      "form": "hēmera",
+      "language": "Greek",
+      "meaning": "day"
+    },
+    "relatedWords": [
+      {
+        "term": "ephemera",
+        "meaning": "things meant to last briefly, like tickets and flyers"
+      },
+      {
+        "term": "ephemeris",
+        "meaning": "a table of a celestial body’s positions day by day"
+      }
+    ],
+    "synonyms": [
+      "fleeting",
+      "transient",
+      "short-lived",
+      "momentary"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "mundane",
+    "term": "mundane",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "mun-DAYN",
+    "definition": "Ordinary and dull, lacking excitement; of everyday life.",
+    "example": "Honestly, most of the job is pretty mundane: emails, spreadsheets, more emails.",
+    "etymology": "From Latin mundanus, ‘of the world’, from mundus (world). It originally meant worldly as opposed to spiritual or heavenly; the sense ‘dull, everyday’ developed much later, from the idea of the merely earthly.",
+    "root": {
+      "form": "mundus",
+      "language": "Latin",
+      "meaning": "world"
+    },
+    "relatedWords": [
+      {
+        "term": "mundanity",
+        "meaning": "the quality of being ordinary and dull"
+      },
+      {
+        "term": "demimonde",
+        "meaning": "a ‘half-world’ on the fringes of respectable society, via French monde"
+      }
+    ],
+    "synonyms": [
+      "ordinary",
+      "humdrum",
+      "routine",
+      "banal"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "quintessential",
+    "term": "quintessential",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "kwin-tuh-SEN-shul",
+    "definition": "Being the most perfect or typical example of something.",
+    "example": "Rain, a cup of tea and a queue: that’s the quintessential British afternoon.",
+    "etymology": "From Medieval Latin quinta essentia, ‘fifth essence’. Ancient and medieval thinkers held that, beyond earth, air, fire and water, a fifth element (aether) made up the heavens; alchemists tried to extract it as the purest essence of a substance, hence ‘the purest, most typical form’.",
+    "root": {
+      "form": "quinta essentia",
+      "language": "Latin",
+      "meaning": "fifth essence"
+    },
+    "relatedWords": [
+      {
+        "term": "quintessence",
+        "meaning": "the most perfect example of a quality"
+      },
+      {
+        "term": "essence",
+        "meaning": "the basic nature of a thing"
+      },
+      {
+        "term": "quintet",
+        "meaning": "a group of five"
+      }
+    ],
+    "synonyms": [
+      "typical",
+      "classic",
+      "archetypal",
+      "definitive"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "paradox",
+    "term": "paradox",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "PAIR-uh-doks",
+    "definition": "A situation or statement that seems contradictory or absurd but may still be true.",
+    "example": "It’s a paradox: the more choices the menu has, the harder it is to enjoy what I order.",
+    "etymology": "From Greek paradoxos, ‘contrary to expectation’, from para (beside, beyond, contrary to) + doxa (opinion, belief). In early English it meant a statement contrary to accepted opinion, whether true or not.",
+    "root": {
+      "form": "doxa",
+      "language": "Greek",
+      "meaning": "opinion, belief"
+    },
+    "relatedWords": [
+      {
+        "term": "orthodox",
+        "meaning": "holding the ‘right opinion’"
+      },
+      {
+        "term": "heterodox",
+        "meaning": "holding ‘other’ opinions"
+      },
+      {
+        "term": "doxology",
+        "meaning": "a hymn of praise"
+      }
+    ],
+    "synonyms": [
+      "contradiction",
+      "anomaly",
+      "puzzle",
+      "incongruity"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "irony",
+    "term": "irony",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "EYE-ruh-nee",
+    "definition": "A state of affairs that is the opposite of what you’d expect, often in an amusing or painful way.",
+    "example": "The irony is that the fire station burned down because its smoke alarm was broken.",
+    "etymology": "From Greek eirōneia, ‘dissimulation, feigned ignorance’, from eirōn, ‘a dissembler’, someone who says less than he thinks. Socrates’ habit of pretending ignorance was the classic example; the sense of events mocking expectations (‘situational irony’) developed later.",
+    "root": {
+      "form": "eirōn",
+      "language": "Greek",
+      "meaning": "a dissembler"
+    },
+    "relatedWords": [
+      {
+        "term": "ironic",
+        "meaning": "involving irony"
+      },
+      {
+        "term": "ironist",
+        "meaning": "someone who habitually uses irony"
+      }
+    ],
+    "synonyms": [
+      "incongruity",
+      "twist",
+      "paradox"
+    ],
+    "note": "Mere bad luck or coincidence isn’t irony; there has to be a reversal of what was expected or intended.",
+    "category": "ideas"
+  },
+  {
+    "id": "zeitgeist",
+    "term": "zeitgeist",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "TSYTE-gyste",
+    "definition": "The general mood, ideas and beliefs that define a particular period of time.",
+    "example": "That show really captured the zeitgeist; everyone was talking about it.",
+    "etymology": "German, from Zeit (time) + Geist (spirit), ‘spirit of the age’. It was used by German thinkers such as Herder and Hegel and borrowed into English in the mid-19th century.",
+    "root": {
+      "form": "Geist",
+      "language": "German",
+      "meaning": "spirit, ghost"
+    },
+    "relatedWords": [
+      {
+        "term": "poltergeist",
+        "meaning": "a ‘noisy ghost’"
+      },
+      {
+        "term": "ghost",
+        "meaning": "the English cognate of German Geist"
+      }
+    ],
+    "synonyms": [
+      "spirit of the age",
+      "mood",
+      "climate",
+      "ethos"
+    ],
+    "note": "Often capitalized, as in German, but lowercase is now common in English.",
+    "category": "ideas"
+  },
+  {
+    "id": "cacophony",
+    "term": "cacophony",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kuh-KOF-uh-nee",
+    "definition": "A harsh, jarring mix of loud sounds.",
+    "example": "Walking into the daycare at pickup time is a total cacophony.",
+    "etymology": "From Greek kakophōnia, from kakos (bad) + phōnē (sound, voice). Its opposite is euphony, ‘good sound’.",
+    "root": {
+      "form": "phōnē",
+      "language": "Greek",
+      "meaning": "sound, voice"
+    },
+    "relatedWords": [
+      {
+        "term": "euphony",
+        "meaning": "a pleasing sound"
+      },
+      {
+        "term": "symphony",
+        "meaning": "literally ‘sounding together’"
+      },
+      {
+        "term": "telephone",
+        "meaning": "literally ‘far sound’"
+      },
+      {
+        "term": "phonetics",
+        "meaning": "the study of speech sounds"
+      }
+    ],
+    "synonyms": [
+      "din",
+      "racket",
+      "clamor",
+      "dissonance"
+    ],
+    "note": "Can be used figuratively, as in ‘a cacophony of opinions’.",
+    "category": "ideas"
+  },
+  {
+    "id": "liminal",
+    "term": "liminal",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "LIM-ih-nul",
+    "definition": "Relating to an in-between stage, at or on both sides of a boundary or transition.",
+    "example": "Those weeks between graduating and starting work felt weirdly liminal.",
+    "etymology": "From Latin limen, limin- (threshold). Anthropologists Arnold van Gennep and later Victor Turner used it for the in-between phase of rites of passage, when someone has left one status but not yet entered the next.",
+    "root": {
+      "form": "limen",
+      "language": "Latin",
+      "meaning": "threshold"
+    },
+    "relatedWords": [
+      {
+        "term": "subliminal",
+        "meaning": "below the threshold of conscious awareness"
+      },
+      {
+        "term": "eliminate",
+        "meaning": "originally ‘to turn out of doors’, past the threshold"
+      },
+      {
+        "term": "preliminary",
+        "meaning": "coming before the threshold, introductory"
+      }
+    ],
+    "synonyms": [
+      "transitional",
+      "in-between",
+      "intermediate"
+    ],
+    "note": "Popular online for ‘liminal spaces’: empty transitional places like hallways or airports at night.",
+    "category": "ideas"
+  },
+  {
+    "id": "panacea",
+    "term": "panacea",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "pan-uh-SEE-uh",
+    "definition": "A supposed solution or remedy for all problems or diseases.",
+    "example": "A new app isn’t a panacea. We still have to actually talk to each other.",
+    "etymology": "From Greek panakeia, ‘cure-all’, from pan (all) + akos (cure). Panakeia was also a Greek goddess of universal healing, a daughter of Asclepius.",
+    "root": {
+      "form": "pan",
+      "language": "Greek",
+      "meaning": "all"
+    },
+    "relatedWords": [
+      {
+        "term": "pandemic",
+        "meaning": "affecting ‘all the people’"
+      },
+      {
+        "term": "panorama",
+        "meaning": "a view of everything"
+      },
+      {
+        "term": "pantheon",
+        "meaning": "all the gods"
+      }
+    ],
+    "synonyms": [
+      "cure-all",
+      "silver bullet",
+      "magic bullet"
+    ],
+    "note": "Usually used skeptically, to say something is NOT a panacea.",
+    "category": "ideas"
+  },
+  {
+    "id": "epiphany",
+    "term": "epiphany",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ih-PIF-uh-nee",
+    "definition": "A sudden, striking realization or insight.",
+    "example": "I had an epiphany in the shower: I don’t actually want this promotion.",
+    "etymology": "From Greek epiphaneia, ‘manifestation, appearance’, from epi (upon) + phainein (to show). In English it first named the Christian feast of 6 January celebrating Christ’s manifestation to the Magi; James Joyce helped popularize the sense of a sudden revelation of meaning.",
+    "root": {
+      "form": "phainein",
+      "language": "Greek",
+      "meaning": "to show, bring to light"
+    },
+    "relatedWords": [
+      {
+        "term": "phenomenon",
+        "meaning": "something that appears or is observed"
+      },
+      {
+        "term": "diaphanous",
+        "meaning": "so thin that light shows through"
+      },
+      {
+        "term": "emphasis",
+        "meaning": "originally ‘an appearing, a showing’"
+      },
+      {
+        "term": "fantasy",
+        "meaning": "originally ‘making visible’, imagination"
+      }
+    ],
+    "synonyms": [
+      "revelation",
+      "realization",
+      "insight",
+      "aha moment"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "juggernaut",
+    "term": "juggernaut",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "JUG-er-nawt",
+    "definition": "A huge, powerful force or organization that seems impossible to stop.",
+    "example": "Their marketing team is a juggernaut; we can’t compete on ads alone.",
+    "etymology": "From Hindi Jagannāth, Sanskrit Jagannātha, ‘lord of the world’ (jagat, world + nātha, lord), a form of Krishna worshipped at Puri in Odisha. His image is pulled through the streets on an enormous chariot each year, and European travelers from the 14th century on told (largely exaggerated) stories of devotees throwing themselves under its wheels, giving the sense of an unstoppable crushing force.",
+    "root": {
+      "form": "Jagannātha",
+      "language": "Sanskrit",
+      "meaning": "lord of the world"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "powerhouse",
+      "behemoth",
+      "colossus",
+      "steamroller"
+    ],
+    "note": "In British English it also means a very large truck.",
+    "category": "ideas"
+  },
+  {
+    "id": "quagmire",
+    "term": "quagmire",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KWAG-myre",
+    "definition": "A messy, complicated situation that is hard to get out of; literally, a bog.",
+    "example": "Renovating the kitchen turned into a quagmire of permits and delays.",
+    "etymology": "From quag, an old word for a marshy spot (origin uncertain, possibly related to ‘quake’, since boggy ground shakes) + mire (from Old Norse mýrr, swamp). The figurative sense of an entangling situation dates to the 18th century.",
+    "root": {
+      "form": "mýrr",
+      "language": "Old Norse",
+      "meaning": "swamp, bog"
+    },
+    "relatedWords": [
+      {
+        "term": "mire",
+        "meaning": "deep mud; to entangle in difficulties"
+      },
+      {
+        "term": "quag",
+        "meaning": "a marsh or bog"
+      }
+    ],
+    "synonyms": [
+      "morass",
+      "mess",
+      "predicament",
+      "bog"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "conundrum",
+    "term": "conundrum",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kuh-NUN-drum",
+    "definition": "A confusing and difficult problem or question.",
+    "example": "Here’s my conundrum: the cheaper flat is nicer, but it’s an hour from work.",
+    "etymology": "Origin unknown. It appears in the late 16th century, possibly as a piece of mock-Latin Oxford university slang, first meaning a pedant or a whim, then a riddle with a pun in the answer, and finally any puzzling problem.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "puzzle",
+      "dilemma",
+      "riddle",
+      "quandary"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "halcyon",
+    "term": "halcyon",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "HAL-see-un",
+    "definition": "Calm, happy and peaceful, usually describing a time remembered fondly.",
+    "example": "Ah, the halcyon days of college, when my biggest worry was what to eat.",
+    "etymology": "From Greek alkyōn, a kingfisher. In legend, Alcyone was turned into a kingfisher, and the winds were calmed for about two weeks around the winter solstice so the bird could nest on the sea; these were the ‘halcyon days’. The ‘h’ comes from a mistaken link with Greek hals (sea).",
+    "root": {
+      "form": "alkyōn",
+      "language": "Greek",
+      "meaning": "kingfisher"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "idyllic",
+      "golden",
+      "carefree",
+      "serene"
+    ],
+    "note": "Almost always in the phrase ‘halcyon days’, looking back nostalgically.",
+    "category": "ideas"
+  },
+  {
+    "id": "idyllic",
+    "term": "idyllic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "eye-DIL-ik",
+    "definition": "Extremely happy, peaceful or picturesque, like an ideal scene.",
+    "example": "The cottage looked idyllic online. In reality, the wifi didn’t work at all.",
+    "etymology": "From idyll, via Latin from Greek eidyllion, ‘a short descriptive poem’, a diminutive of eidos (form, picture). The Greek poet Theocritus’s idylls painted peaceful country life, which gave the word its sense of a perfect pastoral scene.",
+    "root": {
+      "form": "eidos",
+      "language": "Greek",
+      "meaning": "form, shape, picture"
+    },
+    "relatedWords": [
+      {
+        "term": "idyll",
+        "meaning": "a happy, peaceful scene or time"
+      },
+      {
+        "term": "kaleidoscope",
+        "meaning": "literally ‘beautiful-form viewer’"
+      },
+      {
+        "term": "eidetic",
+        "meaning": "of vivid, picture-like memory"
+      }
+    ],
+    "synonyms": [
+      "picturesque",
+      "blissful",
+      "peaceful",
+      "perfect"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "palpable",
+    "term": "palpable",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "PAL-puh-bul",
+    "definition": "So intense or obvious it can almost be physically felt.",
+    "example": "When she walked in, the tension in the room was palpable.",
+    "etymology": "From Late Latin palpabilis, ‘that can be touched’, from palpare (to touch gently, stroke). Doctors still palpate a patient’s body; the figurative sense of ‘plainly perceptible’ arrived in the 16th century.",
+    "root": {
+      "form": "palpare",
+      "language": "Latin",
+      "meaning": "to touch gently"
+    },
+    "relatedWords": [
+      {
+        "term": "palpate",
+        "meaning": "to examine by touch"
+      },
+      {
+        "term": "palpitation",
+        "meaning": "a noticeable pounding of the heart"
+      },
+      {
+        "term": "impalpable",
+        "meaning": "unable to be felt or grasped"
+      }
+    ],
+    "synonyms": [
+      "tangible",
+      "perceptible",
+      "obvious",
+      "unmistakable"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "poignant",
+    "term": "poignant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "POYN-yunt",
+    "definition": "Evoking a keen sense of sadness or regret; touching in a sharp way.",
+    "example": "Finding my grandad’s handwriting in that old book was really poignant.",
+    "etymology": "From Old French poignant, ‘pricking’, from poindre (to prick), from Latin pungere (to prick, pierce). It first described sharp weapons and pungent tastes, then feelings that pierce.",
+    "root": {
+      "form": "pungere",
+      "language": "Latin",
+      "meaning": "to prick, pierce"
+    },
+    "relatedWords": [
+      {
+        "term": "pungent",
+        "meaning": "having a sharp smell or taste"
+      },
+      {
+        "term": "puncture",
+        "meaning": "a small hole made by something sharp"
+      },
+      {
+        "term": "expunge",
+        "meaning": "to erase, originally by pricking dots"
+      },
+      {
+        "term": "compunction",
+        "meaning": "a pricking of conscience"
+      }
+    ],
+    "synonyms": [
+      "touching",
+      "moving",
+      "bittersweet",
+      "affecting"
+    ],
+    "note": "The ‘g’ is silent: POYN-yunt.",
+    "category": "ideas"
+  },
+  {
+    "id": "visceral",
+    "term": "visceral",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "VIS-er-ul",
+    "definition": "Felt deep in the body or gut rather than reasoned out; raw and instinctive.",
+    "example": "I had a visceral reaction to that video; I actually felt sick watching it.",
+    "etymology": "From Latin viscera, ‘internal organs’. The idea is that strong instinctive feelings seem to come from the gut rather than the mind.",
+    "root": {
+      "form": "viscera",
+      "language": "Latin",
+      "meaning": "internal organs"
+    },
+    "relatedWords": [
+      {
+        "term": "viscera",
+        "meaning": "the internal organs of the body"
+      },
+      {
+        "term": "eviscerate",
+        "meaning": "to disembowel; to gut figuratively"
+      }
+    ],
+    "synonyms": [
+      "instinctive",
+      "gut",
+      "raw",
+      "deep-seated"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "surreal",
+    "term": "surreal",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "suh-REEL",
+    "definition": "So strange or unexpected that it feels like a dream.",
+    "example": "Seeing my old teacher on a reality show was completely surreal.",
+    "etymology": "A back-formation from surrealism, from French surréalisme, ‘beyond realism’ (sur, above + réalisme). The poet Guillaume Apollinaire coined it in 1917, and André Breton’s art movement adopted it in 1924, aiming to express the dreaming mind.",
+    "root": {
+      "form": "réalisme",
+      "language": "French",
+      "meaning": "realism"
+    },
+    "relatedWords": [
+      {
+        "term": "surrealism",
+        "meaning": "the art movement exploring dream imagery"
+      },
+      {
+        "term": "reality",
+        "meaning": "the state of things as they actually are"
+      }
+    ],
+    "synonyms": [
+      "dreamlike",
+      "bizarre",
+      "unreal",
+      "bewildering"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "kitsch",
+    "term": "kitsch",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KICH",
+    "definition": "Art or objects in cheap, showy or sentimental taste, sometimes enjoyed ironically.",
+    "example": "Her flat is full of flamingo lamps and snow globes. Proper kitsch, but I love it.",
+    "etymology": "From German Kitsch, which arose in the Munich art market in the 1860s-70s for cheap, popular pictures. Its origin is uncertain; one suggestion is a dialect verb kitschen, ‘to smear, scrape together’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "kitschy",
+        "meaning": "in a kitsch style"
+      }
+    ],
+    "synonyms": [
+      "tackiness",
+      "schlock",
+      "camp"
+    ],
+    "note": "Can be affectionate rather than purely critical.",
+    "category": "ideas"
+  },
+  {
+    "id": "labyrinthine",
+    "term": "labyrinthine",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "lab-uh-RIN-thin",
+    "definition": "Complicated and confusing, like a maze.",
+    "example": "The tax rules are so labyrinthine I just pay someone to deal with them.",
+    "etymology": "From labyrinth, Greek labyrinthos, the maze that Daedalus built for King Minos of Crete to hold the Minotaur. The word is probably pre-Greek; a link to labrys, ‘double axe’, has been suggested but is disputed.",
+    "root": {
+      "form": "labyrinthos",
+      "language": "Greek",
+      "meaning": "maze"
+    },
+    "relatedWords": [
+      {
+        "term": "labyrinth",
+        "meaning": "a maze; also part of the inner ear"
+      }
+    ],
+    "synonyms": [
+      "convoluted",
+      "tangled",
+      "intricate",
+      "byzantine"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "insidious",
+    "term": "insidious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-SID-ee-us",
+    "definition": "Spreading or developing gradually and quietly, with harmful effects.",
+    "example": "Burnout is insidious; you don’t notice it until you can’t get out of bed.",
+    "etymology": "From Latin insidiosus, ‘cunning, deceitful’, from insidiae, ‘an ambush’, from insidere (to sit in or on: in + sedere, to sit). The image is of an enemy lying in wait.",
+    "root": {
+      "form": "sedere",
+      "language": "Latin",
+      "meaning": "to sit"
+    },
+    "relatedWords": [
+      {
+        "term": "sedentary",
+        "meaning": "involving a lot of sitting"
+      },
+      {
+        "term": "preside",
+        "meaning": "to sit in front, be in charge"
+      },
+      {
+        "term": "sediment",
+        "meaning": "matter that settles to the bottom"
+      },
+      {
+        "term": "subside",
+        "meaning": "to settle down, become less intense"
+      }
+    ],
+    "synonyms": [
+      "stealthy",
+      "creeping",
+      "subtle",
+      "sneaky"
+    ],
+    "note": "Unlike ‘harmful’, it stresses that the damage is gradual and hard to notice.",
+    "category": "ideas"
+  },
+  {
+    "id": "inexorable",
+    "term": "inexorable",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-EK-ser-uh-bul",
+    "definition": "Impossible to stop or prevent; relentless.",
+    "example": "There’s something sad about the inexorable march of the kids’ birthdays.",
+    "etymology": "From Latin inexorabilis, ‘not to be moved by pleading’, from in- (not) + exorare (to prevail upon by entreaty: ex, out + orare, to pray, speak). It first described people who couldn’t be talked round, then forces and processes.",
+    "root": {
+      "form": "orare",
+      "language": "Latin",
+      "meaning": "to pray, plead, speak"
+    },
+    "relatedWords": [
+      {
+        "term": "oration",
+        "meaning": "a formal speech"
+      },
+      {
+        "term": "oracle",
+        "meaning": "a source of divine messages"
+      },
+      {
+        "term": "adore",
+        "meaning": "originally ‘to pray to’"
+      }
+    ],
+    "synonyms": [
+      "relentless",
+      "unstoppable",
+      "inevitable",
+      "unrelenting"
+    ],
+    "note": "Stress is on the second syllable: in-EK-ser-uh-bul.",
+    "category": "ideas"
+  },
+  {
+    "id": "precarious",
+    "term": "precarious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "prih-KAIR-ee-us",
+    "definition": "Not securely held or in position; dangerously likely to fall or fail.",
+    "example": "With three freelance gigs and no savings, my finances are pretty precarious.",
+    "etymology": "From Latin precarius, ‘obtained by asking, held by favor’, from prex, prec- (prayer, request). In law, something held ‘precariously’ was held only at the pleasure of another person, who could take it back anytime, hence ‘insecure’.",
+    "root": {
+      "form": "prex",
+      "language": "Latin",
+      "meaning": "prayer, request"
+    },
+    "relatedWords": [
+      {
+        "term": "pray",
+        "meaning": "to make a request to a god"
+      },
+      {
+        "term": "imprecation",
+        "meaning": "a spoken curse"
+      },
+      {
+        "term": "deprecate",
+        "meaning": "originally ‘to pray against’, to disapprove of"
+      }
+    ],
+    "synonyms": [
+      "unstable",
+      "shaky",
+      "insecure",
+      "perilous"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "auspicious",
+    "term": "auspicious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "aw-SPISH-us",
+    "definition": "Showing signs that success is likely; favorable.",
+    "example": "Sunshine on the first day of the trip. That’s an auspicious start.",
+    "etymology": "From Latin auspicium, divination by watching birds, from auspex, ‘bird-watcher’ (avis, bird + specere, to look). Roman priests read omens from the flight of birds before major undertakings; a good sign was auspicious.",
+    "root": {
+      "form": "avis",
+      "language": "Latin",
+      "meaning": "bird"
+    },
+    "relatedWords": [
+      {
+        "term": "auspices",
+        "meaning": "patronage, as in ‘under the auspices of’"
+      },
+      {
+        "term": "aviation",
+        "meaning": "the flying of aircraft"
+      },
+      {
+        "term": "aviary",
+        "meaning": "a large enclosure for birds"
+      },
+      {
+        "term": "inspect",
+        "meaning": "to look into closely (from specere)"
+      }
+    ],
+    "synonyms": [
+      "promising",
+      "favorable",
+      "propitious",
+      "encouraging"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "ominous",
+    "term": "ominous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "OM-ih-nus",
+    "definition": "Giving the impression that something bad is about to happen.",
+    "example": "My boss just sent a calendar invite titled ‘quick chat’. Very ominous.",
+    "etymology": "From Latin ominosus, from omen, a sign of the future, good or bad (the origin of omen itself is uncertain). English ‘ominous’ could once mean any portent, but it came to mean a bad one.",
+    "root": {
+      "form": "omen",
+      "language": "Latin",
+      "meaning": "sign, portent"
+    },
+    "relatedWords": [
+      {
+        "term": "omen",
+        "meaning": "a sign of what will happen"
+      },
+      {
+        "term": "abominable",
+        "meaning": "from abominari, ‘to shun as an ill omen’"
+      }
+    ],
+    "synonyms": [
+      "threatening",
+      "foreboding",
+      "menacing",
+      "sinister"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "vestige",
+    "term": "vestige",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "VES-tij",
+    "definition": "A small trace or remnant of something that once existed.",
+    "example": "That little stone wall is the last vestige of the old farm that used to be here.",
+    "etymology": "From French vestige, from Latin vestigium, ‘footprint, trace’. A vestige is literally the footprint something leaves behind after it is gone.",
+    "root": {
+      "form": "vestigium",
+      "language": "Latin",
+      "meaning": "footprint, trace"
+    },
+    "relatedWords": [
+      {
+        "term": "vestigial",
+        "meaning": "remaining but no longer useful, like a vestigial organ"
+      },
+      {
+        "term": "investigate",
+        "meaning": "literally ‘to track by footprints’"
+      }
+    ],
+    "synonyms": [
+      "trace",
+      "remnant",
+      "relic",
+      "remains"
+    ],
+    "note": "Often in ‘the last vestige(s) of...’ or ‘not a vestige of...’.",
+    "category": "ideas"
+  },
+  {
+    "id": "culmination",
+    "term": "culmination",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kul-mih-NAY-shun",
+    "definition": "The highest or final point of something, reached after a long build-up.",
+    "example": "This wedding is the culmination of a year of planning and about a thousand spreadsheets.",
+    "etymology": "From Medieval Latin culminare, ‘to reach the top’, from Latin culmen (summit, peak). It began as an astronomy term for a star or planet reaching its highest point in the sky, and was later applied to anything reaching its climax.",
+    "root": {
+      "form": "culmen",
+      "language": "Latin",
+      "meaning": "top, summit"
+    },
+    "relatedWords": [
+      {
+        "term": "culminate",
+        "meaning": "to reach a climax or final point"
+      }
+    ],
+    "synonyms": [
+      "climax",
+      "peak",
+      "pinnacle",
+      "high point"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "hiatus",
+    "term": "hiatus",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "hy-AY-tus",
+    "definition": "A pause or break in something that was happening steadily.",
+    "example": "The band’s back after a ten-year hiatus, and they sound better than ever.",
+    "etymology": "From Latin hiatus, ‘an opening, gap’, from hiare (to gape, yawn). It was first used for a physical gap or a gap in a manuscript, then in grammar for two vowels next to each other, and later for a break in time.",
+    "root": {
+      "form": "hiare",
+      "language": "Latin",
+      "meaning": "to gape, yawn"
+    },
+    "relatedWords": [
+      {
+        "term": "hiatal",
+        "meaning": "relating to a gap, as in a hiatal hernia"
+      }
+    ],
+    "synonyms": [
+      "break",
+      "pause",
+      "interruption",
+      "gap"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "respite",
+    "term": "respite",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "RES-pit",
+    "definition": "A short period of rest or relief from something difficult or unpleasant.",
+    "example": "The cool breeze was a welcome respite from the heat.",
+    "etymology": "From Old French respit, from Latin respectus, ‘regard, consideration’, from respicere (to look back). It first meant a delay granted out of consideration, such as a postponed punishment, then any relief. It is a doublet of ‘respect’.",
+    "root": {
+      "form": "specere",
+      "language": "Latin",
+      "meaning": "to look"
+    },
+    "relatedWords": [
+      {
+        "term": "respect",
+        "meaning": "the same Latin word, via a different route"
+      },
+      {
+        "term": "retrospect",
+        "meaning": "a looking back"
+      },
+      {
+        "term": "spectator",
+        "meaning": "one who watches"
+      }
+    ],
+    "synonyms": [
+      "break",
+      "relief",
+      "reprieve",
+      "breather"
+    ],
+    "note": "Usually pronounced RES-pit, not re-SPITE.",
+    "category": "ideas"
+  },
+  {
+    "id": "nadir",
+    "term": "nadir",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "NAY-deer",
+    "definition": "The lowest or worst point of a situation.",
+    "example": "Sleeping on a friend’s floor after the breakup was definitely the nadir of my twenties.",
+    "etymology": "From Arabic naẓīr (as-samt), ‘opposite (to the zenith)’, via Medieval Latin. In astronomy it is the point in the sky directly below an observer, the opposite of the zenith; the figurative ‘lowest point’ sense followed.",
+    "root": {
+      "form": "naẓīr",
+      "language": "Arabic",
+      "meaning": "opposite, counterpart"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "low point",
+      "rock bottom",
+      "depths"
+    ],
+    "note": "The opposite of zenith.",
+    "category": "ideas"
+  },
+  {
+    "id": "zenith",
+    "term": "zenith",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ZEE-nith",
+    "definition": "The time when something is most powerful or successful; its highest point.",
+    "example": "At its zenith the company had shops on every high street in the country.",
+    "etymology": "From Arabic samt ar-ra’s, ‘the path over the head’. Medieval scribes misread samt as ‘cenit’ (the m taken as ‘ni’), which became zenith: the point in the sky directly overhead.",
+    "root": {
+      "form": "samt",
+      "language": "Arabic",
+      "meaning": "path, way"
+    },
+    "relatedWords": [
+      {
+        "term": "azimuth",
+        "meaning": "a compass direction, from Arabic as-sumūt, ‘the ways’"
+      }
+    ],
+    "synonyms": [
+      "peak",
+      "pinnacle",
+      "height",
+      "heyday"
+    ],
+    "note": "The opposite of nadir.",
+    "category": "ideas"
+  },
+  {
+    "id": "apex",
+    "term": "apex",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "AY-peks",
+    "definition": "The top or highest point of something, physically or figuratively.",
+    "example": "Lions are apex predators. Nothing hunts them, except maybe tourists with cameras.",
+    "etymology": "From Latin apex, ‘tip, summit’, also the pointed spike on a Roman priest’s cap. Its deeper origin is uncertain.",
+    "root": {
+      "form": "apex",
+      "language": "Latin",
+      "meaning": "tip, summit"
+    },
+    "relatedWords": [
+      {
+        "term": "apical",
+        "meaning": "relating to the tip or top of something"
+      }
+    ],
+    "synonyms": [
+      "peak",
+      "summit",
+      "top",
+      "pinnacle"
+    ],
+    "note": "Plural is ‘apexes’ or the more formal ‘apices’.",
+    "category": "ideas"
+  },
+  {
+    "id": "harbinger",
+    "term": "harbinger",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "HAR-bin-jer",
+    "definition": "Something that signals that another thing is coming.",
+    "example": "The first pumpkin spice latte: harbinger of autumn.",
+    "etymology": "From Middle English herbergere, ‘one who provides lodging’, from Old French herberge (lodging), from a Germanic compound meaning ‘army shelter’. Harbingers rode ahead of an army or royal party to arrange lodgings, so the word came to mean a forerunner.",
+    "root": {
+      "form": "heriberga",
+      "language": "Frankish",
+      "meaning": "army shelter, lodging"
+    },
+    "relatedWords": [
+      {
+        "term": "harbor",
+        "meaning": "a shelter for ships, from the same Germanic compound"
+      },
+      {
+        "term": "auberge",
+        "meaning": "a French inn"
+      }
+    ],
+    "synonyms": [
+      "herald",
+      "forerunner",
+      "omen",
+      "sign"
+    ],
+    "note": "Often ‘a harbinger of doom’, but it can be neutral or positive.",
+    "category": "ideas"
+  },
+  {
+    "id": "myriad",
+    "term": "myriad",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MEER-ee-ud",
+    "definition": "Countless or extremely great in number.",
+    "example": "There are myriad ways to cook an egg, and I only know two.",
+    "etymology": "From Greek myrias, myriad-, ‘ten thousand’, from myrios (countless). In English it first meant ten thousand exactly, then an indefinitely huge number.",
+    "root": {
+      "form": "myrios",
+      "language": "Greek",
+      "meaning": "countless"
+    },
+    "relatedWords": [
+      {
+        "term": "myriapod",
+        "meaning": "a many-legged creature such as a centipede"
+      }
+    ],
+    "synonyms": [
+      "countless",
+      "innumerable",
+      "numerous",
+      "untold"
+    ],
+    "note": "Both ‘myriad reasons’ and ‘a myriad of reasons’ are correct.",
+    "category": "ideas"
+  },
+  {
+    "id": "plethora",
+    "term": "plethora",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "PLETH-er-uh",
+    "definition": "A large or excessive amount of something.",
+    "example": "There’s a plethora of streaming services and still nothing to watch.",
+    "etymology": "From Greek plēthōrē, ‘fullness’, from plēthein (to be full). It was originally a medical term for an excess of blood or bodily fluids, which is why it often still implies ‘too much’.",
+    "root": {
+      "form": "plēthein",
+      "language": "Greek",
+      "meaning": "to be full"
+    },
+    "relatedWords": [
+      {
+        "term": "plethoric",
+        "meaning": "excessive; in medicine, having too much blood"
+      }
+    ],
+    "synonyms": [
+      "glut",
+      "excess",
+      "abundance",
+      "surplus"
+    ],
+    "note": "Strictly it suggests overabundance, but it’s widely used to mean simply ‘a lot’.",
+    "category": "ideas"
+  },
+  {
+    "id": "dearth",
+    "term": "dearth",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "DURTH",
+    "definition": "A scarcity or lack of something.",
+    "example": "There’s a real dearth of decent coffee shops around here.",
+    "etymology": "From Middle English derthe, built from ‘dear’ (costly) + the noun suffix -th. When food is scarce it becomes dear, so the word first meant famine or high prices, then any shortage.",
+    "root": {
+      "form": "dēore",
+      "language": "Old English",
+      "meaning": "precious, costly"
+    },
+    "relatedWords": [
+      {
+        "term": "dear",
+        "meaning": "loved; also expensive"
+      },
+      {
+        "term": "endear",
+        "meaning": "to make loved or liked"
+      }
+    ],
+    "synonyms": [
+      "scarcity",
+      "lack",
+      "shortage",
+      "paucity"
+    ],
+    "note": "The opposite of plethora.",
+    "category": "ideas"
+  },
+  {
+    "id": "modicum",
+    "term": "modicum",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "MOD-ih-kum",
+    "definition": "A small amount of something, especially something good or desirable.",
+    "example": "If you had a modicum of common sense, you wouldn’t text your ex at 2am.",
+    "etymology": "From Latin modicum, neuter of modicus (moderate), from modus (measure, manner). A modicum is literally ‘a moderate measure’.",
+    "root": {
+      "form": "modus",
+      "language": "Latin",
+      "meaning": "measure, manner"
+    },
+    "relatedWords": [
+      {
+        "term": "moderate",
+        "meaning": "within reasonable limits"
+      },
+      {
+        "term": "modest",
+        "meaning": "keeping within measure"
+      },
+      {
+        "term": "modify",
+        "meaning": "to change the measure or form of"
+      }
+    ],
+    "synonyms": [
+      "bit",
+      "shred",
+      "iota",
+      "trace"
+    ],
+    "note": "Usually ‘a modicum of’ plus a quality: respect, privacy, sense.",
+    "category": "ideas"
+  },
+  {
+    "id": "facade",
+    "term": "facade",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "fuh-SAHD",
+    "definition": "An outward appearance that hides a less pleasant reality; also the front of a building.",
+    "example": "The whole ‘we’re one big family’ thing is a facade. They fired half the team by email.",
+    "etymology": "From French façade, from Italian facciata, from faccia (face), from Latin facies (form, face). It meant the front face of a building before taking on the figurative sense of a false front.",
+    "root": {
+      "form": "facies",
+      "language": "Latin",
+      "meaning": "face, form"
+    },
+    "relatedWords": [
+      {
+        "term": "face",
+        "meaning": "the front of the head"
+      },
+      {
+        "term": "facet",
+        "meaning": "one side of something many-sided"
+      },
+      {
+        "term": "surface",
+        "meaning": "the outermost layer"
+      }
+    ],
+    "synonyms": [
+      "front",
+      "pretense",
+      "mask",
+      "veneer"
+    ],
+    "note": "Also spelled façade.",
+    "category": "ideas"
+  },
+  {
+    "id": "veneer",
+    "term": "veneer",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "vuh-NEER",
+    "definition": "A thin attractive surface layer that hides what’s underneath, literally or figuratively.",
+    "example": "Underneath the veneer of politeness, those two can’t stand each other.",
+    "etymology": "From German Furnier, from furnieren (to inlay, furnish), from French fournir (to furnish). It came into English in the 18th century as ‘fineering’, for a thin layer of fine wood glued over cheaper wood.",
+    "root": {
+      "form": "fournir",
+      "language": "French",
+      "meaning": "to furnish, supply"
+    },
+    "relatedWords": [
+      {
+        "term": "furnish",
+        "meaning": "to supply or equip"
+      },
+      {
+        "term": "furniture",
+        "meaning": "the things a room is furnished with"
+      }
+    ],
+    "synonyms": [
+      "facade",
+      "gloss",
+      "front",
+      "coating"
+    ],
+    "note": "Veneer suggests a thin layer over something real; facade suggests a false front.",
+    "category": "ideas"
+  },
+  {
+    "id": "crux",
+    "term": "crux",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KRUKS",
+    "definition": "The most important or central point of an issue.",
+    "example": "The crux of the problem is that nobody actually owns this project.",
+    "etymology": "Latin crux, ‘cross’, also used for torture or torment. In English it first meant a puzzle or difficulty (a passage that ‘tortures’ scholars), then the decisive point on which everything turns.",
+    "root": {
+      "form": "crux",
+      "language": "Latin",
+      "meaning": "cross"
+    },
+    "relatedWords": [
+      {
+        "term": "crucial",
+        "meaning": "decisive, from the idea of a crossroads or signpost"
+      },
+      {
+        "term": "excruciating",
+        "meaning": "intensely painful, literally ‘tormenting’"
+      },
+      {
+        "term": "crusade",
+        "meaning": "a campaign, originally marked with a cross"
+      }
+    ],
+    "synonyms": [
+      "heart",
+      "core",
+      "essence",
+      "nub"
+    ],
+    "note": "Usually ‘the crux of the matter/problem/issue’.",
+    "category": "ideas"
+  },
+  {
+    "id": "nexus",
+    "term": "nexus",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "NEK-sus",
+    "definition": "A central point where things connect or come together.",
+    "example": "Our kitchen has become the nexus of the whole house. Everyone ends up there.",
+    "etymology": "From Latin nexus, ‘a binding together’, from nectere (to bind, tie). It came into English in the 17th century for a connection or link, and later for a connected group or central hub.",
+    "root": {
+      "form": "nectere",
+      "language": "Latin",
+      "meaning": "to bind, tie"
+    },
+    "relatedWords": [
+      {
+        "term": "connect",
+        "meaning": "to bind together"
+      },
+      {
+        "term": "annex",
+        "meaning": "to attach or add"
+      }
+    ],
+    "synonyms": [
+      "hub",
+      "center",
+      "link",
+      "junction"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "quarantine",
+    "term": "quarantine",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "KWOR-un-teen",
+    "definition": "A period of isolation imposed to stop an illness or problem from spreading.",
+    "example": "My cat has to stay in quarantine for two weeks after we land.",
+    "etymology": "From Venetian Italian quaranta giorni, ‘forty days’, from Latin quadraginta (forty). During plague outbreaks in the 14th-15th centuries, ships arriving at Venice from infected ports had to wait offshore for forty days before landing; Ragusa (Dubrovnik) had used a similar thirty-day rule from 1377.",
+    "root": {
+      "form": "quadraginta",
+      "language": "Latin",
+      "meaning": "forty"
+    },
+    "relatedWords": [
+      {
+        "term": "quadragenarian",
+        "meaning": "someone in their forties"
+      },
+      {
+        "term": "Quadragesima",
+        "meaning": "the first Sunday of Lent, about forty days before Easter"
+      }
+    ],
+    "synonyms": [
+      "isolation",
+      "segregation",
+      "lockdown"
+    ],
+    "note": "Also used as a verb: ‘quarantine the infected files’.",
+    "category": "ideas"
+  },
+  {
+    "id": "anachronism",
+    "term": "anachronism",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-NAK-ruh-niz-um",
+    "definition": "Something that belongs to a different time period, especially one that seems out of date.",
+    "example": "My dad still uses a fax machine. He’s a walking anachronism.",
+    "etymology": "From Greek anakhronismos, from anakhronizein (to refer to the wrong time), from ana (back, against) + khronos (time). It first meant an error in dating events, like a clock in a play set in ancient Rome.",
+    "root": {
+      "form": "khronos",
+      "language": "Greek",
+      "meaning": "time"
+    },
+    "relatedWords": [
+      {
+        "term": "chronic",
+        "meaning": "lasting a long time"
+      },
+      {
+        "term": "chronology",
+        "meaning": "the order of events in time"
+      },
+      {
+        "term": "synchronize",
+        "meaning": "to make happen at the same time"
+      }
+    ],
+    "synonyms": [
+      "relic",
+      "throwback",
+      "holdover"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "dilemma",
+    "term": "dilemma",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-LEM-uh",
+    "definition": "A situation where you must choose between two options that are both difficult or unpleasant.",
+    "example": "My dilemma: go to my best friend’s wedding or my sister’s graduation, same day.",
+    "etymology": "From Greek dilēmma, from di- (two) + lēmma (premise, assumption). In rhetoric it was an argument that forced an opponent to choose between two premises, both damaging to him; hence ‘the horns of a dilemma’.",
+    "root": {
+      "form": "lēmma",
+      "language": "Greek",
+      "meaning": "premise, something taken for granted"
+    },
+    "relatedWords": [
+      {
+        "term": "lemma",
+        "meaning": "a proposition assumed in proving another"
+      }
+    ],
+    "synonyms": [
+      "quandary",
+      "predicament",
+      "catch-22",
+      "bind"
+    ],
+    "note": "Strictly a choice between two bad options; looser uses for any problem are common but disliked by purists.",
+    "category": "ideas"
+  },
+  {
+    "id": "enigma",
+    "term": "enigma",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ih-NIG-muh",
+    "definition": "Something or someone mysterious and hard to understand.",
+    "example": "How my grandmother’s garden survives without any watering is an enigma.",
+    "etymology": "From Latin aenigma, from Greek ainigma, ‘riddle’, from ainissesthai (to speak in riddles), from ainos (tale, fable).",
+    "root": {
+      "form": "ainigma",
+      "language": "Greek",
+      "meaning": "riddle"
+    },
+    "relatedWords": [
+      {
+        "term": "enigmatic",
+        "meaning": "mysterious, difficult to interpret"
+      }
+    ],
+    "synonyms": [
+      "mystery",
+      "puzzle",
+      "riddle",
+      "conundrum"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "ambiance",
+    "term": "ambiance",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "AM-bee-unss",
+    "definition": "The character and atmosphere of a place.",
+    "example": "The food was fine, but we really go there for the ambiance.",
+    "etymology": "From French ambiance, from ambiant (surrounding), from Latin ambire (to go around: amb-, around + ire, to go). The ambiance is what surrounds you.",
+    "root": {
+      "form": "ambire",
+      "language": "Latin",
+      "meaning": "to go around"
+    },
+    "relatedWords": [
+      {
+        "term": "ambient",
+        "meaning": "surrounding, in the background"
+      },
+      {
+        "term": "ambition",
+        "meaning": "originally ‘going around’ canvassing for votes"
+      },
+      {
+        "term": "ambit",
+        "meaning": "the scope or extent of something"
+      }
+    ],
+    "synonyms": [
+      "atmosphere",
+      "mood",
+      "vibe",
+      "feel"
+    ],
+    "note": "Also spelled ambience.",
+    "category": "ideas"
+  },
+  {
+    "id": "milieu",
+    "term": "milieu",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "meel-YUH",
+    "definition": "A person’s social environment or setting.",
+    "example": "She grew up in an artsy milieu, so of course she ended up in theatre.",
+    "etymology": "From French milieu, ‘middle’, from mi (middle, from Latin medius) + lieu (place, from Latin locus). Your milieu is the place you are in the middle of.",
+    "root": {
+      "form": "locus",
+      "language": "Latin",
+      "meaning": "place"
+    },
+    "relatedWords": [
+      {
+        "term": "lieu",
+        "meaning": "place, as in ‘in lieu of’"
+      },
+      {
+        "term": "lieutenant",
+        "meaning": "one ‘holding the place’ of a superior"
+      },
+      {
+        "term": "medium",
+        "meaning": "something in the middle"
+      }
+    ],
+    "synonyms": [
+      "environment",
+      "setting",
+      "surroundings",
+      "world"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "synergy",
+    "term": "synergy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SIN-er-jee",
+    "definition": "The extra effect produced when things work together, greater than their separate effects.",
+    "example": "Those two have real synergy; together they write songs neither could alone.",
+    "etymology": "From Greek synergia, ‘joint work, cooperation’, from syn (together) + ergon (work). It was used in theology and physiology before becoming a business favorite in the 20th century.",
+    "root": {
+      "form": "ergon",
+      "language": "Greek",
+      "meaning": "work"
+    },
+    "relatedWords": [
+      {
+        "term": "energy",
+        "meaning": "literally ‘at work’, activity"
+      },
+      {
+        "term": "ergonomic",
+        "meaning": "designed for efficient work"
+      },
+      {
+        "term": "allergy",
+        "meaning": "an ‘other working’, an abnormal reaction"
+      }
+    ],
+    "synonyms": [
+      "cooperation",
+      "teamwork",
+      "chemistry"
+    ],
+    "note": "A corporate buzzword; can sound like jargon.",
+    "category": "ideas"
+  },
+  {
+    "id": "symbiosis",
+    "term": "symbiosis",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "sim-bee-OH-sis",
+    "definition": "A close relationship between two things or people that benefits both.",
+    "example": "The café and the bookshop next door have a nice symbiosis going.",
+    "etymology": "From Greek symbiōsis, ‘living together’, from syn (together) + bios (life). Biologists in the late 1870s, notably Heinrich Anton de Bary, used it for organisms of different species living in close association; the figurative sense followed.",
+    "root": {
+      "form": "bios",
+      "language": "Greek",
+      "meaning": "life"
+    },
+    "relatedWords": [
+      {
+        "term": "biology",
+        "meaning": "the study of life"
+      },
+      {
+        "term": "biography",
+        "meaning": "a written account of a life"
+      },
+      {
+        "term": "amphibious",
+        "meaning": "living a ‘double life’, on land and in water"
+      }
+    ],
+    "synonyms": [
+      "interdependence",
+      "partnership",
+      "mutualism"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "entropy",
+    "term": "entropy",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "EN-truh-pee",
+    "definition": "A gradual decline into disorder.",
+    "example": "My desk always drifts toward entropy by Friday afternoon.",
+    "etymology": "Coined in German by physicist Rudolf Clausius in 1865 from Greek en (in) + tropē (turning, transformation), deliberately modeled on ‘energy’. In physics it measures disorder in a system; everyday use took it to mean drift into chaos.",
+    "root": {
+      "form": "tropē",
+      "language": "Greek",
+      "meaning": "a turning"
+    },
+    "relatedWords": [
+      {
+        "term": "tropic",
+        "meaning": "the latitude where the sun ‘turns back’"
+      },
+      {
+        "term": "heliotrope",
+        "meaning": "a plant that turns toward the sun"
+      },
+      {
+        "term": "trophy",
+        "meaning": "originally a monument where the enemy turned and fled"
+      }
+    ],
+    "synonyms": [
+      "disorder",
+      "decay",
+      "chaos",
+      "deterioration"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "equilibrium",
+    "term": "equilibrium",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ee-kwuh-LIB-ree-um",
+    "definition": "A state of balance between opposing forces or influences.",
+    "example": "After the move, it took a while for the household to find its equilibrium again.",
+    "etymology": "From Latin aequilibrium, from aequus (equal) + libra (balance, pair of scales). It describes scales with equal weights on each side.",
+    "root": {
+      "form": "libra",
+      "language": "Latin",
+      "meaning": "balance, scales; pound"
+    },
+    "relatedWords": [
+      {
+        "term": "deliberate",
+        "meaning": "to weigh up carefully"
+      },
+      {
+        "term": "equation",
+        "meaning": "a statement that two things are equal"
+      },
+      {
+        "term": "Libra",
+        "meaning": "the zodiac sign of the scales"
+      }
+    ],
+    "synonyms": [
+      "balance",
+      "stability",
+      "poise",
+      "steadiness"
+    ],
+    "note": "The abbreviation ‘lb’ for pound also comes from libra.",
+    "category": "ideas"
+  },
+  {
+    "id": "threshold",
+    "term": "threshold",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "THRESH-hold",
+    "definition": "The level or point at which something starts to happen or change.",
+    "example": "My pain threshold is low. I cry at paper cuts.",
+    "etymology": "From Old English þrescold, the strip of wood or stone at the bottom of a doorway. The first part is related to ‘thresh’ (to tread or stamp); the second part is of uncertain origin, and the modern ‘-hold’ is a later reshaping, not the word ‘hold’.",
+    "root": {
+      "form": "þerscan",
+      "language": "Old English",
+      "meaning": "to thresh, tread"
+    },
+    "relatedWords": [
+      {
+        "term": "thresh",
+        "meaning": "to beat grain to separate it"
+      }
+    ],
+    "synonyms": [
+      "brink",
+      "verge",
+      "limit",
+      "cusp"
+    ],
+    "note": "Spelled with one h in the middle, despite the pronunciation.",
+    "category": "ideas"
+  },
+  {
+    "id": "watershed",
+    "term": "watershed",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "WAW-ter-shed",
+    "definition": "A turning point after which things are significantly different.",
+    "example": "Getting a dog was a watershed moment; suddenly we had to be home by six.",
+    "etymology": "From water + shed in its old sense ‘a parting, division’, probably modeled on German Wasserscheide. A watershed is the ridge that divides rivers flowing to different seas, so a figurative watershed divides ‘before’ from ‘after’.",
+    "root": {
+      "form": "scēadan",
+      "language": "Old English",
+      "meaning": "to divide, separate"
+    },
+    "relatedWords": [
+      {
+        "term": "shed",
+        "meaning": "to cast off; originally to separate"
+      }
+    ],
+    "synonyms": [
+      "turning point",
+      "milestone",
+      "landmark",
+      "tipping point"
+    ],
+    "note": "In British TV, ‘the watershed’ is the 9pm time after which adult content may air.",
+    "category": "ideas"
+  },
+  {
+    "id": "trajectory",
+    "term": "trajectory",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "truh-JEK-tuh-ree",
+    "definition": "The path or direction in which something develops over time.",
+    "example": "Her career trajectory has been straight up since she switched teams.",
+    "etymology": "From Modern Latin trajectoria, from Latin traicere (to throw across: trans, across + iacere, to throw). It first described the curve of a thrown object or projectile.",
+    "root": {
+      "form": "iacere",
+      "language": "Latin",
+      "meaning": "to throw"
+    },
+    "relatedWords": [
+      {
+        "term": "project",
+        "meaning": "literally ‘to throw forward’"
+      },
+      {
+        "term": "reject",
+        "meaning": "to throw back"
+      },
+      {
+        "term": "eject",
+        "meaning": "to throw out"
+      },
+      {
+        "term": "inject",
+        "meaning": "to throw in"
+      }
+    ],
+    "synonyms": [
+      "path",
+      "course",
+      "arc",
+      "direction"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "metamorphosis",
+    "term": "metamorphosis",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "met-uh-MOR-fuh-sis",
+    "definition": "A complete change of form, nature or appearance.",
+    "example": "The neighborhood’s metamorphosis is wild; it was all warehouses ten years ago.",
+    "etymology": "From Greek metamorphōsis, from meta (change, after) + morphē (form). Ovid’s Metamorphoses, Latin myths of transformation, made it famous; biology later used it for caterpillar-to-butterfly changes.",
+    "root": {
+      "form": "morphē",
+      "language": "Greek",
+      "meaning": "form, shape"
+    },
+    "relatedWords": [
+      {
+        "term": "morph",
+        "meaning": "to change smoothly from one form to another"
+      },
+      {
+        "term": "amorphous",
+        "meaning": "without a clear shape"
+      },
+      {
+        "term": "morphology",
+        "meaning": "the study of forms"
+      }
+    ],
+    "synonyms": [
+      "transformation",
+      "transfiguration",
+      "conversion",
+      "change"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "flux",
+    "term": "flux",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "FLUKS",
+    "definition": "Continuous change; a state of things being unsettled.",
+    "example": "Plans are in flux right now. Ask me again next week.",
+    "etymology": "From Latin fluxus, ‘a flowing’, from fluere (to flow). It was originally a medical term for an abnormal discharge of fluid; the sense of constant change echoes the Greek idea, attributed to Heraclitus, that everything flows.",
+    "root": {
+      "form": "fluere",
+      "language": "Latin",
+      "meaning": "to flow"
+    },
+    "relatedWords": [
+      {
+        "term": "fluid",
+        "meaning": "something that flows"
+      },
+      {
+        "term": "influx",
+        "meaning": "an inflow of people or things"
+      },
+      {
+        "term": "fluent",
+        "meaning": "flowing smoothly, especially in speech"
+      },
+      {
+        "term": "affluent",
+        "meaning": "wealthy, literally ‘flowing toward’"
+      }
+    ],
+    "synonyms": [
+      "change",
+      "fluctuation",
+      "instability",
+      "transition"
+    ],
+    "note": "Most common in ‘in a state of flux’ or ‘in flux’.",
+    "category": "ideas"
+  },
+  {
+    "id": "transient",
+    "term": "transient",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TRAN-zee-unt",
+    "definition": "Lasting only a short time; passing through rather than staying.",
+    "example": "It’s a transient town; most people only stay a year or two for work.",
+    "etymology": "From Latin transiens, transeunt-, present participle of transire (to go across: trans, across + ire, to go).",
+    "root": {
+      "form": "transire",
+      "language": "Latin",
+      "meaning": "to go across, pass over"
+    },
+    "relatedWords": [
+      {
+        "term": "transit",
+        "meaning": "the act of passing through"
+      },
+      {
+        "term": "transition",
+        "meaning": "a passing from one state to another"
+      },
+      {
+        "term": "transitory",
+        "meaning": "not permanent"
+      }
+    ],
+    "synonyms": [
+      "temporary",
+      "fleeting",
+      "passing",
+      "ephemeral"
+    ],
+    "note": "Also a noun for a person passing through a place.",
+    "category": "ideas"
+  },
+  {
+    "id": "perennial",
+    "term": "perennial",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "puh-REN-ee-ul",
+    "definition": "Lasting a long time or recurring again and again.",
+    "example": "Where to go for dinner is the perennial question in our house.",
+    "etymology": "From Latin perennis, ‘lasting through the year(s)’, from per (through) + annus (year). Gardeners use it for plants that live for more than two years.",
+    "root": {
+      "form": "annus",
+      "language": "Latin",
+      "meaning": "year"
+    },
+    "relatedWords": [
+      {
+        "term": "annual",
+        "meaning": "yearly"
+      },
+      {
+        "term": "anniversary",
+        "meaning": "the yearly return of a date"
+      },
+      {
+        "term": "millennium",
+        "meaning": "a thousand years"
+      },
+      {
+        "term": "biennial",
+        "meaning": "every two years"
+      }
+    ],
+    "synonyms": [
+      "enduring",
+      "recurring",
+      "constant",
+      "perpetual"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "incessant",
+    "term": "incessant",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-SES-unt",
+    "definition": "Continuing without stopping, usually in an annoying way.",
+    "example": "The incessant drilling next door has been going since seven this morning.",
+    "etymology": "From Late Latin incessans, from in- (not) + cessare (to stop, delay), a frequentative of cedere (to go, yield).",
+    "root": {
+      "form": "cessare",
+      "language": "Latin",
+      "meaning": "to stop, cease"
+    },
+    "relatedWords": [
+      {
+        "term": "cease",
+        "meaning": "to stop"
+      },
+      {
+        "term": "cessation",
+        "meaning": "the act of stopping"
+      }
+    ],
+    "synonyms": [
+      "constant",
+      "ceaseless",
+      "relentless",
+      "nonstop"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "sporadic",
+    "term": "sporadic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "spuh-RAD-ik",
+    "definition": "Happening occasionally and irregularly, scattered rather than continuous.",
+    "example": "The wifi here is sporadic at best. Works for ten minutes, then nothing.",
+    "etymology": "From Medieval Latin sporadicus, from Greek sporadikos, ‘scattered’, from sporas (scattered), related to speirein (to sow, scatter seed). It was first used of diseases that appeared in scattered cases rather than epidemics.",
+    "root": {
+      "form": "speirein",
+      "language": "Greek",
+      "meaning": "to sow, scatter"
+    },
+    "relatedWords": [
+      {
+        "term": "spore",
+        "meaning": "a reproductive cell scattered by fungi and plants"
+      },
+      {
+        "term": "diaspora",
+        "meaning": "a people ‘scattered’ away from their homeland"
+      }
+    ],
+    "synonyms": [
+      "occasional",
+      "irregular",
+      "intermittent",
+      "patchy"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "intermittent",
+    "term": "intermittent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-ter-MIT-unt",
+    "definition": "Stopping and starting at intervals; not continuous.",
+    "example": "Forecast says intermittent showers, so bring a jacket.",
+    "etymology": "From Latin intermittere (to leave off for a time, interrupt), from inter (between) + mittere (to send, let go).",
+    "root": {
+      "form": "mittere",
+      "language": "Latin",
+      "meaning": "to send, let go"
+    },
+    "relatedWords": [
+      {
+        "term": "intermission",
+        "meaning": "a break between parts of a show"
+      },
+      {
+        "term": "transmit",
+        "meaning": "to send across"
+      },
+      {
+        "term": "emit",
+        "meaning": "to send out"
+      },
+      {
+        "term": "remit",
+        "meaning": "to send back; an area of responsibility"
+      }
+    ],
+    "synonyms": [
+      "periodic",
+      "on-and-off",
+      "sporadic",
+      "fitful"
+    ],
+    "note": "Intermittent suggests regular-ish stops and starts; sporadic suggests randomness.",
+    "category": "ideas"
+  },
+  {
+    "id": "imminent",
+    "term": "imminent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "IM-ih-nunt",
+    "definition": "About to happen very soon.",
+    "example": "Judging by those clouds, rain is imminent. Let’s head back.",
+    "etymology": "From Latin imminere (to overhang, threaten), from in (upon, toward) + minere (to project, jut out). Something imminent hangs over you, about to fall.",
+    "root": {
+      "form": "minere",
+      "language": "Latin",
+      "meaning": "to project, jut out"
+    },
+    "relatedWords": [
+      {
+        "term": "prominent",
+        "meaning": "jutting out, noticeable"
+      },
+      {
+        "term": "eminent",
+        "meaning": "standing out, distinguished"
+      }
+    ],
+    "synonyms": [
+      "impending",
+      "looming",
+      "approaching",
+      "forthcoming"
+    ],
+    "note": "Don’t confuse with ‘eminent’ (distinguished) or ‘immanent’ (inherent).",
+    "category": "ideas"
+  },
+  {
+    "id": "inevitable",
+    "term": "inevitable",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "in-EV-ih-tuh-bul",
+    "definition": "Certain to happen; impossible to avoid.",
+    "example": "We left the toddler alone with the cake. The outcome was inevitable.",
+    "etymology": "From Latin inevitabilis, from in- (not) + evitabilis (avoidable), from evitare (to avoid: ex, out + vitare, to shun).",
+    "root": {
+      "form": "vitare",
+      "language": "Latin",
+      "meaning": "to avoid, shun"
+    },
+    "relatedWords": [
+      {
+        "term": "evitable",
+        "meaning": "avoidable (rare)"
+      },
+      {
+        "term": "inevitability",
+        "meaning": "the quality of being unavoidable"
+      }
+    ],
+    "synonyms": [
+      "unavoidable",
+      "certain",
+      "inescapable",
+      "bound to happen"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "fortuitous",
+    "term": "fortuitous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "for-TOO-ih-tus",
+    "definition": "Happening by chance, often with a lucky result.",
+    "example": "Bumping into the landlord at the pub was fortuitous; he fixed the boiler the next day.",
+    "etymology": "From Latin fortuitus, ‘happening by chance’, from fors, fort- (chance, luck). It shares a root with fortune.",
+    "root": {
+      "form": "fors",
+      "language": "Latin",
+      "meaning": "chance, luck"
+    },
+    "relatedWords": [
+      {
+        "term": "fortune",
+        "meaning": "chance or luck; wealth"
+      },
+      {
+        "term": "fortunate",
+        "meaning": "lucky"
+      }
+    ],
+    "synonyms": [
+      "chance",
+      "accidental",
+      "lucky",
+      "serendipitous"
+    ],
+    "note": "Traditionally means ‘by chance’, not ‘lucky’, but the lucky sense is now widely accepted.",
+    "category": "ideas"
+  },
+  {
+    "id": "ostensible",
+    "term": "ostensible",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "oss-TEN-suh-bul",
+    "definition": "Stated or appearing to be true, but possibly not the real reason.",
+    "example": "The ostensible reason for the meeting was the budget, but really they wanted to announce layoffs.",
+    "etymology": "From French ostensible, from Medieval Latin ostensibilis, from Latin ostendere (to show: obs, in front of + tendere, to stretch). Something ostensible is held out for display.",
+    "root": {
+      "form": "ostendere",
+      "language": "Latin",
+      "meaning": "to show, display"
+    },
+    "relatedWords": [
+      {
+        "term": "ostensibly",
+        "meaning": "apparently, supposedly"
+      },
+      {
+        "term": "ostentatious",
+        "meaning": "showy, designed to impress"
+      }
+    ],
+    "synonyms": [
+      "apparent",
+      "supposed",
+      "professed",
+      "outward"
+    ],
+    "note": "The adverb ‘ostensibly’ is more common in speech.",
+    "category": "ideas"
+  },
+  {
+    "id": "tangible",
+    "term": "tangible",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "TAN-juh-bul",
+    "definition": "Real and able to be touched or clearly shown, not just imagined.",
+    "example": "After months of talk, we finally have something tangible to show investors.",
+    "etymology": "From Late Latin tangibilis, from tangere (to touch).",
+    "root": {
+      "form": "tangere",
+      "language": "Latin",
+      "meaning": "to touch"
+    },
+    "relatedWords": [
+      {
+        "term": "tangent",
+        "meaning": "a line that touches a curve at one point"
+      },
+      {
+        "term": "contact",
+        "meaning": "touching together"
+      },
+      {
+        "term": "tactile",
+        "meaning": "relating to touch"
+      },
+      {
+        "term": "contagious",
+        "meaning": "spread by touch"
+      }
+    ],
+    "synonyms": [
+      "concrete",
+      "real",
+      "palpable",
+      "material"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "esoteric",
+    "term": "esoteric",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "es-uh-TAIR-ik",
+    "definition": "Understood by or meant for only a small group with special knowledge.",
+    "example": "The jokes in that podcast are so esoteric. You need to have listened since episode one.",
+    "etymology": "From Greek esōterikos, ‘belonging to an inner circle’, from esōterō (further inward), from esō (within). It was applied to teachings of Pythagoras and Aristotle meant only for inner disciples.",
+    "root": {
+      "form": "esō",
+      "language": "Greek",
+      "meaning": "within"
+    },
+    "relatedWords": [
+      {
+        "term": "exoteric",
+        "meaning": "suitable for the general public, the opposite"
+      }
+    ],
+    "synonyms": [
+      "obscure",
+      "arcane",
+      "specialized",
+      "niche"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "arcane",
+    "term": "arcane",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ar-KAYN",
+    "definition": "Mysterious, secret, or understood by very few people.",
+    "example": "The rules for which bin goes out which week are completely arcane.",
+    "etymology": "From Latin arcanus, ‘secret, hidden’, from arca (chest, box). The idea is of something locked away in a chest.",
+    "root": {
+      "form": "arca",
+      "language": "Latin",
+      "meaning": "chest, box"
+    },
+    "relatedWords": [
+      {
+        "term": "arcanum",
+        "meaning": "a secret or mystery"
+      },
+      {
+        "term": "ark",
+        "meaning": "a chest or vessel, as in Noah’s ark"
+      }
+    ],
+    "synonyms": [
+      "obscure",
+      "esoteric",
+      "mysterious",
+      "recondite"
+    ],
+    "note": "Arcane suggests something old and mysterious; esoteric, something specialized.",
+    "category": "ideas"
+  },
+  {
+    "id": "eclectic",
+    "term": "eclectic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "ih-KLEK-tik",
+    "definition": "Drawn from a wide and varied range of sources or styles.",
+    "example": "His playlist is eclectic: opera, then drill, then sea shanties.",
+    "etymology": "From Greek eklektikos, ‘selective’, from eklegein (to pick out: ek, out + legein, to choose). It first named ancient philosophers who chose doctrines from various schools rather than following one.",
+    "root": {
+      "form": "legein",
+      "language": "Greek",
+      "meaning": "to pick, choose"
+    },
+    "relatedWords": [
+      {
+        "term": "eclecticism",
+        "meaning": "the practice of drawing from varied sources"
+      }
+    ],
+    "synonyms": [
+      "diverse",
+      "varied",
+      "wide-ranging",
+      "assorted"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "superfluous",
+    "term": "superfluous",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "soo-PUR-floo-us",
+    "definition": "More than is needed; unnecessary.",
+    "example": "Cut the superfluous slides; nobody needs a timeline of the company’s founding.",
+    "etymology": "From Latin superfluus, ‘overflowing’, from super (over) + fluere (to flow). Something superfluous spills over what is needed.",
+    "root": {
+      "form": "fluere",
+      "language": "Latin",
+      "meaning": "to flow"
+    },
+    "relatedWords": [
+      {
+        "term": "superfluity",
+        "meaning": "an unnecessary excess"
+      },
+      {
+        "term": "fluid",
+        "meaning": "something that flows"
+      },
+      {
+        "term": "flux",
+        "meaning": "continuous flow or change"
+      }
+    ],
+    "synonyms": [
+      "unnecessary",
+      "redundant",
+      "excess",
+      "extra"
+    ],
+    "note": "Stress on the second syllable: soo-PUR-floo-us.",
+    "category": "ideas"
+  },
+  {
+    "id": "juxtaposition",
+    "term": "juxtaposition",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "juk-stuh-puh-ZISH-un",
+    "definition": "The placing of two contrasting things side by side, often to highlight the difference.",
+    "example": "I love the juxtaposition of the ancient church and the glass tower right next to it.",
+    "etymology": "From French juxtaposition (17th century), from Latin iuxta (beside, near) + positio (a placing), from ponere (to put, place).",
+    "root": {
+      "form": "ponere",
+      "language": "Latin",
+      "meaning": "to put, place"
+    },
+    "relatedWords": [
+      {
+        "term": "juxtapose",
+        "meaning": "to place side by side"
+      },
+      {
+        "term": "position",
+        "meaning": "the place where something is put"
+      },
+      {
+        "term": "deposit",
+        "meaning": "to put down"
+      },
+      {
+        "term": "compose",
+        "meaning": "to put together"
+      }
+    ],
+    "synonyms": [
+      "contrast",
+      "comparison",
+      "contiguity"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "anomaly",
+    "term": "anomaly",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "uh-NOM-uh-lee",
+    "definition": "Something that deviates from what is normal, standard or expected.",
+    "example": "Last month’s huge electricity bill was an anomaly; turns out the meter was broken.",
+    "etymology": "From Greek anōmalia, ‘unevenness’, from anōmalos (uneven), from an- (not) + homalos (even, level), related to homos (same).",
+    "root": {
+      "form": "homalos",
+      "language": "Greek",
+      "meaning": "even, level"
+    },
+    "relatedWords": [
+      {
+        "term": "anomalous",
+        "meaning": "deviating from the norm"
+      },
+      {
+        "term": "homogeneous",
+        "meaning": "all of the same kind (from homos)"
+      },
+      {
+        "term": "homonym",
+        "meaning": "a word with the same form as another (from homos)"
+      }
+    ],
+    "synonyms": [
+      "oddity",
+      "irregularity",
+      "exception",
+      "outlier"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "aberration",
+    "term": "aberration",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ab-uh-RAY-shun",
+    "definition": "A departure from what is normal or usual, often an unwelcome one.",
+    "example": "Don’t worry about one bad exam. It’s an aberration, not a pattern.",
+    "etymology": "From Latin aberrare (to wander away), from ab (away) + errare (to wander, stray). It also has technical senses in astronomy and optics for apparent shifts and blurring of light.",
+    "root": {
+      "form": "errare",
+      "language": "Latin",
+      "meaning": "to wander, stray"
+    },
+    "relatedWords": [
+      {
+        "term": "err",
+        "meaning": "to make a mistake"
+      },
+      {
+        "term": "erratic",
+        "meaning": "unpredictable, wandering"
+      },
+      {
+        "term": "errant",
+        "meaning": "straying; a knight-errant wandered in search of adventure"
+      }
+    ],
+    "synonyms": [
+      "anomaly",
+      "deviation",
+      "departure",
+      "fluke"
+    ],
+    "note": "Aberration usually implies something has gone wrong; anomaly is more neutral.",
+    "category": "ideas"
+  },
+  {
+    "id": "debacle",
+    "term": "debacle",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dih-BAH-kul",
+    "definition": "A sudden and complete failure, often a humiliating one.",
+    "example": "Last year’s office party was a debacle. The caterers never showed up.",
+    "etymology": "From French débâcle, from débâcler (to unbar, unbolt), from dé- (un-) + bâcler (to bar). It first meant the sudden breaking up of ice on a river and the violent flood that follows, then any sudden collapse.",
+    "root": {
+      "form": "bâcler",
+      "language": "French",
+      "meaning": "to bar, bolt"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "fiasco",
+      "disaster",
+      "shambles",
+      "catastrophe"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "fiasco",
+    "term": "fiasco",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "fee-ASS-koh",
+    "definition": "A complete failure, especially a ridiculous or embarrassing one.",
+    "example": "Trying to assemble that wardrobe without instructions was a total fiasco.",
+    "etymology": "Italian fiasco means ‘flask, bottle’. The Italian phrase far fiasco, ‘to make a bottle’, meant to fail, especially in theatre, but nobody knows for sure how bottles came to mean failure.",
+    "root": {
+      "form": "fiasco",
+      "language": "Italian",
+      "meaning": "flask, bottle"
+    },
+    "relatedWords": [
+      {
+        "term": "flask",
+        "meaning": "a bottle, probably from the same Late Latin source"
+      }
+    ],
+    "synonyms": [
+      "debacle",
+      "disaster",
+      "mess",
+      "farce"
+    ],
+    "note": "Fiasco often has a comic edge; debacle can be more serious.",
+    "category": "ideas"
+  },
+  {
+    "id": "boondoggle",
+    "term": "boondoggle",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "BOON-dog-ul",
+    "definition": "A project that wastes time and money but looks like valuable work.",
+    "example": "That ‘team retreat’ in Vegas was a boondoggle. We had one meeting.",
+    "etymology": "An American word of unknown origin. In the 1920s-30s it was a Boy Scout term for a braided leather cord; in 1935 critics seized on reports that New Deal relief workers were being paid to make such items, and it came to mean pointless make-work.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "waste",
+      "make-work",
+      "junket",
+      "money pit"
+    ],
+    "note": "Mainly American and informal.",
+    "category": "ideas"
+  },
+  {
+    "id": "sinecure",
+    "term": "sinecure",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "SY-nih-kyoor",
+    "definition": "A job or position that pays well but requires little or no work.",
+    "example": "His ‘consulting role’ on the board is basically a sinecure.",
+    "etymology": "From Medieval Latin beneficium sine cura, ‘benefice without care (of souls)’: a church office that paid an income without the duties of looking after a parish. Latin sine means without and cura means care.",
+    "root": {
+      "form": "cura",
+      "language": "Latin",
+      "meaning": "care"
+    },
+    "relatedWords": [
+      {
+        "term": "curate",
+        "meaning": "a clergyman with the ‘cure’ (care) of souls"
+      },
+      {
+        "term": "accurate",
+        "meaning": "done with care"
+      },
+      {
+        "term": "curator",
+        "meaning": "a person who takes care of a collection"
+      }
+    ],
+    "synonyms": [
+      "cushy job",
+      "easy money",
+      "soft option"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "bedlam",
+    "term": "bedlam",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "BED-lum",
+    "definition": "A scene of uproar and confusion.",
+    "example": "It was bedlam at the airport, with every flight cancelled at once.",
+    "etymology": "A contracted pronunciation of Bethlehem, from the Hospital of St Mary of Bethlehem in London, founded as a priory in 1247 and housing mentally ill people by the 14th century. ‘Bedlam’ became a name for the asylum and its notorious disorder, then for any chaotic scene.",
+    "root": {
+      "form": "Bethlehem",
+      "language": "Hebrew",
+      "meaning": "house of bread (the town’s name)"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "chaos",
+      "pandemonium",
+      "mayhem",
+      "uproar"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "pandemonium",
+    "term": "pandemonium",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "pan-duh-MOH-nee-um",
+    "definition": "Wild and noisy disorder or confusion.",
+    "example": "When the band came on stage, the crowd erupted into pandemonium.",
+    "etymology": "Coined by John Milton in Paradise Lost (1667) as Pandæmonium, the capital of Hell, ‘the place of all demons’, from Greek pan (all) + daimōn (spirit), via Late Latin daemonium. The sense of uproar developed in the 18th-19th centuries.",
+    "root": {
+      "form": "daimōn",
+      "language": "Greek",
+      "meaning": "spirit, divine power"
+    },
+    "relatedWords": [
+      {
+        "term": "demon",
+        "meaning": "an evil spirit"
+      },
+      {
+        "term": "pantheon",
+        "meaning": "all the gods"
+      }
+    ],
+    "synonyms": [
+      "chaos",
+      "bedlam",
+      "uproar",
+      "mayhem"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "maelstrom",
+    "term": "maelstrom",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "MAYL-strum",
+    "definition": "A powerful, chaotic situation that drags everything in; literally, a huge whirlpool.",
+    "example": "Moving house the same week as the product launch put me in a maelstrom.",
+    "etymology": "From early modern Dutch maelstroom, from malen (to grind, whirl) + stroom (stream). It was applied on old maps to a famous whirlpool off Norway’s Lofoten Islands, popularized by Poe’s story ‘A Descent into the Maelström’.",
+    "root": {
+      "form": "stroom",
+      "language": "Dutch",
+      "meaning": "stream"
+    },
+    "relatedWords": [
+      {
+        "term": "stream",
+        "meaning": "the English cognate of Dutch stroom"
+      }
+    ],
+    "synonyms": [
+      "whirlpool",
+      "turmoil",
+      "tumult",
+      "vortex"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "cornucopia",
+    "term": "cornucopia",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "kor-nyoo-KOH-pee-uh",
+    "definition": "An abundant supply of good things.",
+    "example": "The farmers’ market on Saturday is a cornucopia of weird vegetables.",
+    "etymology": "From Late Latin cornu copiae, ‘horn of plenty’. In Greek myth, the horn belonged to the goat Amalthea, who nursed the infant Zeus; it was said to overflow endlessly with food and drink.",
+    "root": {
+      "form": "copia",
+      "language": "Latin",
+      "meaning": "abundance, plenty"
+    },
+    "relatedWords": [
+      {
+        "term": "copious",
+        "meaning": "abundant, plentiful"
+      },
+      {
+        "term": "unicorn",
+        "meaning": "a ‘one-horned’ creature (from cornu)"
+      },
+      {
+        "term": "cornet",
+        "meaning": "a small horn-like instrument (from cornu)"
+      }
+    ],
+    "synonyms": [
+      "abundance",
+      "wealth",
+      "profusion",
+      "treasure trove"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "utopia",
+    "term": "utopia",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "yoo-TOH-pee-uh",
+    "definition": "An imagined place or state where everything is perfect.",
+    "example": "A four-day week with full pay? That’s not policy, that’s utopia.",
+    "etymology": "Coined by Sir Thomas More for his 1516 book Utopia, about an ideal island society, from Greek ou (not) + topos (place): ‘no place’. More also punned on eu-topos, ‘good place’.",
+    "root": {
+      "form": "topos",
+      "language": "Greek",
+      "meaning": "place"
+    },
+    "relatedWords": [
+      {
+        "term": "topic",
+        "meaning": "originally a ‘place’ in an argument"
+      },
+      {
+        "term": "topography",
+        "meaning": "the description of a place’s features"
+      },
+      {
+        "term": "dystopia",
+        "meaning": "an imagined bad place"
+      }
+    ],
+    "synonyms": [
+      "paradise",
+      "Eden",
+      "heaven",
+      "ideal"
+    ],
+    "note": "The joke is built in: the perfect place is ‘no place’.",
+    "category": "ideas"
+  },
+  {
+    "id": "dystopia",
+    "term": "dystopia",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "dis-TOH-pee-uh",
+    "definition": "An imagined society where things are as bad as possible, often through oppression or disaster.",
+    "example": "Everyone staring at screens on the train felt a bit like a dystopia this morning.",
+    "etymology": "From Greek dys- (bad) + topos (place), modeled on utopia. John Stuart Mill used it in an 1868 parliamentary speech, one of the earliest recorded uses; it became common with 20th-century novels like Brave New World and Nineteen Eighty-Four.",
+    "root": {
+      "form": "topos",
+      "language": "Greek",
+      "meaning": "place"
+    },
+    "relatedWords": [
+      {
+        "term": "dystopian",
+        "meaning": "characteristic of a dystopia"
+      },
+      {
+        "term": "dysfunction",
+        "meaning": "a ‘bad functioning’"
+      },
+      {
+        "term": "utopia",
+        "meaning": "an imagined perfect place"
+      }
+    ],
+    "synonyms": [
+      "nightmare",
+      "hellscape",
+      "anti-utopia"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "placebo",
+    "term": "placebo",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "pluh-SEE-boh",
+    "definition": "Something with no real effect that works only because people believe it will.",
+    "example": "Honestly, the ‘close door’ button in most lifts is just a placebo.",
+    "etymology": "Latin for ‘I shall please’, the first word of a psalm verse (Placebo Domino in regione vivorum) sung in the medieval Office of the Dead. Hired mourners ‘sang placebo’, so the word came to mean flattery; by the late 18th century doctors used it for a medicine given to please rather than to cure.",
+    "root": {
+      "form": "placere",
+      "language": "Latin",
+      "meaning": "to please"
+    },
+    "relatedWords": [
+      {
+        "term": "please",
+        "meaning": "to give pleasure"
+      },
+      {
+        "term": "placate",
+        "meaning": "to calm by pleasing"
+      },
+      {
+        "term": "complacent",
+        "meaning": "too pleased with oneself"
+      }
+    ],
+    "synonyms": [
+      "dummy pill",
+      "sugar pill",
+      "illusion"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "denouement",
+    "term": "denouement",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "day-noo-MAHN",
+    "definition": "The final part of a story or situation, where everything is resolved.",
+    "example": "The denouement of the whole office drama was them getting married. Nobody saw it coming.",
+    "etymology": "From French dénouement, ‘an untying’, from dénouer (to untie), from dé- (un-) + nouer (to knot), from Latin nodus (knot). The plot’s knots are untied at the end.",
+    "root": {
+      "form": "nodus",
+      "language": "Latin",
+      "meaning": "knot"
+    },
+    "relatedWords": [
+      {
+        "term": "node",
+        "meaning": "a point where lines meet or knot"
+      },
+      {
+        "term": "nodule",
+        "meaning": "a small lump or knot"
+      }
+    ],
+    "synonyms": [
+      "resolution",
+      "conclusion",
+      "outcome",
+      "finale"
+    ],
+    "note": "Also spelled dénouement.",
+    "category": "ideas"
+  },
+  {
+    "id": "gamut",
+    "term": "gamut",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "GAM-ut",
+    "definition": "The complete range or scope of something.",
+    "example": "The reviews ran the gamut from ‘masterpiece’ to ‘worst film I’ve ever seen’.",
+    "etymology": "From Medieval Latin gamma ut. In the system attributed to the 11th-century monk Guido of Arezzo, gamma was the lowest note of the scale and ut the first syllable of the sequence ut-re-mi-fa-sol-la. Gamut came to mean the whole musical scale, then any full range.",
+    "root": {
+      "form": "gamma ut",
+      "language": "Medieval Latin",
+      "meaning": "the lowest note of the scale + its syllable"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "range",
+      "spectrum",
+      "scope",
+      "span"
+    ],
+    "note": "Most common in ‘run the gamut’. Don’t confuse with ‘gauntlet’, as in ‘run the gauntlet’.",
+    "category": "ideas"
+  },
+  {
+    "id": "epitome",
+    "term": "epitome",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ih-PIT-uh-mee",
+    "definition": "A perfect example of a quality or type.",
+    "example": "That restaurant is the epitome of trying too hard: gold-leaf burgers, really?",
+    "etymology": "From Greek epitomē, ‘abridgment’, from epitemnein (to cut short), from epi (upon) + temnein (to cut). An epitome was first a summary, a work ‘cut down’ to its essentials, and so came to mean something that embodies the essence of a thing.",
+    "root": {
+      "form": "temnein",
+      "language": "Greek",
+      "meaning": "to cut"
+    },
+    "relatedWords": [
+      {
+        "term": "epitomize",
+        "meaning": "to be a perfect example of"
+      },
+      {
+        "term": "anatomy",
+        "meaning": "originally dissection, ‘cutting up’"
+      },
+      {
+        "term": "dichotomy",
+        "meaning": "a ‘cutting in two’"
+      }
+    ],
+    "synonyms": [
+      "embodiment",
+      "essence",
+      "personification",
+      "archetype"
+    ],
+    "note": "Four syllables: ih-PIT-uh-mee, not EP-ih-tome.",
+    "category": "ideas"
+  },
+  {
+    "id": "penultimate",
+    "term": "penultimate",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "pen-UL-tih-mut",
+    "definition": "Second to last in a series.",
+    "example": "I cried at the penultimate episode, then the finale was a letdown.",
+    "etymology": "From Latin paenultimus, from paene (almost) + ultimus (last). Penultimate means ‘almost last’.",
+    "root": {
+      "form": "paene",
+      "language": "Latin",
+      "meaning": "almost"
+    },
+    "relatedWords": [
+      {
+        "term": "peninsula",
+        "meaning": "‘almost an island’"
+      },
+      {
+        "term": "ultimate",
+        "meaning": "last, final"
+      },
+      {
+        "term": "antepenultimate",
+        "meaning": "third from last"
+      }
+    ],
+    "synonyms": [
+      "second to last",
+      "next to last"
+    ],
+    "note": "A common mistake is to use it as a fancier ‘ultimate’; it means second to last.",
+    "category": "ideas"
+  },
+  {
+    "id": "nascent",
+    "term": "nascent",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "NAY-sunt",
+    "definition": "Just beginning to exist or develop, and showing signs of future potential.",
+    "example": "The local food scene is still nascent, but there are a few great spots already.",
+    "etymology": "From Latin nascens, nascent-, present participle of nasci (to be born). Something nascent is in the act of being born.",
+    "root": {
+      "form": "nasci",
+      "language": "Latin",
+      "meaning": "to be born"
+    },
+    "relatedWords": [
+      {
+        "term": "native",
+        "meaning": "belonging to a place by birth"
+      },
+      {
+        "term": "natal",
+        "meaning": "relating to birth"
+      },
+      {
+        "term": "renaissance",
+        "meaning": "a rebirth"
+      },
+      {
+        "term": "innate",
+        "meaning": "inborn"
+      }
+    ],
+    "synonyms": [
+      "emerging",
+      "budding",
+      "developing",
+      "fledgling"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "moribund",
+    "term": "moribund",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "MOR-ih-bund",
+    "definition": "In terminal decline; losing vitality and close to ending.",
+    "example": "The high street was pretty moribund until those new cafés opened.",
+    "etymology": "From Latin moribundus, ‘dying’, from mori (to die). It still applies literally to people near death, but is more often used of businesses, traditions and places.",
+    "root": {
+      "form": "mori",
+      "language": "Latin",
+      "meaning": "to die"
+    },
+    "relatedWords": [
+      {
+        "term": "mortal",
+        "meaning": "subject to death"
+      },
+      {
+        "term": "mortuary",
+        "meaning": "a place where bodies are kept"
+      },
+      {
+        "term": "mortgage",
+        "meaning": "literally a ‘dead pledge’"
+      }
+    ],
+    "synonyms": [
+      "dying",
+      "declining",
+      "stagnant",
+      "on its last legs"
+    ],
+    "note": "The opposite of nascent.",
+    "category": "ideas"
+  },
+  {
+    "id": "vicarious",
+    "term": "vicarious",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "vy-KAIR-ee-us",
+    "definition": "Experienced indirectly, by imagining or watching someone else’s experience.",
+    "example": "I’m living vicariously through your travel photos while I’m stuck at my desk.",
+    "etymology": "From Latin vicarius, ‘substitute, deputy’, from vicis (change, turn, place). A vicar was originally a substitute standing in for someone else; a vicarious experience stands in for your own.",
+    "root": {
+      "form": "vicis",
+      "language": "Latin",
+      "meaning": "change, turn, stead"
+    },
+    "relatedWords": [
+      {
+        "term": "vicar",
+        "meaning": "a priest, originally a deputy"
+      },
+      {
+        "term": "vicissitude",
+        "meaning": "a change of circumstances"
+      },
+      {
+        "term": "vice versa",
+        "meaning": "the other way round, with the position turned"
+      }
+    ],
+    "synonyms": [
+      "secondhand",
+      "indirect",
+      "surrogate"
+    ],
+    "note": "Most common as the adverb ‘vicariously’.",
+    "category": "ideas"
+  },
+  {
+    "id": "bucolic",
+    "term": "bucolic",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "byoo-KOL-ik",
+    "definition": "Relating to the pleasant, peaceful side of country life.",
+    "example": "Our weekend was very bucolic: cows, a pub, and not a single notification.",
+    "etymology": "From Latin bucolicus, from Greek boukolikos, from boukolos (cowherd), from bous (ox, cow). It first described pastoral poetry about herdsmen, like Theocritus’ and Virgil’s.",
+    "root": {
+      "form": "bous",
+      "language": "Greek",
+      "meaning": "ox, cow"
+    },
+    "relatedWords": [
+      {
+        "term": "butter",
+        "meaning": "from Greek boutyron, ‘cow cheese’"
+      },
+      {
+        "term": "bulimia",
+        "meaning": "from Greek, literally ‘ox hunger’"
+      }
+    ],
+    "synonyms": [
+      "rural",
+      "pastoral",
+      "rustic",
+      "idyllic"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "limbo",
+    "term": "limbo",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "LIM-boh",
+    "definition": "An uncertain state of waiting where nothing is decided or progressing.",
+    "example": "My visa application has been in limbo for four months.",
+    "etymology": "From the Latin phrase in limbo, from limbus (edge, border). In medieval Catholic theology, Limbo was a region at the edge of Hell for souls who did not deserve punishment but could not enter Heaven. The limbo dance comes from a different, Caribbean source.",
+    "root": {
+      "form": "limbus",
+      "language": "Latin",
+      "meaning": "edge, border"
+    },
+    "relatedWords": [
+      {
+        "term": "limbus",
+        "meaning": "in anatomy, a border, such as the edge of the cornea"
+      }
+    ],
+    "synonyms": [
+      "uncertainty",
+      "suspension",
+      "no man’s land",
+      "holding pattern"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "doldrums",
+    "term": "doldrums",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "DOHL-drumz",
+    "definition": "A period of inactivity, stagnation or low spirits.",
+    "example": "The housing market’s been in the doldrums all year.",
+    "etymology": "Origin uncertain. It may come from an old word dold (dull, stupid) with an ending like that of ‘tantrum’. It first meant a state of low spirits in the early 19th century, then was applied to the windless zone near the equator where sailing ships got stuck.",
+    "root": null,
+    "relatedWords": [],
+    "synonyms": [
+      "stagnation",
+      "slump",
+      "lull",
+      "inertia"
+    ],
+    "note": "Usually ‘in the doldrums’.",
+    "category": "ideas"
+  },
+  {
+    "id": "odyssey",
+    "term": "odyssey",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "OD-ih-see",
+    "definition": "A long, eventful journey or experience.",
+    "example": "Getting my passport renewed was an odyssey: three offices, two months.",
+    "etymology": "From Greek Odysseia, Homer’s epic poem about Odysseus, who took ten years and many adventures to get home after the Trojan War. The name became a general word for a long wandering journey in the 19th century.",
+    "root": {
+      "form": "Odysseus",
+      "language": "Greek",
+      "meaning": "the hero of Homer’s Odyssey"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "journey",
+      "trek",
+      "saga",
+      "quest"
+    ],
+    "note": "Often used humorously for a frustrating errand.",
+    "category": "ideas"
+  },
+  {
+    "id": "chimera",
+    "term": "chimera",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "ky-MEER-uh",
+    "definition": "Something hoped for that is an illusion or impossible to achieve.",
+    "example": "A completely stress-free wedding is a chimera. Something always goes wrong.",
+    "etymology": "From Greek khimaira, ‘she-goat’, the name of a fire-breathing monster with a lion’s head, goat’s body and serpent’s tail, killed by the hero Bellerophon. Because such a creature couldn’t exist, the word came to mean a wild fancy or illusion.",
+    "root": {
+      "form": "khimaira",
+      "language": "Greek",
+      "meaning": "she-goat"
+    },
+    "relatedWords": [
+      {
+        "term": "chimerical",
+        "meaning": "imaginary, fanciful"
+      }
+    ],
+    "synonyms": [
+      "illusion",
+      "fantasy",
+      "pipe dream",
+      "mirage"
+    ],
+    "note": "In biology it means an organism containing genetically different cells.",
+    "category": "ideas"
+  },
+  {
+    "id": "sisyphean",
+    "term": "sisyphean",
+    "kind": "word",
+    "partOfSpeech": "adjective",
+    "pronunciation": "sis-ih-FEE-un",
+    "definition": "Describing a task that is endless and futile, because it never stays done.",
+    "example": "Keeping the house tidy with two toddlers is a sisyphean job.",
+    "etymology": "From Sisyphus, a legendary king of Corinth whom the gods punished for his trickery by making him roll a boulder up a hill in the underworld, only for it to roll back down every time, forever.",
+    "root": {
+      "form": "Sisyphus",
+      "language": "Greek",
+      "meaning": "a mythical king punished with endless labor"
+    },
+    "relatedWords": [],
+    "synonyms": [
+      "futile",
+      "endless",
+      "thankless",
+      "never-ending"
+    ],
+    "note": "Often capitalized: Sisyphean.",
+    "category": "ideas"
+  },
+  {
+    "id": "palimpsest",
+    "term": "palimpsest",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "PAL-imp-sest",
+    "definition": "Something reused or altered that still shows traces of its earlier forms.",
+    "example": "This city is a palimpsest: Roman walls, medieval streets, then a Starbucks on top.",
+    "etymology": "From Greek palimpsēstos, ‘scraped again’, from palin (again) + psēstos (rubbed smooth). Parchment was expensive, so scribes scraped off old writing and reused it; the earlier text often remained faintly visible, and scholars have recovered lost works this way.",
+    "root": {
+      "form": "palin",
+      "language": "Greek",
+      "meaning": "again"
+    },
+    "relatedWords": [
+      {
+        "term": "palindrome",
+        "meaning": "a word that ‘runs back again’ the same way"
+      },
+      {
+        "term": "palinode",
+        "meaning": "a poem retracting an earlier one"
+      }
+    ],
+    "synonyms": [
+      "layering",
+      "overlay"
+    ],
+    "note": null,
+    "category": "ideas"
+  },
+  {
+    "id": "pastiche",
+    "term": "pastiche",
+    "kind": "word",
+    "partOfSpeech": "noun",
+    "pronunciation": "pa-STEESH",
+    "definition": "A work that imitates another style, or mixes bits from several sources.",
+    "example": "The film’s a pastiche of 80s horror movies, and it’s having so much fun with it.",
+    "etymology": "From French pastiche, from Italian pasticcio, ‘a pie or pasty’ made of mixed ingredients, from Late Latin pasta (paste, dough). It was first used of paintings and operas cobbled together from various sources.",
+    "root": {
+      "form": "pasta",
+      "language": "Late Latin",
+      "meaning": "paste, dough"
+    },
+    "relatedWords": [
+      {
+        "term": "paste",
+        "meaning": "a soft, moist mixture"
+      },
+      {
+        "term": "pastry",
+        "meaning": "baked dough"
+      },
+      {
+        "term": "pasta",
+        "meaning": "Italian dough products"
+      }
+    ],
+    "synonyms": [
+      "imitation",
+      "homage",
+      "medley",
+      "hodgepodge"
+    ],
+    "note": "Unlike parody, pastiche usually imitates affectionately rather than mockingly.",
+    "category": "ideas"
+  }
+]

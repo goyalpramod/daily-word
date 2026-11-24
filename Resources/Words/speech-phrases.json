@@ -1,0 +1,3665 @@
+[
+  {
+    "id": "by-the-same-token",
+    "term": "by the same token",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "For the same reason; following the same logic, used to apply one point to a parallel case.",
+    "example": "If we’re cutting his budget, then by the same token we should cut ours too.",
+    "etymology": "A ‘token’ (Old English tācn) was a sign or piece of evidence. Late Middle English ‘by this token’ meant ‘by this sign’ or ‘as proof of this’; ‘by the same token’ came to mean ‘on the same evidence’, hence ‘for the same reason’.",
+    "root": {
+      "form": "tācn",
+      "language": "Old English",
+      "meaning": "sign, mark, evidence"
+    },
+    "relatedWords": [
+      {
+        "term": "likewise",
+        "meaning": "in the same way"
+      },
+      {
+        "term": "by extension",
+        "meaning": "applying the same idea more broadly"
+      },
+      {
+        "term": "token",
+        "meaning": "a sign or symbol of something"
+      }
+    ],
+    "synonyms": [
+      "similarly",
+      "likewise",
+      "correspondingly"
+    ],
+    "note": "Use it only when the second point genuinely follows the same logic as the first. It is not a general-purpose ‘also’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "that-being-said",
+    "term": "that being said",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Even so; used to introduce a point that qualifies or contrasts with what was just said.",
+    "example": "The pay isn’t great. That being said, I’ve learned more here in a year than anywhere else.",
+    "etymology": "An ‘absolute construction’: a noun plus a participle standing apart from the main clause, a pattern English borrowed from the Latin ablative absolute. Literally ‘that thing having been said’, it signals ‘now, granting that...’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "having said that",
+        "meaning": "a close variant with the same meaning"
+      },
+      {
+        "term": "be that as it may",
+        "meaning": "more formal way to concede and move on"
+      },
+      {
+        "term": "all the same",
+        "meaning": "nevertheless"
+      }
+    ],
+    "synonyms": [
+      "even so",
+      "nevertheless",
+      "having said that",
+      "still"
+    ],
+    "note": "Both ‘that being said’ and ‘that said’ are fine. It works best after you’ve given something its due, right before the ‘but’. Used every other sentence, it starts to sound like a verbal tic.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-put-it-another-way",
+    "term": "to put it another way",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to restate an idea in different, usually clearer or blunter, words.",
+    "example": "We’re spending more than we earn. To put it another way, we’re running out of money.",
+    "etymology": "‘Put’ has meant ‘to express in words’ since the 16th century (as in ‘how shall I put this?’). The phrase is an infinitive used as a framing comment on the speaker’s own words.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "in other words",
+        "meaning": "introducing a rephrasing"
+      },
+      {
+        "term": "that is to say",
+        "meaning": "more formal way to clarify"
+      },
+      {
+        "term": "to put it bluntly",
+        "meaning": "restating without softening"
+      }
+    ],
+    "synonyms": [
+      "in other words",
+      "that is",
+      "put differently"
+    ],
+    "note": "Good for a second try when your first explanation didn’t land. Often the rephrasing is blunter, so it can soften the blow by signaling that you’re only clarifying.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-a-nutshell",
+    "term": "in a nutshell",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In very few words; briefly summarized.",
+    "example": "In a nutshell, the client loved the design but hated the price.",
+    "etymology": "Pliny the Elder reported that Cicero had seen a copy of Homer’s Iliad written so small it fit inside a nutshell. By the 17th century English used ‘in a nutshell’ to mean ‘in a very small compass’, and later ‘summed up briefly’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "in short",
+        "meaning": "briefly"
+      },
+      {
+        "term": "the long and short of it",
+        "meaning": "the essential gist"
+      },
+      {
+        "term": "to cut a long story short",
+        "meaning": "skipping the details"
+      }
+    ],
+    "synonyms": [
+      "in short",
+      "in brief",
+      "to sum up",
+      "basically"
+    ],
+    "note": "Casual and friendly. In formal writing, ‘in short’ or ‘in sum’ sounds more polished.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "for-what-its-worth",
+    "term": "for what it’s worth",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to offer an opinion or fact modestly, without claiming it is important or decisive.",
+    "example": "For what it’s worth, I thought your presentation was the strongest one today.",
+    "etymology": "The phrase offers something ‘for whatever value it has’, leaving the listener to judge its worth. ‘Worth’ comes from Old English weorþ, ‘value, price’. It has been used as a modest disclaimer since at least the 19th century.",
+    "root": {
+      "form": "weorþ",
+      "language": "Old English",
+      "meaning": "value, price"
+    },
+    "relatedWords": [
+      {
+        "term": "for the record",
+        "meaning": "stating something so it is noted"
+      },
+      {
+        "term": "if you ask me",
+        "meaning": "offering a personal opinion"
+      },
+      {
+        "term": "worthwhile",
+        "meaning": "worth the time or effort"
+      }
+    ],
+    "synonyms": [
+      "if it helps",
+      "for the record",
+      "in my humble opinion"
+    ],
+    "note": "Often abbreviated FWIW in texts. It softens advice or praise nicely, but if you use it before a strong criticism it can sound falsely modest.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "on-balance",
+    "term": "on balance",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "After weighing up all the arguments for and against.",
+    "example": "There are risks, sure, but on balance I think we should take the offer.",
+    "etymology": "‘Balance’ comes via Old French from Late Latin bilanx, ‘having two scale pans’ (bi- ‘two’ + lanx ‘dish’). The phrase pictures weighing the pros and cons on a pair of scales and seeing which way they tip, much like a bookkeeper’s balance of accounts.",
+    "root": {
+      "form": "bilanx",
+      "language": "Latin",
+      "meaning": "having two scale pans"
+    },
+    "relatedWords": [
+      {
+        "term": "all things considered",
+        "meaning": "taking everything into account"
+      },
+      {
+        "term": "weigh up",
+        "meaning": "to consider carefully"
+      },
+      {
+        "term": "counterbalance",
+        "meaning": "to offset with an equal weight"
+      }
+    ],
+    "synonyms": [
+      "all things considered",
+      "overall",
+      "on the whole"
+    ],
+    "note": "It signals that you’ve thought about both sides, so it makes a conclusion sound measured rather than impulsive.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "be-that-as-it-may",
+    "term": "be that as it may",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Even if that is true; used to acknowledge a point and then set it aside.",
+    "example": "You may be right that the deadline is unfair. Be that as it may, we still have to hit it.",
+    "etymology": "A fossil of the old English subjunctive mood: ‘be that as it may’ means ‘let that be however it may be’. The inverted word order and the bare ‘be’ (not ‘is’) are traces of how English expressed wishes and concessions in Middle English.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "that being said",
+        "meaning": "conceding before a contrast"
+      },
+      {
+        "term": "come what may",
+        "meaning": "whatever happens (another fossil subjunctive)"
+      },
+      {
+        "term": "so be it",
+        "meaning": "let it be so"
+      }
+    ],
+    "synonyms": [
+      "nevertheless",
+      "even so",
+      "regardless",
+      "all the same"
+    ],
+    "note": "Slightly formal. It concedes a point without agreeing that it matters, so be careful: it can sound dismissive in a heated conversation.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "as-it-were",
+    "term": "as it were",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to signal that a word or phrase is meant figuratively or isn’t quite the exact term.",
+    "example": "She’s the glue, as it were, that holds this team together.",
+    "etymology": "Uses the old subjunctive ‘were’: literally ‘as if it were (so)’. It has served since Middle English much like Latin quasi (‘as if’), flagging that the speaker is speaking loosely or metaphorically.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "so to speak",
+        "meaning": "flagging a figurative expression"
+      },
+      {
+        "term": "if you will",
+        "meaning": "inviting the listener to accept a term"
+      },
+      {
+        "term": "quasi",
+        "meaning": "seemingly; as if (Latin)"
+      }
+    ],
+    "synonyms": [
+      "so to speak",
+      "in a manner of speaking",
+      "if you will"
+    ],
+    "note": "Put it right after the figurative word, not at the end of a long sentence. Don’t confuse it with ‘as it was’, which means ‘as things were then’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "if-im-being-candid",
+    "term": "if I’m being candid",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to introduce an honest, frank opinion, often one the listener may not want to hear.",
+    "example": "If I’m being candid, I don’t think this plan is ready to show the board.",
+    "etymology": "‘Candid’ comes from Latin candidus, ‘shining white, pure’. Roman candidates for office wore whitened togas (hence ‘candidate’), and the sense moved from ‘pure’ to ‘free from bias’ to ‘frank and open’ in English by the 17th–18th centuries.",
+    "root": {
+      "form": "candidus",
+      "language": "Latin",
+      "meaning": "shining white, pure"
+    },
+    "relatedWords": [
+      {
+        "term": "candor",
+        "meaning": "open, honest frankness"
+      },
+      {
+        "term": "candidate",
+        "meaning": "from the white togas worn by Roman office-seekers"
+      },
+      {
+        "term": "to be honest",
+        "meaning": "a more casual equivalent"
+      },
+      {
+        "term": "frankly",
+        "meaning": "openly and directly"
+      }
+    ],
+    "synonyms": [
+      "to be honest",
+      "frankly",
+      "in all honesty",
+      "truth be told"
+    ],
+    "note": "Sounds more considered than ‘to be honest’, which some listeners hear as implying you weren’t honest before. Save it for things that genuinely need frankness.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-that-end",
+    "term": "to that end",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In order to achieve that goal; for that purpose.",
+    "example": "We want to ship by March. To that end, I’ve cleared everyone’s calendars on Fridays.",
+    "etymology": "‘End’ here means ‘purpose or goal’, a sense of Old English ende also seen in ‘a means to an end’. It mirrors Latin finis, which meant both ‘limit’ and ‘aim’.",
+    "root": {
+      "form": "ende",
+      "language": "Old English",
+      "meaning": "end, limit, purpose"
+    },
+    "relatedWords": [
+      {
+        "term": "a means to an end",
+        "meaning": "something done only to achieve a goal"
+      },
+      {
+        "term": "with this in mind",
+        "meaning": "keeping this goal in view"
+      },
+      {
+        "term": "to this end",
+        "meaning": "variant referring to a goal just stated"
+      }
+    ],
+    "synonyms": [
+      "for that purpose",
+      "with that aim",
+      "accordingly"
+    ],
+    "note": "Use it right after you state a goal, then describe the action. Without a clear goal in the previous sentence, it dangles.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-hindsight",
+    "term": "in hindsight",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Looking back on an event with the understanding you have now, but didn’t have then.",
+    "example": "In hindsight, launching the week before the holidays was a terrible idea.",
+    "etymology": "‘Hindsight’ first appeared in the mid-19th century as the rear sight on a rifle barrel. By the 1860s–80s it was used figuratively, by contrast with ‘foresight’, for seeing clearly what happened after the fact.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "in retrospect",
+        "meaning": "looking back on the past"
+      },
+      {
+        "term": "foresight",
+        "meaning": "the ability to anticipate the future"
+      },
+      {
+        "term": "hindsight is 20/20",
+        "meaning": "it’s easy to see mistakes afterwards"
+      }
+    ],
+    "synonyms": [
+      "in retrospect",
+      "looking back",
+      "with hindsight"
+    ],
+    "note": "‘With hindsight’ is more common in British English, ‘in hindsight’ in American; both are correct.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "by-and-large",
+    "term": "by and large",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "On the whole; generally speaking, allowing for exceptions.",
+    "example": "By and large, people were happy with the move to a four-day week.",
+    "etymology": "A 17th-century sailing term. Sailing ‘by’ meant heading close into the wind; sailing ‘large’ meant with the wind from behind or abeam. A ship that handled well ‘by and large’ did well on all points of sailing, so the phrase came to mean ‘in general’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "on the whole",
+        "meaning": "in general"
+      },
+      {
+        "term": "for the most part",
+        "meaning": "mostly"
+      },
+      {
+        "term": "at large",
+        "meaning": "in general; also, free and uncaught"
+      }
+    ],
+    "synonyms": [
+      "generally",
+      "on the whole",
+      "overall",
+      "for the most part"
+    ],
+    "note": "Signals a fair generalization while leaving room for exceptions, which makes claims sound more careful.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "all-things-considered",
+    "term": "all things considered",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Taking every relevant factor into account.",
+    "example": "All things considered, the trip went pretty well, even with the lost luggage.",
+    "etymology": "An absolute construction, literally ‘all things having been considered’. ‘Consider’ comes from Latin considerare, possibly from con- + sidus ‘star’, originally perhaps ‘to observe the stars’, though that origin is not certain.",
+    "root": {
+      "form": "considerare",
+      "language": "Latin",
+      "meaning": "to examine, look at closely"
+    },
+    "relatedWords": [
+      {
+        "term": "on balance",
+        "meaning": "after weighing pros and cons"
+      },
+      {
+        "term": "when all is said and done",
+        "meaning": "in the end"
+      },
+      {
+        "term": "considerate",
+        "meaning": "thoughtful of others"
+      }
+    ],
+    "synonyms": [
+      "on balance",
+      "overall",
+      "on the whole",
+      "everything considered"
+    ],
+    "note": "Often used to sound gracious about a mixed result: it acknowledges the problems while landing on the positive.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "the-crux-of-the-matter",
+    "term": "the crux of the matter",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "The most important or decisive point of an issue.",
+    "example": "The crux of the matter is that nobody actually owns this project.",
+    "etymology": "Latin crux means ‘cross’. In the 17th–18th centuries scholars used ‘crux’ for a puzzling, torturous difficulty, especially a corrupt passage in a text (crux interpretum). From ‘hardest point’ it shifted to ‘central, decisive point’.",
+    "root": {
+      "form": "crux",
+      "language": "Latin",
+      "meaning": "cross"
+    },
+    "relatedWords": [
+      {
+        "term": "crucial",
+        "meaning": "decisive, of great importance"
+      },
+      {
+        "term": "crucible",
+        "meaning": "a severe test (via Medieval Latin)"
+      },
+      {
+        "term": "the heart of the matter",
+        "meaning": "the central issue"
+      }
+    ],
+    "synonyms": [
+      "the heart of the matter",
+      "the key point",
+      "the nub",
+      "the bottom line"
+    ],
+    "note": "‘Crucial’ is related in sense: Francis Bacon’s ‘instantia crucis’ (a crossroads test) gave us ‘crucial’. Use ‘crux’ for the one thing everything hinges on, not just any important point.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "with-all-due-respect",
+    "term": "with all due respect",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "A polite formula used before disagreeing with or criticizing someone.",
+    "example": "With all due respect, I don’t think you’ve seen the latest numbers.",
+    "etymology": "‘Due’ (from Old French deu, ‘owed’, from Latin debere ‘to owe’) means ‘owed, appropriate’. The phrase promises to give the listener the respect they are owed, even while contradicting them.",
+    "root": {
+      "form": "debere",
+      "language": "Latin",
+      "meaning": "to owe"
+    },
+    "relatedWords": [
+      {
+        "term": "I beg to differ",
+        "meaning": "politely disagreeing"
+      },
+      {
+        "term": "debt",
+        "meaning": "something owed"
+      },
+      {
+        "term": "duty",
+        "meaning": "what one owes to others"
+      }
+    ],
+    "synonyms": [
+      "respectfully",
+      "I beg to differ",
+      "if I may"
+    ],
+    "note": "It so reliably precedes disagreement that it can sound passive-aggressive. Tone matters; ‘I see it differently’ is often gentler.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "i-take-your-point",
+    "term": "I take your point",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "I understand and accept what you’re saying, though I may not fully agree.",
+    "example": "I take your point about the cost, but I still think it’s worth trying.",
+    "etymology": "‘Take’ here means ‘accept or understand’, a sense found in phrases like ‘take my meaning’. ‘Point’ comes via Old French from Latin punctum, ‘a prick, a dot’, and has meant ‘the main idea of an argument’ since Middle English.",
+    "root": {
+      "form": "punctum",
+      "language": "Latin",
+      "meaning": "a prick, a dot"
+    },
+    "relatedWords": [
+      {
+        "term": "point taken",
+        "meaning": "a shorter, more clipped version"
+      },
+      {
+        "term": "fair point",
+        "meaning": "acknowledging a valid argument"
+      },
+      {
+        "term": "punctuate",
+        "meaning": "to mark with points"
+      }
+    ],
+    "synonyms": [
+      "point taken",
+      "fair point",
+      "I see what you mean"
+    ],
+    "note": "More common in British English. It acknowledges an argument gracefully and is often followed by ‘but’. It does not mean you’ve changed your mind.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "point-taken",
+    "term": "point taken",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "I accept your point (often said when being corrected or criticized).",
+    "example": "Okay, point taken. I’ll stop scheduling meetings at 8 a.m.",
+    "etymology": "A clipped absolute construction: ‘(your) point (is) taken’. ‘Take’ here means ‘receive, accept’. It became a common conversational reply in the 20th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "I take your point",
+        "meaning": "fuller, more formal version"
+      },
+      {
+        "term": "fair enough",
+        "meaning": "accepting something as reasonable"
+      },
+      {
+        "term": "noted",
+        "meaning": "I’ve registered that"
+      }
+    ],
+    "synonyms": [
+      "fair enough",
+      "noted",
+      "understood",
+      "message received"
+    ],
+    "note": "Said briskly, it can sound curt, as if you want the topic closed. A warmer tone (or adding ‘thanks’) makes it gracious.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "fair-enough",
+    "term": "fair enough",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to accept that something is reasonable, even if you don’t fully agree or like it.",
+    "example": "You’d rather not drive at night? Fair enough, we’ll leave early.",
+    "etymology": "‘Fair’ comes from Old English fæger, ‘beautiful, pleasing’. The sense ‘just, reasonable’ developed in Middle English. ‘Fair enough’ as a stand-alone reply (‘that is reasonable enough’) is a 20th-century colloquialism.",
+    "root": {
+      "form": "fæger",
+      "language": "Old English",
+      "meaning": "beautiful, pleasing"
+    },
+    "relatedWords": [
+      {
+        "term": "point taken",
+        "meaning": "accepting someone’s argument"
+      },
+      {
+        "term": "to be fair",
+        "meaning": "conceding a balancing point"
+      },
+      {
+        "term": "fair play",
+        "meaning": "honest, just conduct"
+      }
+    ],
+    "synonyms": [
+      "okay",
+      "that’s reasonable",
+      "point taken",
+      "sure"
+    ],
+    "note": "Casual. It concedes without much enthusiasm, so in a sensitive conversation it can sound a bit flat; ‘that makes sense’ sounds warmer.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-be-fair",
+    "term": "to be fair",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to add a point that balances a criticism or makes a judgment more just.",
+    "example": "The food was slow. To be fair, they were completely packed.",
+    "etymology": "An infinitive used as a comment on one’s own statement, like ‘to be honest’. ‘Fair’ in the sense ‘just, impartial’ developed from Old English fæger, ‘pleasing’.",
+    "root": {
+      "form": "fæger",
+      "language": "Old English",
+      "meaning": "beautiful, pleasing"
+    },
+    "relatedWords": [
+      {
+        "term": "in fairness",
+        "meaning": "a more formal variant"
+      },
+      {
+        "term": "to give him his due",
+        "meaning": "acknowledging someone’s merit"
+      },
+      {
+        "term": "fair enough",
+        "meaning": "accepting as reasonable"
+      }
+    ],
+    "synonyms": [
+      "in fairness",
+      "in all fairness",
+      "admittedly"
+    ],
+    "note": "A great way to show balance in an argument. Overused (especially ‘to be fair’ before every sentence), it loses its force.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "thats-a-fair-point-but",
+    "term": "that’s a fair point, but",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "A gracious way to acknowledge someone’s argument before offering a counterpoint.",
+    "example": "That’s a fair point, but if we wait for perfect data we’ll never decide.",
+    "etymology": "A modern conversational formula combining ‘fair’ (just, reasonable, from Old English fæger) with ‘point’ (from Latin punctum). It follows the classic rhetorical move of concessio: grant something to your opponent, then press your own case.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "I take your point",
+        "meaning": "acknowledging an argument"
+      },
+      {
+        "term": "granted",
+        "meaning": "conceding a point"
+      },
+      {
+        "term": "yes, and",
+        "meaning": "building on rather than opposing an idea"
+      }
+    ],
+    "synonyms": [
+      "granted, but",
+      "I take your point, but",
+      "true, but"
+    ],
+    "note": "It only works if you mean the ‘fair point’ part; if you immediately dismiss it, people hear it as a hollow ‘yes, but’. Briefly engaging with their point first makes it sincere.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-other-words",
+    "term": "in other words",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to introduce a simpler or clearer restatement of what was just said.",
+    "example": "The company is ‘right-sizing’. In other words, people are getting laid off.",
+    "etymology": "Literally ‘expressed in different words’. The phrase has been used since at least the 16th century to introduce a paraphrase, parallel to Latin ‘aliis verbis’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "that is to say",
+        "meaning": "clarifying what was meant"
+      },
+      {
+        "term": "i.e.",
+        "meaning": "Latin id est, ‘that is’"
+      },
+      {
+        "term": "to put it another way",
+        "meaning": "rephrasing an idea"
+      }
+    ],
+    "synonyms": [
+      "that is",
+      "to put it another way",
+      "namely",
+      "i.e."
+    ],
+    "note": "Like ‘i.e.’, it introduces a restatement of the same thing, not an example. For examples, use ‘for instance’ or ‘e.g.’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "case-in-point",
+    "term": "case in point",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "An example that illustrates or proves the point being discussed.",
+    "example": "Our app crashes on older phones. Case in point: my dad’s, which can’t even open it.",
+    "etymology": "‘In point’ meant ‘pertinent, relevant’, from French à point, ‘to the point’. A ‘case in point’ (17th century, from legal language) was a precedent case directly relevant to the matter at hand.",
+    "root": {
+      "form": "punctum",
+      "language": "Latin",
+      "meaning": "a point, a dot"
+    },
+    "relatedWords": [
+      {
+        "term": "to the point",
+        "meaning": "relevant, concise"
+      },
+      {
+        "term": "for instance",
+        "meaning": "giving an example"
+      },
+      {
+        "term": "pertinent",
+        "meaning": "relevant to the matter"
+      }
+    ],
+    "synonyms": [
+      "for example",
+      "a good example",
+      "as proof"
+    ],
+    "note": "Not ‘case and point’, which is a common mishearing. Use it for an example that clinches your argument, not just any example.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "by-extension",
+    "term": "by extension",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Taking the same reasoning one step further, to include a wider group or consequence.",
+    "example": "The CEO approved the plan, so by extension the whole leadership team owns it.",
+    "etymology": "‘Extension’ comes from Latin extendere, ‘to stretch out’ (ex- ‘out’ + tendere ‘to stretch’). The phrase pictures an idea being stretched to cover more ground, a sense used in logic and grammar for a word’s meaning widening.",
+    "root": {
+      "form": "tendere",
+      "language": "Latin",
+      "meaning": "to stretch"
+    },
+    "relatedWords": [
+      {
+        "term": "by the same token",
+        "meaning": "for the same reason"
+      },
+      {
+        "term": "extend",
+        "meaning": "to stretch out or enlarge"
+      },
+      {
+        "term": "by implication",
+        "meaning": "as is suggested though not stated"
+      }
+    ],
+    "synonyms": [
+      "consequently",
+      "by implication",
+      "in turn"
+    ],
+    "note": "Use it when the second claim really follows from the first. If the link is weak, listeners will notice the logical leap.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-lieu-of",
+    "term": "in lieu of",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Instead of; in place of.",
+    "example": "In lieu of flowers, the family has asked for donations to the hospice.",
+    "etymology": "Borrowed from French, where lieu means ‘place’ (from Latin locus). ‘In lieu of’ is literally ‘in place of’. The same word appears in ‘lieutenant’, one who holds a place for (stands in for) a superior.",
+    "root": {
+      "form": "locus",
+      "language": "Latin",
+      "meaning": "place"
+    },
+    "relatedWords": [
+      {
+        "term": "lieutenant",
+        "meaning": "one who acts in place of a superior"
+      },
+      {
+        "term": "locale",
+        "meaning": "a place where something happens"
+      },
+      {
+        "term": "in place of",
+        "meaning": "instead of"
+      }
+    ],
+    "synonyms": [
+      "instead of",
+      "in place of",
+      "rather than"
+    ],
+    "note": "Pronounced ‘in LOO of’. It does not mean ‘in light of’ (because of); ‘in lieu of the rain, we stayed in’ is a common mistake.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "on-the-other-hand",
+    "term": "on the other hand",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to introduce a contrasting point or a different way of looking at something.",
+    "example": "The city job pays more. On the other hand, I’d never see my kids.",
+    "etymology": "Pictures weighing two options, one held in each hand. It traditionally pairs with ‘on the one hand’ and has been used this way since the 17th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "on the one hand",
+        "meaning": "introduces the first of two contrasting points"
+      },
+      {
+        "term": "conversely",
+        "meaning": "in the opposite way"
+      },
+      {
+        "term": "by contrast",
+        "meaning": "showing a difference"
+      }
+    ],
+    "synonyms": [
+      "conversely",
+      "by contrast",
+      "then again",
+      "however"
+    ],
+    "note": "You don’t need ‘on the one hand’ first, but don’t use ‘on the other hand’ just to add a similar point; it must contrast. Also note: ‘on the contrary’ contradicts, while ‘on the other hand’ just offers another side.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "having-said-that",
+    "term": "having said that",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Despite what I’ve just said; used to introduce a contrasting or qualifying point.",
+    "example": "I’m not a fan of horror films. Having said that, the new one was brilliant.",
+    "etymology": "A perfect participle clause (‘having said that [thing]’) used as a sentence connector. It became widespread in British speech in the late 20th century as a way to pivot to a counterpoint.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "that being said",
+        "meaning": "a near-identical connector"
+      },
+      {
+        "term": "that said",
+        "meaning": "the shortest form"
+      },
+      {
+        "term": "mind you",
+        "meaning": "used to add a qualifying remark"
+      }
+    ],
+    "synonyms": [
+      "that said",
+      "even so",
+      "nevertheless",
+      "still"
+    ],
+    "note": "Strict grammarians call it a dangling participle (who did the saying?), but it is standard idiomatic English in speech and most writing.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-be-sure",
+    "term": "to be sure",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Admittedly; used to concede a point before making a contrasting one.",
+    "example": "It’s expensive, to be sure, but it’ll last you twenty years.",
+    "etymology": "Originally an emphatic ‘certainly, without doubt’ (16th century onward). In modern usage it mostly works as a concession marker: you grant a point ‘for sure’ and then pivot with ‘but’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "admittedly",
+        "meaning": "conceding something is true"
+      },
+      {
+        "term": "granted",
+        "meaning": "accepting a point"
+      },
+      {
+        "term": "to be fair",
+        "meaning": "adding a balancing point"
+      }
+    ],
+    "synonyms": [
+      "admittedly",
+      "granted",
+      "certainly",
+      "of course"
+    ],
+    "note": "Sounds slightly literary or formal in American speech. Don’t confuse it with ‘to make sure’ (to check); ‘to be sure’ here is a comment, not an instruction.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "at-the-end-of-the-day",
+    "term": "at the end of the day",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "When everything is taken into account; ultimately.",
+    "example": "At the end of the day, it’s your money, so it’s your call.",
+    "etymology": "A metaphor from the close of a working day, when results are tallied. It became hugely popular in the second half of the 20th century, especially in British speech.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "when all is said and done",
+        "meaning": "in the final reckoning"
+      },
+      {
+        "term": "in the final analysis",
+        "meaning": "ultimately"
+      },
+      {
+        "term": "ultimately",
+        "meaning": "in the end"
+      }
+    ],
+    "synonyms": [
+      "ultimately",
+      "in the end",
+      "when all is said and done",
+      "in the final analysis"
+    ],
+    "note": "It regularly tops polls of the most irritating clichés. Fine in casual talk, but in a speech or essay ‘ultimately’ sounds sharper.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-point-of-fact",
+    "term": "in point of fact",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Actually; used to introduce a correction or emphasize what is really true.",
+    "example": "People think he founded the company. In point of fact, he joined two years later.",
+    "etymology": "‘In point of’ meant ‘in the matter of, with regard to’ in 17th-century English. ‘In point of fact’ is thus ‘in the matter of fact’, as opposed to opinion or assumption, and was common in legal language.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "as a matter of fact",
+        "meaning": "actually"
+      },
+      {
+        "term": "in fact",
+        "meaning": "the shorter, everyday form"
+      },
+      {
+        "term": "case in point",
+        "meaning": "a relevant example"
+      }
+    ],
+    "synonyms": [
+      "in fact",
+      "actually",
+      "as a matter of fact",
+      "in reality"
+    ],
+    "note": "More formal and emphatic than ‘in fact’. It suits correcting a misconception politely.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "for-all-intents-and-purposes",
+    "term": "for all intents and purposes",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In every practical sense; virtually.",
+    "example": "The deal isn’t signed, but for all intents and purposes it’s done.",
+    "etymology": "From English legal language: an Act of Parliament in 1546 used the wording ‘to all intents, constructions and purposes’. Over time it simplified to ‘to all intents and purposes’ (still the usual British form) and, in America, ‘for all intents and purposes’.",
+    "root": {
+      "form": "intendere",
+      "language": "Latin",
+      "meaning": "to stretch toward, aim at"
+    },
+    "relatedWords": [
+      {
+        "term": "to all intents and purposes",
+        "meaning": "the British form"
+      },
+      {
+        "term": "effectively",
+        "meaning": "in effect, practically"
+      },
+      {
+        "term": "de facto",
+        "meaning": "in practice, whether or not officially"
+      }
+    ],
+    "synonyms": [
+      "virtually",
+      "practically",
+      "effectively",
+      "in effect"
+    ],
+    "note": "Never ‘for all intensive purposes’, a famous eggcorn. In tight writing, ‘effectively’ or ‘virtually’ often does the same job in one word.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "so-to-speak",
+    "term": "so to speak",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to show that a word or phrase isn’t meant entirely literally.",
+    "example": "Moving in with my in-laws was, so to speak, a baptism by fire.",
+    "etymology": "Literally ‘if one may speak so’. It parallels Latin ‘ut ita dicam’ (‘so that I may say thus’) and French ‘pour ainsi dire’, and has been used in English since the 17th century to flag figurative language.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "as it were",
+        "meaning": "flagging a loose or figurative term"
+      },
+      {
+        "term": "in a manner of speaking",
+        "meaning": "in a way, loosely"
+      },
+      {
+        "term": "if you will",
+        "meaning": "if you’ll allow the expression"
+      }
+    ],
+    "synonyms": [
+      "as it were",
+      "in a manner of speaking",
+      "if you will",
+      "figuratively"
+    ],
+    "note": "Use it to flag a metaphor or pun, not after ordinary literal statements. It can also gently mark an intentional pun.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-a-manner-of-speaking",
+    "term": "in a manner of speaking",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In some sense, though not exactly or literally.",
+    "example": "Is she your boss? In a manner of speaking. She runs the project, not the department.",
+    "etymology": "‘Manner’ comes via Anglo-Norman from Latin manuarius, ‘of the hand’ (manus), hence ‘way of handling’. The phrase means ‘in one way of putting it’, admitting that the description is loose.",
+    "root": {
+      "form": "manus",
+      "language": "Latin",
+      "meaning": "hand"
+    },
+    "relatedWords": [
+      {
+        "term": "so to speak",
+        "meaning": "flagging a figurative expression"
+      },
+      {
+        "term": "in a sense",
+        "meaning": "in one way of looking at it"
+      },
+      {
+        "term": "manual",
+        "meaning": "done by hand"
+      }
+    ],
+    "synonyms": [
+      "so to speak",
+      "in a sense",
+      "in a way",
+      "sort of"
+    ],
+    "note": "Handy as a polite hedge when a yes-or-no answer would be misleading.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-some-extent",
+    "term": "to some extent",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Partly; to a certain degree but not completely.",
+    "example": "I agree with you to some extent, but I think you’re underestimating the risk.",
+    "etymology": "‘Extent’ comes from Anglo-Norman extente, from Latin extendere ‘to stretch out’. In medieval law an ‘extent’ was a valuation of land; the general sense ‘degree, scope’ followed.",
+    "root": {
+      "form": "extendere",
+      "language": "Latin",
+      "meaning": "to stretch out"
+    },
+    "relatedWords": [
+      {
+        "term": "to a certain extent",
+        "meaning": "a close variant"
+      },
+      {
+        "term": "up to a point",
+        "meaning": "partly but not fully"
+      },
+      {
+        "term": "extensive",
+        "meaning": "covering a large area"
+      }
+    ],
+    "synonyms": [
+      "partly",
+      "to a degree",
+      "up to a point",
+      "somewhat"
+    ],
+    "note": "A useful hedge for partial agreement. Follow it with what you don’t agree with, otherwise it sounds evasive.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "up-to-a-point",
+    "term": "up to a point",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Partly, but not completely; true only within limits.",
+    "example": "Working from home is great up to a point. After a month I missed people.",
+    "etymology": "Pictures a scale or line along which something holds true only until a certain ‘point’. ‘Point’ comes from Latin punctum, ‘a prick, a dot’. The phrase is often used as a dry, polite way of disagreeing.",
+    "root": {
+      "form": "punctum",
+      "language": "Latin",
+      "meaning": "a prick, a dot"
+    },
+    "relatedWords": [
+      {
+        "term": "to some extent",
+        "meaning": "partly"
+      },
+      {
+        "term": "within limits",
+        "meaning": "only to a certain degree"
+      },
+      {
+        "term": "up to a point, Lord Copper",
+        "meaning": "a British catchphrase from Evelyn Waugh’s ‘Scoop’ meaning ‘no’"
+      }
+    ],
+    "synonyms": [
+      "partly",
+      "to some extent",
+      "within limits",
+      "somewhat"
+    ],
+    "note": "In British English, ‘up to a point’ alone can be a polite way of saying ‘not really’, thanks to Evelyn Waugh’s novel ‘Scoop’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-a-sense",
+    "term": "in a sense",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In one particular way of looking at it, though not in every way.",
+    "example": "In a sense, losing that client was the best thing that happened to us.",
+    "etymology": "‘Sense’ comes from Latin sensus, ‘perception, meaning’, from sentire ‘to feel’. ‘In a sense’ means ‘in one meaning or interpretation’, marking a claim as valid from a certain angle.",
+    "root": {
+      "form": "sentire",
+      "language": "Latin",
+      "meaning": "to feel, perceive"
+    },
+    "relatedWords": [
+      {
+        "term": "in a way",
+        "meaning": "to some extent"
+      },
+      {
+        "term": "in a manner of speaking",
+        "meaning": "loosely speaking"
+      },
+      {
+        "term": "sentiment",
+        "meaning": "a feeling or view"
+      }
+    ],
+    "synonyms": [
+      "in a way",
+      "in one respect",
+      "to some extent"
+    ],
+    "note": "It invites the listener to see a surprising angle. Briefly say which sense you mean, or it can sound vague.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "more-or-less",
+    "term": "more or less",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Approximately; almost but not exactly.",
+    "example": "We’re more or less done. I just need to send the final file.",
+    "etymology": "Found in English since the 13th century, it parallels French ‘plus ou moins’ and Latin ‘plus minusve’. It pairs opposites to indicate a value somewhere near the stated one.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "give or take",
+        "meaning": "approximately, allowing a small difference"
+      },
+      {
+        "term": "by and large",
+        "meaning": "generally"
+      },
+      {
+        "term": "roughly",
+        "meaning": "approximately"
+      }
+    ],
+    "synonyms": [
+      "approximately",
+      "roughly",
+      "pretty much",
+      "give or take"
+    ],
+    "note": "It can soften a commitment (‘more or less finished’), so be careful using it about deadlines if precision matters.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "if-anything",
+    "term": "if anything",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to suggest that the truth may be the opposite of what was expected, or slightly more so.",
+    "example": "The new version isn’t slower. If anything, it’s a bit faster.",
+    "etymology": "Short for ‘if (there is) anything (to be said)’. It hedges a statement by implying ‘if there is any difference at all, it goes this way’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "on the contrary",
+        "meaning": "the opposite is true"
+      },
+      {
+        "term": "if not",
+        "meaning": "possibly even"
+      },
+      {
+        "term": "rather",
+        "meaning": "more accurately"
+      }
+    ],
+    "synonyms": [
+      "if there’s any difference",
+      "on the contrary",
+      "rather"
+    ],
+    "note": "Perfect for gently correcting an assumption: ‘Did the trip tire you out?’ ‘If anything, I came back with more energy.’",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "not-to-mention",
+    "term": "not to mention",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to add another point, often a stronger one, that further supports what you’re saying.",
+    "example": "It’s a great neighborhood: cheap rent, good schools, not to mention the parks.",
+    "etymology": "A classic example of the rhetorical device called apophasis or paralipsis: emphasizing something by claiming you won’t mention it. ‘Mention’ comes from Latin mentio, ‘a calling to mind’.",
+    "root": {
+      "form": "mentio",
+      "language": "Latin",
+      "meaning": "a calling to mind"
+    },
+    "relatedWords": [
+      {
+        "term": "let alone",
+        "meaning": "used after a negative to add a stronger case"
+      },
+      {
+        "term": "to say nothing of",
+        "meaning": "a more formal variant"
+      },
+      {
+        "term": "apophasis",
+        "meaning": "mentioning something by saying you won’t"
+      }
+    ],
+    "synonyms": [
+      "to say nothing of",
+      "as well as",
+      "besides",
+      "plus"
+    ],
+    "note": "Used after positive lists. After a negative, ‘let alone’ is usually the better choice.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "let-alone",
+    "term": "let alone",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "And even less so; used after a negative to say a further thing is even less likely.",
+    "example": "I can barely afford rent, let alone a holiday in Bali.",
+    "etymology": "‘Let’ comes from Old English lǣtan, ‘to leave, allow’. ‘Let alone’ literally meant ‘leave aside, not to speak of’, and from the 19th century became a conjunction meaning ‘much less’.",
+    "root": {
+      "form": "lǣtan",
+      "language": "Old English",
+      "meaning": "to leave, allow"
+    },
+    "relatedWords": [
+      {
+        "term": "much less",
+        "meaning": "even less so"
+      },
+      {
+        "term": "never mind",
+        "meaning": "informal equivalent, mainly British"
+      },
+      {
+        "term": "not to mention",
+        "meaning": "adding a further point"
+      }
+    ],
+    "synonyms": [
+      "much less",
+      "never mind",
+      "still less"
+    ],
+    "note": "Normally follows a negative statement, and the bigger, less likely item comes second: ‘I can’t boil an egg, let alone cook a roast’, not the reverse.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "as-a-matter-of-course",
+    "term": "as a matter of course",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "As a normal, expected part of a procedure; routinely.",
+    "example": "We check references as a matter of course, so don’t take it personally.",
+    "etymology": "‘Course’ here means ‘the regular order of things’ (Latin cursus, ‘a running’). ‘A matter of course’ (17th century) is something that follows naturally in the ordinary run of events.",
+    "root": {
+      "form": "cursus",
+      "language": "Latin",
+      "meaning": "a running, course"
+    },
+    "relatedWords": [
+      {
+        "term": "of course",
+        "meaning": "naturally, certainly"
+      },
+      {
+        "term": "routinely",
+        "meaning": "as a regular practice"
+      },
+      {
+        "term": "matter-of-fact",
+        "meaning": "unemotional and practical"
+      }
+    ],
+    "synonyms": [
+      "routinely",
+      "automatically",
+      "as standard practice",
+      "naturally"
+    ],
+    "note": "Handy for reassuring someone that a procedure isn’t aimed at them personally.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-the-final-analysis",
+    "term": "in the final analysis",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "When everything has been examined and considered; ultimately.",
+    "example": "In the final analysis, it’s the customer who decides whether we succeed.",
+    "etymology": "Probably a calque of French ‘en dernière analyse’. ‘Analysis’ comes from Greek analusis, ‘a loosening up, breaking apart’ (ana- ‘up’ + luein ‘to loosen’), suggesting the conclusion reached after taking a problem fully apart.",
+    "root": {
+      "form": "analusis",
+      "language": "Greek",
+      "meaning": "a loosening, breaking up"
+    },
+    "relatedWords": [
+      {
+        "term": "in the last analysis",
+        "meaning": "a variant"
+      },
+      {
+        "term": "at the end of the day",
+        "meaning": "a casual equivalent"
+      },
+      {
+        "term": "analyze",
+        "meaning": "to examine in detail"
+      }
+    ],
+    "synonyms": [
+      "ultimately",
+      "in the end",
+      "when all is said and done"
+    ],
+    "note": "More formal and less clichéd than ‘at the end of the day’. Good for summing up in a meeting or essay.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "first-and-foremost",
+    "term": "first and foremost",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Most importantly; above all else.",
+    "example": "First and foremost, I want to thank everyone who stayed late this week.",
+    "etymology": "‘Foremost’ is from Old English formest, a superlative of forma ‘first’. It only later got respelled as if it were ‘fore + most’. So the phrase is really a doubling, ‘first and first’, used for emphasis since the 15th century.",
+    "root": {
+      "form": "formest",
+      "language": "Old English",
+      "meaning": "first, earliest"
+    },
+    "relatedWords": [
+      {
+        "term": "above all",
+        "meaning": "most importantly"
+      },
+      {
+        "term": "last but not least",
+        "meaning": "used for the final item in a list"
+      },
+      {
+        "term": "foremost",
+        "meaning": "leading, most important"
+      }
+    ],
+    "synonyms": [
+      "above all",
+      "most importantly",
+      "primarily",
+      "chiefly"
+    ],
+    "note": "It’s technically redundant, but that’s the point: emphasis. Use it for what genuinely matters most, not as a fancy ‘first’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "last-but-not-least",
+    "term": "last but not least",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to introduce the final item in a list while stressing it is no less important.",
+    "example": "And last but not least, a huge thank you to Priya, who organized all of this.",
+    "etymology": "The idea goes back at least to the 16th century: in Shakespeare’s Julius Caesar, Mark Antony says ‘Though last, not least in love’, and King Lear uses a similar turn about Cordelia. The fixed wording ‘last but not least’ was well established by the 18th century.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "first and foremost",
+        "meaning": "most importantly, first"
+      },
+      {
+        "term": "finally",
+        "meaning": "lastly"
+      },
+      {
+        "term": "by no means least",
+        "meaning": "a formal variant"
+      }
+    ],
+    "synonyms": [
+      "finally",
+      "lastly",
+      "and finally"
+    ],
+    "note": "Warm in introductions and thank-yous, but it’s a cliché. In formal writing, ‘finally’ is cleaner.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-the-same-vein",
+    "term": "in the same vein",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In a similar style, mood, or direction as what came before.",
+    "example": "In the same vein, we should probably rethink how we onboard new hires.",
+    "etymology": "‘Vein’ comes from Latin vena, ‘blood vessel’. It also came to mean a seam of ore in rock, and from there a ‘streak’ of character, mood, or style running through something.",
+    "root": {
+      "form": "vena",
+      "language": "Latin",
+      "meaning": "blood vessel"
+    },
+    "relatedWords": [
+      {
+        "term": "along those lines",
+        "meaning": "similar in kind"
+      },
+      {
+        "term": "similarly",
+        "meaning": "in a similar way"
+      },
+      {
+        "term": "venous",
+        "meaning": "relating to the veins"
+      }
+    ],
+    "synonyms": [
+      "similarly",
+      "along the same lines",
+      "likewise"
+    ],
+    "note": "Spelled ‘vein’, not ‘vain’ or ‘vane’. Use it to link a new point to one of the same kind or tone.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "along-those-lines",
+    "term": "along those lines",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Similar to what has been mentioned; of roughly that kind.",
+    "example": "We could do a food truck, a pop-up, or something along those lines.",
+    "etymology": "‘Line’ (from Latin linea, ‘linen thread’) came to mean a direction or course of thought, as in ‘line of reasoning’. Something ‘along those lines’ follows roughly the same direction.",
+    "root": {
+      "form": "linea",
+      "language": "Latin",
+      "meaning": "linen thread, line"
+    },
+    "relatedWords": [
+      {
+        "term": "in the same vein",
+        "meaning": "in a similar style"
+      },
+      {
+        "term": "something like that",
+        "meaning": "a casual equivalent"
+      },
+      {
+        "term": "line of thought",
+        "meaning": "a connected train of ideas"
+      }
+    ],
+    "synonyms": [
+      "something like that",
+      "of that sort",
+      "similar"
+    ],
+    "note": "Useful for brainstorming: it shows you mean an idea’s general direction, not its exact details.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "on-that-note",
+    "term": "on that note",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to move to a related topic, or to end a conversation on the tone just set.",
+    "example": "And on that note, I think it’s time we wrapped up for today.",
+    "etymology": "A musical metaphor: a ‘note’ (Latin nota, ‘mark, sign’) is a single tone, and ending ‘on a high note’ means finishing on a high pitch. ‘On that note’ means ‘continuing from (or ending with) that tone’.",
+    "root": {
+      "form": "nota",
+      "language": "Latin",
+      "meaning": "mark, sign"
+    },
+    "relatedWords": [
+      {
+        "term": "on a high note",
+        "meaning": "on a positive, successful ending"
+      },
+      {
+        "term": "speaking of which",
+        "meaning": "moving to a related topic"
+      },
+      {
+        "term": "notation",
+        "meaning": "a system of written signs"
+      }
+    ],
+    "synonyms": [
+      "speaking of which",
+      "with that",
+      "that brings me to"
+    ],
+    "note": "Great for graceful exits from meetings or toasts. ‘On a lighter note’ signals a shift from serious to cheerful.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "speaking-of-which",
+    "term": "speaking of which",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to introduce a new topic that is connected to something just mentioned.",
+    "example": "We should book the venue soon. Speaking of which, has anyone heard back from the caterer?",
+    "etymology": "A participle phrase meaning ‘since we are speaking of that thing’. Like ‘talking of’, it became a standard conversational bridge in the 19th–20th centuries.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "on that note",
+        "meaning": "continuing in a related direction"
+      },
+      {
+        "term": "incidentally",
+        "meaning": "by the way"
+      },
+      {
+        "term": "that reminds me",
+        "meaning": "introducing a related thought"
+      }
+    ],
+    "synonyms": [
+      "that reminds me",
+      "on that note",
+      "incidentally",
+      "by the way"
+    ],
+    "note": "Use it when there’s a real link to the previous topic; for a completely unrelated topic, ‘by the way’ or ‘on a different note’ is more honest.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-cut-a-long-story-short",
+    "term": "to cut a long story short",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to skip the details and get to the main point or outcome.",
+    "example": "To cut a long story short, we missed the flight and ended up driving.",
+    "etymology": "A straightforward metaphor of trimming a tale; versions appear in English from the 17th century. British English prefers ‘to cut a long story short’, American English ‘to make a long story short’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "long story short",
+        "meaning": "casual clipped form"
+      },
+      {
+        "term": "in a nutshell",
+        "meaning": "briefly"
+      },
+      {
+        "term": "the long and short of it",
+        "meaning": "the essence"
+      }
+    ],
+    "synonyms": [
+      "in short",
+      "long story short",
+      "in a nutshell",
+      "basically"
+    ],
+    "note": "Ironically, people often say it and then keep going for five minutes. Use it, then actually be brief.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "the-long-and-short-of-it",
+    "term": "the long and short of it",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "The essential point or basic facts of a situation, without the details.",
+    "example": "The long and short of it is that we need another developer.",
+    "etymology": "Recorded from the 16th century, originally often as ‘the short and the long of it’ (Shakespeare uses this in The Merry Wives of Windsor). It means ‘the whole of it, whether told long or short’, and so ‘the gist’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "in a nutshell",
+        "meaning": "in brief"
+      },
+      {
+        "term": "the gist",
+        "meaning": "the general meaning"
+      },
+      {
+        "term": "the bottom line",
+        "meaning": "the essential point"
+      }
+    ],
+    "synonyms": [
+      "the gist",
+      "the bottom line",
+      "the upshot",
+      "in short"
+    ],
+    "note": "Casual and a bit old-fashioned in tone. ‘The upshot is’ is a neutral alternative.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "i-see-where-youre-coming-from",
+    "term": "I see where you’re coming from",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "I understand your point of view and the reasons behind it.",
+    "example": "I see where you’re coming from, but I think the timing is just wrong.",
+    "etymology": "‘Where you’re coming from’ meaning ‘your point of view or background’ arose in American colloquial speech in the 1960s–70s, picturing a person’s perspective as the place they set out from.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "I take your point",
+        "meaning": "I accept your argument"
+      },
+      {
+        "term": "I hear you",
+        "meaning": "I understand your feelings"
+      },
+      {
+        "term": "point of view",
+        "meaning": "a particular way of seeing things"
+      }
+    ],
+    "synonyms": [
+      "I understand your view",
+      "I hear you",
+      "I take your point",
+      "I get it"
+    ],
+    "note": "A warm way to validate someone before disagreeing. It acknowledges their reasons, not that they’re right.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "i-beg-to-differ",
+    "term": "I beg to differ",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "A polite, slightly formal way of saying you disagree.",
+    "example": "You think nobody reads the newsletter? I beg to differ: half my emails are replies to it.",
+    "etymology": "‘Beg’ here is the polite formula of asking permission, as in ‘I beg your pardon’ or ‘I beg leave to’. Literally ‘I ask (your permission) to differ’. ‘Differ’ comes from Latin differre, ‘to carry apart’ (dis- + ferre).",
+    "root": {
+      "form": "differre",
+      "language": "Latin",
+      "meaning": "to carry apart, be different"
+    },
+    "relatedWords": [
+      {
+        "term": "with all due respect",
+        "meaning": "polite lead-in to disagreement"
+      },
+      {
+        "term": "difference",
+        "meaning": "a way in which things are unlike"
+      },
+      {
+        "term": "I beg your pardon",
+        "meaning": "another ‘beg’ politeness formula"
+      }
+    ],
+    "synonyms": [
+      "I disagree",
+      "I see it differently",
+      "respectfully, no"
+    ],
+    "note": "Often said with a smile and a touch of irony. ‘Beg the question’ is unrelated: it originally means assuming what you are trying to prove.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "i-couldnt-agree-more",
+    "term": "I couldn’t agree more",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "I agree completely.",
+    "example": "We need fewer meetings, not more. I couldn’t agree more.",
+    "etymology": "A conditional negative: it is impossible for me to agree any more than I already do, so my agreement is total. ‘Agree’ comes from Old French agréer, ‘to please’, from à gré ‘to one’s liking’ (Latin gratus, ‘pleasing’).",
+    "root": {
+      "form": "gratus",
+      "language": "Latin",
+      "meaning": "pleasing, thankful"
+    },
+    "relatedWords": [
+      {
+        "term": "absolutely",
+        "meaning": "completely"
+      },
+      {
+        "term": "hear, hear",
+        "meaning": "expression of strong agreement in a speech"
+      },
+      {
+        "term": "agreeable",
+        "meaning": "pleasant; willing to agree"
+      }
+    ],
+    "synonyms": [
+      "absolutely",
+      "exactly",
+      "I completely agree",
+      "hear, hear"
+    ],
+    "note": "The same logic explains why ‘I couldn’t care less’ (I care not at all) is correct and ‘I could care less’ doesn’t literally make sense, though it’s common in American speech.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "with-regard-to",
+    "term": "with regard to",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Concerning; about; in relation to.",
+    "example": "With regard to the budget, we’ve got a bit more room than we thought.",
+    "etymology": "‘Regard’ comes from French regarder, ‘to look at’, from re- + garder ‘to watch, guard’. ‘With regard to’ literally means ‘looking toward’, i.e. ‘turning attention to’.",
+    "root": {
+      "form": "regarder",
+      "language": "French",
+      "meaning": "to look at"
+    },
+    "relatedWords": [
+      {
+        "term": "regarding",
+        "meaning": "about, concerning"
+      },
+      {
+        "term": "in regard to",
+        "meaning": "a variant"
+      },
+      {
+        "term": "as regards",
+        "meaning": "concerning"
+      },
+      {
+        "term": "disregard",
+        "meaning": "to ignore"
+      }
+    ],
+    "synonyms": [
+      "regarding",
+      "concerning",
+      "about",
+      "as for"
+    ],
+    "note": "Use singular ‘regard’: ‘with regards to’ and ‘in regards to’ are widely considered errors. ‘Regards’ (plural) belongs in sign-offs like ‘Kind regards’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "as-far-as-is-concerned",
+    "term": "as far as ... is concerned",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to specify which topic or person a statement applies to.",
+    "example": "As far as I’m concerned, the matter’s closed.",
+    "etymology": "‘Concern’ comes from Medieval Latin concernere, ‘to relate to’ (Late Latin ‘to sift together’). The phrase limits a statement to the extent that a certain thing is involved.",
+    "root": {
+      "form": "concernere",
+      "language": "Medieval Latin",
+      "meaning": "to relate to"
+    },
+    "relatedWords": [
+      {
+        "term": "as for",
+        "meaning": "with regard to"
+      },
+      {
+        "term": "in terms of",
+        "meaning": "with respect to"
+      },
+      {
+        "term": "concerning",
+        "meaning": "about"
+      }
+    ],
+    "synonyms": [
+      "as for",
+      "regarding",
+      "when it comes to",
+      "in my view (for ‘as far as I’m concerned’)"
+    ],
+    "note": "Don’t drop the ending: ‘As far as the budget, we’re fine’ is common but widely criticized. Say ‘As far as the budget is concerned’ or simply ‘As for the budget’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "insofar-as",
+    "term": "insofar as",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "To the extent that.",
+    "example": "I’m happy to help, insofar as I can without stepping on anyone’s toes.",
+    "etymology": "A compression of ‘in so far as’, recorded from the 16th century. It literally limits a statement to ‘in as far as’ something is true. Americans usually write it as one word, British writers often as ‘in so far as’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "inasmuch as",
+        "meaning": "since, because; or to the extent that"
+      },
+      {
+        "term": "to the extent that",
+        "meaning": "a plainer equivalent"
+      },
+      {
+        "term": "as far as",
+        "meaning": "to the degree that"
+      }
+    ],
+    "synonyms": [
+      "to the extent that",
+      "in that",
+      "as far as"
+    ],
+    "note": "Use it to set a limit on a claim. Don’t say ‘insofar that’. ‘Inasmuch as’ mostly means ‘because’, so the two aren’t always interchangeable.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-light-of",
+    "term": "in light of",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Because of; taking into consideration a particular fact.",
+    "example": "In light of what happened last time, maybe we should get it in writing.",
+    "etymology": "Light has long stood for knowledge and understanding. To see something ‘in the light of’ new facts (17th century onward) is to view it as illuminated by them.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "in view of",
+        "meaning": "considering"
+      },
+      {
+        "term": "given",
+        "meaning": "taking into account"
+      },
+      {
+        "term": "shed light on",
+        "meaning": "to help explain"
+      }
+    ],
+    "synonyms": [
+      "given",
+      "in view of",
+      "considering",
+      "because of"
+    ],
+    "note": "British English often says ‘in the light of’. Don’t confuse it with ‘in lieu of’, which means ‘instead of’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "by-virtue-of",
+    "term": "by virtue of",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Because of; as a result of having a particular quality or status.",
+    "example": "By virtue of being the oldest, she always ended up babysitting.",
+    "etymology": "‘Virtue’ comes from Latin virtus, ‘manliness, excellence, power’ (from vir, ‘man’). In older English ‘virtue’ also meant inherent power or efficacy (the ‘virtue’ of a herb), so ‘by virtue of’ meant ‘by the power of’.",
+    "root": {
+      "form": "virtus",
+      "language": "Latin",
+      "meaning": "excellence, power, manliness"
+    },
+    "relatedWords": [
+      {
+        "term": "virtually",
+        "meaning": "in effect, almost (originally ‘in essence or power’)"
+      },
+      {
+        "term": "virtuoso",
+        "meaning": "a highly skilled performer"
+      },
+      {
+        "term": "virile",
+        "meaning": "manly, strong"
+      },
+      {
+        "term": "on account of",
+        "meaning": "because of"
+      }
+    ],
+    "synonyms": [
+      "because of",
+      "owing to",
+      "on account of",
+      "by dint of"
+    ],
+    "note": "Formal. It fits causes that come from a quality or position (‘by virtue of her experience’), less so random events.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-the-interest-of",
+    "term": "in the interest of",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "For the sake of; in order to benefit or achieve something.",
+    "example": "In the interest of time, let’s skip the intros and get to the demo.",
+    "etymology": "‘Interest’ comes from Latin interesse, ‘to be between, to make a difference, to matter’ (inter ‘between’ + esse ‘to be’). Something in your interest is something that matters to you or benefits you.",
+    "root": {
+      "form": "interesse",
+      "language": "Latin",
+      "meaning": "to be between, to matter"
+    },
+    "relatedWords": [
+      {
+        "term": "in the interests of",
+        "meaning": "a common variant"
+      },
+      {
+        "term": "for the sake of",
+        "meaning": "for the benefit of"
+      },
+      {
+        "term": "self-interest",
+        "meaning": "concern for one’s own advantage"
+      }
+    ],
+    "synonyms": [
+      "for the sake of",
+      "to save",
+      "for the benefit of"
+    ],
+    "note": "‘In the interest of time’ is a polite, efficient way to steer a meeting. ‘In the interest of full disclosure’ introduces a potential conflict of interest.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "needless-to-say",
+    "term": "needless to say",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Of course; as you would expect (used before stating something obvious).",
+    "example": "He showed up an hour late. Needless to say, the boss was not impressed.",
+    "etymology": "Literally ‘it is unnecessary to say (this)’, recorded from the 16th century. Like ‘it goes without saying’, it is a mild paradox: the speaker goes on to say it anyway, for emphasis.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "it goes without saying",
+        "meaning": "it is obvious"
+      },
+      {
+        "term": "of course",
+        "meaning": "naturally"
+      },
+      {
+        "term": "obviously",
+        "meaning": "clearly"
+      }
+    ],
+    "synonyms": [
+      "of course",
+      "naturally",
+      "obviously",
+      "unsurprisingly"
+    ],
+    "note": "Best for a result the listener can already guess, often with a touch of humor. Overused, it can sound condescending.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "it-goes-without-saying",
+    "term": "it goes without saying",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "It is so obvious that it hardly needs to be said.",
+    "example": "It goes without saying that you can call me anytime.",
+    "etymology": "A 19th-century calque of French ‘cela va sans dire’, literally ‘that goes without saying’. The French phrase was itself sometimes used in English before the translation took hold.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "needless to say",
+        "meaning": "of course"
+      },
+      {
+        "term": "cela va sans dire",
+        "meaning": "the French original"
+      },
+      {
+        "term": "self-evident",
+        "meaning": "obvious without proof"
+      }
+    ],
+    "synonyms": [
+      "obviously",
+      "of course",
+      "needless to say",
+      "naturally"
+    ],
+    "note": "Often used to say something warm that is worth saying anyway (‘It goes without saying we’re grateful’). Avoid it before something that isn’t actually obvious to the listener.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-say-the-least",
+    "term": "to say the least",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to signal that the reality is much more extreme than what you’ve just said.",
+    "example": "The first night in the new flat was eventful, to say the least.",
+    "etymology": "Literally ‘to say the minimum that can be said’. It is a form of understatement (meiosis): the speaker deliberately understates and flags that the truth is stronger.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "understatement",
+        "meaning": "presenting something as less than it is"
+      },
+      {
+        "term": "to put it mildly",
+        "meaning": "a close equivalent"
+      },
+      {
+        "term": "litotes",
+        "meaning": "understatement by denying the opposite (‘not bad’)"
+      }
+    ],
+    "synonyms": [
+      "to put it mildly",
+      "and that’s an understatement",
+      "at the very least"
+    ],
+    "note": "Works best with a deliberately mild word (‘interesting’, ‘eventful’) so the understatement is clear and often funny.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "if-you-will",
+    "term": "if you will",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to suggest a particular word or comparison is a bit unusual but apt.",
+    "example": "Think of the API as a waiter, if you will, taking orders between you and the kitchen.",
+    "etymology": "Short for ‘if you will (allow me to call it that)’. ‘Will’ here keeps its old meaning ‘wish, be willing’ (Old English willan), as in ‘if you will permit me’.",
+    "root": {
+      "form": "willan",
+      "language": "Old English",
+      "meaning": "to wish, want"
+    },
+    "relatedWords": [
+      {
+        "term": "as it were",
+        "meaning": "so to speak"
+      },
+      {
+        "term": "so to speak",
+        "meaning": "flagging a figure of speech"
+      },
+      {
+        "term": "willing",
+        "meaning": "ready to do something"
+      }
+    ],
+    "synonyms": [
+      "so to speak",
+      "as it were",
+      "if you like"
+    ],
+    "note": "Use it right after the unusual term or analogy. Sprinkled too often, it sounds pompous.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "to-my-mind",
+    "term": "to my mind",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In my opinion.",
+    "example": "To my mind, the second draft was actually stronger than the final one.",
+    "etymology": "‘Mind’ (Old English gemynd, ‘memory, thought’) has meant ‘opinion’ since Middle English, as in ‘to change one’s mind’. ‘To my mind’ means ‘according to my way of thinking’.",
+    "root": {
+      "form": "gemynd",
+      "language": "Old English",
+      "meaning": "memory, thought"
+    },
+    "relatedWords": [
+      {
+        "term": "in my view",
+        "meaning": "in my opinion"
+      },
+      {
+        "term": "to my way of thinking",
+        "meaning": "a fuller variant"
+      },
+      {
+        "term": "mindful",
+        "meaning": "aware, attentive"
+      }
+    ],
+    "synonyms": [
+      "in my opinion",
+      "in my view",
+      "as I see it",
+      "personally"
+    ],
+    "note": "A slightly more thoughtful-sounding alternative to ‘I think’, handy when you want to vary your phrasing in a discussion.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "as-i-understand-it",
+    "term": "as I understand it",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "According to my understanding, which may be incomplete.",
+    "example": "As I understand it, the new policy only applies to contractors.",
+    "etymology": "‘Understand’ is from Old English understandan, literally ‘to stand among or between’ (under here meaning ‘among’). The phrase marks information as secondhand or open to correction.",
+    "root": {
+      "form": "understandan",
+      "language": "Old English",
+      "meaning": "to stand among, comprehend"
+    },
+    "relatedWords": [
+      {
+        "term": "correct me if I’m wrong",
+        "meaning": "inviting correction"
+      },
+      {
+        "term": "from what I gather",
+        "meaning": "based on what I’ve heard"
+      },
+      {
+        "term": "understanding",
+        "meaning": "comprehension; an informal agreement"
+      }
+    ],
+    "synonyms": [
+      "from what I gather",
+      "as far as I know",
+      "if I understand correctly"
+    ],
+    "note": "A useful hedge that lets someone correct you without anyone losing face. Good in meetings when relaying information.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "correct-me-if-im-wrong",
+    "term": "correct me if I’m wrong",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to state something tentatively and invite correction.",
+    "example": "Correct me if I’m wrong, but didn’t we agree on Thursday?",
+    "etymology": "‘Correct’ comes from Latin corrigere, ‘to make straight’ (con- + regere, ‘to guide, rule’). The phrase is a politeness device: it softens a claim by explicitly inviting the listener to set it straight.",
+    "root": {
+      "form": "regere",
+      "language": "Latin",
+      "meaning": "to guide, rule, straighten"
+    },
+    "relatedWords": [
+      {
+        "term": "as I understand it",
+        "meaning": "by my understanding"
+      },
+      {
+        "term": "if memory serves",
+        "meaning": "if I remember correctly"
+      },
+      {
+        "term": "rectify",
+        "meaning": "to put right"
+      }
+    ],
+    "synonyms": [
+      "if I’m not mistaken",
+      "unless I’m mistaken",
+      "as I understand it"
+    ],
+    "note": "Sometimes used when the speaker is quite sure they’re right, as a soft way to point out someone else’s error. Tone decides whether it sounds humble or pointed.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "if-memory-serves",
+    "term": "if memory serves",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "If I remember correctly.",
+    "example": "If memory serves, the restaurant was just past the old train station.",
+    "etymology": "Short for ‘if my memory serves me (right/correctly)’. ‘Serve’ (Latin servire, ‘to be a servant’) here means ‘to be useful, to work as it should’.",
+    "root": {
+      "form": "servire",
+      "language": "Latin",
+      "meaning": "to serve, be a slave"
+    },
+    "relatedWords": [
+      {
+        "term": "if I recall correctly",
+        "meaning": "a plainer equivalent"
+      },
+      {
+        "term": "correct me if I’m wrong",
+        "meaning": "inviting correction"
+      },
+      {
+        "term": "serviceable",
+        "meaning": "usable, fit for purpose"
+      }
+    ],
+    "synonyms": [
+      "if I remember rightly",
+      "if I recall correctly",
+      "if I’m not mistaken"
+    ],
+    "note": "Slightly elegant and old-fashioned. ‘If memory serves me right’ is the fuller, equally correct form.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "by-all-means",
+    "term": "by all means",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Certainly; of course (used to give permission or encourage someone).",
+    "example": "Can I bring a friend? By all means, the more the merrier.",
+    "etymology": "‘Means’ here are methods or ways. ‘By all means’ originally meant ‘using every possible method, at any cost’, which softened into an emphatic ‘yes, certainly’.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "by no means",
+        "meaning": "not at all"
+      },
+      {
+        "term": "by any means",
+        "meaning": "in any way"
+      },
+      {
+        "term": "means to an end",
+        "meaning": "a method for achieving a goal"
+      }
+    ],
+    "synonyms": [
+      "certainly",
+      "of course",
+      "please do",
+      "absolutely"
+    ],
+    "note": "Its opposite is ‘by no means’ (‘not at all’). Gracious when granting a request; it sounds warmer than a plain ‘sure’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-all-likelihood",
+    "term": "in all likelihood",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Very probably.",
+    "example": "In all likelihood, we’ll have to push the launch to next quarter.",
+    "etymology": "‘Likelihood’ combines ‘likely’ (from Old Norse líkligr, ‘probable’) with the suffix -hood. ‘In all likelihood’ means ‘by every indication of probability’.",
+    "root": {
+      "form": "líkligr",
+      "language": "Old Norse",
+      "meaning": "likely, probable"
+    },
+    "relatedWords": [
+      {
+        "term": "in all probability",
+        "meaning": "a close variant"
+      },
+      {
+        "term": "odds are",
+        "meaning": "it’s likely"
+      },
+      {
+        "term": "likely",
+        "meaning": "probable"
+      }
+    ],
+    "synonyms": [
+      "very probably",
+      "most likely",
+      "in all probability",
+      "odds are"
+    ],
+    "note": "Sounds more measured than ‘definitely’ when you’re confident but not certain.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "on-the-face-of-it",
+    "term": "on the face of it",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Judging by how things first appear, though the reality may be different.",
+    "example": "On the face of it, it’s a great deal, but read the fine print.",
+    "etymology": "‘Face’ (via Old French from Latin facies, ‘appearance, form’) here means outward surface. The phrase parallels the Latin legal term prima facie, ‘at first appearance’.",
+    "root": {
+      "form": "facies",
+      "language": "Latin",
+      "meaning": "appearance, form, face"
+    },
+    "relatedWords": [
+      {
+        "term": "prima facie",
+        "meaning": "at first sight (legal Latin)"
+      },
+      {
+        "term": "at face value",
+        "meaning": "as it appears, without questioning"
+      },
+      {
+        "term": "superficial",
+        "meaning": "on the surface only"
+      }
+    ],
+    "synonyms": [
+      "at first glance",
+      "apparently",
+      "seemingly",
+      "superficially"
+    ],
+    "note": "It hints that a closer look may tell a different story, so it often comes before ‘but’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-effect",
+    "term": "in effect",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In practice, even if not officially or explicitly; also, (of a rule) currently valid.",
+    "example": "They didn’t fire him, but cutting his hours to zero was, in effect, the same thing.",
+    "etymology": "‘Effect’ comes from Latin effectus, ‘accomplishment, result’, from efficere ‘to work out, accomplish’. ‘In effect’ means ‘in its actual results’, as opposed to its form or name.",
+    "root": {
+      "form": "efficere",
+      "language": "Latin",
+      "meaning": "to accomplish, bring about"
+    },
+    "relatedWords": [
+      {
+        "term": "effectively",
+        "meaning": "in practice; also, successfully"
+      },
+      {
+        "term": "de facto",
+        "meaning": "in fact, if not by law"
+      },
+      {
+        "term": "take effect",
+        "meaning": "to come into force"
+      }
+    ],
+    "synonyms": [
+      "effectively",
+      "in practice",
+      "practically",
+      "virtually"
+    ],
+    "note": "Don’t confuse ‘effect’ (result, noun) with ‘affect’ (influence, verb). ‘In affect’ is always a misspelling.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-essence",
+    "term": "in essence",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Basically; with regard to the most important, fundamental features.",
+    "example": "In essence, they’re asking us to do twice the work for the same money.",
+    "etymology": "‘Essence’ comes from Latin essentia, formed from esse ‘to be’. Roman writers (Cicero is credited by Seneca) coined it to translate the Greek philosophical term ousia, ‘being, substance’.",
+    "root": {
+      "form": "esse",
+      "language": "Latin",
+      "meaning": "to be"
+    },
+    "relatedWords": [
+      {
+        "term": "essential",
+        "meaning": "absolutely necessary; fundamental"
+      },
+      {
+        "term": "quintessence",
+        "meaning": "the purest example of something"
+      },
+      {
+        "term": "essentially",
+        "meaning": "basically"
+      }
+    ],
+    "synonyms": [
+      "essentially",
+      "basically",
+      "fundamentally",
+      "in a nutshell"
+    ],
+    "note": "A crisper, more formal alternative to ‘basically’, which many people overuse.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "as-it-happens",
+    "term": "as it happens",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to introduce a fact that is surprising, coincidental, or relevant.",
+    "example": "As it happens, I know the owner. Let me give her a call.",
+    "etymology": "‘Happen’ comes from Middle English hap, ‘chance, luck’, from Old Norse happ. ‘As it happens’ means ‘as chance would have it’. The same root gives ‘happy’ (originally ‘lucky’) and ‘perhaps’.",
+    "root": {
+      "form": "happ",
+      "language": "Old Norse",
+      "meaning": "chance, luck"
+    },
+    "relatedWords": [
+      {
+        "term": "as luck would have it",
+        "meaning": "by chance"
+      },
+      {
+        "term": "happy",
+        "meaning": "originally ‘lucky’"
+      },
+      {
+        "term": "perhaps",
+        "meaning": "literally ‘by chances’"
+      },
+      {
+        "term": "haphazard",
+        "meaning": "lacking order, random"
+      }
+    ],
+    "synonyms": [
+      "as luck would have it",
+      "coincidentally",
+      "actually",
+      "by chance"
+    ],
+    "note": "Often introduces a mild contradiction (‘As it happens, I did read the report’), which can sound a little pointed.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "for-the-record",
+    "term": "for the record",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Used to state something clearly so it is officially known or noted.",
+    "example": "For the record, I was against this idea from the start.",
+    "etymology": "From official proceedings, where statements made ‘for the record’ were entered into the written transcript. ‘Record’ comes from Latin recordari, ‘to remember’ (re- + cor, cordis ‘heart’, the seat of memory).",
+    "root": {
+      "form": "recordari",
+      "language": "Latin",
+      "meaning": "to remember, call to mind"
+    },
+    "relatedWords": [
+      {
+        "term": "on the record",
+        "meaning": "said publicly and officially"
+      },
+      {
+        "term": "off the record",
+        "meaning": "said unofficially, not for publication"
+      },
+      {
+        "term": "by heart",
+        "meaning": "from memory (the same heart-memory idea)"
+      }
+    ],
+    "synonyms": [
+      "let me be clear",
+      "officially",
+      "just so you know"
+    ],
+    "note": "Can sound defensive (‘for the record, it wasn’t my fault’). In casual use it’s a light ‘just so you know’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "off-the-top-of-my-head",
+    "term": "off the top of my head",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Without careful thought or checking; based on what I can remember right now.",
+    "example": "Off the top of my head, I’d say we have about forty customers in Ohio.",
+    "etymology": "A mid-20th-century American expression. It pictures ideas taken from the very surface of the mind rather than from careful, deeper thought.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "offhand",
+        "meaning": "without preparation"
+      },
+      {
+        "term": "ballpark figure",
+        "meaning": "an approximate number"
+      },
+      {
+        "term": "impromptu",
+        "meaning": "done without preparation"
+      }
+    ],
+    "synonyms": [
+      "offhand",
+      "roughly",
+      "without checking",
+      "at a guess"
+    ],
+    "note": "A good hedge when you’re asked for a number on the spot. Promise to confirm later if accuracy matters.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "in-no-uncertain-terms",
+    "term": "in no uncertain terms",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Clearly and forcefully, leaving no doubt about what is meant.",
+    "example": "She told him in no uncertain terms that this was his last warning.",
+    "etymology": "A double negative used for emphasis (litotes): ‘in terms that are not uncertain’. ‘Term’ here means ‘word or expression’, from Latin terminus, ‘boundary, limit’, via the idea of words that define precisely.",
+    "root": {
+      "form": "terminus",
+      "language": "Latin",
+      "meaning": "boundary, limit"
+    },
+    "relatedWords": [
+      {
+        "term": "terminology",
+        "meaning": "the vocabulary of a field"
+      },
+      {
+        "term": "bluntly",
+        "meaning": "directly, without softening"
+      },
+      {
+        "term": "litotes",
+        "meaning": "understatement using a negative"
+      }
+    ],
+    "synonyms": [
+      "clearly",
+      "bluntly",
+      "emphatically",
+      "unequivocally"
+    ],
+    "note": "Usually describes how someone delivered a firm message, often a reprimand. It’s not ‘in no certain terms’, which reverses the meaning.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "vis-a-vis",
+    "term": "vis-à-vis",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "In relation to; with regard to; also, compared with.",
+    "example": "Where do we stand vis-à-vis the competition on price?",
+    "etymology": "French for ‘face to face’: vis is an old French word for ‘face’, from Latin visus ‘sight, appearance’ (videre, ‘to see’). It was used in English from the 18th century for a person facing another and a carriage with facing seats, before it became a preposition.",
+    "root": {
+      "form": "videre",
+      "language": "Latin",
+      "meaning": "to see"
+    },
+    "relatedWords": [
+      {
+        "term": "visage",
+        "meaning": "a person’s face"
+      },
+      {
+        "term": "face to face",
+        "meaning": "the literal translation"
+      },
+      {
+        "term": "with regard to",
+        "meaning": "concerning"
+      },
+      {
+        "term": "visible",
+        "meaning": "able to be seen"
+      }
+    ],
+    "synonyms": [
+      "regarding",
+      "in relation to",
+      "compared with",
+      "concerning"
+    ],
+    "note": "Pronounced ‘vee-zah-VEE’. Use it for relationships or comparisons; as a stand-in for a simple ‘about’ it can sound pretentious.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "per-se",
+    "term": "per se",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "By or in itself; intrinsically, considered on its own.",
+    "example": "I’m not against remote work per se. I just think this team needs to be in the same room.",
+    "etymology": "Latin per se, ‘by itself’ or ‘through itself’ (per ‘through, by’ + se ‘itself’). It came into English through philosophy and law in the 16th century to describe things considered intrinsically.",
+    "root": {
+      "form": "per se",
+      "language": "Latin",
+      "meaning": "by itself"
+    },
+    "relatedWords": [
+      {
+        "term": "intrinsically",
+        "meaning": "in its essential nature"
+      },
+      {
+        "term": "as such",
+        "meaning": "in the exact sense of the word"
+      },
+      {
+        "term": "ampersand",
+        "meaning": "from ‘and per se and’, ‘& by itself is and’"
+      }
+    ],
+    "synonyms": [
+      "in itself",
+      "as such",
+      "intrinsically",
+      "inherently"
+    ],
+    "note": "Use it to separate a thing itself from its circumstances: ‘Money isn’t evil per se.’ Using it as a vague ‘exactly’ or ‘necessarily’ (‘I’m not tired, per se’) is common but loose. Never spell it ‘per say’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "de-facto",
+    "term": "de facto",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Existing in practice or in fact, whether or not officially recognized.",
+    "example": "Nobody gave her the title, but she’s the de facto team lead.",
+    "etymology": "Latin for ‘from the fact’ or ‘in fact’ (de ‘from, concerning’ + facto, from factum ‘deed, fact’). Medieval and later legal writers contrasted it with de jure, ‘from the law’, meaning official or legal.",
+    "root": {
+      "form": "factum",
+      "language": "Latin",
+      "meaning": "a deed, a thing done"
+    },
+    "relatedWords": [
+      {
+        "term": "de jure",
+        "meaning": "by right or law; officially"
+      },
+      {
+        "term": "ipso facto",
+        "meaning": "by that very fact"
+      },
+      {
+        "term": "fait accompli",
+        "meaning": "a done deal"
+      },
+      {
+        "term": "fact",
+        "meaning": "a thing known to be true"
+      }
+    ],
+    "synonyms": [
+      "in practice",
+      "effectively",
+      "actual",
+      "unofficial"
+    ],
+    "note": "Its natural partner is ‘de jure’: a de facto ruler holds power, a de jure ruler holds the legal right. It can be an adjective (‘the de facto leader’) or adverb (‘she runs it de facto’).",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "ad-hoc",
+    "term": "ad hoc",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Created or done for a particular purpose as needed, rather than planned in advance.",
+    "example": "We don’t have a process for this, so we’ve been handling it ad hoc.",
+    "etymology": "Latin for ‘to this’ or ‘for this (purpose)’ (ad ‘to, toward’ + hoc ‘this’). An ad hoc committee was originally one set up for one specific task.",
+    "root": {
+      "form": "ad hoc",
+      "language": "Latin",
+      "meaning": "for this"
+    },
+    "relatedWords": [
+      {
+        "term": "improvised",
+        "meaning": "made up on the spot"
+      },
+      {
+        "term": "ad hominem",
+        "meaning": "directed at the person, not the argument"
+      },
+      {
+        "term": "makeshift",
+        "meaning": "temporary, improvised"
+      }
+    ],
+    "synonyms": [
+      "improvised",
+      "impromptu",
+      "as needed",
+      "makeshift"
+    ],
+    "note": "Neutral in origin, but in business talk ‘ad hoc’ often hints at ‘disorganized’. ‘An ad hoc fix’ implies it won’t last.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "status-quo",
+    "term": "status quo",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "The existing state of affairs, especially regarding social or political issues.",
+    "example": "Everyone complains about the system, but nobody wants to rock the status quo.",
+    "etymology": "Shortened from the Latin diplomatic phrase ‘in statu quo ante (bellum)’, ‘in the state in which (things were) before (the war)’. Status means ‘state, condition’, and quo is ‘in which’.",
+    "root": {
+      "form": "status",
+      "language": "Latin",
+      "meaning": "state, condition, standing"
+    },
+    "relatedWords": [
+      {
+        "term": "status quo ante",
+        "meaning": "the situation as it was before"
+      },
+      {
+        "term": "state",
+        "meaning": "condition"
+      },
+      {
+        "term": "statute",
+        "meaning": "a written law"
+      },
+      {
+        "term": "stasis",
+        "meaning": "a state of inactivity (from Greek)"
+      }
+    ],
+    "synonyms": [
+      "the existing situation",
+      "the way things are",
+      "the current state of affairs"
+    ],
+    "note": "No ‘the’ is needed in Latin, but in English we say ‘the status quo’. ‘Maintain’ or ‘challenge’ the status quo are the usual verbs. Avoid the redundant ‘current status quo’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "bona-fide",
+    "term": "bona fide",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Genuine; real; made or done in good faith, without deception.",
+    "example": "He’s a bona fide expert, not just some guy with a podcast.",
+    "etymology": "Latin for ‘in good faith’, the ablative case of bona fides (bonus ‘good’ + fides ‘faith, trust’). Originally a legal term for acts done honestly, it became an adjective meaning ‘genuine’.",
+    "root": {
+      "form": "fides",
+      "language": "Latin",
+      "meaning": "faith, trust"
+    },
+    "relatedWords": [
+      {
+        "term": "bona fides",
+        "meaning": "credentials proving someone is genuine"
+      },
+      {
+        "term": "fidelity",
+        "meaning": "faithfulness"
+      },
+      {
+        "term": "confide",
+        "meaning": "to trust someone with a secret"
+      },
+      {
+        "term": "mala fide",
+        "meaning": "in bad faith"
+      }
+    ],
+    "synonyms": [
+      "genuine",
+      "authentic",
+      "real",
+      "legitimate"
+    ],
+    "note": "‘Bona fides’ (with an s) is a noun meaning credentials or good faith, and is technically singular: ‘his bona fides is in order’. Many speakers treat it as plural, which is now widely accepted.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "quid-pro-quo",
+    "term": "quid pro quo",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "A favor or advantage given in return for something; an exchange.",
+    "example": "I’ll cover your shift if you cover mine next week. Quid pro quo.",
+    "etymology": "Latin for ‘something for something’ (quid ‘what, something’ + pro ‘for’ + quo ‘what’). In 16th-century English it first meant a substitution, especially an apothecary’s swapping one drug for another, and only later an exchange of favors.",
+    "root": {
+      "form": "quid",
+      "language": "Latin",
+      "meaning": "what, something"
+    },
+    "relatedWords": [
+      {
+        "term": "tit for tat",
+        "meaning": "retaliation in kind"
+      },
+      {
+        "term": "you scratch my back, I’ll scratch yours",
+        "meaning": "mutual favors"
+      },
+      {
+        "term": "reciprocity",
+        "meaning": "mutual exchange"
+      }
+    ],
+    "synonyms": [
+      "exchange",
+      "trade-off",
+      "give-and-take",
+      "reciprocal deal"
+    ],
+    "note": "In everyday speech it’s neutral, but in law and politics it often implies an improper deal, such as a favor in exchange for official action.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "carte-blanche",
+    "term": "carte blanche",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Complete freedom to act as you think best.",
+    "example": "They gave the designers carte blanche, and honestly, it shows.",
+    "etymology": "French for ‘blank paper’ (carte ‘paper, card’ + blanche ‘white, blank’). In the 17th century it referred to a signed blank sheet, for example terms of surrender, on which the holder could write whatever conditions they liked.",
+    "root": {
+      "form": "carte",
+      "language": "French",
+      "meaning": "paper, card"
+    },
+    "relatedWords": [
+      {
+        "term": "blank check",
+        "meaning": "unlimited freedom, especially with money"
+      },
+      {
+        "term": "free rein",
+        "meaning": "freedom of action"
+      },
+      {
+        "term": "chart",
+        "meaning": "from the same Latin charta, ‘paper’"
+      }
+    ],
+    "synonyms": [
+      "free rein",
+      "a free hand",
+      "a blank check",
+      "full authority"
+    ],
+    "note": "Usually ‘give someone carte blanche’ or ‘have carte blanche (to do something)’. Pronounced ‘kart BLONSH’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "faux-pas",
+    "term": "faux pas",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "An embarrassing social blunder or breach of etiquette.",
+    "example": "I called her by my ex’s name. Total faux pas.",
+    "etymology": "French for ‘false step’ (faux ‘false’ + pas ‘step’). Borrowed into English in the 17th century for a social misstep.",
+    "root": {
+      "form": "pas",
+      "language": "French",
+      "meaning": "step"
+    },
+    "relatedWords": [
+      {
+        "term": "gaffe",
+        "meaning": "an unintentional blunder"
+      },
+      {
+        "term": "pas de deux",
+        "meaning": "a dance for two (literally ‘step of two’)"
+      },
+      {
+        "term": "faux",
+        "meaning": "fake, imitation"
+      }
+    ],
+    "synonyms": [
+      "gaffe",
+      "blunder",
+      "slip",
+      "social misstep"
+    ],
+    "note": "Pronounced ‘foh PAH’. The plural is spelled the same (‘faux pas’) but pronounced ‘foh PAHZ’. It’s for social errors, not technical mistakes.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "raison-detre",
+    "term": "raison d’être",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "The most important reason or purpose for someone or something’s existence.",
+    "example": "Teaching isn’t just her job. It’s her raison d’être.",
+    "etymology": "French for ‘reason for being’ (raison ‘reason’ + d’ ‘of’ + être ‘to be’). It entered English in the 19th century.",
+    "root": {
+      "form": "être",
+      "language": "French",
+      "meaning": "to be"
+    },
+    "relatedWords": [
+      {
+        "term": "reason",
+        "meaning": "from the same French raison (Latin ratio)"
+      },
+      {
+        "term": "purpose",
+        "meaning": "the reason something exists"
+      },
+      {
+        "term": "ikigai",
+        "meaning": "a Japanese concept of one’s reason for living"
+      }
+    ],
+    "synonyms": [
+      "purpose",
+      "reason for being",
+      "calling",
+      "mission"
+    ],
+    "note": "Pronounced roughly ‘RAY-zon DET-ruh’. The circumflex is often dropped in English (‘raison d’etre’).",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "par-excellence",
+    "term": "par excellence",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Better or more than all others of the same kind; the supreme example.",
+    "example": "My grandmother was a storyteller par excellence.",
+    "etymology": "French for ‘by excellence’ or ‘by virtue of excellence’, from Latin per excellentiam. It entered English in the 17th century.",
+    "root": {
+      "form": "excellere",
+      "language": "Latin",
+      "meaning": "to rise above, surpass"
+    },
+    "relatedWords": [
+      {
+        "term": "excel",
+        "meaning": "to be exceptionally good"
+      },
+      {
+        "term": "quintessential",
+        "meaning": "representing the perfect example"
+      },
+      {
+        "term": "preeminent",
+        "meaning": "surpassing all others"
+      }
+    ],
+    "synonyms": [
+      "preeminent",
+      "quintessential",
+      "supreme",
+      "the ultimate"
+    ],
+    "note": "It goes after the noun: ‘a chef par excellence’, not ‘a par excellence chef’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "a-priori",
+    "term": "a priori",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Based on reasoning or assumption before (or without) looking at the evidence.",
+    "example": "You’re assuming a priori that users want more features. Have we actually asked them?",
+    "etymology": "Latin for ‘from what comes before’ (a ‘from’ + priori, ablative of prior ‘earlier’). Medieval logicians used it for reasoning from causes to effects; Kant made it famous for knowledge independent of experience. Its opposite is a posteriori, ‘from what comes after’.",
+    "root": {
+      "form": "prior",
+      "language": "Latin",
+      "meaning": "earlier, former"
+    },
+    "relatedWords": [
+      {
+        "term": "a posteriori",
+        "meaning": "based on experience or evidence"
+      },
+      {
+        "term": "priority",
+        "meaning": "something regarded as more important"
+      },
+      {
+        "term": "prior",
+        "meaning": "earlier"
+      }
+    ],
+    "synonyms": [
+      "deductive",
+      "presupposed",
+      "assumed in advance",
+      "theoretical"
+    ],
+    "note": "In philosophy it’s neutral (e.g. math is known a priori). In everyday arguments, calling a claim ‘a priori’ often means ‘you assumed it without checking’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "mea-culpa",
+    "term": "mea culpa",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "An acknowledgment that something is your fault; an admission of error.",
+    "example": "Mea culpa, I sent the wrong file. Here’s the right one.",
+    "etymology": "Latin for ‘through my fault’, from the Confiteor, a confession prayer in the Catholic Mass: ‘mea culpa, mea culpa, mea maxima culpa’ (‘through my fault, through my fault, through my most grievous fault’).",
+    "root": {
+      "form": "culpa",
+      "language": "Latin",
+      "meaning": "fault, blame"
+    },
+    "relatedWords": [
+      {
+        "term": "culpable",
+        "meaning": "deserving blame"
+      },
+      {
+        "term": "culprit",
+        "meaning": "the person responsible for a wrong"
+      },
+      {
+        "term": "exculpate",
+        "meaning": "to clear from blame"
+      }
+    ],
+    "synonyms": [
+      "my fault",
+      "my bad",
+      "I apologize",
+      "guilty as charged"
+    ],
+    "note": "Can be an interjection (‘Mea culpa!’) or a noun (‘the CEO issued a public mea culpa’). Lighthearted in casual use, but in a serious apology plain ‘I’m sorry’ is better.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "caveat-emptor",
+    "term": "caveat emptor",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Let the buyer beware: the buyer is responsible for checking quality before purchasing.",
+    "example": "It’s a used car from a guy on the internet. Caveat emptor.",
+    "etymology": "Latin, ‘let the buyer beware’ (caveat, subjunctive of cavere ‘to beware’ + emptor ‘buyer’, from emere ‘to buy’). It was a principle of English common law in sales.",
+    "root": {
+      "form": "cavere",
+      "language": "Latin",
+      "meaning": "to beware, be on guard"
+    },
+    "relatedWords": [
+      {
+        "term": "caveat",
+        "meaning": "a warning or proviso"
+      },
+      {
+        "term": "caution",
+        "meaning": "care to avoid danger"
+      },
+      {
+        "term": "caveat venditor",
+        "meaning": "let the seller beware"
+      },
+      {
+        "term": "redemption",
+        "meaning": "from emere, ‘to buy back’"
+      }
+    ],
+    "synonyms": [
+      "buyer beware",
+      "buy at your own risk"
+    ],
+    "note": "‘Caveat’ alone is useful too: ‘One caveat: the offer expires Friday.’ Consumer-protection laws have weakened caveat emptor in many countries.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "ipso-facto",
+    "term": "ipso facto",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "By that very fact or act; as an automatic consequence.",
+    "example": "Being popular doesn’t ipso facto make an idea a good one.",
+    "etymology": "Latin for ‘by the fact itself’ (ipso ‘itself’ + facto ‘fact, deed’), both in the ablative case. It came into English through legal and scholastic writing in the 16th century.",
+    "root": {
+      "form": "factum",
+      "language": "Latin",
+      "meaning": "a deed, a thing done"
+    },
+    "relatedWords": [
+      {
+        "term": "de facto",
+        "meaning": "in fact, though not officially"
+      },
+      {
+        "term": "per se",
+        "meaning": "in itself"
+      },
+      {
+        "term": "automatically",
+        "meaning": "as a necessary result"
+      }
+    ],
+    "synonyms": [
+      "automatically",
+      "necessarily",
+      "by definition",
+      "thereby"
+    ],
+    "note": "Use it when one thing follows directly from another by its nature. It often appears in negated form to deny an automatic link.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "pro-bono",
+    "term": "pro bono",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Done without charge, especially professional work for the public good.",
+    "example": "She does pro bono legal work for tenants facing eviction.",
+    "etymology": "Short for Latin ‘pro bono publico’, ‘for the public good’ (pro ‘for’ + bono ‘good’ + publico ‘public’). Especially associated with lawyers since the 20th century.",
+    "root": {
+      "form": "bonus",
+      "language": "Latin",
+      "meaning": "good"
+    },
+    "relatedWords": [
+      {
+        "term": "bonus",
+        "meaning": "something good in addition"
+      },
+      {
+        "term": "bona fide",
+        "meaning": "in good faith"
+      },
+      {
+        "term": "benefit",
+        "meaning": "an advantage"
+      },
+      {
+        "term": "pro bono publico",
+        "meaning": "the full Latin phrase"
+      }
+    ],
+    "synonyms": [
+      "free of charge",
+      "unpaid",
+      "voluntary",
+      "gratis"
+    ],
+    "note": "Used for skilled professional services (law, design, consulting), not ordinary volunteering or free products.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "inter-alia",
+    "term": "inter alia",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Among other things.",
+    "example": "The report covers, inter alia, hiring, pay, and remote work.",
+    "etymology": "Latin, ‘among other things’ (inter ‘among, between’ + alia ‘other things’, neuter plural of alius). Common in legal and academic writing since the 17th century.",
+    "root": {
+      "form": "alius",
+      "language": "Latin",
+      "meaning": "other"
+    },
+    "relatedWords": [
+      {
+        "term": "inter alios",
+        "meaning": "among other people"
+      },
+      {
+        "term": "alias",
+        "meaning": "another name"
+      },
+      {
+        "term": "alibi",
+        "meaning": "Latin ‘elsewhere’"
+      },
+      {
+        "term": "alien",
+        "meaning": "belonging to another"
+      }
+    ],
+    "synonyms": [
+      "among other things",
+      "including",
+      "for example"
+    ],
+    "note": "Formal and best kept to writing or formal speech. Strictly, use ‘inter alios’ for people, though few will notice.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "sine-qua-non",
+    "term": "sine qua non",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "An absolutely essential condition or ingredient.",
+    "example": "For a startup, a stubborn founder is almost a sine qua non.",
+    "etymology": "Latin, ‘without which not’, short for ‘condicio sine qua non’, ‘a condition without which (something is) not (possible)’. It came into English via legal and scholastic language in the 17th century.",
+    "root": {
+      "form": "sine",
+      "language": "Latin",
+      "meaning": "without"
+    },
+    "relatedWords": [
+      {
+        "term": "prerequisite",
+        "meaning": "something required beforehand"
+      },
+      {
+        "term": "sinecure",
+        "meaning": "a paid job with no duties (sine cura, ‘without care’)"
+      },
+      {
+        "term": "essential",
+        "meaning": "absolutely necessary"
+      }
+    ],
+    "synonyms": [
+      "prerequisite",
+      "essential",
+      "requirement",
+      "must-have"
+    ],
+    "note": "Usually ‘a sine qua non of/for something’. Pronounced ‘SIN-ay kwah NON’ or ‘SY-nee kway NON’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "de-rigueur",
+    "term": "de rigueur",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Required by fashion, etiquette, or custom.",
+    "example": "Sneakers with suits are practically de rigueur in tech now.",
+    "etymology": "French, ‘of strictness’ (rigueur ‘strictness, rigor’, from Latin rigor ‘stiffness’). Something de rigueur is required by the strict rules of etiquette or fashion. In English since the 19th century.",
+    "root": {
+      "form": "rigor",
+      "language": "Latin",
+      "meaning": "stiffness, strictness"
+    },
+    "relatedWords": [
+      {
+        "term": "rigor",
+        "meaning": "strictness, thoroughness"
+      },
+      {
+        "term": "rigorous",
+        "meaning": "extremely thorough"
+      },
+      {
+        "term": "rigid",
+        "meaning": "stiff, unbending"
+      },
+      {
+        "term": "comme il faut",
+        "meaning": "proper, correct (French)"
+      }
+    ],
+    "synonyms": [
+      "obligatory",
+      "required",
+      "expected",
+      "customary"
+    ],
+    "note": "Note the spelling: ‘rigueur’ has two u’s. Often used with a hint of irony about social conventions.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "fait-accompli",
+    "term": "fait accompli",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Something already decided or done before those affected hear of it, leaving no choice but to accept it.",
+    "example": "They didn’t consult us. The reorg was presented as a fait accompli.",
+    "etymology": "French, ‘accomplished fact’ (fait ‘fact, deed’ from Latin factum + accompli ‘completed’). In English since the mid-19th century.",
+    "root": {
+      "form": "factum",
+      "language": "Latin",
+      "meaning": "a deed, a thing done"
+    },
+    "relatedWords": [
+      {
+        "term": "done deal",
+        "meaning": "something settled and final"
+      },
+      {
+        "term": "de facto",
+        "meaning": "existing in fact"
+      },
+      {
+        "term": "accomplish",
+        "meaning": "to complete successfully"
+      }
+    ],
+    "synonyms": [
+      "done deal",
+      "foregone conclusion",
+      "settled matter"
+    ],
+    "note": "Usually implies the decision was made behind people’s backs, so it often carries a note of complaint. Pronounced ‘fet a-kom-PLEE’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "tour-de-force",
+    "term": "tour de force",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "A performance or achievement accomplished with great skill.",
+    "example": "Her closing argument was a total tour de force. The jury was hanging on every word.",
+    "etymology": "French, ‘feat of strength’ (tour ‘turn, feat, trick’ + de ‘of’ + force ‘strength’). It entered English in the early 19th century.",
+    "root": {
+      "form": "tour",
+      "language": "French",
+      "meaning": "turn, feat"
+    },
+    "relatedWords": [
+      {
+        "term": "masterpiece",
+        "meaning": "an outstanding work"
+      },
+      {
+        "term": "tour",
+        "meaning": "a journey (also a ‘turn’ around)"
+      },
+      {
+        "term": "virtuoso performance",
+        "meaning": "a performance of great skill"
+      }
+    ],
+    "synonyms": [
+      "masterpiece",
+      "triumph",
+      "masterstroke",
+      "feat"
+    ],
+    "note": "Used for a dazzling display of skill, not just a good effort. Plural: ‘tours de force’. Pronounced ‘toor duh FORSS’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "je-ne-sais-quoi",
+    "term": "je ne sais quoi",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "An attractive quality that is hard to describe or name.",
+    "example": "The place isn’t fancy, but it has a certain je ne sais quoi.",
+    "etymology": "French, literally ‘I don’t know what’. Used in English since the 17th century for an indefinable charm.",
+    "root": null,
+    "relatedWords": [
+      {
+        "term": "ineffable",
+        "meaning": "too great to be expressed in words"
+      },
+      {
+        "term": "charisma",
+        "meaning": "compelling charm"
+      },
+      {
+        "term": "it factor",
+        "meaning": "an indefinable star quality"
+      }
+    ],
+    "synonyms": [
+      "indefinable quality",
+      "charm",
+      "allure",
+      "that certain something"
+    ],
+    "note": "Almost always ‘a certain je ne sais quoi’. Pronounced ‘zhuh nuh say KWAH’. Playful in tone.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "ad-nauseam",
+    "term": "ad nauseam",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "Repeated so often or for so long that it becomes tiresome.",
+    "example": "We’ve discussed the logo ad nauseam. Can we just pick one?",
+    "etymology": "Latin, ‘to (the point of) sickness’ (ad ‘to’ + nauseam, accusative of nausea). Nausea came from Greek nausia ‘seasickness’, from naus ‘ship’.",
+    "root": {
+      "form": "naus",
+      "language": "Greek",
+      "meaning": "ship"
+    },
+    "relatedWords": [
+      {
+        "term": "nausea",
+        "meaning": "a feeling of sickness"
+      },
+      {
+        "term": "nautical",
+        "meaning": "relating to ships and sailing"
+      },
+      {
+        "term": "ad infinitum",
+        "meaning": "endlessly"
+      }
+    ],
+    "synonyms": [
+      "endlessly",
+      "repeatedly",
+      "over and over",
+      "interminably"
+    ],
+    "note": "Spelled ‘nauseam’, not ‘nauseum’. A logical fallacy, ‘argumentum ad nauseam’, is trying to win by repetition.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "prima-facie",
+    "term": "prima facie",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "At first sight; based on first impressions, accepted as true unless disproved.",
+    "example": "There’s a prima facie case that the contract was breached, but we need the emails.",
+    "etymology": "Latin, ‘at first face’ or ‘at first appearance’ (prima ‘first’ + facie, ablative of facies ‘face, appearance’). Mostly a legal term in English since the 15th century.",
+    "root": {
+      "form": "facies",
+      "language": "Latin",
+      "meaning": "face, appearance"
+    },
+    "relatedWords": [
+      {
+        "term": "on the face of it",
+        "meaning": "the English equivalent"
+      },
+      {
+        "term": "superficial",
+        "meaning": "on the surface"
+      },
+      {
+        "term": "facade",
+        "meaning": "the front or face of a building"
+      }
+    ],
+    "synonyms": [
+      "at first sight",
+      "on the face of it",
+      "apparently",
+      "presumptive"
+    ],
+    "note": "In law, ‘prima facie evidence’ is enough to establish a fact unless rebutted. Pronounced ‘PRY-muh FAY-shee’.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "mutatis-mutandis",
+    "term": "mutatis mutandis",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "With the necessary changes having been made for the different situation.",
+    "example": "The rules for the London office apply to Berlin, mutatis mutandis.",
+    "etymology": "Latin, ‘things having been changed that have to be changed’. It is an ablative absolute pairing two forms of mutare ‘to change’: mutatis (having been changed) and mutandis (needing to be changed).",
+    "root": {
+      "form": "mutare",
+      "language": "Latin",
+      "meaning": "to change"
+    },
+    "relatedWords": [
+      {
+        "term": "mutation",
+        "meaning": "a change"
+      },
+      {
+        "term": "mutable",
+        "meaning": "liable to change"
+      },
+      {
+        "term": "commute",
+        "meaning": "originally ‘to change, exchange’"
+      }
+    ],
+    "synonyms": [
+      "with the necessary changes",
+      "with appropriate adjustments"
+    ],
+    "note": "Very formal; common in law, academia, and contracts. In conversation, ‘with the obvious tweaks’ gets the same idea across.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "vice-versa",
+    "term": "vice versa",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "With the order or relationship reversed; the other way around.",
+    "example": "I cover for her on Mondays, and vice versa on Fridays.",
+    "etymology": "Latin, ‘the position being turned’: vice is the ablative of vicis ‘change, turn, place’ and versa is from vertere ‘to turn’. In English since the early 17th century.",
+    "root": {
+      "form": "vertere",
+      "language": "Latin",
+      "meaning": "to turn"
+    },
+    "relatedWords": [
+      {
+        "term": "vice-president",
+        "meaning": "one who acts in place of the president (vicis)"
+      },
+      {
+        "term": "reverse",
+        "meaning": "to turn back"
+      },
+      {
+        "term": "conversely",
+        "meaning": "in the opposite way"
+      },
+      {
+        "term": "vicarious",
+        "meaning": "experienced in place of another"
+      }
+    ],
+    "synonyms": [
+      "conversely",
+      "the other way around",
+      "reciprocally"
+    ],
+    "note": "Pronounced ‘VY-suh VUR-suh’ or ‘VYSE VUR-suh’. It’s unrelated to ‘vice’ meaning wickedness.",
+    "category": "speech-phrases"
+  },
+  {
+    "id": "en-masse",
+    "term": "en masse",
+    "kind": "phrase",
+    "partOfSpeech": "phrase",
+    "pronunciation": null,
+    "definition": "All together; as a group.",
+    "example": "When the new manager arrived, half the team resigned en masse.",
+    "etymology": "French, ‘in a mass’, from masse, from Latin massa ‘lump, dough’, ultimately from Greek maza ‘barley cake’. Borrowed into English in the 18th century.",
+    "root": {
+      "form": "massa",
+      "language": "Latin",
+      "meaning": "lump, mass"
+    },
+    "relatedWords": [
+      {
+        "term": "mass",
+        "meaning": "a large body of matter or people"
+      },
+      {
+        "term": "massive",
+        "meaning": "very large"
+      },
+      {
+        "term": "en bloc",
+        "meaning": "all together as a unit"
+      }
+    ],
+    "synonyms": [
+      "all together",
+      "as a group",
+      "collectively",
+      "wholesale"
+    ],
+    "note": "Pronounced ‘on MASS’. Don’t write ‘in masse’.",
+    "category": "speech-phrases"
+  }
+]
